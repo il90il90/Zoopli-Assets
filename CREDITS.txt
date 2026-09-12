@@ -1,0 +1,159 @@
+Zoopli — content credits
+
+Every image and sound in the Zoopli content pack is listed below with its source, author
+and licence. Files are redistributed unmodified except for resizing, cropping, silence
+trimming and re-encoding for mobile playback.
+
+The spoken animal names are synthesised with espeak-ng. The synthesiser is GPL-licensed
+software; the audio it produces carries no licence restriction, in the same way that a
+compiler's output is not covered by the compiler's licence.
+
+Zoopli collects no personal data, contains no advertising and offers no purchases.
+
+Apache License 2.0
+
+- images/icons/cat.webp — Noto Emoji U+1F431
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- images/icons/cow.webp — Noto Emoji U+1F42E
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- images/icons/dog.webp — Noto Emoji U+1F436
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- images/icons/duck.webp — Noto Emoji U+1F986
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- images/icons/elephant.webp — Noto Emoji U+1F418
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- images/icons/horse.webp — Noto Emoji U+1F434
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- images/icons/lion.webp — Noto Emoji U+1F981
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- images/icons/monkey.webp — Noto Emoji U+1F435
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- images/icons/rooster.webp — Noto Emoji U+1F413
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- images/icons/sheep.webp — Noto Emoji U+1F411
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+
+CC BY 3.0
+
+- images/photos/duck.webp — File:Male mallard duck 2.jpg
+  - Author: Acarpentier
+  - Source: https://commons.wikimedia.org/wiki/File:Male_mallard_duck_2.jpg
+  - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)
+
+CC BY 4.0
+
+- audio/sounds/monkey.ogg — File:Pant-hoot call made by a male chimpanzee.ogg
+  - Author: Pawel Fedurek et al.
+  - Source: https://commons.wikimedia.org/wiki/File:Pant-hoot_call_made_by_a_male_chimpanzee.ogg
+  - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+
+CC BY-SA 3.0
+
+- audio/sounds/dog.ogg — File:Barking of a dog.ogg
+  - Author: Amada44
+  - Source: https://commons.wikimedia.org/wiki/File:Barking_of_a_dog.ogg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- audio/sounds/duck.ogg — File:Anas platyrhynchos - Mallard - XC62258.ogg
+  - Author: Jonathon Jongsma
+  - Source: https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_-_Mallard_-_XC62258.ogg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+
+CC BY-SA 4.0
+
+- audio/sounds/cow.ogg — File:Single Cow Moo.ogg
+  - Author: MichaeltheFox8621
+  - Source: https://commons.wikimedia.org/wiki/File:Single_Cow_Moo.ogg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- images/photos/elephant.webp — File:African elephant (Loxodonta africana) 2.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:African_elephant_(Loxodonta_africana)_2.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- images/photos/lion.webp — File:Lion Panthera leo 01.jpg
+  - Author: Nikhil More
+  - Source: https://commons.wikimedia.org/wiki/File:Lion_Panthera_leo_01.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- images/photos/rooster.webp — File:Feral rooster on Kauaʻi.jpg
+  - Author: Frank Schulenburg
+  - Source: https://commons.wikimedia.org/wiki/File:Feral_rooster_on_Kaua%CA%BBi.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+
+CC0
+
+- audio/sounds/elephant.ogg — File:Elephant voice - trumpeting.ogg
+  - Author: தகவலுழவன்
+  - Source: https://commons.wikimedia.org/wiki/File:Elephant_voice_-_trumpeting.ogg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- images/photos/cat.webp — File:Sunday Kitty (Unsplash).jpg
+  - Author: Nirzar Pangarkar nirzar
+  - Source: https://commons.wikimedia.org/wiki/File:Sunday_Kitty_(Unsplash).jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- images/photos/cow.webp — File:Countryside Cow (Unsplash).jpg
+  - Author: Biel Morro bielmb
+  - Source: https://commons.wikimedia.org/wiki/File:Countryside_Cow_(Unsplash).jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- images/photos/dog.webp — File:Portrait of a labrador retriever.jpg
+  - Author: Dktue
+  - Source: https://commons.wikimedia.org/wiki/File:Portrait_of_a_labrador_retriever.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- images/photos/horse.webp — File:Majestic stallion's head (Unsplash).jpg
+  - Author: Violeta Pencheva viooview
+  - Source: https://commons.wikimedia.org/wiki/File:Majestic_stallion%27s_head_(Unsplash).jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- images/photos/sheep.webp — File:Sheep laying down (Unsplash).jpg
+  - Author: Michal Janek michalmichal
+  - Source: https://commons.wikimedia.org/wiki/File:Sheep_laying_down_(Unsplash).jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+
+Public domain
+
+- audio/sounds/cat.ogg — File:Meow of a pleading cat.oga
+  - Author: Heismark
+  - Source: https://commons.wikimedia.org/wiki/File:Meow_of_a_pleading_cat.oga
+  - Licence: Public domain
+- audio/sounds/horse.ogg — File:Wiehern.ogg
+  - Author: Hü .
+  - Source: https://commons.wikimedia.org/wiki/File:Wiehern.ogg
+  - Licence: Public domain
+- audio/sounds/lion.ogg — File:Lion raring-sound1TamilNadu178.ogg
+  - Author: த*உழவன்
+  - Source: https://commons.wikimedia.org/wiki/File:Lion_raring-sound1TamilNadu178.ogg
+  - Licence: Public domain
+- audio/sounds/rooster.ogg — File:Small rooster crowing.ogg
+  - Author: alys
+  - Source: https://commons.wikimedia.org/wiki/File:Small_rooster_crowing.ogg
+  - Licence: Public domain
+- audio/sounds/sheep.ogg — File:Sheep bleating.ogg
+  - Author: earthcalling
+  - Source: https://commons.wikimedia.org/wiki/File:Sheep_bleating.ogg
+  - Licence: Public domain
+- images/photos/monkey.webp — File:Macaca nigra self-portrait (rotated and cropped).jpg
+  - Author: Self-portrait by the depicted Macaca nigra female; rotated and cropped by David Slater. See article .
+  - Source: https://commons.wikimedia.org/wiki/File:Macaca_nigra_self-portrait_(rotated_and_cropped).jpg
+  - Licence: Public domain
+
+Attribution requirements
+
+CC BY files require credit to the author. CC BY-SA files require the same credit and that
+the file itself stays under CC BY-SA — Zoopli ships them unmodified apart from re-encoding,
+and this document is the accompanying notice. Public domain and CC0 files carry no
+obligation; they are credited here anyway.

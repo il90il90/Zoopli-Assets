@@ -1,0 +1,744 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "generatedAt": "2026-09-12T16:51:50+00:00",
+  "baseUrl": "https://cdn.jsdelivr.net/gh/il90il90/Zoopli-Assets@main/",
+  "categories": [
+    {
+      "id": "farm",
+      "emoji": "🚜",
+      "name": {
+        "he": "חיות משק",
+        "en": "Farm"
+      }
+    },
+    {
+      "id": "home",
+      "emoji": "🏡",
+      "name": {
+        "he": "חיות בית",
+        "en": "Pets"
+      }
+    },
+    {
+      "id": "wild",
+      "emoji": "🌴",
+      "name": {
+        "he": "חיות בר",
+        "en": "Wild"
+      }
+    }
+  ],
+  "animals": [
+    {
+      "id": "dog",
+      "categoryId": "home",
+      "order": 1,
+      "name": {
+        "he": "כלב",
+        "en": "Dog"
+      },
+      "soundWord": {
+        "he": "הב הב",
+        "en": "Woof woof"
+      },
+      "soundVerb": {
+        "he": "נובח",
+        "en": "barks"
+      },
+      "description": {
+        "he": "הכלב נובח: הב הב! הוא החבר הכי טוב של האדם, והוא אוהב לשחק ולרוץ. כשהכלב שמח הוא מכשכש בזנב!",
+        "en": "The dog barks: woof woof! A dog is a person's best friend, and it loves to play and run. When a dog is happy it wags its tail!"
+      },
+      "diet": {
+        "he": "אוכל בשר, אוכל כלבים ועצמות",
+        "en": "Meat, dog food and bones"
+      },
+      "skills": {
+        "he": "חוש הריח שלו חזק פי אלפים משלנו, והוא יודע לשמור על הבית",
+        "en": "Its sense of smell is thousands of times stronger than ours, and it knows how to guard the house"
+      },
+      "habitat": {
+        "he": "בבית עם המשפחה",
+        "en": "At home with the family"
+      },
+      "facts": {
+        "he": [
+          "לכל כלב יש טביעת אף ייחודית, כמו טביעת אצבע שלנו",
+          "כלבים מזיעים באמצעות הלשון כדי להתקרר"
+        ],
+        "en": [
+          "Every dog has a unique nose print, just like our fingerprints",
+          "Dogs sweat through their tongue to cool down"
+        ]
+      },
+      "colorHex": "#E3F2FD",
+      "assets": {
+        "icon": {
+          "path": "images/icons/dog.webp",
+          "sha256": "dab81ddb8e2cbf3333bd0d03f97bba91c66acd1c8ec7b579da2bd9ac221f6d9f",
+          "bytes": 11632
+        },
+        "photo": {
+          "path": "images/photos/dog.webp",
+          "sha256": "a66c250a4b376707f474fd7a4b3d41699f9bc0e683a33ea6a671e9a73fece6ea",
+          "bytes": 88124
+        },
+        "sound": {
+          "path": "audio/sounds/dog.ogg",
+          "sha256": "b864ff6b9bfe23eec4ba55aab4013b231c96ba585914d87e103a12e4a9083c94",
+          "bytes": 17513
+        },
+        "nameHe": {
+          "path": "audio/names/he/dog.ogg",
+          "sha256": "6548982ee3c3cf88fe497720863394e9b9dc9ae27061d7c2440699f425083a33",
+          "bytes": 5722
+        },
+        "nameEn": {
+          "path": "audio/names/en/dog.ogg",
+          "sha256": "823c64dfd8bfe8b3abbe96efea052a340efd1027ccdb58832fffe241c83e1919",
+          "bytes": 6574
+        }
+      }
+    },
+    {
+      "id": "cat",
+      "categoryId": "home",
+      "order": 2,
+      "name": {
+        "he": "חתול",
+        "en": "Cat"
+      },
+      "soundWord": {
+        "he": "מיאו",
+        "en": "Meow"
+      },
+      "soundVerb": {
+        "he": "מיילל",
+        "en": "meows"
+      },
+      "description": {
+        "he": "החתול מיילל: מיאו! הוא שותה חלב, מתנקה עם הלשון שלו, וכשהוא מרוצה הוא מגרגר.",
+        "en": "The cat meows: meow! It drinks milk, cleans itself with its tongue, and when it is happy it purrs."
+      },
+      "diet": {
+        "he": "שותה חלב ומים, ואוכל דגים ואוכל חתולים",
+        "en": "Drinks milk and water, and eats fish and cat food"
+      },
+      "skills": {
+        "he": "קופץ גבוה מאוד, מטפס על עצים ונוחת תמיד על הרגליים",
+        "en": "Jumps very high, climbs trees and almost always lands on its feet"
+      },
+      "habitat": {
+        "he": "בבית או בחצר",
+        "en": "At home or in the yard"
+      },
+      "facts": {
+        "he": [
+          "חתולים ישנים כמעט שתי שלישיות מהיום",
+          "השפם של החתול עוזר לו להרגיש אם הוא נכנס לחור צר"
+        ],
+        "en": [
+          "Cats sleep for almost two thirds of the day",
+          "A cat's whiskers help it feel whether it fits through a narrow gap"
+        ]
+      },
+      "colorHex": "#FCE4EC",
+      "assets": {
+        "icon": {
+          "path": "images/icons/cat.webp",
+          "sha256": "e33db109774e699b48fecae434b07e26088e1316fb7af5cdc1355edf4053303c",
+          "bytes": 15230
+        },
+        "photo": {
+          "path": "images/photos/cat.webp",
+          "sha256": "a5ed2c38476838c7e9d6a90af3a13d5f81876824e5e36d77558b24d9d4fe8426",
+          "bytes": 37616
+        },
+        "sound": {
+          "path": "audio/sounds/cat.ogg",
+          "sha256": "7221051c9c6a6e096b116b2dbdb1f2fe06d215d35fabf4abf2b46c308aca9d33",
+          "bytes": 15987
+        },
+        "nameHe": {
+          "path": "audio/names/he/cat.ogg",
+          "sha256": "8f5691591df266475d66f5f6a0b5368cdbeae3bcbb1ec144b715931730cddd20",
+          "bytes": 6136
+        },
+        "nameEn": {
+          "path": "audio/names/en/cat.ogg",
+          "sha256": "5285d75b9e5244e77562d293206a9426e1bcfb5fc05764d86d6efc6f138a2e0f",
+          "bytes": 6180
+        }
+      }
+    },
+    {
+      "id": "cow",
+      "categoryId": "farm",
+      "order": 3,
+      "name": {
+        "he": "פרה",
+        "en": "Cow"
+      },
+      "soundWord": {
+        "he": "מוו",
+        "en": "Moo"
+      },
+      "soundVerb": {
+        "he": "גועה",
+        "en": "moos"
+      },
+      "description": {
+        "he": "הפרה גועה: מוו! היא גדולה ורגועה, אוכלת עשב כל היום, וממנה מקבלים את החלב שלנו.",
+        "en": "The cow moos: moo! She is big and calm, eats grass all day, and gives us the milk we drink."
+      },
+      "diet": {
+        "he": "עשב, שחת ותבואה",
+        "en": "Grass, hay and grain"
+      },
+      "skills": {
+        "he": "מייצרת חלב שממנו עושים גבינה, חמאה ויוגורט",
+        "en": "Makes milk that becomes cheese, butter and yogurt"
+      },
+      "habitat": {
+        "he": "ברפת ובמרעה",
+        "en": "In the barn and the pasture"
+      },
+      "facts": {
+        "he": [
+          "לפרה יש ארבעה תאים בקיבה כדי לעכל עשב",
+          "פרה שותה כמו אמבטיה שלמה של מים ביום"
+        ],
+        "en": [
+          "A cow has four stomach chambers to digest grass",
+          "A cow drinks a whole bathtub of water every day"
+        ]
+      },
+      "colorHex": "#E8F5E9",
+      "assets": {
+        "icon": {
+          "path": "images/icons/cow.webp",
+          "sha256": "6da49c753a49ff448bb51c2ed32b89485e115fa15c28ba5aaf7d798bbaf0f7e3",
+          "bytes": 12066
+        },
+        "photo": {
+          "path": "images/photos/cow.webp",
+          "sha256": "a520981de7aa1ab8b7a44fca2f75d3a380a3c58f25c7188b6e0b4a43172bb652",
+          "bytes": 87396
+        },
+        "sound": {
+          "path": "audio/sounds/cow.ogg",
+          "sha256": "827df70c227093168f55aec1f5828b5c77f3ff2787dc4a47f0ff4fd0b4279f51",
+          "bytes": 20201
+        },
+        "nameHe": {
+          "path": "audio/names/he/cow.ogg",
+          "sha256": "cf1be31b629cca0a656e0c4fcebfa114f0804e46d7126b0aa1db60f9511f769b",
+          "bytes": 4989
+        },
+        "nameEn": {
+          "path": "audio/names/en/cow.ogg",
+          "sha256": "eb2785cb604542bc6ddd9bad8709a312f692838ed38cb841483e87162155d791",
+          "bytes": 6287
+        }
+      }
+    },
+    {
+      "id": "sheep",
+      "categoryId": "farm",
+      "order": 4,
+      "name": {
+        "he": "כבשה",
+        "en": "Sheep"
+      },
+      "soundWord": {
+        "he": "מעעע",
+        "en": "Baa"
+      },
+      "soundVerb": {
+        "he": "פועה",
+        "en": "bleats"
+      },
+      "description": {
+        "he": "הכבשה פועה: מעעע! יש לה צמר לבן ורך שמחמם, והיא הולכת תמיד בעדר.",
+        "en": "The sheep bleats: baa! It has soft white wool that keeps it warm, and it always walks in a flock."
+      },
+      "diet": {
+        "he": "עשב וצמחים",
+        "en": "Grass and plants"
+      },
+      "skills": {
+        "he": "מהצמר שלה עושים סוודרים וצעיפים חמים",
+        "en": "Its wool is made into warm sweaters and scarves"
+      },
+      "habitat": {
+        "he": "במרעה ובדיר",
+        "en": "In the pasture and the pen"
+      },
+      "facts": {
+        "he": [
+          "כבשים מזהות את החברות שלהן לפי הפנים",
+          "לכבשה יש ראייה רחבה מאוד והיא רואה כמעט מאחוריה"
+        ],
+        "en": [
+          "Sheep recognise their friends by their faces",
+          "A sheep can see almost all the way behind itself"
+        ]
+      },
+      "colorHex": "#FFF8E1",
+      "assets": {
+        "icon": {
+          "path": "images/icons/sheep.webp",
+          "sha256": "63bd62eb2a4f1b5937d9465d18ff4c0a0a27fcbdd29c9e006e886aaad48c924e",
+          "bytes": 11536
+        },
+        "photo": {
+          "path": "images/photos/sheep.webp",
+          "sha256": "58a01e9d86ea84fa85d176cc2864a538009d2754c59c5a77996c86a5f7234037",
+          "bytes": 56794
+        },
+        "sound": {
+          "path": "audio/sounds/sheep.ogg",
+          "sha256": "bf95e87c24dcc04e5cb3054ed63c1693e1eda555685a4bbb8fcccc391c41791c",
+          "bytes": 28433
+        },
+        "nameHe": {
+          "path": "audio/names/he/sheep.ogg",
+          "sha256": "d1d3b8d784b68f5467f9c59df238e5a6ffecce2d49a500c2ddcd6784f1f3828b",
+          "bytes": 5431
+        },
+        "nameEn": {
+          "path": "audio/names/en/sheep.ogg",
+          "sha256": "c91f929c6022ec7b3bd6db785907f2cd1440931a0dd4fc47c63f01f3b35387f8",
+          "bytes": 6579
+        }
+      }
+    },
+    {
+      "id": "horse",
+      "categoryId": "farm",
+      "order": 5,
+      "name": {
+        "he": "סוס",
+        "en": "Horse"
+      },
+      "soundWord": {
+        "he": "יהההה",
+        "en": "Neigh"
+      },
+      "soundVerb": {
+        "he": "צוהל",
+        "en": "neighs"
+      },
+      "description": {
+        "he": "הסוס צוהל: יהההה! הוא רץ מהר מאוד על ארבע רגליים חזקות, ואפשר לרכוב עליו.",
+        "en": "The horse neighs! It runs very fast on four strong legs, and you can ride on its back."
+      },
+      "diet": {
+        "he": "עשב, שיבולת שועל וגזר",
+        "en": "Grass, oats and carrots"
+      },
+      "skills": {
+        "he": "רץ מהר מאוד ויכול לישון בעמידה",
+        "en": "Runs very fast and can even sleep standing up"
+      },
+      "habitat": {
+        "he": "באורווה ובשדה",
+        "en": "In the stable and the field"
+      },
+      "facts": {
+        "he": [
+          "סוסים מדברים ביניהם עם האוזניים",
+          "סוס תינוק יכול לרוץ כבר ביום שבו הוא נולד"
+        ],
+        "en": [
+          "Horses talk to each other with their ears",
+          "A baby horse can run on the very day it is born"
+        ]
+      },
+      "colorHex": "#FFF3E0",
+      "assets": {
+        "icon": {
+          "path": "images/icons/horse.webp",
+          "sha256": "795139c71b04bfd11f0eb609f86c804910bb02c9f20dbc938ffacc9eb7edf852",
+          "bytes": 11944
+        },
+        "photo": {
+          "path": "images/photos/horse.webp",
+          "sha256": "baf7838f889a74ebf7d286b223f57efe760404310a00d687ad24e19a192ef6c6",
+          "bytes": 64152
+        },
+        "sound": {
+          "path": "audio/sounds/horse.ogg",
+          "sha256": "9c74b4f38510ec21e36615de452cc87fff157c9b12e4d965bddbcce68f307358",
+          "bytes": 10897
+        },
+        "nameHe": {
+          "path": "audio/names/he/horse.ogg",
+          "sha256": "7c09edce29f1887910af355f3dad3f64cf6926824c2b2fae2363ae167ecc245f",
+          "bytes": 5667
+        },
+        "nameEn": {
+          "path": "audio/names/en/horse.ogg",
+          "sha256": "2127cf22e54e6ec5491c13b079c6c26863789b5638d100a4453ba2aa861aff59",
+          "bytes": 6963
+        }
+      }
+    },
+    {
+      "id": "lion",
+      "categoryId": "wild",
+      "order": 6,
+      "name": {
+        "he": "אריה",
+        "en": "Lion"
+      },
+      "soundWord": {
+        "he": "רררר",
+        "en": "Roar"
+      },
+      "soundVerb": {
+        "he": "שואג",
+        "en": "roars"
+      },
+      "description": {
+        "he": "האריה שואג: רררר! קוראים לו מלך החיות, ויש לו רעמה גדולה סביב הפנים.",
+        "en": "The lion roars! He is called the king of the animals, and he has a big mane around his face."
+      },
+      "diet": {
+        "he": "בשר — האריה הוא טורף",
+        "en": "Meat — the lion is a predator"
+      },
+      "skills": {
+        "he": "השאגה שלו נשמעת למרחק של חמישה קילומטרים",
+        "en": "His roar can be heard five kilometres away"
+      },
+      "habitat": {
+        "he": "בסוואנה באפריקה",
+        "en": "On the African savannah"
+      },
+      "facts": {
+        "he": [
+          "אריות חיים בקבוצה שנקראת להקה",
+          "האריה ישן עד עשרים שעות ביום"
+        ],
+        "en": [
+          "Lions live in a group called a pride",
+          "A lion sleeps up to twenty hours a day"
+        ]
+      },
+      "colorHex": "#FFF8E1",
+      "assets": {
+        "icon": {
+          "path": "images/icons/lion.webp",
+          "sha256": "a1dcfeb6f79f22c74623c6af7013b5273dd118dcdcce07075e8ae26ce03bcff8",
+          "bytes": 14488
+        },
+        "photo": {
+          "path": "images/photos/lion.webp",
+          "sha256": "a235f34cb3516b48fe11f8bd05139c11e1719bb71bd99ed4a162069fe99f545b",
+          "bytes": 131882
+        },
+        "sound": {
+          "path": "audio/sounds/lion.ogg",
+          "sha256": "25cc0632281463febee6df6644a59728190dc7758987ea5b17badc87f9afbb72",
+          "bytes": 28203
+        },
+        "nameHe": {
+          "path": "audio/names/he/lion.ogg",
+          "sha256": "d6c460f3b574dbe3db829d5a4ebb6dba6c642c3333412b42e878f0ff94fd53d9",
+          "bytes": 5864
+        },
+        "nameEn": {
+          "path": "audio/names/en/lion.ogg",
+          "sha256": "5904d2316e9bdb1315b6db4bd14383850df82da4fac856c58345ca7c5e9a7a4f",
+          "bytes": 7044
+        }
+      }
+    },
+    {
+      "id": "elephant",
+      "categoryId": "wild",
+      "order": 7,
+      "name": {
+        "he": "פיל",
+        "en": "Elephant"
+      },
+      "soundWord": {
+        "he": "פרררר",
+        "en": "Trumpet"
+      },
+      "soundVerb": {
+        "he": "מחצצר",
+        "en": "trumpets"
+      },
+      "description": {
+        "he": "הפיל מחצצר: פרררר! הוא החיה הגדולה ביותר על היבשה, והחדק הארוך שלו עובד כמו יד.",
+        "en": "The elephant trumpets! It is the biggest animal on land, and its long trunk works just like a hand."
+      },
+      "diet": {
+        "he": "עלים, ענפים ופירות",
+        "en": "Leaves, branches and fruit"
+      },
+      "skills": {
+        "he": "עם החדק הוא שותה, מרים דברים ואפילו מתקלח",
+        "en": "With its trunk it drinks, lifts things and even takes a shower"
+      },
+      "habitat": {
+        "he": "בסוואנה וביער באפריקה ובאסיה",
+        "en": "On the savannah and in forests in Africa and Asia"
+      },
+      "facts": {
+        "he": [
+          "לפיל יש זיכרון מצוין — הוא זוכר חברים אחרי שנים",
+          "האוזניים הגדולות עוזרות לו להתקרר בחום"
+        ],
+        "en": [
+          "An elephant has an excellent memory and remembers friends for years",
+          "Its big ears help it cool down in the heat"
+        ]
+      },
+      "colorHex": "#E0F7FA",
+      "assets": {
+        "icon": {
+          "path": "images/icons/elephant.webp",
+          "sha256": "74948a14973c802fc92f705f417969dbfaffa73e43bdd7a475b9f6adee89339e",
+          "bytes": 12546
+        },
+        "photo": {
+          "path": "images/photos/elephant.webp",
+          "sha256": "9cdb26e31f8b8a2a2058ef7c4b757dadd98e94b9fc3178b78acf8c56ad3bbeab",
+          "bytes": 142364
+        },
+        "sound": {
+          "path": "audio/sounds/elephant.ogg",
+          "sha256": "e535dca0a6ef5c5ae11543e1d38af3b697b27ecd4c1369e6a88ea8e6cba3ebeb",
+          "bytes": 10638
+        },
+        "nameHe": {
+          "path": "audio/names/he/elephant.ogg",
+          "sha256": "f6908aa43da3162eaecb29b560f3c62d07caaba4c0a29f0b3e31d555145d3857",
+          "bytes": 6666
+        },
+        "nameEn": {
+          "path": "audio/names/en/elephant.ogg",
+          "sha256": "672ac45ac440724b5be6f5ca75494848fa4211d6e35a1b34ebef319f7bcde6be",
+          "bytes": 8120
+        }
+      }
+    },
+    {
+      "id": "duck",
+      "categoryId": "farm",
+      "order": 8,
+      "name": {
+        "he": "ברווז",
+        "en": "Duck"
+      },
+      "soundWord": {
+        "he": "גע גע",
+        "en": "Quack quack"
+      },
+      "soundVerb": {
+        "he": "מגעגע",
+        "en": "quacks"
+      },
+      "description": {
+        "he": "הברווז מגעגע: גע גע! הוא שוחה באגם עם רגליים כתומות ורחבות.",
+        "en": "The duck quacks: quack quack! It swims in the pond with wide orange feet."
+      },
+      "diet": {
+        "he": "צמחי מים, זרעים וחרקים קטנים",
+        "en": "Water plants, seeds and small insects"
+      },
+      "skills": {
+        "he": "שוחה, צולל וגם עף למרחקים גדולים",
+        "en": "Swims, dives and also flies long distances"
+      },
+      "habitat": {
+        "he": "ליד אגמים ונהרות",
+        "en": "Near ponds and rivers"
+      },
+      "facts": {
+        "he": [
+          "לנוצות של הברווז יש שכבה שמנונה שלא נותנת למים להיכנס",
+          "ברווזונים הולכים אחרי אמא בשורה מסודרת"
+        ],
+        "en": [
+          "Duck feathers have an oily layer that keeps the water out",
+          "Ducklings follow their mother in a neat line"
+        ]
+      },
+      "colorHex": "#E1F5FE",
+      "assets": {
+        "icon": {
+          "path": "images/icons/duck.webp",
+          "sha256": "d38372877464e794e3777c22f548b722537efe9a69757dcc017019b7d55daf7c",
+          "bytes": 12126
+        },
+        "photo": {
+          "path": "images/photos/duck.webp",
+          "sha256": "e0b538a73564ef4c4e95a15ba106223733707bc3c278cf3557af03db646f8269",
+          "bytes": 82982
+        },
+        "sound": {
+          "path": "audio/sounds/duck.ogg",
+          "sha256": "aadd3b0741889af6e34d1642cb2971ad1cf9afff993cef87248603162179b042",
+          "bytes": 21510
+        },
+        "nameHe": {
+          "path": "audio/names/he/duck.ogg",
+          "sha256": "9fa7e419f45e7599993286ed042217b1c5f4e98109c1fefb7602bbee131089ca",
+          "bytes": 6227
+        },
+        "nameEn": {
+          "path": "audio/names/en/duck.ogg",
+          "sha256": "74409705bef1c9837ee45082937c322d69954a12f9ceb05c20803df3386cd64b",
+          "bytes": 5905
+        }
+      }
+    },
+    {
+      "id": "rooster",
+      "categoryId": "farm",
+      "order": 9,
+      "name": {
+        "he": "תרנגול",
+        "en": "Rooster"
+      },
+      "soundWord": {
+        "he": "קוקוריקו",
+        "en": "Cock-a-doodle-doo"
+      },
+      "soundVerb": {
+        "he": "קורא",
+        "en": "crows"
+      },
+      "description": {
+        "he": "התרנגול קורא: קוקוריקו! הוא מעיר את כולם בבוקר, ויש לו כרבולת אדומה על הראש.",
+        "en": "The rooster crows: cock-a-doodle-doo! He wakes everyone in the morning, and he has a red comb on his head."
+      },
+      "diet": {
+        "he": "גרעינים, תולעים וחרקים",
+        "en": "Seeds, worms and insects"
+      },
+      "skills": {
+        "he": "יודע להרגיש מתי השמש עולה ושומר על התרנגולות",
+        "en": "Knows when the sun is about to rise and guards the hens"
+      },
+      "habitat": {
+        "he": "בלול ובחצר המשק",
+        "en": "In the coop and the farmyard"
+      },
+      "facts": {
+        "he": [
+          "התרנגול קורא גם באמצע היום, לא רק בבוקר",
+          "תרנגולים מקפיצים ועפים קצת, אבל לא למרחק"
+        ],
+        "en": [
+          "A rooster crows during the day too, not only in the morning",
+          "Roosters can hop and fly a little, but not far"
+        ]
+      },
+      "colorHex": "#FFEBEE",
+      "assets": {
+        "icon": {
+          "path": "images/icons/rooster.webp",
+          "sha256": "3066be0a20da9474a7f189fc33b90835c26102491336befdc76ab53f009b8af2",
+          "bytes": 14212
+        },
+        "photo": {
+          "path": "images/photos/rooster.webp",
+          "sha256": "ee1224cd4c4148fb9a8b15b6b89a541c760792d99d7ae53298e66fc98aa55167",
+          "bytes": 79458
+        },
+        "sound": {
+          "path": "audio/sounds/rooster.ogg",
+          "sha256": "f61f4a1371984d72325b1be2ffc97422c88322da22f628492f5114f8dad57c04",
+          "bytes": 28588
+        },
+        "nameHe": {
+          "path": "audio/names/he/rooster.ogg",
+          "sha256": "ca7b2b095fdd8ec014b6849b83dfe1fc073865d950e0a36750b757010cb73464",
+          "bytes": 6368
+        },
+        "nameEn": {
+          "path": "audio/names/en/rooster.ogg",
+          "sha256": "8b21c88beb05630ed34e3bcf7e66038c4863b0357e6fa7bd546d8db83ee71c6c",
+          "bytes": 8029
+        }
+      }
+    },
+    {
+      "id": "monkey",
+      "categoryId": "wild",
+      "order": 10,
+      "name": {
+        "he": "קוף",
+        "en": "Monkey"
+      },
+      "soundWord": {
+        "he": "אואו אהאה",
+        "en": "Ooh ooh aah aah"
+      },
+      "soundVerb": {
+        "he": "מצווח",
+        "en": "chatters"
+      },
+      "description": {
+        "he": "הקוף עושה: אואו אהאה! הוא מטפס על עצים, מתנדנד על הזנב ואוהב לעשות שטויות.",
+        "en": "The monkey goes ooh ooh aah aah! It climbs trees, swings by its tail and loves to be silly."
+      },
+      "diet": {
+        "he": "פירות, בעיקר בננות, וגם עלים וזרעים",
+        "en": "Fruit — especially bananas — plus leaves and seeds"
+      },
+      "skills": {
+        "he": "מטפס מצוין, ויודע להשתמש באבנים ובמקלות כמו בכלים",
+        "en": "An excellent climber, and it uses stones and sticks as tools"
+      },
+      "habitat": {
+        "he": "ביער הגשם ועל העצים",
+        "en": "In the rainforest, up in the trees"
+      },
+      "facts": {
+        "he": [
+          "לקופים יש טביעות אצבע כמו לבני אדם",
+          "הם מדברים ביניהם בהמון קולות והבעות פנים"
+        ],
+        "en": [
+          "Monkeys have fingerprints, just like people",
+          "They talk to each other with many sounds and facial expressions"
+        ]
+      },
+      "colorHex": "#F3E5F5",
+      "assets": {
+        "icon": {
+          "path": "images/icons/monkey.webp",
+          "sha256": "dac42374fd43c7b39fc0627611a4734a54a90e358735916e0a2f1de641045668",
+          "bytes": 10588
+        },
+        "photo": {
+          "path": "images/photos/monkey.webp",
+          "sha256": "05f1fad5286a5f0af86be6d9e4243b1a0242230b0a4d67ccec4748a570c4b105",
+          "bytes": 132108
+        },
+        "sound": {
+          "path": "audio/sounds/monkey.ogg",
+          "sha256": "33a409cbdad6ec762e0385f4d3bc0c0db46b3d9e0cb7aedc8bbf04dc174ff2ab",
+          "bytes": 14883
+        },
+        "nameHe": {
+          "path": "audio/names/he/monkey.ogg",
+          "sha256": "89d9b06eb44c49ce39434f285caf2e6e19423632d6623553b0af27ada9b4bee0",
+          "bytes": 5133
+        },
+        "nameEn": {
+          "path": "audio/names/en/monkey.ogg",
+          "sha256": "01e7c30f481ce5ceec9b601f2fdd4f8b4a6662e23ef13be4a103495dde6824ce",
+          "bytes": 7025
+        }
+      }
+    }
+  ]
+}
