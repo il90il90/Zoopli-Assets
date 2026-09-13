@@ -506,9 +506,14 @@ CC BY 3.0
 
 CC BY 4.0
 
-- audio/sounds/monkey.ogg — File:Pant-hoot call made by a male chimpanzee.ogg
-  - Author: Pawel Fedurek et al.
+- audio/sounds/monkey.ogg — File:Mantled Howler Monkey (Alouatta palliata) (W ALOUATTA PALLIATA R1 C2).ogg
+  - Author: Unknown
+  - Source: https://commons.wikimedia.org/wiki/File:Mantled_Howler_Monkey_(Alouatta_palliata)_(W_ALOUATTA_PALLIATA_R1_C2).ogg
   - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- audio/sounds/owl.ogg — Owl Howling
+  - Author: Rico_Casazza
+  - Source: https://freesound.org/people/Rico_Casazza/sounds/653202/
+  - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 - images/photos/beaver-2.webp — File:Bever - Eurasian beaver - Castor fiber 6.jpg
   - Author: Bouke ten Cate
   - Source: https://commons.wikimedia.org/wiki/File:Bever_-_Eurasian_beaver_-_Castor_fiber_6.jpg
@@ -1590,10 +1595,6 @@ CC0 1.0
   - Author: stackpool
   - Source: https://freesound.org/people/stackpool/sounds/23142/
   - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
-- audio/sounds/owl.ogg — Owl Hooting with far away dog barking
-  - Author: gfrog
-  - Source: https://freesound.org/people/gfrog/sounds/159726/
-  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 - audio/sounds/parrot.ogg — Parrots in tree
   - Author: OroborosNZ
   - Source: https://freesound.org/people/OroborosNZ/sounds/141252/
@@ -1626,9 +1627,9 @@ CC0 1.0
   - Author: SiriusParsec
   - Source: https://freesound.org/people/SiriusParsec/sounds/532092/
   - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
-- audio/sounds/seal.ogg — G12-28-Seal Bark.wav
+- audio/sounds/seal.ogg — S01-14_Seal call and flipper claps.wav
   - Author: craigsmith
-  - Source: https://freesound.org/people/craigsmith/sounds/437960/
+  - Source: https://freesound.org/people/craigsmith/sounds/675398/
   - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 - audio/sounds/snake.ogg — Hissing Sound.wav
   - Author: Yin_Yang_Jake007
@@ -1666,9 +1667,9 @@ CC0 1.0
   - Author: Kingcornz
   - Source: https://freesound.org/people/Kingcornz/sounds/378334/
   - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
-- audio/sounds/woodpecker.ogg — Woodpecker calls
-  - Author: feastingfrog
-  - Source: https://freesound.org/people/feastingfrog/sounds/754225/
+- audio/sounds/woodpecker.ogg — CourtshipDrummingOfWoodpecker.wav
+  - Author: JKata
+  - Source: https://freesound.org/people/JKata/sounds/620236/
   - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 - audio/sounds/yak.ogg — Yak grunts
   - Author: ali.g
