@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 5,
-  "generatedAt": "2026-09-13T12:17:07+00:00",
+  "contentVersion": 6,
+  "generatedAt": "2026-09-13T12:47:39+00:00",
   "baseUrl": "https://cdn.jsdelivr.net/gh/il90il90/Zoopli-Assets@main/",
   "categories": [
     {
@@ -628,8 +628,8 @@
         "en": "The dog barks: woof woof! A dog is a person's best friend, and it loves to play and run. When a dog is happy it wags its tail!"
       },
       "diet": {
-        "he": "אוכל בשר, אוכל כלבים ועצמות",
-        "en": "Meat, dog food and bones"
+        "he": "בשר, עצמות ומזון יבש לכלבים",
+        "en": "Meat, bones and dry dog food"
       },
       "skills": {
         "he": "חוש הריח שלו חזק פי אלפים משלנו, והוא יודע לשמור על הבית",
@@ -687,18 +687,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dog.ogg",
-          "sha256": "17dc21cfd67c87c6ec3fc58649d8d14d7f4a93f3876a6a8782294b679d8e4236",
+          "sha256": "cd6efd1efe4af44a8fce30d4f850768bb99fd331d61c64635fa1b88382601613",
           "bytes": 17513
         },
         "nameHe": {
           "path": "audio/names/he/dog.ogg",
-          "sha256": "27388fcedc54bca1d551b6fe6a1f2beba753fe040d092abd0f30e9e460cebe2f",
+          "sha256": "14c63daa29286529f2fd2b05544735c83d57f128885749e01ca7064fd17ad4c6",
           "bytes": 5722
         },
         "nameEn": {
           "path": "audio/names/en/dog.ogg",
-          "sha256": "1e7f99618e67a593840cf45ff254f176ef9957e5b9194fb75d0e65a3218b98fb",
-          "bytes": 5990
+          "sha256": "9091eef8d35144ca43cfcb3d7e1f717ec91a32ddf0177cddb3a756477db178d7",
+          "bytes": 6051
         }
       }
     },
@@ -724,8 +724,8 @@
         "en": "The cat meows: meow! It drinks water, cleans itself with its tongue, and when it is happy it purrs."
       },
       "diet": {
-        "he": "שותה מים, ואוכל דגים ואוכל חתולים",
-        "en": "Drinks water, and eats fish and cat food"
+        "he": "דגים, מזון לחתולים והרבה מים",
+        "en": "Fish, cat food and plenty of water"
       },
       "skills": {
         "he": "קופץ גבוה מאוד, מטפס על עצים ונוחת תמיד על הרגליים",
@@ -789,18 +789,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cat.ogg",
-          "sha256": "82a1ce31e8dd77709225ee06c1fd1bbde4b802824d32bc01e9143a4245b86b61",
+          "sha256": "641e29d8096c4b60261307bcdd83aa9d7682d8ef260adfb9b58acf197795c398",
           "bytes": 15987
         },
         "nameHe": {
           "path": "audio/names/he/cat.ogg",
-          "sha256": "1dcb48cab508309591590d860876de50168cd50b48d07d7b8d99bcf51cc533bb",
+          "sha256": "d859a911ac052cf910e4f591c75831d45b0d73788eb53b868a58d84992bc8ab8",
           "bytes": 6136
         },
         "nameEn": {
           "path": "audio/names/en/cat.ogg",
-          "sha256": "f4bcac0ad4d3219fcae1ab2e4cb36c3014051071eed7df21270ddaabb52e899f",
-          "bytes": 6195
+          "sha256": "221278e045b332580eeabb84732993c7f6d98f4825fe486d6963ffc85fde4ed6",
+          "bytes": 6021
         }
       }
     },
@@ -885,18 +885,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cow.ogg",
-          "sha256": "9c8f634f6649b3d58e3172c6dbcea1538f400e460ffba79c3cb37e1e17a0ad69",
+          "sha256": "7cc81eca3942c2472ffef721eeae585df0016ba358f8d67620875c11ec73bb6f",
           "bytes": 20201
         },
         "nameHe": {
           "path": "audio/names/he/cow.ogg",
-          "sha256": "110495cd86752cf448db43246c743e9ef8c2a11f65326f203eb5919273769b3c",
+          "sha256": "a443e1802d03e692fd02231d9f6993729c42b451b3506ade402cc0d11a845ea0",
           "bytes": 4989
         },
         "nameEn": {
           "path": "audio/names/en/cow.ogg",
-          "sha256": "932e203d75c14fdd59bfbf63b7060b80b3424f1924519b12d2f9e37af5033b58",
-          "bytes": 6306
+          "sha256": "4f79d2370aacb984c6cd36bdce63191df3613d20c7da9f5083b35623a2297db7",
+          "bytes": 6384
         }
       }
     },
@@ -981,18 +981,18 @@
         ],
         "sound": {
           "path": "audio/sounds/sheep.ogg",
-          "sha256": "2ed7e8999097809a91fa27d215fa6ac1c43e9aca33578358d8b68e50cda4358e",
+          "sha256": "f5a30d8a11b2cbce90303e3cf2c882a756240ee9b5cdf8c43141d02c4ae57024",
           "bytes": 28433
         },
         "nameHe": {
           "path": "audio/names/he/sheep.ogg",
-          "sha256": "e2858d8ec21f1e481af9f52b578a968fad771d4a488a939be5db3e24643fcdee",
+          "sha256": "27ac8f0cd7d8164fb3252f6c7f9b25ec947e66f27e13c16419484f0ace5eaa8f",
           "bytes": 5431
         },
         "nameEn": {
           "path": "audio/names/en/sheep.ogg",
-          "sha256": "11b74e7341611c0fee0c867f2c955ed01c334958ee53da758ede0e0a7b733a28",
-          "bytes": 6330
+          "sha256": "22947a3e85bd3cafd6af1758da8bbd33c935a079f90f6e75b018223eba7c247a",
+          "bytes": 6564
         }
       }
     },
@@ -1077,18 +1077,18 @@
         ],
         "sound": {
           "path": "audio/sounds/horse.ogg",
-          "sha256": "70e61680617fbf1c1c540f4ed71e9d56bfce34242b41a9c4fe9d79a73266016f",
+          "sha256": "eb7c80e92b471d676fdc46fb7626ae7951759eed7607fb5bf8ae01d1982a724e",
           "bytes": 10897
         },
         "nameHe": {
           "path": "audio/names/he/horse.ogg",
-          "sha256": "6001cee153e09a280e94502f5ab2d33a9e6b8025223d9e3fa28d1a2c479188a4",
+          "sha256": "7337be813f276536e5c91ee658a77cb6ad6b1519a71df83db023a2266a0f102d",
           "bytes": 5667
         },
         "nameEn": {
           "path": "audio/names/en/horse.ogg",
-          "sha256": "0f9a829ceaec512458917bfff04987b65c8d88fd24194142a3f797c010595984",
-          "bytes": 6504
+          "sha256": "6b3efe7cfa235d9610c582823b61c0230f148475d822b476ff781a6231ac4b38",
+          "bytes": 6365
         }
       }
     },
@@ -1177,18 +1177,18 @@
         ],
         "sound": {
           "path": "audio/sounds/duck.ogg",
-          "sha256": "f1fb8c36bb8744bdf2be6be4e694472b5b354a90c027896589cb778e346e197d",
+          "sha256": "19ed4218bb75a7839571071fac7760ab8288bd62e050f4d88a0c03ade2d81311",
           "bytes": 21510
         },
         "nameHe": {
           "path": "audio/names/he/duck.ogg",
-          "sha256": "1b2c7102d56165886fb03ea940e26d6f06b6106b64352990028638d8781888bb",
+          "sha256": "a126104b0415ea59d2ef6dfe2b02f77a994354787e1d31ecfc77c89183aa4324",
           "bytes": 6227
         },
         "nameEn": {
           "path": "audio/names/en/duck.ogg",
-          "sha256": "4889da39b3b0e07dddb3bd91ecd29043c13a1a34ef64ad811354814331a5b294",
-          "bytes": 6093
+          "sha256": "fccecbdbf151eb0c21024d3537f2416a75c12143721cd4db41d7ce68135d1496",
+          "bytes": 6098
         }
       }
     },
@@ -1279,18 +1279,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rooster.ogg",
-          "sha256": "768997a492c28188f959696cdea11fd731b2191226694c7b3d30d9f911e7babb",
+          "sha256": "c924f4110b94453f8f80795754fc113f31a3d57a6643846f441438ba51d3f8fa",
           "bytes": 28588
         },
         "nameHe": {
           "path": "audio/names/he/rooster.ogg",
-          "sha256": "796cb98f9fe7dffb01fa5fc31e4145bdd0834de99aa7136f707a98d4d07c27e6",
+          "sha256": "cff364ee523f4134d99133698fb050d484f8630949676daee1e4bb56234c4e54",
           "bytes": 6368
         },
         "nameEn": {
           "path": "audio/names/en/rooster.ogg",
-          "sha256": "279d291508029b1133b8b5548fdfc96f3e569627093b95bb17d5eed1fcc4e132",
-          "bytes": 7460
+          "sha256": "1679a6f7c8ca8400b15b7b305f3fdb4b0c4640ac2068e8b45df1a99b3aa90612",
+          "bytes": 7315
         }
       }
     },
@@ -1316,7 +1316,7 @@
         "en": "The pig snorts: oink oink! It loves to roll in the mud, and not because it is dirty — the mud protects its skin from the sun."
       },
       "diet": {
-        "he": "אוכל ירקות, פירות, גרעינים ושאריות אוכל",
+        "he": "ירקות, פירות, גרעינים ושאריות אוכל",
         "en": "Vegetables, fruit, grain and leftovers"
       },
       "skills": {
@@ -1373,18 +1373,18 @@
         ],
         "sound": {
           "path": "audio/sounds/pig.ogg",
-          "sha256": "1bf0ce464f82d962f4f815cdf1f2c2081035f46165c5736ee26b756d86455d66",
+          "sha256": "332580aa9a8f1f2b981547d03dfd3723f7f37390414e6b5ed3724d3ff1c03b4f",
           "bytes": 30025
         },
         "nameHe": {
           "path": "audio/names/he/pig.ogg",
-          "sha256": "ceae1a123cc62d57696154becd6e4ddfec4b00a9a56b9dad979305bd916b6d48",
+          "sha256": "a584b7dd628a2533c0ef5e888f9181eab931e5c0a8a4997febde71117937814c",
           "bytes": 7868
         },
         "nameEn": {
           "path": "audio/names/en/pig.ogg",
-          "sha256": "189b80a1fd5a3f2b7e4a1080181f75335c4417832776846454db81c0db8d7a1d",
-          "bytes": 5270
+          "sha256": "d915f9e6a2ff6eeb7795773a47a585ed14b6690c257bdade4c92d478aaa2c2ef",
+          "bytes": 5084
         }
       }
     },
@@ -1410,7 +1410,7 @@
         "en": "The goat bleats: maa maa! It climbs steep rocks as if they were nothing, and loves to chew almost every leaf it finds."
       },
       "diet": {
-        "he": "אוכלת עשב, עלים, ענפים ושיחים",
+        "he": "עשב, עלים, ענפים ושיחים",
         "en": "Grass, leaves, branches and bushes"
       },
       "skills": {
@@ -1467,18 +1467,18 @@
         ],
         "sound": {
           "path": "audio/sounds/goat.ogg",
-          "sha256": "bfc57689546a173f3fb633da2a4d1e657a4b6549e5f4512943fb8d6c1d6d012a",
+          "sha256": "f435996a5f51ae612ade64b5ab73035d38cd2dc135515a2d630fb6b1b7c43b4b",
           "bytes": 10841
         },
         "nameHe": {
           "path": "audio/names/he/goat.ogg",
-          "sha256": "3b8064d3aadfc74f5d7cd4ab38cca2e212eaece153f41d239ae7cd18703e95d6",
+          "sha256": "f1ee934715a8fdbe6e0c535e493a3b6c2862fb3389d5e18280b122c7e30a1419",
           "bytes": 4254
         },
         "nameEn": {
           "path": "audio/names/en/goat.ogg",
-          "sha256": "3c9997db6037a65e1f96ee8b19ab747a257a1a702efa3242928c672bcd2744f5",
-          "bytes": 6131
+          "sha256": "df8ef4894d99d31576bfd7ced38f1ede043a5a2442165f6c32a7212a4a28fc18",
+          "bytes": 5784
         }
       }
     },
@@ -1504,7 +1504,7 @@
         "en": "The rabbit is quiet almost all the time, and only sometimes squeaks: squeak squeak! When it is startled it thumps a back foot on the ground to warn every rabbit nearby."
       },
       "diet": {
-        "he": "אוכל עשב, חציר, גזר ועלים ירוקים",
+        "he": "עשב, חציר, גזר ועלים ירוקים",
         "en": "Grass, hay, carrots and green leaves"
       },
       "skills": {
@@ -1561,18 +1561,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rabbit.ogg",
-          "sha256": "8cba44027e0ae5b96c63bfc8be9fa24ec6799cdad99d4cd8972902670665372c",
+          "sha256": "c6a8faad4ee2c4ac31cdb16b1fa2a52d41f7c772ddf3c89e3d9d118cfaea9172",
           "bytes": 32469
         },
         "nameHe": {
           "path": "audio/names/he/rabbit.ogg",
-          "sha256": "e9fb8ff38bfa34af9758618d744414841afa7116a184b24025f560ad0f33e6dd",
+          "sha256": "44924cbb9ab6b1c0e66d85f9d0e24556c2fe5ed1f39dcd03c688dc9849d2e919",
           "bytes": 5893
         },
         "nameEn": {
           "path": "audio/names/en/rabbit.ogg",
-          "sha256": "c21b8fa7b47515a0a20a89f6cdf452b4ab23a9fd27991f66ec0aebe49e72e97a",
-          "bytes": 6103
+          "sha256": "b1666b7aca21a541ff6bb511bf822a4fd9d42663926559a2c5dcac3cc9764bb5",
+          "bytes": 6443
         }
       }
     },
@@ -1598,7 +1598,7 @@
         "en": "The donkey brays: hee-haw! It is patient and strong, and carries heavy loads along narrow paths where no car could go."
       },
       "diet": {
-        "he": "אוכל קש, עשב, שעורה וגזר",
+        "he": "קש, עשב, שעורה וגזר",
         "en": "Straw, grass, barley and carrots"
       },
       "skills": {
@@ -1655,18 +1655,18 @@
         ],
         "sound": {
           "path": "audio/sounds/donkey.ogg",
-          "sha256": "e947a0dc19ea01bc48f8be27ecdf1d049a66ddd284fa4ce6e35bb4e1821ae1a0",
+          "sha256": "5f820dbdaebbd7ab17a3d736db46936f61a87cc0d0ea73a9fb61759a8036c2db",
           "bytes": 31181
         },
         "nameHe": {
           "path": "audio/names/he/donkey.ogg",
-          "sha256": "8cce22d14b02c5dfe429d4d8ac7192bb1cc532dbb8c0760098c057648c29bf92",
+          "sha256": "9ed8220d24d15797c0b2acbd96cbd8dcf2d91c7e909f70f1fefe3bbbcf64e928",
           "bytes": 6584
         },
         "nameEn": {
           "path": "audio/names/en/donkey.ogg",
-          "sha256": "4a82faea5a22926d6953544a17afbdaf4acac0601d40818a2fa2c0366d101a61",
-          "bytes": 6774
+          "sha256": "218edaf490d05da5f8107a36343495ffeacd55d6a3a6f8316ae211490c09cee2",
+          "bytes": 6949
         }
       }
     },
@@ -1692,7 +1692,7 @@
         "en": "The turkey gobbles: gobble gobble! When it gets excited it spreads its tail like a huge fan, and the skin on its neck changes colour."
       },
       "diet": {
-        "he": "אוכל גרעינים, זרעים, חרקים ועשב",
+        "he": "גרעינים, זרעים, חרקים ועשב",
         "en": "Grain, seeds, insects and grass"
       },
       "skills": {
@@ -1754,18 +1754,18 @@
         ],
         "sound": {
           "path": "audio/sounds/turkey.ogg",
-          "sha256": "6db9d9c25ca3d875d30dcaffdbb7eaadb135325d735aa2645445df6376efdbb7",
+          "sha256": "f78fc0c34f8b72c4cd0bebc973aa6f4775d6fd16787940658a660870df117684",
           "bytes": 10940
         },
         "nameHe": {
           "path": "audio/names/he/turkey.ogg",
-          "sha256": "665d8411a0acf170a80d5621e6bbe990e240bc0f25cab91d22b223b1decc6d40",
+          "sha256": "5bec9ee5c0c591bf540bccf82c0c2fa38809b2373c3c23949ba3e805d97d928b",
           "bytes": 8347
         },
         "nameEn": {
           "path": "audio/names/en/turkey.ogg",
-          "sha256": "4d3683785083873d7af5ab1f4485397e1e4d8e789c5e57aa30158e8bb5d0bf20",
-          "bytes": 6832
+          "sha256": "f06ce3e3bce3ef163210b67e5d921a6e199357243b551bc8ebb5ab7243f1f809",
+          "bytes": 6546
         }
       }
     },
@@ -1791,7 +1791,7 @@
         "en": "The goose honks: honk honk! It makes a wonderful guard, and when a stranger comes near it raises a call the whole farm can hear."
       },
       "diet": {
-        "he": "אוכל עשב, גרעינים וצמחי מים",
+        "he": "עשב, גרעינים וצמחי מים",
         "en": "Grass, grain and water plants"
       },
       "skills": {
@@ -1851,18 +1851,18 @@
         ],
         "sound": {
           "path": "audio/sounds/goose.ogg",
-          "sha256": "3cdc487ae85830ac31ba937da45ae45317916ae38d96846012965e3a7afdabfb",
+          "sha256": "53ee3dd1e895aea5a84e3846709347a0871d5426f5a112cfc82d76bc6a23ecb4",
           "bytes": 6173
         },
         "nameHe": {
           "path": "audio/names/he/goose.ogg",
-          "sha256": "7485a8a8124ee5b0fdaa381378265ad76fb69345f8a45afc441c9826766db58e",
+          "sha256": "9d48582e42703f37fe48fbe8e9b92b1d1401d818460e91cb228ef181b5e7516b",
           "bytes": 4807
         },
         "nameEn": {
           "path": "audio/names/en/goose.ogg",
-          "sha256": "728206e4bc56af27b7fed13eee74bc9c8f166bd67f7b57fd86e3f3d01c2bc581",
-          "bytes": 6668
+          "sha256": "0077b58494f4a14c70b3edb3585b10b027f8c81956efac86849331478d778cb6",
+          "bytes": 6477
         }
       }
     },
@@ -1888,7 +1888,7 @@
         "en": "The mouse squeaks: squeak squeak! It is small and quick, slips through a tiny hole, and goes looking for food mostly at night."
       },
       "diet": {
-        "he": "אוכל גרעינים, זרעים, פירות ופירורים",
+        "he": "גרעינים, זרעים, פירות ופירורים",
         "en": "Grain, seeds, fruit and crumbs"
       },
       "skills": {
@@ -1945,18 +1945,18 @@
         ],
         "sound": {
           "path": "audio/sounds/mouse.ogg",
-          "sha256": "d82f4a991c4fe0f0a817a0e3042c849423a14b070cf7d34fe9bbc57431748f5c",
+          "sha256": "d8a65ce54037f302d9859fce98f88a5dd8581f64c26c190e24fde9fa7521c7e4",
           "bytes": 4594
         },
         "nameHe": {
           "path": "audio/names/he/mouse.ogg",
-          "sha256": "7313784e609ba0696d07bd545b11f0fc5cf3f820d2032f25734f5acddf9efcf8",
+          "sha256": "8e20573fa2ebee502e8c5403f7039cdbbf7a9bc5efa12153cefefaef0fc601c8",
           "bytes": 5706
         },
         "nameEn": {
           "path": "audio/names/en/mouse.ogg",
-          "sha256": "753ce02252ab11a6fc3b1a1f2aeb4f2ae87810e1d6af761e6260256105675193",
-          "bytes": 7151
+          "sha256": "ba3c764c0cb742351700175282f0f32f1d8ece1cf6157d17e4bbe4c0a5090e01",
+          "bytes": 6790
         }
       }
     },
@@ -1982,7 +1982,7 @@
         "en": "The hamster chirps, and stuffs food into its cheeks until it looks twice its size. Then it runs to its burrow and empties them out."
       },
       "diet": {
-        "he": "אוכל גרעינים, ירקות ופירות",
+        "he": "גרעינים, ירקות ופירות",
         "en": "Seeds, vegetables and fruit"
       },
       "skills": {
@@ -2039,18 +2039,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hamster.ogg",
-          "sha256": "4b3d6a0ff47200cbba3280ebbd3652e7eb9713d47e25d76c521fb0d755469bdd",
+          "sha256": "48f6d0ae17eea4d4749a2bba4dfabf2e95fe1dd548ec2697a3587863c32f5554",
           "bytes": 23125
         },
         "nameHe": {
           "path": "audio/names/he/hamster.ogg",
-          "sha256": "43c1bb717919fb3cb459ba911b58c07c48e8d16205da56ae2b04f11d83917098",
+          "sha256": "bb090ade4aa7314ae2a29b7146c23d4fcd6cad14317eeb2c33854a690725c20d",
           "bytes": 5584
         },
         "nameEn": {
           "path": "audio/names/en/hamster.ogg",
-          "sha256": "72b9372aaa357dca267cadc1f78ab7048a60fc4ded628533919fb930531525eb",
-          "bytes": 7202
+          "sha256": "ce77ef0871b662f0fc6fea415b435ace21ef86bf0d2874a6f434b2b8d1dcf0cc",
+          "bytes": 7434
         }
       }
     },
@@ -2141,18 +2141,18 @@
         ],
         "sound": {
           "path": "audio/sounds/lion.ogg",
-          "sha256": "87095b263608e83b38ea0aaa072abffb6a21d8db66040c0b433ab75566c03563",
+          "sha256": "61eef5adcb85519db120a5a4efc48d68b88ffb6a312739309e475f1f829cdf0f",
           "bytes": 28203
         },
         "nameHe": {
           "path": "audio/names/he/lion.ogg",
-          "sha256": "b1e3640a175da17df804fc3580955128535d865f7088b9ae74a6f969df1c4818",
+          "sha256": "ab357cfe48c3fe288730e07808125dbb311ca1f11e30a3fcde95fe1c55a7766f",
           "bytes": 5864
         },
         "nameEn": {
           "path": "audio/names/en/lion.ogg",
-          "sha256": "ec3293af1d8653e2d61c186950b5e4ccecc4546ded3d609e8ad428f9677d724a",
-          "bytes": 6582
+          "sha256": "c9ccd61a42e4cb72aca25afadf262f761dce9ae7f9f819295456b481a8f9bdf0",
+          "bytes": 6713
         }
       }
     },
@@ -2237,18 +2237,18 @@
         ],
         "sound": {
           "path": "audio/sounds/elephant.ogg",
-          "sha256": "6d452ff675fa1659e97504ecdb603a3d239601fec1d299c5a4a62d2ceb55f3f3",
+          "sha256": "3b0f67e92e9e6bd432e45a5645ff254cd93ed10664abf10c676aafac93b2ca8e",
           "bytes": 10638
         },
         "nameHe": {
           "path": "audio/names/he/elephant.ogg",
-          "sha256": "e218609f6ad5769a85a1c599f2dc01fd0130c9a257a6b52ade55d9b3b714615f",
+          "sha256": "8b325b0bff0fb8f9eb6f805a0f0c06692f784c0f526f7d9d56405d0eeabe3ad3",
           "bytes": 6666
         },
         "nameEn": {
           "path": "audio/names/en/elephant.ogg",
-          "sha256": "b2a25bffb61072551bf4b1cf04dea469a133281464693814e308f53de5884035",
-          "bytes": 7215
+          "sha256": "d153252603440cba0d76dab8c4bfddccb36ac10ca0f20ce1ed032f326f2fe0d9",
+          "bytes": 7064
         }
       }
     },
@@ -2274,7 +2274,7 @@
         "en": "The giraffe is almost silent, and at night it hums a low hum you can barely hear. It is the tallest animal in the world, and its neck reaches leaves nobody else can."
       },
       "diet": {
-        "he": "אוכלת עלים של עצי שיטה, ניצנים ופירות",
+        "he": "עלים של עצי שיטה, ניצנים ופירות",
         "en": "Acacia leaves, buds and fruit"
       },
       "skills": {
@@ -2331,13 +2331,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/giraffe.ogg",
-          "sha256": "7e2affcf6a51127a23327ab7c6a89700c99094d8f7526edd57603503913fec96",
+          "sha256": "34563bf9d1f80ca2969ae5f97a1d06eb441c89a6da0bf757d902442e156859fd",
           "bytes": 7008
         },
         "nameEn": {
           "path": "audio/names/en/giraffe.ogg",
-          "sha256": "40cb9ee130b4f81e14d48e3486538a77dab135366d8dbdeef45083257ada2130",
-          "bytes": 7430
+          "sha256": "6fc6451fd7ad4108e8c7354611f88ef6536552b2e43e325be2a4f1b0f05d2ec3",
+          "bytes": 7020
         }
       }
     },
@@ -2363,7 +2363,7 @@
         "en": "The zebra brays: ha-ha! It wears black and white stripes, and every zebra has its own pattern — no two in the world are the same."
       },
       "diet": {
-        "he": "אוכלת עשב קשה, עלים וקליפות עצים",
+        "he": "עשב קשה, עלים וקליפות עצים",
         "en": "Tough grass, leaves and bark"
       },
       "skills": {
@@ -2420,18 +2420,18 @@
         ],
         "sound": {
           "path": "audio/sounds/zebra.ogg",
-          "sha256": "5e607cf204d6cee2dbc3e3c45bba2dfbd82f9c5af0a4fecf639408f811647c99",
+          "sha256": "069d92e10e03e35db98f154dbfcab1059866c6913a4eaf14ba13c2b5db046bf7",
           "bytes": 16734
         },
         "nameHe": {
           "path": "audio/names/he/zebra.ogg",
-          "sha256": "199766782391e7abb40c4b9e5116f96c9e911a30dfef5e3bc45ebed9bf57dda4",
+          "sha256": "376d5a952e84c57d2f30fd051096bc6612bfe0580a3707db41bd25986437851d",
           "bytes": 5514
         },
         "nameEn": {
           "path": "audio/names/en/zebra.ogg",
-          "sha256": "bb321f415e67420a12a6db96e577506dbe29d6a149e648813ce6b7c674bc3e08",
-          "bytes": 7546
+          "sha256": "021c28fb3e4c67613cf793b81deb3f5ac38418f3c43dc572d3516e7200823b88",
+          "bytes": 7608
         }
       }
     },
@@ -2457,7 +2457,7 @@
         "en": "The rhino snorts: hrrrr! It is as heavy as two cars, yet it runs fast, and its thick skin looks like armour."
       },
       "diet": {
-        "he": "אוכל עשב, ענפים ועלים",
+        "he": "עשב, ענפים ועלים",
         "en": "Grass, twigs and leaves"
       },
       "skills": {
@@ -2514,18 +2514,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rhino.ogg",
-          "sha256": "7532e5eb78c7d7695087dae6ade36c01265a8da69e473814085f461fdf750d0d",
+          "sha256": "608a1f4a79839be166331ff5ec20590a38846a1c09b248235b220263fc6f0e54",
           "bytes": 26328
         },
         "nameHe": {
           "path": "audio/names/he/rhino.ogg",
-          "sha256": "3f007e88c6659d9880db31f2e7df447807e668d4de587816ffe3d1291d8b1a6d",
+          "sha256": "caec704fb545d8bde1da3aea7a961bf066ebb2d7b81ea5744b372bec1a6f7288",
           "bytes": 6108
         },
         "nameEn": {
           "path": "audio/names/en/rhino.ogg",
-          "sha256": "4fddd898516a1519e2879ef9798088e41b4dfabef7775cf95060c8cd2d1225bc",
-          "bytes": 9507
+          "sha256": "d36b296478b779b46da3f17aba63ffa436d3bb5edcd4d0058098a91b6ccc0846",
+          "bytes": 9562
         }
       }
     },
@@ -2551,7 +2551,7 @@
         "en": "The hippo grunts: ho-ho-ho! It spends almost the whole day in the water, with only its eyes and ears peeking out."
       },
       "diet": {
-        "he": "אוכל עשב — בלילה הוא יוצא לרעות",
+        "he": "עשב — בלילה הוא יוצא לרעות",
         "en": "Grass — it comes out at night to graze"
       },
       "skills": {
@@ -2608,18 +2608,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hippo.ogg",
-          "sha256": "9ecc31c5cbec22009b76327c2859ef797e3df4b97c31d7ee7d330f8cfdedff7c",
+          "sha256": "6fda4cb86d2c629b4063165dd4743477e2cf9fb64e22c5be5bf6c78639aceff1",
           "bytes": 19039
         },
         "nameHe": {
           "path": "audio/names/he/hippo.ogg",
-          "sha256": "7de3540b8593bcc25c0e7e2862d0f14924b69f85e424de9e7cf63a06b8ea7a6e",
+          "sha256": "ad682d73bfa179754c6068ad5db62919e0c1c3a9df50a2e215c78457b70d9e9a",
           "bytes": 8145
         },
         "nameEn": {
           "path": "audio/names/en/hippo.ogg",
-          "sha256": "7f02ac9ee6f39c6cbeabe532d64125cd5e2a835660a3dfedd8c36e6cbd54478c",
-          "bytes": 9890
+          "sha256": "7e62a51e5144ed21f98b8a6da6d01167ede1eaebac5198fce7e32041ae202819",
+          "bytes": 9721
         }
       }
     },
@@ -2645,7 +2645,7 @@
         "en": "The cheetah does not roar — it chirps: chirp chirp, like a bird! It is the fastest animal on land, as fast as a car on the road."
       },
       "diet": {
-        "he": "אוכל צבאים ובעלי חיים מהירים אחרים",
+        "he": "צבאים ובעלי חיים מהירים אחרים",
         "en": "Gazelles and other fast animals"
       },
       "skills": {
@@ -2707,13 +2707,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/cheetah.ogg",
-          "sha256": "e1a3038f247110de84dbc2ddc6ed48e87d9f08b95056eef70c002df62ad91c47",
+          "sha256": "56600d2ba863ce5ef35877d11de16765d6bd67383dcb392e720f1058ca41e488",
           "bytes": 6679
         },
         "nameEn": {
           "path": "audio/names/en/cheetah.ogg",
-          "sha256": "2908fd6ef53799324579c3138778eb10ead58b51ac32c79f76b2983d9bef00f0",
-          "bytes": 7489
+          "sha256": "876283a9146cd7a0c669f02cf5ebbe04d3d258b09bd9f5b7743f630b3d4f6771",
+          "bytes": 7343
         }
       }
     },
@@ -2739,7 +2739,7 @@
         "en": "The leopard growls: grrrr! It is covered in spots, climbs trees easily, and loves to rest on a high branch and look down."
       },
       "diet": {
-        "he": "אוכל צבאים, קופים וציפורים",
+        "he": "צבאים, קופים וציפורים",
         "en": "Antelope, monkeys and birds"
       },
       "skills": {
@@ -2801,18 +2801,18 @@
         ],
         "sound": {
           "path": "audio/sounds/leopard.ogg",
-          "sha256": "a6606ec7b809a24fee9d80a0a25c1963f45396406e60b49d8c0daca3d533ea7b",
+          "sha256": "c262f85a4edbc09aeae27787959441079a50e7e0d85cf94552ec9a1326a1ae7c",
           "bytes": 6123
         },
         "nameHe": {
           "path": "audio/names/he/leopard.ogg",
-          "sha256": "4cf25a4c4cdb872aac7a0d53e9a2af652960e44316015ab06d2dfd602ceaea31",
+          "sha256": "a639a524be895433fbac67018089b5ccb05f78dcd723d3ad3ddb1eb53a5f4587",
           "bytes": 5314
         },
         "nameEn": {
           "path": "audio/names/en/leopard.ogg",
-          "sha256": "3f83b8feb65f3962cd96a7e7b5fc264215104cc4498d023d8bf056d4769fbad9",
-          "bytes": 6779
+          "sha256": "60a78baa6dbde8a84c86d931de4438195cee480d382d6c0b9834ff00dfbcfdad",
+          "bytes": 6771
         }
       }
     },
@@ -2838,7 +2838,7 @@
         "en": "The gorilla grunts: hoo hoo! It is the strongest of all the apes, yet it is quiet and gentle, and eats only plants."
       },
       "diet": {
-        "he": "אוכלת עלים, גבעולים, במבוק ופירות",
+        "he": "עלים, גבעולים, במבוק ופירות",
         "en": "Leaves, stems, bamboo and fruit"
       },
       "skills": {
@@ -2895,18 +2895,18 @@
         ],
         "sound": {
           "path": "audio/sounds/gorilla.ogg",
-          "sha256": "2c3f2572704df78385e1d2a8b86b7a44910dc0681a8685731378e9edbcc15bfb",
+          "sha256": "48b1d4d37d3a0e1c51fd1aa7324ee7a3003429d6fd6477aa7059fe5ac29ff3e6",
           "bytes": 26021
         },
         "nameHe": {
           "path": "audio/names/he/gorilla.ogg",
-          "sha256": "da3bb41e7baeb5b83006f64d1378d55661d7b1fc28dfe31e364d1d5b3a2d8317",
+          "sha256": "9cbcfc0f9a63ef9674a7cd8b3cb3e8488c1af8c778c4ecc89cf744ed024de818",
           "bytes": 7268
         },
         "nameEn": {
           "path": "audio/names/en/gorilla.ogg",
-          "sha256": "44deab487aff95fa4545c41662432047e6d797e2637f42a78e313dfe1a4ef351",
-          "bytes": 7024
+          "sha256": "eb21345bceaaed1d87e23f757947b10550ff03ca7a50188f85a169b329b489de",
+          "bytes": 6988
         }
       }
     },
@@ -2932,7 +2932,7 @@
         "en": "The hyena makes a sound like laughter: hee-hee-hee! It is not really laughing — that is how it tells the other hyenas where it is and how it feels."
       },
       "diet": {
-        "he": "אוכל בשר, ולפעמים שאריות של חיות אחרות",
+        "he": "בשר, ולפעמים שאריות של חיות אחרות",
         "en": "Meat, and sometimes what other animals leave behind"
       },
       "skills": {
@@ -2993,18 +2993,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hyena.ogg",
-          "sha256": "b73c5503dbbdfcb2b54d0156db86454a21207ed0ff95fad4471e3c8303e7be5f",
+          "sha256": "c2e3182366428d164d1725122f10a224eca3c0f24fb985a5d9d42719f8543302",
           "bytes": 8439
         },
         "nameHe": {
           "path": "audio/names/he/hyena.ogg",
-          "sha256": "11b8b4907607d0e3107ff3fe63cf69f7509d5f43bb0a8464a6e5210ebe95c4cb",
+          "sha256": "e8ce208aaaad323f347254507e9c90629e392c05fffe49df2510cb156425dbe6",
           "bytes": 5703
         },
         "nameEn": {
           "path": "audio/names/en/hyena.ogg",
-          "sha256": "7210e1ae0dec92e7e1f8bbe0ad0bc27c9de48b32697aba32b8a59908e5a8118d",
-          "bytes": 7644
+          "sha256": "33beae92d71aec0cb6bfda4569cf5e27f797cc6c07bbb5b21eef18e1c4c6bd11",
+          "bytes": 7508
         }
       }
     },
@@ -3030,7 +3030,7 @@
         "en": "The meerkat chirps: tweet tweet! It stands up straight on two legs to keep watch, and if it spots danger it calls out and everyone dives into the burrow."
       },
       "diet": {
-        "he": "אוכלת חרקים, עקרבים, ביצים וזוחלים",
+        "he": "חרקים, עקרבים, ביצים וזוחלים",
         "en": "Insects, scorpions, eggs and small reptiles"
       },
       "skills": {
@@ -3092,13 +3092,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/meerkat.ogg",
-          "sha256": "d6dd528d3054c57479ed11e4fab05c0b89f869954c0ccb974a557b2811e4e019",
+          "sha256": "cff95a69b200d06ab8a012c616caed52796fb0e0610f32907e37a0503b113023",
           "bytes": 7822
         },
         "nameEn": {
           "path": "audio/names/en/meerkat.ogg",
-          "sha256": "ef0fa5e67d8dcc3fb0b58933c57149650041c921df0cc169c0d4790806b26bc3",
-          "bytes": 7750
+          "sha256": "6fbcb6cd9cf3a3fde7fc24dd03b5ec5e5fb1020c22ad40c35ff3caf300a82170",
+          "bytes": 7732
         }
       }
     },
@@ -3124,7 +3124,7 @@
         "en": "The crocodile hisses: hisss! It floats in the water in complete silence with only its eyes and nostrils showing — it looks just like a log."
       },
       "diet": {
-        "he": "אוכל דגים, ציפורים וחיות שמגיעות לשתות",
+        "he": "דגים, ציפורים וחיות שמגיעות לשתות",
         "en": "Fish, birds and animals that come down to drink"
       },
       "skills": {
@@ -3187,18 +3187,18 @@
         ],
         "sound": {
           "path": "audio/sounds/crocodile.ogg",
-          "sha256": "247c2a5b2a81dd263520e6d05b7fdfb103f8107f066b9b9a82d92e1e274d5c05",
+          "sha256": "d6a7b924f1de62a0c8e2be88efc56a6128fde3310f22984d7f992b5857977090",
           "bytes": 30114
         },
         "nameHe": {
           "path": "audio/names/he/crocodile.ogg",
-          "sha256": "2e9f0b24a9bf3979b5e0867424fad06d447954b2d808e23cbfbffb4c2de9c61d",
+          "sha256": "0b8af45a313990ff7016f05efa781c28b4ac6bd92ba2e1cda6fbae42c3200dbb",
           "bytes": 6618
         },
         "nameEn": {
           "path": "audio/names/en/crocodile.ogg",
-          "sha256": "1ee32c7199e5513b0bf268ce8e67f257695585479be3ce2a9b8caef935bc033e",
-          "bytes": 8287
+          "sha256": "89b3ea08549a6d3e6abbd42febbda2da1512bf1dacfb8326745d339f922fe769",
+          "bytes": 7886
         }
       }
     },
@@ -3224,7 +3224,7 @@
         "en": "The flamingo honks: honk honk! It stands on one leg for hours, and its pink colour actually comes from the food it eats."
       },
       "diet": {
-        "he": "אוכל אצות ושרימפסים קטנים מתוך המים",
+        "he": "אצות ושרימפסים קטנים מתוך המים",
         "en": "Algae and tiny shrimp filtered from the water"
       },
       "skills": {
@@ -3284,18 +3284,18 @@
         ],
         "sound": {
           "path": "audio/sounds/flamingo.ogg",
-          "sha256": "b58eba3fc04925a82dc7df9448592c61019f13eba81b095784cd7119a8fef810",
+          "sha256": "354871ed67991961c1a4c3e8dedfa13b386856dc65ad91bbfe355fc83f289623",
           "bytes": 30805
         },
         "nameHe": {
           "path": "audio/names/he/flamingo.ogg",
-          "sha256": "30275701bfab1c1ae55b6570b08b8480ea5081b87e478bab5eb1abbb226a8f1c",
+          "sha256": "a7e88df2fdb3a4b9b076f344b07bf423c413cef89bbc702305f49b0f64c9244a",
           "bytes": 8049
         },
         "nameEn": {
           "path": "audio/names/en/flamingo.ogg",
-          "sha256": "e0594de169887c1ec8dcd90baa01071ffe3bda6d2a5f1ae1f14ddb18300692c4",
-          "bytes": 7831
+          "sha256": "7b036775520018232dc974cb98257233f387c2b774c168f39a92df1e308e2d39",
+          "bytes": 7828
         }
       }
     },
@@ -3321,7 +3321,7 @@
         "en": "The ostrich booms a deep call: boom boom! It is the biggest bird in the world; it cannot fly, but it runs faster than a horse."
       },
       "diet": {
-        "he": "אוכל זרעים, עלים, חרקים ואבנים קטנות",
+        "he": "זרעים, עלים, חרקים ואבנים קטנות",
         "en": "Seeds, leaves, insects and small stones"
       },
       "skills": {
@@ -3382,13 +3382,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ostrich.ogg",
-          "sha256": "38df0b360ede274fee85311bb04134e98d4ed85997369e63bca4a23345076a1d",
+          "sha256": "17ba80bb2c7b4ba086396497f42100d399ffb7b598014e1cfcbcf69b5ef89840",
           "bytes": 5041
         },
         "nameEn": {
           "path": "audio/names/en/ostrich.ogg",
-          "sha256": "143fdde93ba8d1cb910e84ff34aef5511a7669ba5d5fc047fe9e0a372027f4cc",
-          "bytes": 8076
+          "sha256": "6f17cb8544c26d6899ab53a10ce621b158142d776d3bc4138247e2c2234a4758",
+          "bytes": 7908
         }
       }
     },
@@ -3414,7 +3414,7 @@
         "en": "The camel grumbles a long call: grrumble! It walks the desert for days without drinking, and stores fat in its hump for hard times."
       },
       "diet": {
-        "he": "אוכל קוצים, עשב יבש ועלי שיחים",
+        "he": "קוצים, עשב יבש ועלי שיחים",
         "en": "Thorns, dry grass and shrub leaves"
       },
       "skills": {
@@ -3471,18 +3471,18 @@
         ],
         "sound": {
           "path": "audio/sounds/camel.ogg",
-          "sha256": "63741fee76bf1b6df4837aefd30c8a7731c43d423e6fa967db1629f5256291d3",
+          "sha256": "f21c27a45359a5b3278c3029801242de68baabcfe3c6ab1fa4ea7c8705854fb9",
           "bytes": 30608
         },
         "nameHe": {
           "path": "audio/names/he/camel.ogg",
-          "sha256": "cbfa109eb24f9d7e0896041a2ccdca153286049c736ac671bc68b4216353aec8",
+          "sha256": "05e75949b705a1d4e65a8cfdab18b1f1e1290cda8335bf4bc25f8fdb94d95c5d",
           "bytes": 4901
         },
         "nameEn": {
           "path": "audio/names/en/camel.ogg",
-          "sha256": "d07656892d1d536fb52248c0d497b182d1a64ef0a8c65bae5510e4d4117d88e5",
-          "bytes": 6554
+          "sha256": "d54af20c526c3887109d5e424a3201a8492aee296be5ab45aca6c0bd113edcb3",
+          "bytes": 6604
         }
       }
     },
@@ -3508,7 +3508,7 @@
         "en": "The tiger roars: grrroar! It is the biggest cat in the world, and its orange and black stripes hide it among the tall grass."
       },
       "diet": {
-        "he": "אוכל בשר — צבאים, חזירי בר ודגים",
+        "he": "בשר — צבאים, חזירי בר ודגים",
         "en": "Meat — deer, wild boar and fish"
       },
       "skills": {
@@ -3571,18 +3571,18 @@
         ],
         "sound": {
           "path": "audio/sounds/tiger.ogg",
-          "sha256": "0f72733761069a742b9e887d7413498e4a2377e2ab0841ae781b04c2b80c2377",
+          "sha256": "b6ff40dce81a4cfffd420eef48ac235157a8405cf78f9b9e9541802c5b0019fa",
           "bytes": 27607
         },
         "nameHe": {
           "path": "audio/names/he/tiger.ogg",
-          "sha256": "6d7e0ffc04e136180efef4da4aee32587646a9de4e34856f84142cd13ad1ae1f",
+          "sha256": "47fe2fa70f5402c632c713aaff4cd1b0e1f9a9a12ec81d71edb11a63ab7ce548",
           "bytes": 8929
         },
         "nameEn": {
           "path": "audio/names/en/tiger.ogg",
-          "sha256": "7eab89230a27fcdf5d1370acf7765ee71a6646b97cf3393bd9b3538c7818a339",
-          "bytes": 6941
+          "sha256": "b0c98b34e3c08e61b352474efcfb378e8bf938d8fed15f1aeadcb954b539773b",
+          "bytes": 7163
         }
       }
     },
@@ -3608,7 +3608,7 @@
         "en": "The panda does not roar — it bleats, exactly like a sheep! It sits all day chewing bamboo with both hands."
       },
       "diet": {
-        "he": "אוכלת במבוק, כמעט ורק במבוק",
+        "he": "במבוק, כמעט ורק במבוק",
         "en": "Bamboo, and almost nothing but bamboo"
       },
       "skills": {
@@ -3665,18 +3665,18 @@
         ],
         "sound": {
           "path": "audio/sounds/panda.ogg",
-          "sha256": "58719f9d7ba5c6c358e5286e6c5ea1ee647b0a95f5e24c4bd62f9d13df8c5cee",
+          "sha256": "67197b746c2a441bfbf2278c4435ffb137e659b0617bc03303f8f1cbb5de3031",
           "bytes": 13234
         },
         "nameHe": {
           "path": "audio/names/he/panda.ogg",
-          "sha256": "bc7d1ee0fde3b047f1f2f7faaf6cc7d3c0a3890aafc3d54e441352bb3ce7eb2c",
+          "sha256": "57829aabf4c11ff5bace1d6392545c504d9b78d3ae526b08b885f686072d2fec",
           "bytes": 5173
         },
         "nameEn": {
           "path": "audio/names/en/panda.ogg",
-          "sha256": "f166da3867b5d4ab3a21707be8d1f63c7c00f68910e41b7a3c39869815f667b3",
-          "bytes": 7139
+          "sha256": "512bd93c657f7f8150ebce16ce152ec5e1146c105904f63fd1d873fc73d2b6e6",
+          "bytes": 6710
         }
       }
     },
@@ -3764,18 +3764,18 @@
         ],
         "sound": {
           "path": "audio/sounds/monkey.ogg",
-          "sha256": "63964fdd43605bb6e8384b6cdd6e3484d06674297ee36a04f882d08fe19248ed",
+          "sha256": "97824f850987d25856a247241ae334214342c59151c5f60ee41e7d9b61d3da7e",
           "bytes": 14883
         },
         "nameHe": {
           "path": "audio/names/he/monkey.ogg",
-          "sha256": "9e55dcaa256f11b3fb9536401fd9bb9a3894aa31b021818b32021dfe6fef93ef",
+          "sha256": "3fec21f89c6c12d2b834ecfae34029a1eecd395597712a8d392d19362153ed7d",
           "bytes": 5133
         },
         "nameEn": {
           "path": "audio/names/en/monkey.ogg",
-          "sha256": "e1d00f012f3b925718b418d14120812d61d8d2c656611ebe23bd340dfe957c03",
-          "bytes": 6445
+          "sha256": "2f0f1451111526941456721db53390414515807b727693a76090680d26337662",
+          "bytes": 6556
         }
       }
     },
@@ -3801,7 +3801,7 @@
         "en": "The orangutan gives a long call: hoooo! It lives almost its whole life in the trees, and every evening it builds itself a new bed out of branches."
       },
       "diet": {
-        "he": "אוכל פירות, עלים, קליפות עצים וחרקים",
+        "he": "פירות, עלים, קליפות עצים וחרקים",
         "en": "Fruit, leaves, bark and insects"
       },
       "skills": {
@@ -3858,13 +3858,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/orangutan.ogg",
-          "sha256": "1d96353cf34f993920ce71dee81658b2ce134db913cc6e1da54a134ba42f04ea",
+          "sha256": "13f57cd6bd542aa05d8f02109ad5d0419df7e9e12781fe3aecc9ca8a630398d3",
           "bytes": 7718
         },
         "nameEn": {
           "path": "audio/names/en/orangutan.ogg",
-          "sha256": "2979f6976a57eea2aace73dfbfb1f3da861414bce85a25fda11bacd04ac7b3ca",
-          "bytes": 8643
+          "sha256": "6542417eb439736469ef1cc3ce1405d875f06003365019af4310a53f54ba87df",
+          "bytes": 8515
         }
       }
     },
@@ -3890,7 +3890,7 @@
         "en": "The peacock calls: ay-oh ay-oh! When it wants to impress, it opens its tail into a huge crown of feathers with blue-green eyes on them."
       },
       "diet": {
-        "he": "אוכל זרעים, חרקים, פרחים ופירות",
+        "he": "זרעים, חרקים, פרחים ופירות",
         "en": "Seeds, insects, flowers and fruit"
       },
       "skills": {
@@ -3953,18 +3953,18 @@
         ],
         "sound": {
           "path": "audio/sounds/peacock.ogg",
-          "sha256": "e59fc1441a2c865e3627587d5ffb685a5b3574cd91ed31ba47913d77779ea3ed",
+          "sha256": "eeae8798bc47eb517da1fcdb4a93813995517666af30fc295fb19c2ef69cf88e",
           "bytes": 28487
         },
         "nameHe": {
           "path": "audio/names/he/peacock.ogg",
-          "sha256": "397e039124c366875b4f961934a4cdaf5915e020d77764c7ca67f9997f39e8f4",
+          "sha256": "01deaa658ee287644a3d2c61357eb01c00e65a322cbf6cad6207e54d16f0d91e",
           "bytes": 5405
         },
         "nameEn": {
           "path": "audio/names/en/peacock.ogg",
-          "sha256": "b4889eca24738b90bdb7237ce8b4a467bc17bf9588ea57f5b391d9ad00b1024e",
-          "bytes": 7453
+          "sha256": "33477733b97396e16a1c5a98550b07ce61673e839b470e0ee2acd5eda7f2f999",
+          "bytes": 7598
         }
       }
     },
@@ -3990,7 +3990,7 @@
         "en": "The snake hisses: sssss! It has no legs and glides on its belly, and its forked tongue smells the air."
       },
       "diet": {
-        "he": "אוכל עכברים, ציפורים, ביצים וחרקים",
+        "he": "עכברים, ציפורים, ביצים וחרקים",
         "en": "Mice, birds, eggs and insects"
       },
       "skills": {
@@ -4053,18 +4053,18 @@
         ],
         "sound": {
           "path": "audio/sounds/snake.ogg",
-          "sha256": "28c0b5a84e4f1e8ffc805ec1af09fee89523406edb565b1b5ad2ee7217bde9f6",
+          "sha256": "c542aa31d9bca776bd3e12909aa18a5eb2b1279b82378a33721a73b70a2f7220",
           "bytes": 28601
         },
         "nameHe": {
           "path": "audio/names/he/snake.ogg",
-          "sha256": "36307dfe006e747cf8a03abbcf9717bcd803c7b6fedca6c8364b571205d5db34",
+          "sha256": "4d92d48b3e1d7ef93a275ec137dc0bd29d575b8f75fc50473150b2d79ec934b9",
           "bytes": 5520
         },
         "nameEn": {
           "path": "audio/names/en/snake.ogg",
-          "sha256": "3be723aa83340b2d0a9cb275722beef44ac55924d65e08045a32532e503d08ce",
-          "bytes": 6987
+          "sha256": "bb89f395212ed61699b28a23ae191500e181a59cc3430fbbdeefe56d8949e9e5",
+          "bytes": 7053
         }
       }
     },
@@ -4090,7 +4090,7 @@
         "en": "The water buffalo lows: moo! It is very strong and loves to wade into water and mud, which is how it cools off on a hot day."
       },
       "diet": {
-        "he": "אוכל עשב, קש וצמחי מים",
+        "he": "עשב, קש וצמחי מים",
         "en": "Grass, straw and water plants"
       },
       "skills": {
@@ -4147,13 +4147,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/water_buffalo.ogg",
-          "sha256": "fe20c9135d1a6bd305bfd6caea3d27d46217d97adc6e8efd384f88bd5d062760",
+          "sha256": "741ed8c84e2ea3fc82558a2cf81bdc32e1f6569a7e58a23531cd4552004fac04",
           "bytes": 4889
         },
         "nameEn": {
           "path": "audio/names/en/water_buffalo.ogg",
-          "sha256": "69d89c5e4539c0ed1f01f16a0ccf6a51ef8447c41b8c1d27bc2d7b6c5c30672d",
-          "bytes": 9700
+          "sha256": "f99122e37bdad038f17caee633640ce0cd066da0dba43362c57d3d19446461af",
+          "bytes": 9837
         }
       }
     },
@@ -4179,7 +4179,7 @@
         "en": "The yak grunts quietly: hmmm! It lives high in the cold mountains, and long fur hangs down to the ground and keeps it warm."
       },
       "diet": {
-        "he": "אוכל עשב וטחבים שצומחים בהרים",
+        "he": "עשב וטחבים שצומחים בהרים",
         "en": "Grass and mosses that grow high in the mountains"
       },
       "skills": {
@@ -4236,18 +4236,18 @@
         ],
         "sound": {
           "path": "audio/sounds/yak.ogg",
-          "sha256": "d6c98075a1740f1604673bc0183b9d5f5e61e2ec986d26e0d883c746c5696c6f",
+          "sha256": "401351d1daf47228534e174847786f87a87950ca484244352adeba2e9d52939c",
           "bytes": 28373
         },
         "nameHe": {
           "path": "audio/names/he/yak.ogg",
-          "sha256": "4339a3983724f71b02fbb75f938c84a827d2c1374366d9fcd21ab740c5396c14",
+          "sha256": "bc79e5e50899334df35c68d3371634f6d497faa94e4dfec72b554381c221139a",
           "bytes": 4660
         },
         "nameEn": {
           "path": "audio/names/en/yak.ogg",
-          "sha256": "526617ff8569866c7dcbb62b3d5e4a8b7e534ac2030f6b5a62c7694ad09fb860",
-          "bytes": 6607
+          "sha256": "b2d226aa2c7e1e52ba940c65a1735336cad55d59b57a5dcd3d03e771c318c9ce",
+          "bytes": 6493
         }
       }
     },
@@ -4273,7 +4273,7 @@
         "en": "The bear growls: grrr! It is big and strong, loves honey and berries, and in winter it goes into a cave for a long sleep."
       },
       "diet": {
-        "he": "אוכל פירות יער, דגים, דבש, שורשים וחרקים",
+        "he": "פירות יער, דגים, דבש, שורשים וחרקים",
         "en": "Berries, fish, honey, roots and insects"
       },
       "skills": {
@@ -4336,18 +4336,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bear.ogg",
-          "sha256": "dd3e9f791e725a06485ae69d6a472b8b907e85d82daaa300a645c4955b29d11a",
+          "sha256": "78276fa557355970b71a09d54bcc9df4a689f34637c6a26732c856aab1181746",
           "bytes": 28793
         },
         "nameHe": {
           "path": "audio/names/he/bear.ogg",
-          "sha256": "abcdbe05eb70009f4303734c269a505606c5270cfd6c1e95f616082e2b085ecf",
+          "sha256": "dd8cd8f7dec95512e0d82a7745b7a2e1ab4fc3d2ccb665785c959734ad519a32",
           "bytes": 4937
         },
         "nameEn": {
           "path": "audio/names/en/bear.ogg",
-          "sha256": "efcaa50898eca7bce383b59f69c89040ac8b767dc3cadf56d200bc4214daa02b",
-          "bytes": 5197
+          "sha256": "9ef03fccff7b73c52c200c2315d4d99ee13ba588c63123310ce52275d3757160",
+          "bytes": 5479
         }
       }
     },
@@ -4373,7 +4373,7 @@
         "en": "The polar bear growls: rrrr! It lives on the ice of the Arctic, swims in freezing water, and its white fur hides it in the snow."
       },
       "diet": {
-        "he": "אוכל כלבי ים ודגים",
+        "he": "כלבי ים ודגים",
         "en": "Seals and fish"
       },
       "skills": {
@@ -4434,18 +4434,18 @@
         ],
         "sound": {
           "path": "audio/sounds/polar_bear.ogg",
-          "sha256": "c462e55d66ba42584a245371dabae24673b28aab22c2f816876c6bbe29f390a1",
+          "sha256": "3b7015a9b15c3e6682ee415d0379bc2c14f1f574a86adf6398c941f40bb7089b",
           "bytes": 30543
         },
         "nameHe": {
           "path": "audio/names/he/polar_bear.ogg",
-          "sha256": "16895d0d4954aa26677cdcc0d133950c8960bec859a5ad88f790ed23082bf1eb",
+          "sha256": "6f888ae7653d139f293c6fa2eb54136b077387d8f34061ab03528045483a4172",
           "bytes": 7226
         },
         "nameEn": {
           "path": "audio/names/en/polar_bear.ogg",
-          "sha256": "807727e77e412fdf0224a8c32f13ade0d18e28a94fecfe1dab2b5cd1b9ff14a6",
-          "bytes": 8902
+          "sha256": "09d8594d8c911d6b84ab7e3ddc9ef2d297c782d886f7cc9659377cf2b1651646",
+          "bytes": 8875
         }
       }
     },
@@ -4471,7 +4471,7 @@
         "en": "The wolf howls: awoooo! It lives in a pack like a family, and its long howl tells everyone: I am here, come to me."
       },
       "diet": {
-        "he": "אוכל בשר — צבאים, ארנבות ומכרסמים",
+        "he": "בשר — צבאים, ארנבות ומכרסמים",
         "en": "Meat — deer, hares and small rodents"
       },
       "skills": {
@@ -4534,18 +4534,18 @@
         ],
         "sound": {
           "path": "audio/sounds/wolf.ogg",
-          "sha256": "41b3b4ca13b9109237c258630a7dd46c26540752f057af3ab2f1698f277d8bbe",
+          "sha256": "eae3b6e3d2c8cba8f5dd9d9fb69fd6045f73b2dc49f87ae8091c032570173723",
           "bytes": 21311
         },
         "nameHe": {
           "path": "audio/names/he/wolf.ogg",
-          "sha256": "35232a9566c9e8fde83ec7e6d15f00b677c0f9026e5307dc689ed94c0e8fa3f9",
+          "sha256": "0732fe536b33572fa1fe766150f0c48391424a2cf7d2563259e604fa4661c40f",
           "bytes": 5014
         },
         "nameEn": {
           "path": "audio/names/en/wolf.ogg",
-          "sha256": "7db7401db6a4769aac41a990d69446abede1fc71f6b857817fab0b13e097fa14",
-          "bytes": 5227
+          "sha256": "583a9ebd390c388b90032f5d50c7fd4f5bb8e1d7d61422e95bdd985e6ee4923b",
+          "bytes": 5112
         }
       }
     },
@@ -4571,7 +4571,7 @@
         "en": "The fox yips: yip yip! It is clever and quick, comes out mostly at night, and uses its bushy tail as a blanket when it is cold."
       },
       "diet": {
-        "he": "אוכל מכרסמים, ציפורים, חרקים ופירות",
+        "he": "מכרסמים, ציפורים, חרקים ופירות",
         "en": "Rodents, birds, insects and fruit"
       },
       "skills": {
@@ -4634,18 +4634,18 @@
         ],
         "sound": {
           "path": "audio/sounds/fox.ogg",
-          "sha256": "60c83263eb9765cf1a972cd74ec871962e43042faf8e075597af1daa31c742b7",
+          "sha256": "dce936945e234e66ac24d302e74e94f11733b4917817a9bad6d5d50b78d91d96",
           "bytes": 30219
         },
         "nameHe": {
           "path": "audio/names/he/fox.ogg",
-          "sha256": "fe0bcc86808fca74480d2ff66185010f19458940495325b1ff1c3331baa7db71",
+          "sha256": "7b22376784ee599f4887191b8399bf374585b7a2f41a54539484620cffd2f346",
           "bytes": 5376
         },
         "nameEn": {
           "path": "audio/names/en/fox.ogg",
-          "sha256": "4bcaeae48ace0016a605e6b4e99da7d83b44558ae96afc5521ae8602b8d5558d",
-          "bytes": 7107
+          "sha256": "5bc0a758f12154abfd8f69e8fe99b7c15fd6a46c106972cbfe45f3f756ff0653",
+          "bytes": 7190
         }
       }
     },
@@ -4671,7 +4671,7 @@
         "en": "The deer bellows: belloow! Branching antlers grow on its head like tree branches, and they fall off and grow back every year."
       },
       "diet": {
-        "he": "אוכל עשב, עלים, ניצנים ופירות",
+        "he": "עשב, עלים, ניצנים ופירות",
         "en": "Grass, leaves, buds and fruit"
       },
       "skills": {
@@ -4728,18 +4728,18 @@
         ],
         "sound": {
           "path": "audio/sounds/deer.ogg",
-          "sha256": "dfa83bc96fa514fa9be35e918b8bf28a0a320748aaee26db2d8e3f60741d3be3",
+          "sha256": "9024860b34611ec4e8f6d72160a846ac65bb23193b5c06371c2325939d26610c",
           "bytes": 8308
         },
         "nameHe": {
           "path": "audio/names/he/deer.ogg",
-          "sha256": "19204d49ad3f4777e5616be9f588b77de1c1bdce00602965f84866ee1a44b50c",
+          "sha256": "144e546004342858fda72c5eaa864327ae5e49dec5574414c738d988bcdcfb43",
           "bytes": 6098
         },
         "nameEn": {
           "path": "audio/names/en/deer.ogg",
-          "sha256": "3b45260ce81bf3e3ad4ce180be66b14eb932523335b85c2083c53149c87bfd8b",
-          "bytes": 6317
+          "sha256": "189c439bb628a31ea123a461c215b698132ac4c48fb72290a57b162d1c86bf73",
+          "bytes": 6229
         }
       }
     },
@@ -4765,7 +4765,7 @@
         "en": "The moose bellows: ohwaah! It is the largest deer in the world, taller than a car, and its broad antlers look like two giant palms."
       },
       "diet": {
-        "he": "אוכל ענפים, עלים וצמחי מים",
+        "he": "ענפים, עלים וצמחי מים",
         "en": "Branches, leaves and water plants"
       },
       "skills": {
@@ -4822,18 +4822,18 @@
         ],
         "sound": {
           "path": "audio/sounds/moose.ogg",
-          "sha256": "21300f72cecce9f68d2bbf33f39b1e92fa48ffcab23b077dfe5a959fef913cb3",
+          "sha256": "d3a321196c4c189256b36418c2996e01ac801d98e6a43078a955c35e45873763",
           "bytes": 28003
         },
         "nameHe": {
           "path": "audio/names/he/moose.ogg",
-          "sha256": "87fe9261d4bc333cc4024f2aa31e4026adf388ea558323c08e75fcdcc71139b7",
+          "sha256": "160cdd504959db9a0edb7b11b0988557228c50efb024cf46f05885a642dbef93",
           "bytes": 5226
         },
         "nameEn": {
           "path": "audio/names/en/moose.ogg",
-          "sha256": "a9d97fc7067e097b79c872e5f6302d49cb6a3a9fd323411aa8c79ef419577385",
-          "bytes": 6495
+          "sha256": "9977be7314d67dde405c8aa2c636ba44cc17e2c71f7576379ea72d998767222b",
+          "bytes": 6892
         }
       }
     },
@@ -4859,7 +4859,7 @@
         "en": "The hedgehog snuffles quietly: snuffle snuffle! When it is startled it curls into a prickly ball, with every spine pointing outwards."
       },
       "diet": {
-        "he": "אוכל חרקים, תולעים, חלזונות ופירות",
+        "he": "חרקים, תולעים, חלזונות ופירות",
         "en": "Insects, worms, snails and fruit"
       },
       "skills": {
@@ -4923,18 +4923,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hedgehog.ogg",
-          "sha256": "b1fd04c67bc590d2c8d297da7f43caa4f9b3b2f8e987069a1f2996fcde9fe6e5",
+          "sha256": "3c1d624254d545f382c0f67b0303a337f71be77a3d547041f3e59abc559109dd",
           "bytes": 32536
         },
         "nameHe": {
           "path": "audio/names/he/hedgehog.ogg",
-          "sha256": "00b263245b8738e7fcae5a81f954a3965b9104bc4e3fbfcc8f84d2c47cd65e57",
+          "sha256": "1a2846b892a411570e175944daaa586ecf68816b646a2c2f74ef16903a55f36b",
           "bytes": 6966
         },
         "nameEn": {
           "path": "audio/names/en/hedgehog.ogg",
-          "sha256": "867dcc14ee0fed635fd07cfdb52e774cc1ce17f09acd24ecf6d7353ed994f1fa",
-          "bytes": 7298
+          "sha256": "a595e1b768c4706592fc41893b22863a0281dbb7ec4ad6d3a4146299bbe22c63",
+          "bytes": 7318
         }
       }
     },
@@ -4960,7 +4960,7 @@
         "en": "The squirrel chatters: chuk chuk! It leaps from branch to branch at speed, and buries nuts in the ground ready for winter."
       },
       "diet": {
-        "he": "אוכל אגוזים, זרעים, ניצנים ופטריות",
+        "he": "אגוזים, זרעים, ניצנים ופטריות",
         "en": "Nuts, seeds, buds and mushrooms"
       },
       "skills": {
@@ -5017,18 +5017,18 @@
         ],
         "sound": {
           "path": "audio/sounds/squirrel.ogg",
-          "sha256": "a1bbceef1b80f2a8501d72b6ad5bd2359b24854bb5bf8cc712d97eb168825fcf",
+          "sha256": "34b0e7f5c81f49901092ea1730554d5aba11d27e69f654e8defcc3a1b17ac3c9",
           "bytes": 31608
         },
         "nameHe": {
           "path": "audio/names/he/squirrel.ogg",
-          "sha256": "95603f9c9612f0e5f6cc7d15c6de5ad522b7c3e90986c837cffea3f3fa175e31",
+          "sha256": "34af2a9b9ffa17058dd3ebf3ae6c3c78ae352a5653bc1552a9cb13b1e1681dda",
           "bytes": 6516
         },
         "nameEn": {
           "path": "audio/names/en/squirrel.ogg",
-          "sha256": "4f24453025a5ee05715356a86abce81a70d70f5744964e098de8e0ce394af546",
-          "bytes": 7244
+          "sha256": "9c26c13fdfc39eb56d24b0df6f980ade7043adda7cf4d7767940056009944f02",
+          "bytes": 7255
         }
       }
     },
@@ -5054,7 +5054,7 @@
         "en": "The badger growls: grrr! It digs huge burrows with rooms and corridors, where whole families live for generations."
       },
       "diet": {
-        "he": "אוכלת תולעים, חרקים, שורשים ופירות",
+        "he": "תולעים, חרקים, שורשים ופירות",
         "en": "Worms, insects, roots and fruit"
       },
       "skills": {
@@ -5115,18 +5115,18 @@
         ],
         "sound": {
           "path": "audio/sounds/badger.ogg",
-          "sha256": "662b06543106dfe135f2c38c49736e3f2e8e438d104ecd33433908ef550e8795",
+          "sha256": "ff852d43eb5f3c3c7dc19feba08f69a73e444555c2a2b062bce004056d23d80d",
           "bytes": 30422
         },
         "nameHe": {
           "path": "audio/names/he/badger.ogg",
-          "sha256": "904aaa984575bc5342c4525db6131a6aaecc6b47407198223269ed41248ec1ab",
+          "sha256": "8487d253a89b25c40a70b6475d0e5ac1104fee2712df7feed515a73a204d4afc",
           "bytes": 7315
         },
         "nameEn": {
           "path": "audio/names/en/badger.ogg",
-          "sha256": "3883a8e1a327731b17e391a506b2c239b3ff3a495f13bd38116c7312343b8b2c",
-          "bytes": 6849
+          "sha256": "c7480a0978b4a89fabe4394894ca84621222d60f15de0573758d24bb42f4d117",
+          "bytes": 6874
         }
       }
     },
@@ -5152,7 +5152,7 @@
         "en": "The beaver squeaks: squeak squeak, and when it is startled it slaps its flat tail on the water — splat! It builds a dam of branches and a home inside the lake."
       },
       "diet": {
-        "he": "אוכל קליפות עצים, ענפים וצמחי מים",
+        "he": "קליפות עצים, ענפים וצמחי מים",
         "en": "Bark, branches and water plants"
       },
       "skills": {
@@ -5209,13 +5209,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/beaver.ogg",
-          "sha256": "a04d705b3e6f163d841deeeb398113b20bbdfb586f5fe7b627dbccc9899316db",
+          "sha256": "499036e5ffbd0b3bb8b8efdc07c005a1f7d242c0b194c36ddbf8ba7433986026",
           "bytes": 5581
         },
         "nameEn": {
           "path": "audio/names/en/beaver.ogg",
-          "sha256": "edea2b2f2edf45a526fb18220ee7b12e183e372656ee92083fd901501008d34a",
-          "bytes": 6460
+          "sha256": "c65763317fc8d82eddb065498a80e17a9f181a87ecae74fc5ccaa93d367b3972",
+          "bytes": 6459
         }
       }
     },
@@ -5241,7 +5241,7 @@
         "en": "The otter squeaks: squeak squeak! It swims like a torpedo, rolls onto its back, and even cracks shellfish with a stone it keeps on its belly."
       },
       "diet": {
-        "he": "אוכלת דגים, סרטנים וצפרדעים",
+        "he": "דגים, סרטנים וצפרדעים",
         "en": "Fish, crabs and frogs"
       },
       "skills": {
@@ -5268,12 +5268,12 @@
       "facts": {
         "he": [
           "לוטרות ים אוחזות ידיים בשינה, כדי לא להיסחף זו מזו",
-          "לפרווה שלה מיליון שערות בכל סנטימטר, והיא שומרת עליה חמה ויבשה",
+          "לפרווה שלה כמאה אלף שערות בכל סנטימטר מרובע — צפופה מכל פרווה בעולם",
           "לוטרת ים שומרת אבן אהובה בכיס עור מתחת לזרוע, ומשתמשת בה שוב ושוב"
         ],
         "en": [
           "Sea otters hold hands while they sleep, so they do not drift apart",
-          "Its fur has a million hairs per square centimetre, keeping it warm and dry",
+          "Its fur has about a hundred thousand hairs per square centimetre — the densest fur there is",
           "A sea otter keeps a favourite stone in a pouch of skin under its arm, and uses it again and again"
         ]
       },
@@ -5303,18 +5303,18 @@
         ],
         "sound": {
           "path": "audio/sounds/otter.ogg",
-          "sha256": "ff863cdf4500e21c7dfc4852152dfe39fd9dc1dee711589ada5034fa327dc394",
+          "sha256": "ae01f361384d3b545df229fa130d6fe728bf7d389cf4a6988d4dbfa595c17991",
           "bytes": 29325
         },
         "nameHe": {
           "path": "audio/names/he/otter.ogg",
-          "sha256": "77af5987eddbb07456205993f8d5b50e883ad4ecd7b81ec285bf245c8f59bad2",
+          "sha256": "c07c8e0bb4278510cb67e49675675cd200e8b811496e1064972e223c3f3ad4cc",
           "bytes": 5975
         },
         "nameEn": {
           "path": "audio/names/en/otter.ogg",
-          "sha256": "ff5a466b53d5606371ae0e3cc3460bd8a922d22ce3b7337830655ba6b8f511ea",
-          "bytes": 5849
+          "sha256": "3e3b15e155c619426156dcc8c4c9e45e8986c71f3c86973c0eb41114ad428869",
+          "bytes": 5625
         }
       }
     },
@@ -5340,7 +5340,7 @@
         "en": "The owl hoots: hoo hoo! It is awake at night, flies without making a sound, and can turn its head almost all the way round."
       },
       "diet": {
-        "he": "אוכל עכברים, חרקים וציפורים קטנות",
+        "he": "עכברים, חרקים וציפורים קטנות",
         "en": "Mice, insects and small birds"
       },
       "skills": {
@@ -5403,18 +5403,18 @@
         ],
         "sound": {
           "path": "audio/sounds/owl.ogg",
-          "sha256": "32f8cb6b0e1c246ee78b5121c16f1255b67bfe6a89ed1d517e59f13defcaef8f",
+          "sha256": "cf5b04abd9e7cb829076170927f359cd14bd6771889487a67b3870430301a525",
           "bytes": 28347
         },
         "nameHe": {
           "path": "audio/names/he/owl.ogg",
-          "sha256": "ade2d2d58766dd240d8b491e44b4880a1f1733485ba42561c3949c0cb1e26636",
+          "sha256": "bfdbbe12070a46058445e5374a3608d1ad92534a37a70bab05de601180845f28",
           "bytes": 6793
         },
         "nameEn": {
           "path": "audio/names/en/owl.ogg",
-          "sha256": "50ba391e019c777f6bf3817c222f01aec62de1652bd0c40171ce5ff2a5c4c64c",
-          "bytes": 5892
+          "sha256": "0f7e34fc8221fdb1018d0071f19224019f7d72a5af8157d68b4f4e80ea02436f",
+          "bytes": 5799
         }
       }
     },
@@ -5440,7 +5440,7 @@
         "en": "The eagle screeches: kee kee! It soars high in the sky with barely a wingbeat, and from up there it can see tiny things on the ground."
       },
       "diet": {
-        "he": "אוכל דגים, ארנבות ומכרסמים",
+        "he": "דגים, ארנבות ומכרסמים",
         "en": "Fish, hares and rodents"
       },
       "skills": {
@@ -5503,18 +5503,18 @@
         ],
         "sound": {
           "path": "audio/sounds/eagle.ogg",
-          "sha256": "9364b84f326bc02917cc377adec85ea9fe98d24bf8d2524d02186ef37108ae96",
+          "sha256": "20c303984b22f45228d9af22766f18fe8a14eb21d0b23e5fbfa80904cabc4502",
           "bytes": 27962
         },
         "nameHe": {
           "path": "audio/names/he/eagle.ogg",
-          "sha256": "da9cf5d3be75c2e22269528897bc83eea3f36583a2a7fb12c2d0ccee3db547bd",
+          "sha256": "bfd210866d5cbd8678c591bbd12b40c0c552967f357917f72a87c03289b216be",
           "bytes": 5433
         },
         "nameEn": {
           "path": "audio/names/en/eagle.ogg",
-          "sha256": "f3f43d6f332915899fdbe79118fac91fca775664bb46c907d5ccacfe7b20226f",
-          "bytes": 6415
+          "sha256": "eaf1547aaf90ba7bb56d54c089fa2b2b0342572dc057c185a10ba4399f436c0e",
+          "bytes": 6398
         }
       }
     },
@@ -5540,7 +5540,7 @@
         "en": "The raccoon chitters: chrr chrr! It wears a black mask around its eyes, and it turns its food over in water — not to clean it, but to feel it better."
       },
       "diet": {
-        "he": "אוכל פירות, ביצים, דגים, חרקים ושאריות",
+        "he": "פירות, ביצים, דגים, חרקים ושאריות",
         "en": "Fruit, eggs, fish, insects and leftovers"
       },
       "skills": {
@@ -5603,18 +5603,18 @@
         ],
         "sound": {
           "path": "audio/sounds/raccoon.ogg",
-          "sha256": "3bcffa244b6a36790f54241b21eea9c33089e4badb3d71fe1fa5e1b4cf99f7ad",
+          "sha256": "69fdc20b2690bf1445112d4011402cc8b5d9965226d1a680ce2705bff7a7bd22",
           "bytes": 28870
         },
         "nameHe": {
           "path": "audio/names/he/raccoon.ogg",
-          "sha256": "1fc6b3b3add8e3b33c86a5b3a71957b427ee3a92bb843be6ba18dc31d8def894",
+          "sha256": "e1b3a0675b96a0693269881e7505f48764f04819735b2ee9242468e73c6409b7",
           "bytes": 8428
         },
         "nameEn": {
           "path": "audio/names/en/raccoon.ogg",
-          "sha256": "9a3dc6f02a07eb8f2e6a0565388ffce84ce53865a2a753af781e77c917bcb9a5",
-          "bytes": 7664
+          "sha256": "c08172d349ae4a1bf1da132d46867e6d87918529b496383f29ea1fc2d70c8bcf",
+          "bytes": 7525
         }
       }
     },
@@ -5640,7 +5640,7 @@
         "en": "The bison grunts: hmmm! It is huge and heavy, with an enormous head and brown fur, and in winter it sweeps snow aside with its head to reach the grass."
       },
       "diet": {
-        "he": "אוכל עשב וצמחים",
+        "he": "עשב וצמחים",
         "en": "Grass and plants"
       },
       "skills": {
@@ -5697,18 +5697,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bison.ogg",
-          "sha256": "78d56a4eb9ee3e8fa0ff8e6dae1ddca415bff700cbba6067073bd200ac321cbe",
+          "sha256": "4b54ce7b71ed725b26548cca8fd2b347f92474a8d0954817cb25f52e49afa983",
           "bytes": 21738
         },
         "nameHe": {
           "path": "audio/names/he/bison.ogg",
-          "sha256": "0a612014e4131cb138e5c322d481329018ecee0fb285c8f690519b873aa51cfe",
+          "sha256": "87837fc1b8dd6e066a7cbba75c783ce2e4514e1932206cd565db9b156b65e048",
           "bytes": 8456
         },
         "nameEn": {
           "path": "audio/names/en/bison.ogg",
-          "sha256": "26a5262daadfb2dadd773d24f9e8fb6d91e1deae70273e8fd40afc6530168f94",
-          "bytes": 6533
+          "sha256": "c8aee51976f1f29157d17bef72a86ce261f366e66ceb157ca289448da54cd924",
+          "bytes": 6739
         }
       }
     },
@@ -5734,7 +5734,7 @@
         "en": "The skunk makes almost no sound — it stamps its front feet: stamp stamp! That is a warning, and if you do not back away it sprays a terrible smell that lingers for days."
       },
       "diet": {
-        "he": "אוכל חרקים, תולעים, ביצים ופירות",
+        "he": "חרקים, תולעים, ביצים ופירות",
         "en": "Insects, worms, eggs and fruit"
       },
       "skills": {
@@ -5797,13 +5797,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/skunk.ogg",
-          "sha256": "3d65cbb0425a854d4d906ab811de5c3d1c451c6cdd4cf7547b9bb20404eff112",
+          "sha256": "a228a15bf4e9955d60597009f3e82c1021d374b43c0ccf09b11bbfeca1006902",
           "bytes": 6058
         },
         "nameEn": {
           "path": "audio/names/en/skunk.ogg",
-          "sha256": "1689601300b8304d684240ce5db1d2ec50d91784a7ded9ee764fff12cad5d468",
-          "bytes": 7058
+          "sha256": "1dd0bc599e6c8b30150af30339c941c3099b13ca37fff8c3a73c7a401f429be8",
+          "bytes": 7233
         }
       }
     },
@@ -5829,7 +5829,7 @@
         "en": "The kangaroo clucks: chuk chuk! It hops instead of walking, and the mother has a pouch on her belly where the joey rides and keeps warm."
       },
       "diet": {
-        "he": "אוכל עשב, עלים ושורשים",
+        "he": "עשב, עלים ושורשים",
         "en": "Grass, leaves and roots"
       },
       "skills": {
@@ -5886,13 +5886,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/kangaroo.ogg",
-          "sha256": "ecb4db426a9cf94626ee6d94a253e8dc8dcb4b69af300698b8f56de120ba966b",
+          "sha256": "57f643c6bbbdaae3c643f03a8e1b34c070401fbb632932d4948371815715f282",
           "bytes": 6390
         },
         "nameEn": {
           "path": "audio/names/en/kangaroo.ogg",
-          "sha256": "1d9199285014fc6bd32b103af4eb85ca00a8f79ef34640ccab25450d0c393400",
-          "bytes": 7533
+          "sha256": "074c1263ca9d291738f9105078dc9ae7666640cddf60d0761f7ac6480a61a2ff",
+          "bytes": 7573
         }
       }
     },
@@ -5918,7 +5918,7 @@
         "en": "The koala gives a surprisingly deep bellow: grrrunt! It sleeps twenty hours a day up a eucalyptus tree, and eats nothing but its leaves."
       },
       "diet": {
-        "he": "אוכלת עלי אקליפטוס, וכמעט שום דבר אחר",
+        "he": "עלי אקליפטוס, וכמעט שום דבר אחר",
         "en": "Eucalyptus leaves, and almost nothing else"
       },
       "skills": {
@@ -5975,13 +5975,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/koala.ogg",
-          "sha256": "8f52d693d3de4c96742a954d7d025ee1ced92adef28f84136a955439cdb12cc5",
+          "sha256": "80bea7ba3a06fa30567e9ee5593e3129424471fdc774e719044e4ef1c5e688b0",
           "bytes": 4939
         },
         "nameEn": {
           "path": "audio/names/en/koala.ogg",
-          "sha256": "cab8a87728af5489c0f82b79b0c4bcea45b43ec2bbaa1a633bd214ed9b30ae73",
-          "bytes": 7173
+          "sha256": "ef7df64cb1abe2d6a2f9997b3301ffe57507dc066890c78a3cd6fe838047c9d4",
+          "bytes": 7353
         }
       }
     },
@@ -6007,7 +6007,7 @@
         "en": "The sloth squeaks: ee-ee! It is the slowest animal in the world, hanging upside down from a branch, and moves so slowly that green algae grow in its fur."
       },
       "diet": {
-        "he": "אוכל עלים, ניצנים ופירות",
+        "he": "עלים, ניצנים ופירות",
         "en": "Leaves, buds and fruit"
       },
       "skills": {
@@ -6064,13 +6064,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/sloth.ogg",
-          "sha256": "c939090a59b46183ce02e2d74427271c60c308c3aa8db40bc75b34e2a519a184",
+          "sha256": "9a5f4bd8a29153608b89e44bb863de3d061bec0e3779481df474799662baa953",
           "bytes": 5683
         },
         "nameEn": {
           "path": "audio/names/en/sloth.ogg",
-          "sha256": "7524e3898b63e65630a33fce4a40beb657326bf7073265f3ea48ffdc3612c5ad",
-          "bytes": 6966
+          "sha256": "edf45dfd16fd2f3f864f819bec2da101300cd90fc44f67ccd0e8099e5126ff6e",
+          "bytes": 7035
         }
       }
     },
@@ -6096,7 +6096,7 @@
         "en": "The llama hums: hmmm! It carries loads high in the mountains, and if somebody annoys it, it spits."
       },
       "diet": {
-        "he": "אוכלת עשב, חציר ועלים",
+        "he": "עשב, חציר ועלים",
         "en": "Grass, hay and leaves"
       },
       "skills": {
@@ -6153,18 +6153,18 @@
         ],
         "sound": {
           "path": "audio/sounds/llama.ogg",
-          "sha256": "c31e5a9a05fe818fdd6d985367ad68ef1c0f5f16491bb99f51681e6fd2fc740a",
+          "sha256": "8ac5a607c28b0195fcb0ea9ec97c0d40b320b7d747c61cbc195b7e9e555d4a8b",
           "bytes": 30591
         },
         "nameHe": {
           "path": "audio/names/he/llama.ogg",
-          "sha256": "2e80f7930addeb985a23d1ac12772eacad41f56b88ef02ce0678ee68970ac018",
+          "sha256": "5df4c8cc8d0cd290578fb9604da29c091aae05b3e1ec7518a6133f20dc4965f7",
           "bytes": 6974
         },
         "nameEn": {
           "path": "audio/names/en/llama.ogg",
-          "sha256": "1b37ce23a6bb380dc8f5fc12f98b99ad7a2223787b6940421c16331893dca088",
-          "bytes": 6429
+          "sha256": "dd7d9283ef824a6905a42b94aae09cfda849d64b3413b1c91947da079125abd9",
+          "bytes": 6028
         }
       }
     },
@@ -6190,7 +6190,7 @@
         "en": "The alpaca hums: hmmm! It is smaller than a llama, and its wool is especially soft and warm — jumpers are knitted from it."
       },
       "diet": {
-        "he": "אוכלת עשב וחציר",
+        "he": "עשב וחציר",
         "en": "Grass and hay"
       },
       "skills": {
@@ -6247,18 +6247,18 @@
         ],
         "sound": {
           "path": "audio/sounds/alpaca.ogg",
-          "sha256": "7b8c7053ad74bd0afce5a1147d0a415f1e941a88ef11c35bdd50a8abaf2d6328",
+          "sha256": "c00813f1cf20367944a94db34b52ef4364c1b53ccacf0eff1b27ece6d556261a",
           "bytes": 7025
         },
         "nameHe": {
           "path": "audio/names/he/alpaca.ogg",
-          "sha256": "88077077d393ddfef9fddc8192ea8e185ca059c3482294baf1be8f5594901148",
+          "sha256": "d7afa64c58f09e7980429406fe231265466f0450aba67e00ca4fe81fb2873af0",
           "bytes": 5359
         },
         "nameEn": {
           "path": "audio/names/en/alpaca.ogg",
-          "sha256": "753f32bf359177835ecdc4ab66075f5ba67c9eae57833d88c3fe6fe6fc4684cb",
-          "bytes": 8315
+          "sha256": "309b93b42014de45a4cf51b78f769b57addd9fb464ba7457ef1d86af29609d69",
+          "bytes": 8173
         }
       }
     },
@@ -6284,7 +6284,7 @@
         "en": "The toucan croaks: croak croak, a little like a frog! It has a huge, colourful beak, and although it looks heavy it is as light as a sponge."
       },
       "diet": {
-        "he": "אוכל פירות, חרקים וביצים",
+        "he": "פירות, חרקים וביצים",
         "en": "Fruit, insects and eggs"
       },
       "skills": {
@@ -6341,18 +6341,18 @@
         ],
         "sound": {
           "path": "audio/sounds/toucan.ogg",
-          "sha256": "384e774a70c6780bc020584f7d7ed84f5e23089de1a4dfb316572797cd1a865f",
+          "sha256": "24815f2e3ccf95d94283d6ca99a46c33a22fbac1766de4e30596c435aae0b904",
           "bytes": 31266
         },
         "nameHe": {
           "path": "audio/names/he/toucan.ogg",
-          "sha256": "95f1802a8a0dc6512ce73823ab2f275d33acf9d5d0867e224df3f4cf839e8cda",
+          "sha256": "aa7c1a40734f2fdca4a701836ac6ef079dafdef2e336b0d9901bd4235b51cda7",
           "bytes": 5508
         },
         "nameEn": {
           "path": "audio/names/en/toucan.ogg",
-          "sha256": "633cc0a5b0b71211c6af8cdb4c2eba8d27402d44075fe547421313a912a7220a",
-          "bytes": 7032
+          "sha256": "626e8acf21d3b633bf1439d90ba8e0daec9d857447fd0ce59a850fa1fe2a4c41",
+          "bytes": 6966
         }
       }
     },
@@ -6378,7 +6378,7 @@
         "en": "The parrot mimics: hello hello! It learns to repeat the words it hears, and it is colourful, chatty and very clever."
       },
       "diet": {
-        "he": "אוכל זרעים, אגוזים, פירות ופרחים",
+        "he": "זרעים, אגוזים, פירות ופרחים",
         "en": "Seeds, nuts, fruit and flowers"
       },
       "skills": {
@@ -6435,18 +6435,18 @@
         ],
         "sound": {
           "path": "audio/sounds/parrot.ogg",
-          "sha256": "2331bd02babb7ceda672b61d54f3ec01e14cad0ab3d8497ac09791036f76a249",
+          "sha256": "6804331107a384f372a90ae42918cdf6e7f5470e2a0d1f196abf7bf2d4918709",
           "bytes": 30597
         },
         "nameHe": {
           "path": "audio/names/he/parrot.ogg",
-          "sha256": "30aa4e537c6da81a5c78d72883686a9119b27323d273873559013d5a204ee5b6",
+          "sha256": "b1055a7dc3e21d0f921e7e7c5014b0ed462bd30853be886ea09fc57bd14bb0e0",
           "bytes": 7214
         },
         "nameEn": {
           "path": "audio/names/en/parrot.ogg",
-          "sha256": "3314552f4cb6d640704003ff58c73ce8c7a45d733607b36659df3930ecb232f5",
-          "bytes": 7066
+          "sha256": "df708d14cfbd75a587842d164b4b03442b343793658b0aa72671ac2a28444c2a",
+          "bytes": 6886
         }
       }
     },
@@ -6472,7 +6472,7 @@
         "en": "The jaguar roars: rrroar! It loves water, swims in the rainforest rivers, and sometimes waits for prey from the water."
       },
       "diet": {
-        "he": "אוכל דגים, צבים, קפיברות וחיות נהר",
+        "he": "דגים, צבים, קפיברות וחיות נהר",
         "en": "Fish, turtles, capybaras and river animals"
       },
       "skills": {
@@ -6534,18 +6534,18 @@
         ],
         "sound": {
           "path": "audio/sounds/jaguar.ogg",
-          "sha256": "e2e4b00683feb327614508e5b2f918120ef8c869d32234b37d0b17f57750e4bc",
+          "sha256": "6eb6d5f4dcaaea74c87b54c03be28dfaa1ca69cd694df3b4b2e5c2e439243e20",
           "bytes": 17682
         },
         "nameHe": {
           "path": "audio/names/he/jaguar.ogg",
-          "sha256": "7afbfba27bb6901e92f606f2d51d57741a16349028ac1c81f9c43d75b30073d2",
+          "sha256": "b447dd39e73890a51a4685557db45b994ac602a01e91c36ff1fdb9c2f09dc0c9",
           "bytes": 6403
         },
         "nameEn": {
           "path": "audio/names/en/jaguar.ogg",
-          "sha256": "e7375be2972efb785cc153c73e64a4985d250f58a45e3fb9ce7ff186dea5af60",
-          "bytes": 6927
+          "sha256": "2d7d8c445d529b2179b1d58db9cce76ded5232f4af116888a3d68f2d65bd12cd",
+          "bytes": 7123
         }
       }
     },
@@ -6571,7 +6571,7 @@
         "en": "The penguin brays: ah ah! It is a bird that cannot fly in the air — but in the water it really does fly, fast and nimble."
       },
       "diet": {
-        "he": "אוכל דגים, קריל ודיונונים",
+        "he": "דגים, קריל ודיונונים",
         "en": "Fish, krill and squid"
       },
       "skills": {
@@ -6632,18 +6632,18 @@
         ],
         "sound": {
           "path": "audio/sounds/penguin.ogg",
-          "sha256": "bc2f6e89a8aabd492f4cd8c9ba4415236ed1add7a1ba6240bccc5f5ed47c6f7b",
+          "sha256": "936210fb3395d485990a5cd9160f1bfa04c98936267daad7eb399cdba670f9f2",
           "bytes": 29992
         },
         "nameHe": {
           "path": "audio/names/he/penguin.ogg",
-          "sha256": "4ae46c3f59f7ab106eda348a877968d68ab9fff0628ed85d953588babdba5f21",
+          "sha256": "1bd0d2f9ea993b27418a52ab4bbd3a5526ee418b5c39754bb07ee56ae6e9a3d2",
           "bytes": 8199
         },
         "nameEn": {
           "path": "audio/names/en/penguin.ogg",
-          "sha256": "d2c972ff8c122e14786ab3db111f0e8a80a878cce56b9ae46339835cda800f92",
-          "bytes": 6871
+          "sha256": "678e554d284921bab7a9d33e27d22b1a437bbe1fa10d4f495d7bcbf765e4acfe",
+          "bytes": 6816
         }
       }
     },
@@ -6669,7 +6669,7 @@
         "en": "The chipmunk chips: chip chip! It is a small striped squirrel that fills its cheeks with seeds and runs to hide them in its burrow."
       },
       "diet": {
-        "he": "אוכל זרעים, אגוזים, פטריות ופירות יער",
+        "he": "זרעים, אגוזים, פטריות ופירות יער",
         "en": "Seeds, nuts, mushrooms and berries"
       },
       "skills": {
@@ -6726,18 +6726,18 @@
         ],
         "sound": {
           "path": "audio/sounds/chipmunk.ogg",
-          "sha256": "085a0834d7ee949d015de3ba427aab269907298e59b43ae889c9e0369e248a42",
+          "sha256": "d1f8da8a81fb1299dd1abf0270147ff1ec26f455020bc623bd26afa22764f2cc",
           "bytes": 22695
         },
         "nameHe": {
           "path": "audio/names/he/chipmunk.ogg",
-          "sha256": "2932f563e022dd4f91094544526e4299ec81d99cd1673bac025f1251f8d9f320",
+          "sha256": "76096b97a65b5910c0b1200def393b05761aca740d909577dc668a13146b36ff",
           "bytes": 8336
         },
         "nameEn": {
           "path": "audio/names/en/chipmunk.ogg",
-          "sha256": "1c8c69546fca16dd0efdefb33783608ecccf58a599a03fdfedd11ae2064aede5",
-          "bytes": 7215
+          "sha256": "bfba4711ffa73c91745ad66240c0f6cdaf42d905fe44ee1cd8d1bf5828d039d4",
+          "bytes": 7307
         }
       }
     },
@@ -6763,7 +6763,7 @@
         "en": "The dolphin clicks: click click! It sends clicks through the water and listens to the echo coming back, and so it sees with its ears."
       },
       "diet": {
-        "he": "אוכל דגים ודיונונים",
+        "he": "דגים ודיונונים",
         "en": "Fish and squid"
       },
       "skills": {
@@ -6825,18 +6825,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dolphin.ogg",
-          "sha256": "8abcbf9f84e5793cbbb789fdda90e0817e92c0f1aed321cbc761df931fa0f93a",
+          "sha256": "1466070d606fc844cf6d65dabc8b31edb2c038f6af0cc8aee746ce73bf9846a9",
           "bytes": 32704
         },
         "nameHe": {
           "path": "audio/names/he/dolphin.ogg",
-          "sha256": "968658c2016d371f1592ca05ffe3318b845e56b0ae1d786ad0378cc8280efbd9",
+          "sha256": "77bfb9bc02e880a1679b611de187ab97191449fefaca181b820fbe102f630ff7",
           "bytes": 7483
         },
         "nameEn": {
           "path": "audio/names/en/dolphin.ogg",
-          "sha256": "063293ce0c9fba9a1270c268b247364a49ba4f4244c56e74da3cccab800f0c1b",
-          "bytes": 7012
+          "sha256": "9661d0fd488e6cb0db4850808e3fea7710dfe092b5dd81dbc602d71b9f6f730d",
+          "bytes": 7091
         }
       }
     },
@@ -6862,7 +6862,7 @@
         "en": "The whale sings: ooooooh! It is the biggest animal in the world — bigger than three buses — and its song travels hundreds of kilometres through the deep."
       },
       "diet": {
-        "he": "אוכל קריל ודגים קטנים, בכמויות ענקיות",
+        "he": "קריל ודגים קטנים, בכמויות ענקיות",
         "en": "Krill and small fish, in enormous amounts"
       },
       "skills": {
@@ -6922,18 +6922,18 @@
         ],
         "sound": {
           "path": "audio/sounds/whale.ogg",
-          "sha256": "0d557b4654527d7886d675334ec5e63f163eb1af91a4aa5430414adba5412001",
+          "sha256": "93e29c1f5733e817402501ea7d430cc0518f10d4d1c46547b0914b3b52a84248",
           "bytes": 28235
         },
         "nameHe": {
           "path": "audio/names/he/whale.ogg",
-          "sha256": "c6c8124f45f24536a9f54191c30664f96ba7a6505fcddc3b161d2fa2c8086e1a",
+          "sha256": "1cc05770944e220a7e70cf3d71323c956f56528e583a2c11bc0957fe7bd8a551",
           "bytes": 6399
         },
         "nameEn": {
           "path": "audio/names/en/whale.ogg",
-          "sha256": "b4fc8d945843c7edb75185447557697d58d90b9820c1bc23eec593a2d62e0d52",
-          "bytes": 5580
+          "sha256": "b9eabcf725e2ac1572b503b36e4b5a05179c75613118f30ac61d4e083793b8df",
+          "bytes": 5649
         }
       }
     },
@@ -6959,7 +6959,7 @@
         "en": "The shark is silent — it has no voice at all. It swims without stopping, and can smell a single drop of blood from very far away."
       },
       "diet": {
-        "he": "אוכל דגים, כלבי ים ובעלי חיים בים",
+        "he": "דגים, כלבי ים ובעלי חיים בים",
         "en": "Fish, seals and other sea animals"
       },
       "skills": {
@@ -6987,12 +6987,12 @@
       "facts": {
         "he": [
           "לכריש אין עצמות — השלד שלו עשוי סחוס, כמו האוזניים שלנו",
-          "הוא מאבד שיניים וצומחות לו חדשות — אלפי שיניים בחיים אחדים",
+          "הוא מאבד שיניים וצומחות לו חדשות — אלפי שיניים במשך חייו",
           "כרישים חיים בים יותר ממאתיים מיליון שנה לפני הדינוזאורים"
         ],
         "en": [
           "A shark has no bones — its skeleton is cartilage, like our ears",
-          "It loses teeth and grows new ones — thousands in a lifetime",
+          "It loses teeth and grows new ones — thousands over its life",
           "Sharks were in the sea more than two hundred million years before the dinosaurs"
         ]
       },
@@ -7022,13 +7022,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/shark.ogg",
-          "sha256": "c89bec11ef2f7052a0b41b73f8b01849fa6c0cd1cc0b095677fe2675429366c1",
+          "sha256": "01d2ba66793eed19bac6d2d141d3fff3cc0e0b96ce537a60901739ad4a483f76",
           "bytes": 7603
         },
         "nameEn": {
           "path": "audio/names/en/shark.ogg",
-          "sha256": "1de93751e1f3a5d2928bf73ecf6e046bf2577cbe868d675959758df2e0e89afb",
-          "bytes": 7445
+          "sha256": "5d0c52e8273c9b78212281434605c2eabef0c9a4fb8ca0f9fc96cc45900201a4",
+          "bytes": 6961
         }
       }
     },
@@ -7054,7 +7054,7 @@
         "en": "The fish is silent, and talks to other fish with movements and colours. It breathes under water through its gills, and swims with its fins."
       },
       "diet": {
-        "he": "אוכל אצות, חרקים קטנים ופירורי מזון",
+        "he": "אצות, חרקים קטנים ופירורי מזון",
         "en": "Algae, tiny insects and scraps of food"
       },
       "skills": {
@@ -7111,13 +7111,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/fish.ogg",
-          "sha256": "7ef7283bdca62dd88fe6cb82cfcf4e9df4434a3367d4d6e34db5313061edab2a",
+          "sha256": "1a1a9c222ffe5618b69392edcbb3cd68434e5940f186f85f84f9dde8c4b7649e",
           "bytes": 4332
         },
         "nameEn": {
           "path": "audio/names/en/fish.ogg",
-          "sha256": "a5c031a76d6997927714b65972e04c81eaa9a00e928b6618c1a260d483a4b18e",
-          "bytes": 4822
+          "sha256": "a5e03c7770fc9b06014cb95494513dfeec4d09ec8c10723056ae5815da5e1e91",
+          "bytes": 4812
         }
       }
     },
@@ -7143,7 +7143,7 @@
         "en": "The octopus is silent, but it talks in colour: it changes the colour of its body in a second. It has eight arms, and not a single bone."
       },
       "diet": {
-        "he": "אוכל סרטנים, צדפות ודגים קטנים",
+        "he": "סרטנים, צדפות ודגים קטנים",
         "en": "Crabs, shellfish and small fish"
       },
       "skills": {
@@ -7204,13 +7204,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/octopus.ogg",
-          "sha256": "d35e63b114582e6f1e8284b9e44516aa0b2e93673eca026445efb18c7434d6fa",
+          "sha256": "7a817b2c7386f372aeeb6b50526f86a86293a6acda162ae142a98c20d614117f",
           "bytes": 6736
         },
         "nameEn": {
           "path": "audio/names/en/octopus.ogg",
-          "sha256": "8d8240b232cf885a5651f7f086d216bd36c91cf27897967f7be4809940ab1c19",
-          "bytes": 8716
+          "sha256": "3847de56d20b0dbb0cf0ad7d2d47767cd315b858a04beb3f50445ff9d65f2d50",
+          "bytes": 8459
         }
       }
     },
@@ -7236,7 +7236,7 @@
         "en": "The crab makes almost no sound, and only sometimes taps with a claw. It walks sideways, and a hard shell protects it like armour."
       },
       "diet": {
-        "he": "אוכל אצות, שאריות ובעלי חיים קטנים",
+        "he": "אצות, שאריות ובעלי חיים קטנים",
         "en": "Algae, scraps and tiny animals"
       },
       "skills": {
@@ -7297,13 +7297,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/crab.ogg",
-          "sha256": "32e0719a2d5f09be205d3e1a7a1f0a3e79e8402d712eba0d6f01305f70027734",
+          "sha256": "586c666e7a332f53d262face70bbf61eb76dc0d22c4153ced2f306a44b4531cf",
           "bytes": 6060
         },
         "nameEn": {
           "path": "audio/names/en/crab.ogg",
-          "sha256": "b5d34658a6b48ea5f1232f4bed1aca749f71df70bf2279baec3ea992cb2e1f5d",
-          "bytes": 6580
+          "sha256": "4d08f8771f1dc9822e73bc8fe77f8aea3b6828b35e33fd3b31f41016b68bad0b",
+          "bytes": 6117
         }
       }
     },
@@ -7329,7 +7329,7 @@
         "en": "The seal barks: arf arf! On land it shuffles heavily, but the moment it enters the water it turns into a fast, graceful dancer."
       },
       "diet": {
-        "he": "אוכל דגים, דיונונים וסרטנים",
+        "he": "דגים, דיונונים וסרטנים",
         "en": "Fish, squid and crabs"
       },
       "skills": {
@@ -7391,18 +7391,18 @@
         ],
         "sound": {
           "path": "audio/sounds/seal.ogg",
-          "sha256": "aec32e6659920cb6c67cdc4947c4e960b342d4bbca9f0a2f6e56508b787f441b",
+          "sha256": "25c438bb49e9055e7629a67895e56774d49bbb7457413b7a79186637658e419f",
           "bytes": 30709
         },
         "nameHe": {
           "path": "audio/names/he/seal.ogg",
-          "sha256": "a0ae85996f51f5c158fd62cf541906c3711bb1620adb3ef312238c43ee279c98",
+          "sha256": "1879098ba43f0e5a7553ff17b690044843701449f57c7335363bbe0bc4da5821",
           "bytes": 6845
         },
         "nameEn": {
           "path": "audio/names/en/seal.ogg",
-          "sha256": "28938a8d9f4a5bed3b6df878993cd6ee509c34d845e80c5b6027d5fb6a780b0e",
-          "bytes": 6139
+          "sha256": "8761690db82c6ffe308110f9449b2e39674246f12afbe21b10fcdb2e0d2b29fe",
+          "bytes": 6174
         }
       }
     },
@@ -7428,7 +7428,7 @@
         "en": "The turtle is almost always silent. It carries its house on its back, and if something frightens it, it simply pulls inside and waits."
       },
       "diet": {
-        "he": "אוכל עלים, פירות, אצות וחרקים",
+        "he": "עלים, פירות, אצות וחרקים",
         "en": "Leaves, fruit, algae and insects"
       },
       "skills": {
@@ -7490,13 +7490,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/turtle.ogg",
-          "sha256": "0624687773cd1642ff73c296ff8371f571ec1564e1ea86f80aae12131582dcca",
+          "sha256": "7cd6d313734439c44ccbd8c90c947f306b0d5f518aec6fade3faabd92a7b5f76",
           "bytes": 5126
         },
         "nameEn": {
           "path": "audio/names/en/turtle.ogg",
-          "sha256": "e742968573ab7da3048ad0e64b5063d2b6a54e2cd3547dcc80431d0633444351",
-          "bytes": 6612
+          "sha256": "892ba412843866d58deb09b16785ff37b8901303e6beb4a3af360c27ca708ba4",
+          "bytes": 6795
         }
       }
     },
@@ -7522,7 +7522,7 @@
         "en": "The jellyfish is silent and see-through, and drifts along with the current. It has no brain, no heart and no bones — it is almost entirely water."
       },
       "diet": {
-        "he": "אוכלת יצורים קטנטנים שנתפסים בזרועות",
+        "he": "יצורים קטנטנים שנתפסים בזרועות",
         "en": "Tiny creatures caught in its tentacles"
       },
       "skills": {
@@ -7546,12 +7546,12 @@
       ],
       "facts": {
         "he": [
-          "המדוזה עשויה מתשעים ותשעה אחוזים מים",
+          "המדוזה עשויה מכתשעים וחמישה אחוזים מים",
           "יש מדוזות שזוהרות בחושך באור כחול",
           "היא חיה בימים עוד לפני הדינוזאורים"
         ],
         "en": [
-          "A jellyfish is ninety-nine per cent water",
+          "A jellyfish is about ninety-five per cent water",
           "Some jellyfish glow blue in the dark",
           "They were in the sea long before the dinosaurs"
         ]
@@ -7582,13 +7582,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/jellyfish.ogg",
-          "sha256": "aa7af5ef6c7dec58c1570b0192b7d9c4ef3258cbcc4b26f82c64833bb5ece0ed",
+          "sha256": "863ffa3ed8c31283b0f2f9f3989e0b60b4bd124f551fceff68eca806cf7d3a7f",
           "bytes": 5471
         },
         "nameEn": {
           "path": "audio/names/en/jellyfish.ogg",
-          "sha256": "7e99a9244f4675095deb477d4300da27e3fc87ac203c9a633dde1c3b8b1f3757",
-          "bytes": 8316
+          "sha256": "9b4f4ddffbed06c2dff2138bef8f10694cbc2203684350f8c1c0cf47c09259b7",
+          "bytes": 8424
         }
       }
     },
@@ -7614,7 +7614,7 @@
         "en": "The seahorse is silent, and drifts slowly among the sea grass. It grips a branch with its tail so the current cannot carry it away."
       },
       "diet": {
-        "he": "אוכל יצורים קטנטנים שהוא שואב דרך החוטם",
+        "he": "יצורים קטנטנים, שהוא שואב דרך החוטם",
         "en": "Tiny creatures it sucks in through its snout"
       },
       "skills": {
@@ -7671,13 +7671,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/seahorse.ogg",
-          "sha256": "137efc581de50be4edc4e7e67df0b1c7c73476225330d1cbfe6174d801be0745",
+          "sha256": "da21c2d06f5e4ad8120fb508c2fbc96d0f1abbd51faeb48be1a7106dbe9999a6",
           "bytes": 7975
         },
         "nameEn": {
           "path": "audio/names/en/seahorse.ogg",
-          "sha256": "b740b18ffdd9499ae3164c6008f36107bfac4cca3a6097afd25c8acd9bb3ac67",
-          "bytes": 8404
+          "sha256": "9f2e2a7fc04388b5d73b1774f0aabacfc7284147f7518c41fb2afc94df7ff2d2",
+          "bytes": 8548
         }
       }
     },
@@ -7703,7 +7703,7 @@
         "en": "The swan calls: koo koo! It glides across the water quietly and gracefully, and its long neck curves like a letter."
       },
       "diet": {
-        "he": "אוכל צמחי מים, עשב וזרעים",
+        "he": "צמחי מים, עשב וזרעים",
         "en": "Water plants, grass and seeds"
       },
       "skills": {
@@ -7763,18 +7763,18 @@
         ],
         "sound": {
           "path": "audio/sounds/swan.ogg",
-          "sha256": "3e593b412280f9d15a486aaa0baa2fa80234c7edad9a3022ff2234d842dac850",
+          "sha256": "4a325841ab2fbba944eed824d9e84dc4b001f7ea66d2facdc3fd6ace7aa70668",
           "bytes": 32317
         },
         "nameHe": {
           "path": "audio/names/he/swan.ogg",
-          "sha256": "996789acbb060eed2ddd207abbc05f377b2709b73ad819de231aaa309ad148bb",
+          "sha256": "df028727af190f6ffc6d68e3fcfe8e0b33e36633ce944cb6d5067ad86f5428c6",
           "bytes": 6605
         },
         "nameEn": {
           "path": "audio/names/en/swan.ogg",
-          "sha256": "46c12588185260a795a16c646c6e9f0fc256e7b626c6b85f242c0407f8ad5f65",
-          "bytes": 6987
+          "sha256": "5f8d8a088cd03b29bf0803c19a5120435e10f65dcd3b4abde3bb348ccfd4a8d8",
+          "bytes": 7232
         }
       }
     },
@@ -7800,7 +7800,7 @@
         "en": "The dove coos: coo coo! It finds its way home even from hundreds of kilometres away, and all over the world it is a symbol of peace."
       },
       "diet": {
-        "he": "אוכלת זרעים, גרעינים ופירורים",
+        "he": "זרעים, גרעינים ופירורים",
         "en": "Seeds, grain and crumbs"
       },
       "skills": {
@@ -7857,18 +7857,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dove.ogg",
-          "sha256": "0ea0abfca0d4507a571299cf27efb6871ccff4edbebc248a5c16c470e8aa8a9b",
+          "sha256": "d156526f748a0c657d125486700fe7400893b4480a5f67d20a6a6702ba9da18a",
           "bytes": 21486
         },
         "nameHe": {
           "path": "audio/names/he/dove.ogg",
-          "sha256": "c1e643cd190617b706514afaed21818597157d63d64cdf9c7dcf84c080b39406",
+          "sha256": "2a1c751516cda7cf29bf00dda8bc2ded9068162dccf95e199c6beb00ec4479aa",
           "bytes": 5530
         },
         "nameEn": {
           "path": "audio/names/en/dove.ogg",
-          "sha256": "24361937b7b1abc26c7d482c0a6a4b0fbf61efb931e5ec24353ce5e2a32ffce3",
-          "bytes": 5869
+          "sha256": "206efd4545e713cee19508c325a3e9cf4899c77b665d03494bf22c08fa7ca854",
+          "bytes": 5787
         }
       }
     },
@@ -7894,7 +7894,7 @@
         "en": "The crow caws: caw caw! It is one of the cleverest birds in the world — it makes tools out of twigs to reach its food."
       },
       "diet": {
-        "he": "אוכל כמעט הכול: זרעים, חרקים, פירות ושאריות",
+        "he": "כמעט הכול: זרעים, חרקים, פירות ושאריות",
         "en": "Almost anything: seeds, insects, fruit and leftovers"
       },
       "skills": {
@@ -7955,18 +7955,18 @@
         ],
         "sound": {
           "path": "audio/sounds/crow.ogg",
-          "sha256": "f8dd62c46e705b1fe67d7452e9afe3142d4215ffb4d63762916992b24716d1e9",
+          "sha256": "f2241a6ff184fbf8569db1cd024e2183faacf7b47ccdd21e4c1cf37837f7d204",
           "bytes": 20475
         },
         "nameHe": {
           "path": "audio/names/he/crow.ogg",
-          "sha256": "21e36d04f8a8924ea7b19ec8ef1ca6d836a9fadcc3a61a7b0801110a9d2d2d10",
+          "sha256": "4e2a7ed2381a147f7a5828ca97d49fcca27e35ae356c47f9ddb71c87c820c51d",
           "bytes": 5362
         },
         "nameEn": {
           "path": "audio/names/en/crow.ogg",
-          "sha256": "d5758b199109cc224c91d94accd4118b11e976d0b9a44a22b08ca7bb2feaca7e",
-          "bytes": 6477
+          "sha256": "efd5ef0cf0399b49b20b95b55b2c2c7bf689b7b73a10cda0841a2fe137ee0e04",
+          "bytes": 6519
         }
       }
     },
@@ -7992,7 +7992,7 @@
         "en": "The seagull cries: kyah kyah! It soars above the sea, dives into the water for a fish, and is not shy about coming close to people on the beach."
       },
       "diet": {
-        "he": "אוכל דגים, סרטנים ושאריות מזון",
+        "he": "דגים, סרטנים ושאריות מזון",
         "en": "Fish, crabs and scraps of food"
       },
       "skills": {
@@ -8053,18 +8053,18 @@
         ],
         "sound": {
           "path": "audio/sounds/seagull.ogg",
-          "sha256": "14818767fb8d21dca3606d64521fabc87d15066f523f04a7fa95d10aadc4f68d",
+          "sha256": "862666066f8236c74e5867150162dde93ef6c674b120ccd9009a7a6b1739a7b2",
           "bytes": 29201
         },
         "nameHe": {
           "path": "audio/names/he/seagull.ogg",
-          "sha256": "c24a5ac319d131f08db13341dda78bcf6b108cb067fbfdb2d3b9db326c57131e",
+          "sha256": "8f1af6eb7f7e534ef87e281195a606f857575289193bef3cdce382d7e3fd140d",
           "bytes": 6034
         },
         "nameEn": {
           "path": "audio/names/en/seagull.ogg",
-          "sha256": "bb5e62bcd81d1db55d95ae8583bfc94df8e02a884b79f416d7ee74c1a919d9eb",
-          "bytes": 8196
+          "sha256": "aa20789f5f2172c10d9f33a2ca344be32e6e4b188c5a9f90e3a9a7ac477dc07e",
+          "bytes": 8343
         }
       }
     },
@@ -8090,7 +8090,7 @@
         "en": "The woodpecker drums on the tree: tap tap tap! It taps twenty times a second, looking for insects inside the trunk and telling everyone this tree is his."
       },
       "diet": {
-        "he": "אוכל חרקים, זחלים, אגוזים וזרעים",
+        "he": "חרקים, זחלים, אגוזים וזרעים",
         "en": "Insects, grubs, nuts and seeds"
       },
       "skills": {
@@ -8152,18 +8152,18 @@
         ],
         "sound": {
           "path": "audio/sounds/woodpecker.ogg",
-          "sha256": "71fb8704ca755f74a90ebb989c9fd908b7c31241e910f59ebbfe117f83bccf52",
+          "sha256": "0394db91819826247ed31d17dede466dc099d7526831e5cbaf96c2972b6c2bef",
           "bytes": 30531
         },
         "nameHe": {
           "path": "audio/names/he/woodpecker.ogg",
-          "sha256": "c884d494fc2e8e885f634297d69f4de7e60c88e486073f2d1138957d43e26313",
+          "sha256": "93ea95b137b56c4cfa2d08af579d2624d6cbbe48899fef46f72d82183d62190e",
           "bytes": 4960
         },
         "nameEn": {
           "path": "audio/names/en/woodpecker.ogg",
-          "sha256": "93de53fa781104cd2aeffaa0a4bd828f1d7b138c02a3a13ed3f236ef11be5b79",
-          "bytes": 7353
+          "sha256": "3c7bdbc1a02d5f9fe7474df7290a8aa39d0df2e1ce9dc2adacb6379b7c850488",
+          "bytes": 7542
         }
       }
     },
@@ -8189,7 +8189,7 @@
         "en": "The hoopoe calls: hoop hoop hoop — and that call is where its name comes from in many languages. On its head is a crown of feathers that opens like a fan."
       },
       "diet": {
-        "he": "אוכלת חרקים, זחלים ועכבישים מהאדמה",
+        "he": "חרקים, זחלים ועכבישים מהאדמה",
         "en": "Insects, grubs and spiders from the ground"
       },
       "skills": {
@@ -8252,18 +8252,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hoopoe.ogg",
-          "sha256": "a45c910c1dfdbe34d2ee537985835f904a6e20450bd65e9937be76e025f4476b",
+          "sha256": "f430f3002038bdbe6856ad40ed1e6eea1729442277a648d52e5eadb5d37b3646",
           "bytes": 28042
         },
         "nameHe": {
           "path": "audio/names/he/hoopoe.ogg",
-          "sha256": "c48da9ce8d6c911d005ae4b54073cb2de2429ab954170bb20077daa365aa9b01",
+          "sha256": "af90939b4654b34b2c8ff32a1973b0e34a02282cd443b54be1470486909b6c3d",
           "bytes": 7692
         },
         "nameEn": {
           "path": "audio/names/en/hoopoe.ogg",
-          "sha256": "f08dd82f7aad4a0718f44045469ed7c9f48bb668a1fb458a95efec3856e399fc",
-          "bytes": 7450
+          "sha256": "b3e0b56d50b1a040f5edbd76d87806fa20b5ff665366b5fb5e935fc53ef87051",
+          "bytes": 7467
         }
       }
     },
@@ -8289,7 +8289,7 @@
         "en": "The sparrow chirps: cheep cheep! It is small and brown and almost everywhere — in the yard, in the street and on a café table."
       },
       "diet": {
-        "he": "אוכל זרעים, פירורים וחרקים קטנים",
+        "he": "זרעים, פירורים וחרקים קטנים",
         "en": "Seeds, crumbs and small insects"
       },
       "skills": {
@@ -8350,18 +8350,18 @@
         ],
         "sound": {
           "path": "audio/sounds/sparrow.ogg",
-          "sha256": "19063a6563e8e6fb8f143f6cda7fd30c1c7fba4f468df7f2f430e6c697d0830d",
+          "sha256": "f56dcb03db9c24487d52e2675f3d8104a67d18953bfd81e4b65175ff07a73c9f",
           "bytes": 14001
         },
         "nameHe": {
           "path": "audio/names/he/sparrow.ogg",
-          "sha256": "47444a14d2fa4d1cb01b25c5514567bf3683d066922029ab4f51132bbece6a2d",
+          "sha256": "995f3c9463cff9ad59c9adf338d42526b99afd9e7d5b5f03f767c2f07e2b4e84",
           "bytes": 5646
         },
         "nameEn": {
           "path": "audio/names/en/sparrow.ogg",
-          "sha256": "d90994d908512ed55b5c7d1c36fcbf7f274bac4bdf122f0356a50f322506a484",
-          "bytes": 7995
+          "sha256": "e9b64c8fbc0777341b196fdcab5c630a46eff873e83bb3a1c6de2843ba2ea206",
+          "bytes": 7752
         }
       }
     },
@@ -8387,7 +8387,7 @@
         "en": "The frog croaks: ribbit ribbit! It jumps a very long way, swims beautifully, and even breathes through its damp skin."
       },
       "diet": {
-        "he": "אוכלת חרקים, יתושים ותולעים",
+        "he": "חרקים, יתושים ותולעים",
         "en": "Insects, mosquitoes and worms"
       },
       "skills": {
@@ -8451,18 +8451,18 @@
         ],
         "sound": {
           "path": "audio/sounds/frog.ogg",
-          "sha256": "fd0ba43abb18448d3d3a45ca668e201c9042408f4a1a3845a1c651cfe1d30e4d",
+          "sha256": "a70e80e897d9406430eccdc50237574d333e858bcb46740f545dd7bf9b12a803",
           "bytes": 8034
         },
         "nameHe": {
           "path": "audio/names/he/frog.ogg",
-          "sha256": "8d706fe9656c23ffccf8e156848d2feec34b77cfcdb2496c2c87c6c99bc7ed72",
+          "sha256": "29134cee6d63596cacd3472f6e98e339105437d85c1b0cd43c3af7da6fc912b0",
           "bytes": 6372
         },
         "nameEn": {
           "path": "audio/names/en/frog.ogg",
-          "sha256": "e30a863ddc64827cf9e8a4781e7ef6d7701c81c21761aef174334fdb04e169f7",
-          "bytes": 6348
+          "sha256": "2d87f76fbdc6644d8be4d0818b66c4e58f96d7528b9908bc2556da8579a1299e",
+          "bytes": 6688
         }
       }
     },
@@ -8488,7 +8488,7 @@
         "en": "The bee buzzes: bzzzz! It flies from flower to flower, gathers nectar and turns it into honey — and helps the flowers grow too."
       },
       "diet": {
-        "he": "אוכלת צוף ואבקה של פרחים",
+        "he": "צוף ואבקה של פרחים",
         "en": "Nectar and pollen from flowers"
       },
       "skills": {
@@ -8545,18 +8545,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bee.ogg",
-          "sha256": "148d212defcb029c10ce5a05a9e7a9a61032910453e5b546edb72272dba35817",
+          "sha256": "ab7d51ce231e45529871b4af160038657686804dbbdae78a1d1e2ef23b3273a4",
           "bytes": 28788
         },
         "nameHe": {
           "path": "audio/names/he/bee.ogg",
-          "sha256": "d6164fca381bebbcba21b53f3d741e2143ead27ac202e9215b1c08ba32f05885",
+          "sha256": "5360a869fb7991204f98315775aa9092b86e540b78f9e6e9179c6748fd6b212d",
           "bytes": 5633
         },
         "nameEn": {
           "path": "audio/names/en/bee.ogg",
-          "sha256": "c58a44e91c064cb3115f84dc94e3d28f03795b72ad321362e8f02a50a32c15aa",
-          "bytes": 5409
+          "sha256": "060ed8c5aeac6055e50c17c785401bf5ea7430c26f3cea17201ee6abb167392e",
+          "bytes": 5116
         }
       }
     },
@@ -8582,7 +8582,7 @@
         "en": "The butterfly is silent, and only its colourful wings flutter. It began life as a caterpillar, and then changed completely inside a chrysalis."
       },
       "diet": {
-        "he": "שותה צוף מפרחים דרך חדק ארוך",
+        "he": "צוף מפרחים, שהוא שואב דרך חדק ארוך",
         "en": "Sips nectar from flowers through a long tube"
       },
       "skills": {
@@ -8639,13 +8639,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/butterfly.ogg",
-          "sha256": "30bc82c7f87b8683184d47b76949cddd1e76b8a30a1c03dbf88f77f4eb95044d",
+          "sha256": "1542b82c5808b854797d094189d7bd475ed747ff76ab415e242ffe76549aacd9",
           "bytes": 6353
         },
         "nameEn": {
           "path": "audio/names/en/butterfly.ogg",
-          "sha256": "5b6e16d6debb05d51c74ecc4ad37f12e1dea26996b752011a65ac8c34e686ba8",
-          "bytes": 7900
+          "sha256": "c8606ed67c638cc0e57d9550c60b3e0fee12e41e02427befe7bba8a43c250802",
+          "bytes": 8102
         }
       }
     },
@@ -8671,7 +8671,7 @@
         "en": "The ant is silent, and talks to the others with smells and a touch of the antennae. It is tiny, yet it carries many times its own weight."
       },
       "diet": {
-        "he": "אוכלת זרעים, פירורים, סוכר וחרקים קטנים",
+        "he": "זרעים, פירורים, סוכר וחרקים קטנים",
         "en": "Seeds, crumbs, sugar and small insects"
       },
       "skills": {
@@ -8731,13 +8731,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ant.ogg",
-          "sha256": "737d5a65e0443e27ebb733d999ac436a2d4fceab05bb201dea90300c9b01fdba",
+          "sha256": "b39f17f506233309d5c5c361fc7bcfb75e12032b81f4938d155062cd786a7a41",
           "bytes": 4601
         },
         "nameEn": {
           "path": "audio/names/en/ant.ogg",
-          "sha256": "b07603d4aa04972625dc80a463ecce93b2eaf0ac8fd0dd8c780ca1120781f21c",
-          "bytes": 5778
+          "sha256": "d5d6de4787efaaa7f98e313e68680bf6d68bf5c5a63aeee26bae68005f8c5873",
+          "bytes": 6059
         }
       }
     },
@@ -8763,7 +8763,7 @@
         "en": "The snail is completely silent, and creeps slowly along on a slimy trail it leaves behind. Its house is on its back, and it goes inside when it wants to rest."
       },
       "diet": {
-        "he": "אוכל עלים, ירקות ופטריות",
+        "he": "עלים, ירקות ופטריות",
         "en": "Leaves, vegetables and mushrooms"
       },
       "skills": {
@@ -8820,13 +8820,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/snail.ogg",
-          "sha256": "413226191fb800718e6231d3809ca4c17f1baa41ef4343bb15dba8f3de367bdd",
+          "sha256": "3abb6f80ee6105c240d5125d2eb60870d22a37c5cebac9666705da7e71bcc08c",
           "bytes": 8601
         },
         "nameEn": {
           "path": "audio/names/en/snail.ogg",
-          "sha256": "072a332a441125131a1550acc887d7dda2b40a43651f43bdd390ce795f7710db",
-          "bytes": 7523
+          "sha256": "64ff56ebeb1dddbc1eacd2cf93399f41e47236d2ee62f924902160aacb4f8c51",
+          "bytes": 7397
         }
       }
     },
@@ -8852,7 +8852,7 @@
         "en": "The ladybug is silent, and simply opens red wings with black spots. It is tiny, and a great help in the garden."
       },
       "diet": {
-        "he": "אוכלת כנימות וחרקים זעירים שמזיקים לצמחים",
+        "he": "כנימות וחרקים זעירים שמזיקים לצמחים",
         "en": "Aphids and tiny insects that harm plants"
       },
       "skills": {
@@ -8909,13 +8909,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ladybug.ogg",
-          "sha256": "f261f9e4a905af9b6084e1c7f9faeafe7135da8fc625239b98d3ccbfc6d46955",
+          "sha256": "dd7b3f643b5937e0f320bf8e04be6d2c3d8bec25705fa80d2165e649ccaeece3",
           "bytes": 9189
         },
         "nameEn": {
           "path": "audio/names/en/ladybug.ogg",
-          "sha256": "5f5dcdf158491bf75ea4368db659ec90103ee6ebe2c0960cc50c79f2cfa82f20",
-          "bytes": 8322
+          "sha256": "fa9ad82396e48c85f6099beb80a6b3dba4e3e353823ad4eee28aec11a0f22df6",
+          "bytes": 8199
         }
       }
     },
@@ -8941,7 +8941,7 @@
         "en": "The spider is silent, and weaves a fine web from thread it makes itself. It has eight legs, and often eight eyes as well."
       },
       "diet": {
-        "he": "אוכל זבובים, יתושים וחרקים",
+        "he": "זבובים, יתושים וחרקים",
         "en": "Flies, mosquitoes and insects"
       },
       "skills": {
@@ -9004,13 +9004,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/spider.ogg",
-          "sha256": "214485f8f63a2e7996c23b83a1237eda41ba22f94cd01ceb5675fadcb41dcb80",
+          "sha256": "fe318851fce76d62be460b51c3e17427e4da419aabf0c9e0eabd9f6d861aa0af",
           "bytes": 7606
         },
         "nameEn": {
           "path": "audio/names/en/spider.ogg",
-          "sha256": "beeb4d750e1daeab82e8475bdeaacaed12629905d643a1b2343978183132ba62",
-          "bytes": 7504
+          "sha256": "6fb4cfe9b1b4187f7f8a9e8f60d3abe4d5abc51b62724f080898ca733de5c3b3",
+          "bytes": 7564
         }
       }
     },
@@ -9036,7 +9036,7 @@
         "en": "The cricket chirps: chirp chirp! It does not sing with its mouth — it rubs its wings together, and that is the sound you hear on summer nights."
       },
       "diet": {
-        "he": "אוכל עלים, זרעים ושאריות צמחים",
+        "he": "עלים, זרעים ושאריות צמחים",
         "en": "Leaves, seeds and bits of plants"
       },
       "skills": {
@@ -9093,18 +9093,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cricket.ogg",
-          "sha256": "f47a12fdaa9c6668c84b2314112641c4b400c658cca16f50d0581180900a9836",
+          "sha256": "7a0e96f1b1eeaaaf30f712a61b489258c93f9ddabde8e4f661476746b0ff02e1",
           "bytes": 28060
         },
         "nameHe": {
           "path": "audio/names/he/cricket.ogg",
-          "sha256": "ae4b06f1d38876e106ca30ad3f8e3e7816425335d534fdd4d419939eb722bbc6",
+          "sha256": "62473c35ac4a9a20a93c03fde4725a9eace0c429486e6143706bfdf26e3b762d",
           "bytes": 6976
         },
         "nameEn": {
           "path": "audio/names/en/cricket.ogg",
-          "sha256": "4fbf577da53caca92e84c86789ddc7f95002d1f25bb81748f4176f4331334223",
-          "bytes": 6613
+          "sha256": "e8ae58d10b7e8f6dd8d0469fce9d4f5c526090776f720417488b57a8b798e2e1",
+          "bytes": 6817
         }
       }
     },
@@ -9130,7 +9130,7 @@
         "en": "The lizard makes almost no sound. It warms itself on a stone in the sun, and if somebody grabs its tail, the tail comes off and it runs away."
       },
       "diet": {
-        "he": "אוכלת חרקים, עכבישים ותולעים",
+        "he": "חרקים, עכבישים ותולעים",
         "en": "Insects, spiders and worms"
       },
       "skills": {
@@ -9193,13 +9193,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/lizard.ogg",
-          "sha256": "d3eb4acce24c43f412818cff0eac7258e5a53e36a08e1d50c572635eda8b9297",
+          "sha256": "09ffd2a927d7b61f3241b002f9738d8b232690cd678dbe193341cbc5b112c91d",
           "bytes": 4643
         },
         "nameEn": {
           "path": "audio/names/en/lizard.ogg",
-          "sha256": "69787628002302237f1f4f63d289f87a64e47462141d955c3b48569addfb8207",
-          "bytes": 6966
+          "sha256": "c603e15dca183c2f1b0690235f06c6758086ff34f7afe5972459026b31b4500b",
+          "bytes": 6837
         }
       }
     },
@@ -9225,7 +9225,7 @@
         "en": "The bat squeaks: squeak squeak! It is the only mammal that truly flies, and it finds its way in total darkness by the echo of its own squeaks."
       },
       "diet": {
-        "he": "אוכל חרקים, יתושים ופירות",
+        "he": "חרקים, יתושים ופירות",
         "en": "Insects, mosquitoes and fruit"
       },
       "skills": {
@@ -9287,18 +9287,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bat.ogg",
-          "sha256": "3d9b65fd246b1537484b0ad7bcc2f56935aec73f128db75ec912225e4372eaca",
+          "sha256": "aff71641006260f1e31069821224542b73a08fb72712e17d377b9672f1f2e720",
           "bytes": 29975
         },
         "nameHe": {
           "path": "audio/names/he/bat.ogg",
-          "sha256": "a6a315b73ea9dae5b6b80f2bbc081161bf6ef4322027879d59ee3d487dadaa3d",
+          "sha256": "c440070801fa6cf9781a15006a571b6836175992f0ce9b192e305d53f40cfe9d",
           "bytes": 5250
         },
         "nameEn": {
           "path": "audio/names/en/bat.ogg",
-          "sha256": "ddb841900892034ab547a71eac3cc0e97c14e730b8db6600590732c01c2818a3",
-          "bytes": 5980
+          "sha256": "f08cf5cd2573eac094577f058eeca97a060a1cd5baa0160685997abb4e71d164",
+          "bytes": 5863
         }
       }
     },
@@ -9324,7 +9324,7 @@
         "en": "The scorpion is silent and moves quietly at night. It has two pincers and a raised tail with a sting, and by day it hides under stones."
       },
       "diet": {
-        "he": "אוכל חרקים ועכבישים",
+        "he": "חרקים ועכבישים",
         "en": "Insects and spiders"
       },
       "skills": {
@@ -9386,13 +9386,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/scorpion.ogg",
-          "sha256": "ad3a7ecba922cbcea41591d229ee83e791a46edd3c360c07a610b667d9d68b7d",
+          "sha256": "bcc97038a89fb96e7ed29c244773b7eca7a8ec699dc9506723da065b3a516483",
           "bytes": 4943
         },
         "nameEn": {
           "path": "audio/names/en/scorpion.ogg",
-          "sha256": "530d71625acba8be66a8c67a577fbc3e19abe63e8c8bb2f5a3978461158aa39b",
-          "bytes": 8324
+          "sha256": "fe1f4a2ff8d90e5382caa4465721737a813087f556edfa14e146ffa83b71b007",
+          "bytes": 8474
         }
       }
     },
@@ -9418,7 +9418,7 @@
         "en": "The caterpillar is silent, and eats leaves and grows all day long. One day it will go into a chrysalis, and come out a butterfly."
       },
       "diet": {
-        "he": "אוכל עלים, ועוד עלים",
+        "he": "עלים, ועוד עלים",
         "en": "Leaves, and more leaves"
       },
       "skills": {
@@ -9471,13 +9471,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/caterpillar.ogg",
-          "sha256": "188a95cfbc21a1f474472e864b4cf9e01310c954a12ec1cc86c07d14df4cf3f4",
+          "sha256": "da1764b8b15557a1c0fdd7b1f81b4fd1a5ddedee9e1341bdd9219153e78afe38",
           "bytes": 5578
         },
         "nameEn": {
           "path": "audio/names/en/caterpillar.ogg",
-          "sha256": "ca23b62f483cffdf819fa48306c1f694948733d0918e2e5cc943a048b21c7ce8",
-          "bytes": 8775
+          "sha256": "c329f03af7f0a227553cc36d7f5cc98c09be83e5cc98a7ef73d43bdb2a38e335",
+          "bytes": 8648
         }
       }
     }
