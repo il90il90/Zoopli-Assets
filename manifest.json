@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 6,
-  "generatedAt": "2026-09-13T12:47:39+00:00",
+  "contentVersion": 7,
+  "generatedAt": "2026-09-13T13:14:56+00:00",
   "baseUrl": "https://cdn.jsdelivr.net/gh/il90il90/Zoopli-Assets@main/",
   "categories": [
     {
@@ -93,7 +93,614 @@
         "cricket",
         "mouse",
         "seahorse"
-      ]
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "indonesia",
+      "flag": "🇮🇩",
+      "name": {
+        "he": "אינדונזיה",
+        "en": "Indonesia"
+      },
+      "fact": {
+        "he": "באינדונזיה יש יערות גשם חמים ולחים על אלפי איים, ובהם חיות שלא נמצאות בשום מקום אחר בעולם.",
+        "en": "Indonesia has warm, wet rainforests spread over thousands of islands, with animals found nowhere else on Earth."
+      },
+      "animalIds": [
+        "orangutan",
+        "tiger",
+        "lizard",
+        "snake",
+        "parrot",
+        "bat",
+        "butterfly",
+        "frog"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "india",
+      "flag": "🇮🇳",
+      "name": {
+        "he": "הודו",
+        "en": "India"
+      },
+      "fact": {
+        "he": "בהודו החיות הן חלק מהחיים ברחוב ובכפר, והפרה נחשבת שם לחיה מיוחדת שאסור לפגוע בה.",
+        "en": "In India animals are part of life in the street and the village, and the cow is treated as a special animal nobody may harm."
+      },
+      "animalIds": [
+        "tiger",
+        "elephant",
+        "peacock",
+        "cow",
+        "monkey",
+        "water_buffalo",
+        "snake",
+        "leopard",
+        "camel",
+        "parrot",
+        "cricket",
+        "mouse"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "philippines",
+      "name": {
+        "he": "הפיליפינים",
+        "en": "Philippines"
+      },
+      "flag": "🇵🇭",
+      "fact": {
+        "he": "הפיליפינים הם יותר משבעת אלפים איים, והים סביבם הוא מהעשירים בעולם במיני דגים ואלמוגים.",
+        "en": "The Philippines is more than seven thousand islands, and the sea around them is among the richest in fish and coral anywhere."
+      },
+      "animalIds": [
+        "water_buffalo",
+        "dolphin",
+        "fish",
+        "crab",
+        "parrot",
+        "turtle",
+        "octopus",
+        "seahorse"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "vietnam",
+      "name": {
+        "he": "וייטנאם",
+        "en": "Vietnam"
+      },
+      "flag": "🇻🇳",
+      "fact": {
+        "he": "בווייטנאם יש שדות אורז מדורגים על מדרונות ההרים, והתאו עוזר לחרוש אותם עד היום.",
+        "en": "Vietnam has rice terraces cut into the mountainsides, and the water buffalo still helps plough them."
+      },
+      "animalIds": [
+        "water_buffalo",
+        "monkey",
+        "snake",
+        "elephant",
+        "fish",
+        "duck",
+        "crab"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "turkey",
+      "name": {
+        "he": "טורקיה",
+        "en": "Turkey"
+      },
+      "flag": "🇹🇷",
+      "fact": {
+        "he": "טורקיה יושבת על שתי יבשות בבת אחת, אירופה ואסיה, ובעיר ואן חיים חתולים שעיניהם בשני צבעים שונים.",
+        "en": "Turkey sits on two continents at once, Europe and Asia, and in the city of Van live cats with two differently coloured eyes."
+      },
+      "animalIds": [
+        "cat",
+        "sheep",
+        "goat",
+        "donkey",
+        "sparrow",
+        "dove",
+        "seagull",
+        "fish",
+        "bee"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "japan",
+      "flag": "🇯🇵",
+      "name": {
+        "he": "יפן",
+        "en": "Japan"
+      },
+      "fact": {
+        "he": "יפן היא אלפי איים בים. בעיר נארה מסתובבים איילים חופשיים ברחובות, והם משתחווים כדי לקבל אוכל.",
+        "en": "Japan is thousands of islands in the sea. In the city of Nara, deer wander the streets freely and bow to be given food."
+      },
+      "animalIds": [
+        "deer",
+        "fox",
+        "monkey",
+        "crab",
+        "crow",
+        "fish",
+        "swan",
+        "octopus"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "jordan",
+      "name": {
+        "he": "ירדן",
+        "en": "Jordan"
+      },
+      "flag": "🇯🇴",
+      "fact": {
+        "he": "בירדן חצובה העיר פטרה בתוך סלע ורוד, ובמדבר שלה החול אדום ממש.",
+        "en": "Jordan has the city of Petra carved into pink rock, and the sand of its desert is genuinely red."
+      },
+      "animalIds": [
+        "camel",
+        "goat",
+        "fox",
+        "hyena",
+        "eagle",
+        "lizard",
+        "scorpion",
+        "donkey"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "mongolia",
+      "name": {
+        "he": "מונגוליה",
+        "en": "Mongolia"
+      },
+      "flag": "🇲🇳",
+      "fact": {
+        "he": "במונגוליה יש ערבות ענקיות וכמעט בלי גדרות, ורוכבים שם על סוסים מגיל צעיר מאוד.",
+        "en": "Mongolia is vast grassland with almost no fences, and children there learn to ride a horse very young."
+      },
+      "animalIds": [
+        "horse",
+        "camel",
+        "eagle",
+        "wolf",
+        "yak",
+        "sheep",
+        "goat"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "malaysia",
+      "name": {
+        "he": "מלזיה",
+        "en": "Malaysia"
+      },
+      "flag": "🇲🇾",
+      "fact": {
+        "he": "במלזיה יש יערות גשם עתיקים מאוד, ובהם חיים אורנגאוטנים והפרח הגדול בעולם.",
+        "en": "Malaysia has very old rainforests, home to orangutans and to the largest flower in the world."
+      },
+      "animalIds": [
+        "orangutan",
+        "tiger",
+        "elephant",
+        "monkey",
+        "snake",
+        "parrot",
+        "butterfly",
+        "bat"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "nepal",
+      "name": {
+        "he": "נפאל",
+        "en": "Nepal"
+      },
+      "flag": "🇳🇵",
+      "fact": {
+        "he": "בנפאל נמצא האוורסט, ההר הגבוה בעולם, ובשפלה שלמרגלותיו חיים נמרים וקרנפים.",
+        "en": "Nepal has Everest, the highest mountain on Earth, and tigers and rhinos live on the lowlands below it."
+      },
+      "animalIds": [
+        "yak",
+        "tiger",
+        "rhino",
+        "elephant",
+        "monkey",
+        "eagle",
+        "leopard"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "china",
+      "flag": "🇨🇳",
+      "name": {
+        "he": "סין",
+        "en": "China"
+      },
+      "fact": {
+        "he": "סין ענקית: יש בה יערות במבוק, הרים גבוהים ומדבריות — ורק שם, בטבע, חיות פנדות.",
+        "en": "China is enormous: bamboo forests, high mountains and deserts — and it is the only place where pandas live in the wild."
+      },
+      "animalIds": [
+        "panda",
+        "yak",
+        "tiger",
+        "monkey",
+        "fish",
+        "crow",
+        "goose",
+        "dove",
+        "pig",
+        "duck",
+        "hamster"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "saudi_arabia",
+      "name": {
+        "he": "סעודיה",
+        "en": "Saudi Arabia"
+      },
+      "flag": "🇸🇦",
+      "fact": {
+        "he": "בסעודיה נמצא המדבר החולי הגדול בעולם, ובו אין כמעט טיפת גשם — והגמל הוא שעובר אותו.",
+        "en": "Saudi Arabia holds the largest sand desert in the world, where almost no rain falls — and the camel is what crosses it."
+      },
+      "animalIds": [
+        "camel",
+        "goat",
+        "eagle",
+        "snake",
+        "scorpion",
+        "lizard",
+        "sheep"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "sri_lanka",
+      "name": {
+        "he": "סרי לנקה",
+        "en": "Sri Lanka"
+      },
+      "flag": "🇱🇰",
+      "fact": {
+        "he": "סרי לנקה היא אי קטן עם הרבה פילים, ומול חופיה עוברים לווייתנים כחולים — החיות הגדולות בעולם.",
+        "en": "Sri Lanka is a small island with many elephants, and blue whales — the largest animals on Earth — pass along its coast."
+      },
+      "animalIds": [
+        "elephant",
+        "leopard",
+        "monkey",
+        "peacock",
+        "crocodile",
+        "turtle",
+        "whale",
+        "dolphin"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "pakistan",
+      "name": {
+        "he": "פקיסטן",
+        "en": "Pakistan"
+      },
+      "flag": "🇵🇰",
+      "fact": {
+        "he": "בפקיסטן נפגשים מדבר, הרי הימלאיה ונהר האינדוס, ובנהר חיים דולפיני מים מתוקים שכמעט אינם רואים.",
+        "en": "Pakistan meets desert, the Himalayas and the River Indus, where freshwater dolphins live that are almost blind."
+      },
+      "animalIds": [
+        "camel",
+        "goat",
+        "donkey",
+        "snake",
+        "eagle",
+        "leopard",
+        "water_buffalo",
+        "dolphin"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "south_korea",
+      "name": {
+        "he": "קוריאה",
+        "en": "South Korea"
+      },
+      "flag": "🇰🇷",
+      "fact": {
+        "he": "בקוריאה הדרומית הרים מכסים רוב המדינה, והנמר נחשב שם לחיה שמביאה מזל ושמירה.",
+        "en": "Mountains cover most of South Korea, and the tiger is treated there as an animal of luck and protection."
+      },
+      "animalIds": [
+        "tiger",
+        "deer",
+        "crow",
+        "fish",
+        "crab",
+        "dog",
+        "octopus",
+        "swan"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "kazakhstan",
+      "name": {
+        "he": "קזחסטן",
+        "en": "Kazakhstan"
+      },
+      "flag": "🇰🇿",
+      "fact": {
+        "he": "קזחסטן היא המדינה הגדולה בעולם שאין לה חוף ים כלל, ורועים שם צדים עם עיטים מאולפים.",
+        "en": "Kazakhstan is the largest country in the world with no sea coast at all, and herders there hunt with trained eagles."
+      },
+      "animalIds": [
+        "horse",
+        "eagle",
+        "camel",
+        "wolf",
+        "sheep",
+        "fox"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "cambodia",
+      "name": {
+        "he": "קמבודיה",
+        "en": "Cambodia"
+      },
+      "flag": "🇰🇭",
+      "fact": {
+        "he": "בקמבודיה עומד אנגקור ואט, מתחם המקדשים הגדול בעולם, ועצי יער צומחים מתוך הקירות שלו.",
+        "en": "Cambodia has Angkor Wat, the largest temple complex in the world, with forest trees growing out of its walls."
+      },
+      "animalIds": [
+        "elephant",
+        "monkey",
+        "water_buffalo",
+        "snake",
+        "fish",
+        "crocodile",
+        "duck"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "thailand",
+      "flag": "🇹🇭",
+      "name": {
+        "he": "תאילנד",
+        "en": "Thailand"
+      },
+      "fact": {
+        "he": "בתאילנד הפיל הוא סמל המדינה, ופעם הוא עבד בעצים וביער. היום יש שמורות שבהן פילים חיים חופשי.",
+        "en": "In Thailand the elephant is the symbol of the country, and once worked in the forests. Today there are sanctuaries where elephants live free."
+      },
+      "animalIds": [
+        "elephant",
+        "water_buffalo",
+        "monkey",
+        "rooster",
+        "cat",
+        "snake",
+        "fish",
+        "crab",
+        "duck",
+        "pig",
+        "seahorse"
+      ],
+      "continentId": "asia"
+    },
+    {
+      "id": "uganda",
+      "flag": "🇺🇬",
+      "name": {
+        "he": "אוגנדה",
+        "en": "Uganda"
+      },
+      "fact": {
+        "he": "באוגנדה, בהרי היער הגבוהים, חיות משפחות הגורילות האחרונות בעולם, ומשם גם יוצא נהר הנילוס למסע שלו.",
+        "en": "In Uganda's high forest mountains live some of the last gorilla families in the world, and the River Nile begins its journey there."
+      },
+      "animalIds": [
+        "gorilla",
+        "elephant",
+        "hippo",
+        "crocodile",
+        "monkey",
+        "lion",
+        "leopard",
+        "eagle",
+        "butterfly"
+      ],
+      "continentId": "africa"
+    },
+    {
+      "id": "algeria",
+      "name": {
+        "he": "אלג'יריה",
+        "en": "Algeria"
+      },
+      "flag": "🇩🇿",
+      "fact": {
+        "he": "אלג'יריה היא המדינה הגדולה באפריקה, ורובה מדבר סהרה — שבו שועל קטן עם אוזניים ענקיות מתקרר דרכן.",
+        "en": "Algeria is the largest country in Africa, and most of it is the Sahara — where a small fox cools down through enormous ears."
+      },
+      "animalIds": [
+        "camel",
+        "fox",
+        "scorpion",
+        "snake",
+        "donkey",
+        "goat",
+        "sheep"
+      ],
+      "continentId": "africa"
+    },
+    {
+      "id": "ethiopia",
+      "name": {
+        "he": "אתיופיה",
+        "en": "Ethiopia"
+      },
+      "flag": "🇪🇹",
+      "fact": {
+        "he": "אתיופיה היא ארץ הרים גבוהים, ומשם הגיע לעולם הקפה — ולפי הסיפור רועה עיזים הוא שגילה אותו.",
+        "en": "Ethiopia is a land of high mountains, and coffee came from there — the story says a goatherd discovered it."
+      },
+      "animalIds": [
+        "hyena",
+        "monkey",
+        "eagle",
+        "donkey",
+        "goat",
+        "lion",
+        "ostrich"
+      ],
+      "continentId": "africa"
+    },
+    {
+      "id": "botswana",
+      "name": {
+        "he": "בוטסואנה",
+        "en": "Botswana"
+      },
+      "flag": "🇧🇼",
+      "fact": {
+        "he": "בבוטסואנה נמצא דלתא של נהר שנשפך אל תוך המדבר במקום אל הים, ובעונת המים היא מתמלאת חיות.",
+        "en": "Botswana has a river delta that spills into the desert instead of the sea, and fills with animals when the water comes."
+      },
+      "animalIds": [
+        "elephant",
+        "lion",
+        "zebra",
+        "hippo",
+        "crocodile",
+        "giraffe",
+        "meerkat",
+        "leopard"
+      ],
+      "continentId": "africa"
+    },
+    {
+      "id": "south_africa",
+      "flag": "🇿🇦",
+      "name": {
+        "he": "דרום אפריקה",
+        "en": "South Africa"
+      },
+      "fact": {
+        "he": "בדרום אפריקה נפגשים שני אוקיינוסים, ויש בה גם מדבר, גם הרים וגם חוף שבו חיים פינגווינים אמיתיים.",
+        "en": "In South Africa two oceans meet, and it has desert, mountains and a beach where real penguins live."
+      },
+      "animalIds": [
+        "meerkat",
+        "lion",
+        "zebra",
+        "rhino",
+        "ostrich",
+        "penguin",
+        "leopard",
+        "seal",
+        "whale",
+        "eagle"
+      ],
+      "continentId": "africa"
+    },
+    {
+      "id": "zimbabwe",
+      "name": {
+        "he": "זימבבואה",
+        "en": "Zimbabwe"
+      },
+      "flag": "🇿🇼",
+      "fact": {
+        "he": "בזימבבואה נמצאים מפלי ויקטוריה, ורסס המים שלהם עולה כל כך גבוה שרואים אותו מקילומטרים.",
+        "en": "Zimbabwe has Victoria Falls, and the spray rises so high you can see it from kilometres away."
+      },
+      "animalIds": [
+        "elephant",
+        "lion",
+        "rhino",
+        "giraffe",
+        "zebra",
+        "eagle",
+        "crocodile",
+        "hippo"
+      ],
+      "continentId": "africa"
+    },
+    {
+      "id": "tanzania",
+      "name": {
+        "he": "טנזניה",
+        "en": "Tanzania"
+      },
+      "flag": "🇹🇿",
+      "fact": {
+        "he": "בטנזניה נמצא הר קילימנג'ארו, ההר הגבוה באפריקה, ולמרגלותיו מישורי הסרנגטי שבהם עוברות עדרי הנדידה הגדולים.",
+        "en": "Tanzania has Kilimanjaro, the highest mountain in Africa, and at its foot the Serengeti plains that the great migration crosses."
+      },
+      "animalIds": [
+        "lion",
+        "elephant",
+        "giraffe",
+        "zebra",
+        "rhino",
+        "hippo",
+        "cheetah",
+        "leopard",
+        "flamingo",
+        "crocodile",
+        "ostrich",
+        "hyena"
+      ],
+      "continentId": "africa"
+    },
+    {
+      "id": "madagascar",
+      "name": {
+        "he": "מדגסקר",
+        "en": "Madagascar"
+      },
+      "flag": "🇲🇬",
+      "fact": {
+        "he": "מדגסקר הוא אי ענק שנפרד מאפריקה לפני מיליוני שנים, ורוב החיות שחיות בו לא נמצאות בשום מקום אחר.",
+        "en": "Madagascar is a huge island that broke away from Africa millions of years ago, and most of its animals live nowhere else."
+      },
+      "animalIds": [
+        "lizard",
+        "frog",
+        "turtle",
+        "bat",
+        "butterfly",
+        "crocodile",
+        "snake"
+      ],
+      "continentId": "africa"
     },
     {
       "id": "egypt",
@@ -116,7 +723,101 @@
         "dove",
         "snake",
         "fish"
-      ]
+      ],
+      "continentId": "africa"
+    },
+    {
+      "id": "morocco",
+      "name": {
+        "he": "מרוקו",
+        "en": "Morocco"
+      },
+      "flag": "🇲🇦",
+      "fact": {
+        "he": "במרוקו יש גם חוף ים, גם הרים מושלגים וגם מדבר סהרה — והעיזים שם מטפסות על עצים כדי להגיע לפירות.",
+        "en": "Morocco has a sea coast, snowy mountains and the Sahara — and the goats there climb trees to reach the fruit."
+      },
+      "animalIds": [
+        "camel",
+        "donkey",
+        "goat",
+        "fox",
+        "snake",
+        "scorpion",
+        "sparrow",
+        "dove",
+        "sheep"
+      ],
+      "continentId": "africa"
+    },
+    {
+      "id": "nigeria",
+      "name": {
+        "he": "ניגריה",
+        "en": "Nigeria"
+      },
+      "flag": "🇳🇬",
+      "fact": {
+        "he": "ניגריה היא המדינה שבה חיים הכי הרבה אנשים באפריקה, ומדברים בה יותר מחמש מאות שפות.",
+        "en": "Nigeria is the most populated country in Africa, and more than five hundred languages are spoken there."
+      },
+      "animalIds": [
+        "elephant",
+        "monkey",
+        "crocodile",
+        "parrot",
+        "snake",
+        "goat",
+        "crow",
+        "butterfly"
+      ],
+      "continentId": "africa"
+    },
+    {
+      "id": "namibia",
+      "name": {
+        "he": "נמיביה",
+        "en": "Namibia"
+      },
+      "flag": "🇳🇦",
+      "fact": {
+        "he": "בנמיביה נמצא מדבר נמיב, המדבר העתיק בעולם, והדיונות שלו נוגעות ממש בחוף האוקיינוס.",
+        "en": "Namibia has the Namib, the oldest desert in the world, and its dunes run right down to the ocean shore."
+      },
+      "animalIds": [
+        "meerkat",
+        "ostrich",
+        "cheetah",
+        "elephant",
+        "lion",
+        "rhino",
+        "seal",
+        "zebra"
+      ],
+      "continentId": "africa"
+    },
+    {
+      "id": "dr_congo",
+      "name": {
+        "he": "קונגו",
+        "en": "DR Congo"
+      },
+      "flag": "🇨🇩",
+      "fact": {
+        "he": "בקונגו נמצא יער הגשם השני בגודלו בעולם, ורק בו, בכל העולם, חיים קופי הבונובו.",
+        "en": "Congo holds the second largest rainforest in the world, and it is the only place on Earth where bonobos live."
+      },
+      "animalIds": [
+        "gorilla",
+        "elephant",
+        "monkey",
+        "crocodile",
+        "parrot",
+        "butterfly",
+        "hippo",
+        "leopard"
+      ],
+      "continentId": "africa"
     },
     {
       "id": "kenya",
@@ -143,393 +844,122 @@
         "hyena",
         "crocodile",
         "meerkat"
-      ]
+      ],
+      "continentId": "africa"
     },
     {
-      "id": "uganda",
-      "flag": "🇺🇬",
+      "id": "rwanda",
       "name": {
-        "he": "אוגנדה",
-        "en": "Uganda"
+        "he": "רואנדה",
+        "en": "Rwanda"
       },
+      "flag": "🇷🇼",
       "fact": {
-        "he": "באוגנדה, בהרי היער הגבוהים, חיות משפחות הגורילות האחרונות בעולם, ומשם גם יוצא נהר הנילוס למסע שלו.",
-        "en": "In Uganda's high forest mountains live some of the last gorilla families in the world, and the River Nile begins its journey there."
+        "he": "רואנדה נקראת ארץ אלף הגבעות, ובהרי הגעש שלה חיות משפחות של גורילות הרים.",
+        "en": "Rwanda is called the land of a thousand hills, and families of mountain gorillas live on its volcanoes."
       },
       "animalIds": [
         "gorilla",
-        "elephant",
-        "hippo",
-        "crocodile",
         "monkey",
-        "lion",
-        "leopard",
-        "eagle",
-        "butterfly"
-      ]
-    },
-    {
-      "id": "south_africa",
-      "flag": "🇿🇦",
-      "name": {
-        "he": "דרום אפריקה",
-        "en": "South Africa"
-      },
-      "fact": {
-        "he": "בדרום אפריקה נפגשים שני אוקיינוסים, ויש בה גם מדבר, גם הרים וגם חוף שבו חיים פינגווינים אמיתיים.",
-        "en": "In South Africa two oceans meet, and it has desert, mountains and a beach where real penguins live."
-      },
-      "animalIds": [
-        "meerkat",
-        "lion",
-        "zebra",
-        "rhino",
-        "ostrich",
-        "penguin",
-        "leopard",
-        "seal",
-        "whale",
+        "elephant",
+        "butterfly",
+        "crocodile",
         "eagle"
-      ]
+      ],
+      "continentId": "africa"
     },
     {
-      "id": "india",
-      "flag": "🇮🇳",
+      "id": "ukraine",
       "name": {
-        "he": "הודו",
-        "en": "India"
+        "he": "אוקראינה",
+        "en": "Ukraine"
       },
+      "flag": "🇺🇦",
       "fact": {
-        "he": "בהודו החיות הן חלק מהחיים ברחוב ובכפר, והפרה נחשבת שם לחיה מיוחדת שאסור לפגוע בה.",
-        "en": "In India animals are part of life in the street and the village, and the cow is treated as a special animal nobody may harm."
+        "he": "באוקראינה אדמה שחורה ופורייה במיוחד, ולכן קוראים לה אחד מסלי הלחם של העולם.",
+        "en": "Ukraine has unusually rich black soil, which is why it is called one of the world's bread baskets."
       },
       "animalIds": [
-        "tiger",
-        "elephant",
-        "peacock",
-        "cow",
-        "monkey",
-        "water_buffalo",
-        "snake",
-        "leopard",
-        "camel",
-        "parrot",
-        "cricket",
-        "mouse"
-      ]
-    },
-    {
-      "id": "china",
-      "flag": "🇨🇳",
-      "name": {
-        "he": "סין",
-        "en": "China"
-      },
-      "fact": {
-        "he": "סין ענקית: יש בה יערות במבוק, הרים גבוהים ומדבריות — ורק שם, בטבע, חיות פנדות.",
-        "en": "China is enormous: bamboo forests, high mountains and deserts — and it is the only place where pandas live in the wild."
-      },
-      "animalIds": [
-        "panda",
-        "yak",
-        "tiger",
-        "monkey",
-        "fish",
-        "crow",
-        "goose",
-        "dove",
-        "pig",
-        "duck",
-        "hamster"
-      ]
-    },
-    {
-      "id": "japan",
-      "flag": "🇯🇵",
-      "name": {
-        "he": "יפן",
-        "en": "Japan"
-      },
-      "fact": {
-        "he": "יפן היא אלפי איים בים. בעיר נארה מסתובבים איילים חופשיים ברחובות, והם משתחווים כדי לקבל אוכל.",
-        "en": "Japan is thousands of islands in the sea. In the city of Nara, deer wander the streets freely and bow to be given food."
-      },
-      "animalIds": [
-        "deer",
-        "fox",
-        "monkey",
-        "crab",
-        "crow",
-        "fish",
         "swan",
-        "octopus"
-      ]
-    },
-    {
-      "id": "indonesia",
-      "flag": "🇮🇩",
-      "name": {
-        "he": "אינדונזיה",
-        "en": "Indonesia"
-      },
-      "fact": {
-        "he": "באינדונזיה יש יערות גשם חמים ולחים על אלפי איים, ובהם חיות שלא נמצאות בשום מקום אחר בעולם.",
-        "en": "Indonesia has warm, wet rainforests spread over thousands of islands, with animals found nowhere else on Earth."
-      },
-      "animalIds": [
-        "orangutan",
-        "tiger",
-        "lizard",
-        "snake",
-        "parrot",
-        "bat",
-        "butterfly",
-        "frog"
-      ]
-    },
-    {
-      "id": "thailand",
-      "flag": "🇹🇭",
-      "name": {
-        "he": "תאילנד",
-        "en": "Thailand"
-      },
-      "fact": {
-        "he": "בתאילנד הפיל הוא סמל המדינה, ופעם הוא עבד בעצים וביער. היום יש שמורות שבהן פילים חיים חופשי.",
-        "en": "In Thailand the elephant is the symbol of the country, and once worked in the forests. Today there are sanctuaries where elephants live free."
-      },
-      "animalIds": [
-        "elephant",
-        "water_buffalo",
-        "monkey",
-        "rooster",
-        "cat",
-        "snake",
-        "fish",
-        "crab",
-        "duck",
-        "pig",
-        "seahorse"
-      ]
-    },
-    {
-      "id": "australia",
-      "flag": "🇦🇺",
-      "name": {
-        "he": "אוסטרליה",
-        "en": "Australia"
-      },
-      "fact": {
-        "he": "אוסטרליה היא יבשת־אי, והיא הייתה מנותקת מהעולם מיליוני שנים. לכן החיות שלה שונות מכל חיה אחרת.",
-        "en": "Australia is an island continent, cut off from the rest of the world for millions of years. That is why its animals are like no others."
-      },
-      "animalIds": [
-        "kangaroo",
-        "koala",
-        "parrot",
-        "crocodile",
-        "shark",
-        "dolphin",
-        "sheep",
-        "spider",
-        "seagull",
-        "seahorse"
-      ]
-    },
-    {
-      "id": "new_zealand",
-      "flag": "🇳🇿",
-      "name": {
-        "he": "ניו זילנד",
-        "en": "New Zealand"
-      },
-      "fact": {
-        "he": "בניו זילנד יש יותר כבשים מאנשים, ופעם חיו בה כמעט רק ציפורים — היונקים היחידים על היבשה היו עטלפים.",
-        "en": "New Zealand has more sheep than people, and once held almost nothing but birds — the only land mammals were bats."
-      },
-      "animalIds": [
-        "sheep",
-        "penguin",
-        "dolphin",
-        "seal",
-        "parrot",
-        "whale",
-        "cow"
-      ]
-    },
-    {
-      "id": "brazil",
-      "flag": "🇧🇷",
-      "name": {
-        "he": "ברזיל",
-        "en": "Brazil"
-      },
-      "fact": {
-        "he": "בברזיל נמצא יער האמזונס, היער הגדול בעולם. בתוכו חיות יותר חיות מאשר בכל מקום אחר על כדור הארץ.",
-        "en": "Brazil holds the Amazon, the biggest forest in the world. More kinds of animal live inside it than anywhere else on Earth."
-      },
-      "animalIds": [
-        "jaguar",
-        "sloth",
-        "toucan",
-        "parrot",
-        "monkey",
-        "frog",
-        "butterfly",
-        "ant",
-        "snake",
-        "crocodile",
-        "fish",
-        "caterpillar",
-        "cricket"
-      ]
-    },
-    {
-      "id": "peru",
-      "flag": "🇵🇪",
-      "name": {
-        "he": "פרו",
-        "en": "Peru"
-      },
-      "fact": {
-        "he": "בפרו יש הרים גבוהים מאוד, האנדים, ובהם הולכות למות ואלפקות בשבילים שבנו אנשים לפני מאות שנים.",
-        "en": "Peru has the very high Andes mountains, where llamas and alpacas walk along paths people built centuries ago."
-      },
-      "animalIds": [
-        "llama",
-        "alpaca",
-        "eagle",
-        "penguin",
-        "fish",
-        "butterfly",
-        "seal"
-      ]
-    },
-    {
-      "id": "mexico",
-      "flag": "🇲🇽",
-      "name": {
-        "he": "מקסיקו",
-        "en": "Mexico"
-      },
-      "fact": {
-        "he": "למקסיקו מגיעים בכל שנה מיליוני פרפרי מונרך אחרי מעוף של אלפי קילומטרים, והם מכסים עצים שלמים בכתום.",
-        "en": "Every year millions of monarch butterflies arrive in Mexico after flying thousands of kilometres, covering whole trees in orange."
-      },
-      "animalIds": [
-        "butterfly",
-        "jaguar",
-        "parrot",
-        "rabbit",
-        "lizard",
-        "bat",
-        "spider",
-        "dolphin"
-      ]
-    },
-    {
-      "id": "usa",
-      "flag": "🇺🇸",
-      "name": {
-        "he": "ארצות הברית",
-        "en": "United States"
-      },
-      "fact": {
-        "he": "בארצות הברית יש פארקים לאומיים ענקיים, כמו ילוסטון, שבהם החיות חיות חופשי ואנשים רק מבקרים.",
-        "en": "The United States has huge national parks, like Yellowstone, where the animals live free and people are only visitors."
-      },
-      "animalIds": [
-        "bison",
-        "bear",
-        "raccoon",
-        "skunk",
-        "chipmunk",
-        "squirrel",
-        "eagle",
-        "turkey",
-        "woodpecker",
-        "moose",
-        "snake"
-      ]
-    },
-    {
-      "id": "canada",
-      "flag": "🇨🇦",
-      "name": {
-        "he": "קנדה",
-        "en": "Canada"
-      },
-      "fact": {
-        "he": "קנדה מכוסה יערות, אגמים ושלג, והבונה — שבונה סכרים בנהרות — הוא אחד הסמלים שלה.",
-        "en": "Canada is covered in forests, lakes and snow, and the beaver, which builds dams across rivers, is one of its symbols."
-      },
-      "animalIds": [
-        "beaver",
-        "moose",
-        "polar_bear",
-        "wolf",
-        "bear",
-        "goose",
-        "otter",
-        "squirrel",
-        "owl",
-        "seal"
-      ]
-    },
-    {
-      "id": "russia",
-      "flag": "🇷🇺",
-      "name": {
-        "he": "רוסיה",
-        "en": "Russia"
-      },
-      "fact": {
-        "he": "רוסיה היא המדינה הגדולה בעולם, ויש בה יערות אינסופיים וקור עז — ובהם חי גם הטיגריס הגדול בעולם.",
-        "en": "Russia is the largest country in the world, with endless forests and fierce cold — and the biggest tiger in the world lives there."
-      },
-      "animalIds": [
-        "bear",
-        "wolf",
+        "deer",
         "fox",
         "hedgehog",
-        "tiger",
-        "moose",
-        "owl",
-        "badger",
-        "swan",
+        "cow",
+        "horse",
         "crow",
-        "hamster",
         "duck"
-      ]
+      ],
+      "continentId": "europe"
     },
     {
-      "id": "france",
-      "flag": "🇫🇷",
+      "id": "italy",
       "name": {
-        "he": "צרפת",
-        "en": "France"
+        "he": "איטליה",
+        "en": "Italy"
       },
+      "flag": "🇮🇹",
       "fact": {
-        "he": "בצרפת התרנגול הוא סמל המדינה, ובכפרים יש שדות, כרמים ופרות שמהחלב שלהן מכינים מאות סוגי גבינה.",
-        "en": "In France the rooster is the national symbol, and in the villages there are fields, vineyards and cows whose milk makes hundreds of cheeses."
+        "he": "איטליה בנויה כמו מגף שנכנס לים, ומחלב התאו שלה מכינים את המוצרלה האמיתית.",
+        "en": "Italy is shaped like a boot stepping into the sea, and real mozzarella is made from its buffalo milk."
       },
       "animalIds": [
-        "rooster",
-        "cow",
-        "snail",
-        "dove",
-        "sparrow",
-        "butterfly",
-        "bee",
-        "deer",
-        "horse",
+        "water_buffalo",
+        "wolf",
+        "sheep",
         "goat",
-        "caterpillar",
-        "ladybug",
-        "mouse",
-        "pig",
+        "dove",
+        "cat",
+        "seagull",
+        "bee",
+        "donkey",
+        "fish"
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "iceland",
+      "name": {
+        "he": "איסלנד",
+        "en": "Iceland"
+      },
+      "flag": "🇮🇸",
+      "fact": {
+        "he": "באיסלנד יש הרי געש וקרחונים זה לצד זה, ולא חיו בה יונקים על היבשה חוץ משועל הקוטב.",
+        "en": "Iceland has volcanoes and glaciers side by side, and the only land mammal that lived there was the arctic fox."
+      },
+      "animalIds": [
+        "horse",
+        "sheep",
+        "whale",
+        "seal",
+        "seagull",
+        "fox",
         "duck"
-      ]
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "ireland",
+      "name": {
+        "he": "אירלנד",
+        "en": "Ireland"
+      },
+      "flag": "🇮🇪",
+      "fact": {
+        "he": "באירלנד יורד גשם כמעט כל השנה, ולכן היא ירוקה כל כך — וכבשים רועות בה בכל מקום.",
+        "en": "It rains in Ireland almost all year, which is why it is so green — and sheep graze everywhere in it."
+      },
+      "animalIds": [
+        "sheep",
+        "cow",
+        "horse",
+        "deer",
+        "seal",
+        "seagull",
+        "fox",
+        "rabbit"
+      ],
+      "continentId": "europe"
     },
     {
       "id": "united_kingdom",
@@ -559,7 +989,105 @@
         "pig",
         "duck",
         "cricket"
-      ]
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "germany",
+      "name": {
+        "he": "גרמניה",
+        "en": "Germany"
+      },
+      "flag": "🇩🇪",
+      "fact": {
+        "he": "בגרמניה יערות מכסים כמעט שליש מהמדינה, ומהם הגיעו הרבה מאגדות הילדים שאנחנו מכירים.",
+        "en": "Forests cover almost a third of Germany, and many of the fairy tales we know came out of them."
+      },
+      "animalIds": [
+        "deer",
+        "fox",
+        "hedgehog",
+        "owl",
+        "squirrel",
+        "bee",
+        "cow",
+        "horse",
+        "badger",
+        "pig"
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "denmark",
+      "name": {
+        "he": "דנמרק",
+        "en": "Denmark"
+      },
+      "flag": "🇩🇰",
+      "fact": {
+        "he": "דנמרק היא חצי אי ועוד מאות איים קטנים, ואף מקום בה לא רחוק מהים יותר מחמישים קילומטרים.",
+        "en": "Denmark is a peninsula plus hundreds of small islands, and nowhere in it is more than fifty kilometres from the sea."
+      },
+      "animalIds": [
+        "swan",
+        "cow",
+        "pig",
+        "seal",
+        "seagull",
+        "deer",
+        "hedgehog",
+        "duck"
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "netherlands",
+      "name": {
+        "he": "הולנד",
+        "en": "Netherlands"
+      },
+      "flag": "🇳🇱",
+      "fact": {
+        "he": "הולנד שטוחה כמעט לגמרי, וחלק ממנה נמוך מפני הים — אנשים ייבשו אותו ובנו עליו שדות.",
+        "en": "The Netherlands is almost entirely flat, and part of it lies below sea level — people drained it and built fields there."
+      },
+      "animalIds": [
+        "cow",
+        "sheep",
+        "duck",
+        "goose",
+        "swan",
+        "rabbit",
+        "hedgehog",
+        "seagull",
+        "horse"
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "greece",
+      "name": {
+        "he": "יוון",
+        "en": "Greece"
+      },
+      "flag": "🇬🇷",
+      "fact": {
+        "he": "ליוון יש אלפי איים, והינשוף היה סמל העיר אתונה כבר לפני אלפי שנים.",
+        "en": "Greece has thousands of islands, and the owl was the symbol of the city of Athens thousands of years ago."
+      },
+      "animalIds": [
+        "goat",
+        "sheep",
+        "cat",
+        "turtle",
+        "dolphin",
+        "octopus",
+        "seagull",
+        "owl",
+        "donkey",
+        "fish"
+      ],
+      "continentId": "europe"
     },
     {
       "id": "norway",
@@ -582,7 +1110,627 @@
         "sheep",
         "eagle",
         "fish"
-      ]
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "spain",
+      "name": {
+        "he": "ספרד",
+        "en": "Spain"
+      },
+      "flag": "🇪🇸",
+      "fact": {
+        "he": "בספרד יש יותר משלושת אלפים קילומטרים של חוף ים, ובדרומה חיים החתולים הבריים הנדירים בעולם.",
+        "en": "Spain has more than three thousand kilometres of coastline, and in its south lives the rarest wild cat in the world."
+      },
+      "animalIds": [
+        "horse",
+        "eagle",
+        "goat",
+        "sheep",
+        "rabbit",
+        "dove",
+        "seagull",
+        "fish",
+        "cow",
+        "bee"
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "poland",
+      "name": {
+        "he": "פולין",
+        "en": "Poland"
+      },
+      "flag": "🇵🇱",
+      "fact": {
+        "he": "בפולין נשאר היער הקדום האחרון של אירופה, ובו חיים עדרי הביזונים האחרונים ביבשת.",
+        "en": "Poland keeps the last ancient forest in Europe, where the continent's last herds of bison live."
+      },
+      "animalIds": [
+        "bison",
+        "wolf",
+        "deer",
+        "squirrel",
+        "swan",
+        "fox",
+        "owl",
+        "hedgehog"
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "portugal",
+      "name": {
+        "he": "פורטוגל",
+        "en": "Portugal"
+      },
+      "flag": "🇵🇹",
+      "fact": {
+        "he": "פורטוגל יושבת בקצה המערבי של אירופה, ומול חופיה עוברים דולפינים ולווייתנים.",
+        "en": "Portugal sits at the western edge of Europe, and dolphins and whales pass along its coast."
+      },
+      "animalIds": [
+        "seagull",
+        "dolphin",
+        "whale",
+        "fish",
+        "octopus",
+        "sheep",
+        "goat",
+        "horse"
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "finland",
+      "name": {
+        "he": "פינלנד",
+        "en": "Finland"
+      },
+      "flag": "🇫🇮",
+      "fact": {
+        "he": "פינלנד מכוסה יערות ואגמים, והברבור הוא הציפור הלאומית שלה.",
+        "en": "Finland is covered in forests and lakes, and the swan is its national bird."
+      },
+      "animalIds": [
+        "bear",
+        "wolf",
+        "moose",
+        "owl",
+        "squirrel",
+        "swan",
+        "fox",
+        "duck"
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "france",
+      "flag": "🇫🇷",
+      "name": {
+        "he": "צרפת",
+        "en": "France"
+      },
+      "fact": {
+        "he": "בצרפת התרנגול הוא סמל המדינה, ובכפרים יש שדות, כרמים ופרות שמהחלב שלהן מכינים מאות סוגי גבינה.",
+        "en": "In France the rooster is the national symbol, and in the villages there are fields, vineyards and cows whose milk makes hundreds of cheeses."
+      },
+      "animalIds": [
+        "rooster",
+        "cow",
+        "snail",
+        "dove",
+        "sparrow",
+        "butterfly",
+        "bee",
+        "deer",
+        "horse",
+        "goat",
+        "caterpillar",
+        "ladybug",
+        "mouse",
+        "pig",
+        "duck"
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "romania",
+      "name": {
+        "he": "רומניה",
+        "en": "Romania"
+      },
+      "flag": "🇷🇴",
+      "fact": {
+        "he": "ברומניה, בהרי הקרפטים, חיים יותר דובים חומים מבכל מדינה אחרת באירופה.",
+        "en": "Romania's Carpathian mountains hold more brown bears than any other country in Europe."
+      },
+      "animalIds": [
+        "bear",
+        "wolf",
+        "deer",
+        "eagle",
+        "fox",
+        "squirrel",
+        "owl"
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "russia",
+      "flag": "🇷🇺",
+      "name": {
+        "he": "רוסיה",
+        "en": "Russia"
+      },
+      "fact": {
+        "he": "רוסיה היא המדינה הגדולה בעולם, ויש בה יערות אינסופיים וקור עז — ובהם חי גם הטיגריס הגדול בעולם.",
+        "en": "Russia is the largest country in the world, with endless forests and fierce cold — and the biggest tiger in the world lives there."
+      },
+      "animalIds": [
+        "bear",
+        "wolf",
+        "fox",
+        "hedgehog",
+        "tiger",
+        "moose",
+        "owl",
+        "badger",
+        "swan",
+        "crow",
+        "hamster",
+        "duck"
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "sweden",
+      "name": {
+        "he": "שוודיה",
+        "en": "Sweden"
+      },
+      "flag": "🇸🇪",
+      "fact": {
+        "he": "בשוודיה יש כמעט מאה אלף אגמים, ובצפונה אפשר לראות בחורף את זוהר הקוטב.",
+        "en": "Sweden has almost a hundred thousand lakes, and in its north you can see the northern lights in winter."
+      },
+      "animalIds": [
+        "moose",
+        "bear",
+        "wolf",
+        "fox",
+        "deer",
+        "owl",
+        "squirrel",
+        "hedgehog",
+        "swan"
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "switzerland",
+      "name": {
+        "he": "שווייץ",
+        "en": "Switzerland"
+      },
+      "flag": "🇨🇭",
+      "fact": {
+        "he": "בשווייץ הרי האלפים מכסים רוב המדינה, ולפרות תולים פעמון כדי למצוא אותן במרעה הגבוה.",
+        "en": "The Alps cover most of Switzerland, and cows wear a bell so they can be found on the high pasture."
+      },
+      "animalIds": [
+        "cow",
+        "goat",
+        "eagle",
+        "fox",
+        "deer",
+        "sheep",
+        "squirrel"
+      ],
+      "continentId": "europe"
+    },
+    {
+      "id": "ecuador",
+      "name": {
+        "he": "אקוודור",
+        "en": "Ecuador"
+      },
+      "flag": "🇪🇨",
+      "fact": {
+        "he": "לאקוודור שייכים איי גלפגוס, שבהם החיות לא מפחדות מאנשים כי מעולם לא היו להן טורפים.",
+        "en": "Ecuador owns the Galápagos Islands, where the animals are unafraid of people because they never had predators."
+      },
+      "animalIds": [
+        "turtle",
+        "seal",
+        "penguin",
+        "lizard",
+        "toucan",
+        "monkey",
+        "parrot",
+        "crab"
+      ],
+      "continentId": "americas"
+    },
+    {
+      "id": "argentina",
+      "name": {
+        "he": "ארגנטינה",
+        "en": "Argentina"
+      },
+      "flag": "🇦🇷",
+      "fact": {
+        "he": "ארגנטינה נמתחת מיערות חמים ועד קרחוני הדרום, ובחופיה נחות לווייתנים ופינגווינים.",
+        "en": "Argentina stretches from warm forests to southern glaciers, and whales and penguins rest along its shores."
+      },
+      "animalIds": [
+        "penguin",
+        "whale",
+        "seal",
+        "horse",
+        "cow",
+        "llama",
+        "eagle",
+        "dolphin"
+      ],
+      "continentId": "americas"
+    },
+    {
+      "id": "usa",
+      "flag": "🇺🇸",
+      "name": {
+        "he": "ארצות הברית",
+        "en": "United States"
+      },
+      "fact": {
+        "he": "בארצות הברית יש פארקים לאומיים ענקיים, כמו ילוסטון, שבהם החיות חיות חופשי ואנשים רק מבקרים.",
+        "en": "The United States has huge national parks, like Yellowstone, where the animals live free and people are only visitors."
+      },
+      "animalIds": [
+        "bison",
+        "bear",
+        "raccoon",
+        "skunk",
+        "chipmunk",
+        "squirrel",
+        "eagle",
+        "turkey",
+        "woodpecker",
+        "moose",
+        "snake"
+      ],
+      "continentId": "americas"
+    },
+    {
+      "id": "bolivia",
+      "name": {
+        "he": "בוליביה",
+        "en": "Bolivia"
+      },
+      "flag": "🇧🇴",
+      "fact": {
+        "he": "בבוליביה נמצא מדבר המלח הגדול בעולם, וכשיורד עליו גשם הוא הופך למראה ענקית.",
+        "en": "Bolivia has the largest salt flat in the world, and when rain falls on it, it turns into an enormous mirror."
+      },
+      "animalIds": [
+        "llama",
+        "alpaca",
+        "jaguar",
+        "flamingo",
+        "monkey",
+        "parrot",
+        "sloth"
+      ],
+      "continentId": "americas"
+    },
+    {
+      "id": "brazil",
+      "flag": "🇧🇷",
+      "name": {
+        "he": "ברזיל",
+        "en": "Brazil"
+      },
+      "fact": {
+        "he": "בברזיל נמצא יער האמזונס, היער הגדול בעולם. בתוכו חיות יותר חיות מאשר בכל מקום אחר על כדור הארץ.",
+        "en": "Brazil holds the Amazon, the biggest forest in the world. More kinds of animal live inside it than anywhere else on Earth."
+      },
+      "animalIds": [
+        "jaguar",
+        "sloth",
+        "toucan",
+        "parrot",
+        "monkey",
+        "frog",
+        "butterfly",
+        "ant",
+        "snake",
+        "crocodile",
+        "fish",
+        "caterpillar",
+        "cricket"
+      ],
+      "continentId": "americas"
+    },
+    {
+      "id": "mexico",
+      "flag": "🇲🇽",
+      "name": {
+        "he": "מקסיקו",
+        "en": "Mexico"
+      },
+      "fact": {
+        "he": "למקסיקו מגיעים בכל שנה מיליוני פרפרי מונרך אחרי מעוף של אלפי קילומטרים, והם מכסים עצים שלמים בכתום.",
+        "en": "Every year millions of monarch butterflies arrive in Mexico after flying thousands of kilometres, covering whole trees in orange."
+      },
+      "animalIds": [
+        "butterfly",
+        "jaguar",
+        "parrot",
+        "rabbit",
+        "lizard",
+        "bat",
+        "spider",
+        "dolphin"
+      ],
+      "continentId": "americas"
+    },
+    {
+      "id": "panama",
+      "name": {
+        "he": "פנמה",
+        "en": "Panama"
+      },
+      "flag": "🇵🇦",
+      "fact": {
+        "he": "בפנמה נחפרה תעלה שמחברת שני אוקיינוסים, וספינות חוצות בה מים אחד לשני.",
+        "en": "A canal was dug across Panama joining two oceans, and ships cross from one to the other through it."
+      },
+      "animalIds": [
+        "sloth",
+        "monkey",
+        "frog",
+        "toucan",
+        "butterfly",
+        "turtle",
+        "dolphin",
+        "crocodile"
+      ],
+      "continentId": "americas"
+    },
+    {
+      "id": "peru",
+      "flag": "🇵🇪",
+      "name": {
+        "he": "פרו",
+        "en": "Peru"
+      },
+      "fact": {
+        "he": "בפרו יש הרים גבוהים מאוד, האנדים, ובהם הולכות למות ואלפקות בשבילים שבנו אנשים לפני מאות שנים.",
+        "en": "Peru has the very high Andes mountains, where llamas and alpacas walk along paths people built centuries ago."
+      },
+      "animalIds": [
+        "llama",
+        "alpaca",
+        "eagle",
+        "penguin",
+        "fish",
+        "butterfly",
+        "seal"
+      ],
+      "continentId": "americas"
+    },
+    {
+      "id": "chile",
+      "name": {
+        "he": "צ'ילה",
+        "en": "Chile"
+      },
+      "flag": "🇨🇱",
+      "fact": {
+        "he": "צ'ילה ארוכה וצרה מאוד, ויש בה גם המדבר היבש בעולם וגם קרחונים.",
+        "en": "Chile is very long and very narrow, and holds both the driest desert in the world and glaciers."
+      },
+      "animalIds": [
+        "penguin",
+        "llama",
+        "alpaca",
+        "seal",
+        "whale",
+        "dolphin",
+        "eagle",
+        "fox"
+      ],
+      "continentId": "americas"
+    },
+    {
+      "id": "cuba",
+      "name": {
+        "he": "קובה",
+        "en": "Cuba"
+      },
+      "flag": "🇨🇺",
+      "fact": {
+        "he": "בקובה חיה הציפור הקטנה בעולם — יונק דבש בגודל של דבורה גדולה.",
+        "en": "Cuba is home to the smallest bird in the world — a hummingbird the size of a large bee."
+      },
+      "animalIds": [
+        "flamingo",
+        "crocodile",
+        "parrot",
+        "butterfly",
+        "fish",
+        "crab",
+        "turtle",
+        "bat"
+      ],
+      "continentId": "americas"
+    },
+    {
+      "id": "colombia",
+      "name": {
+        "he": "קולומביה",
+        "en": "Colombia"
+      },
+      "flag": "🇨🇴",
+      "fact": {
+        "he": "בקולומביה חיים יותר מיני ציפורים מאשר בכל מדינה אחרת בעולם.",
+        "en": "More kinds of bird live in Colombia than in any other country in the world."
+      },
+      "animalIds": [
+        "toucan",
+        "parrot",
+        "monkey",
+        "jaguar",
+        "sloth",
+        "frog",
+        "butterfly",
+        "snake",
+        "dolphin"
+      ],
+      "continentId": "americas"
+    },
+    {
+      "id": "costa_rica",
+      "name": {
+        "he": "קוסטה ריקה",
+        "en": "Costa Rica"
+      },
+      "flag": "🇨🇷",
+      "fact": {
+        "he": "קוסטה ריקה קטנה מאוד, ובכל זאת חיים בה כשלושה אחוזים מכל בעלי החיים והצמחים בעולם.",
+        "en": "Costa Rica is very small, and yet about three per cent of all the world's animals and plants live in it."
+      },
+      "animalIds": [
+        "sloth",
+        "toucan",
+        "monkey",
+        "frog",
+        "butterfly",
+        "jaguar",
+        "turtle",
+        "parrot"
+      ],
+      "continentId": "americas"
+    },
+    {
+      "id": "canada",
+      "flag": "🇨🇦",
+      "name": {
+        "he": "קנדה",
+        "en": "Canada"
+      },
+      "fact": {
+        "he": "קנדה מכוסה יערות, אגמים ושלג, והבונה — שבונה סכרים בנהרות — הוא אחד הסמלים שלה.",
+        "en": "Canada is covered in forests, lakes and snow, and the beaver, which builds dams across rivers, is one of its symbols."
+      },
+      "animalIds": [
+        "beaver",
+        "moose",
+        "polar_bear",
+        "wolf",
+        "bear",
+        "goose",
+        "otter",
+        "squirrel",
+        "owl",
+        "seal"
+      ],
+      "continentId": "americas"
+    },
+    {
+      "id": "australia",
+      "flag": "🇦🇺",
+      "name": {
+        "he": "אוסטרליה",
+        "en": "Australia"
+      },
+      "fact": {
+        "he": "אוסטרליה היא יבשת־אי, והיא הייתה מנותקת מהעולם מיליוני שנים. לכן החיות שלה שונות מכל חיה אחרת.",
+        "en": "Australia is an island continent, cut off from the rest of the world for millions of years. That is why its animals are like no others."
+      },
+      "animalIds": [
+        "kangaroo",
+        "koala",
+        "parrot",
+        "crocodile",
+        "shark",
+        "dolphin",
+        "sheep",
+        "spider",
+        "seagull",
+        "seahorse"
+      ],
+      "continentId": "oceania"
+    },
+    {
+      "id": "new_zealand",
+      "flag": "🇳🇿",
+      "name": {
+        "he": "ניו זילנד",
+        "en": "New Zealand"
+      },
+      "fact": {
+        "he": "בניו זילנד יש יותר כבשים מאנשים, ופעם חיו בה כמעט רק ציפורים — היונקים היחידים על היבשה היו עטלפים.",
+        "en": "New Zealand has more sheep than people, and once held almost nothing but birds — the only land mammals were bats."
+      },
+      "animalIds": [
+        "sheep",
+        "penguin",
+        "dolphin",
+        "seal",
+        "parrot",
+        "whale",
+        "cow"
+      ],
+      "continentId": "oceania"
+    },
+    {
+      "id": "fiji",
+      "name": {
+        "he": "פיג'י",
+        "en": "Fiji"
+      },
+      "flag": "🇫🇯",
+      "fact": {
+        "he": "פיג'י היא מאות איים באוקיינוס השקט, ומסביבם שוניות אלמוגים מלאות דגים צבעוניים.",
+        "en": "Fiji is hundreds of islands in the Pacific, ringed by coral reefs full of brightly coloured fish."
+      },
+      "animalIds": [
+        "fish",
+        "turtle",
+        "crab",
+        "octopus",
+        "dolphin",
+        "shark",
+        "parrot",
+        "seagull"
+      ],
+      "continentId": "oceania"
+    },
+    {
+      "id": "papua_new_guinea",
+      "name": {
+        "he": "פפואה גינאה החדשה",
+        "en": "Papua New Guinea"
+      },
+      "flag": "🇵🇬",
+      "fact": {
+        "he": "בפפואה גינאה החדשה מדברים יותר משמונה מאות שפות — יותר מאשר בכל מדינה אחרת בעולם.",
+        "en": "More than eight hundred languages are spoken in Papua New Guinea — more than in any other country on Earth."
+      },
+      "animalIds": [
+        "parrot",
+        "butterfly",
+        "bat",
+        "crocodile",
+        "fish",
+        "turtle",
+        "snake"
+      ],
+      "continentId": "oceania"
     },
     {
       "id": "antarctica",
@@ -602,7 +1750,58 @@
         "jellyfish",
         "fish",
         "seagull"
-      ]
+      ],
+      "continentId": "polar"
+    }
+  ],
+  "continents": [
+    {
+      "id": "asia",
+      "name": {
+        "he": "אסיה",
+        "en": "Asia"
+      },
+      "emoji": "🌏"
+    },
+    {
+      "id": "africa",
+      "name": {
+        "he": "אפריקה",
+        "en": "Africa"
+      },
+      "emoji": "🌍"
+    },
+    {
+      "id": "europe",
+      "name": {
+        "he": "אירופה",
+        "en": "Europe"
+      },
+      "emoji": "🏔️"
+    },
+    {
+      "id": "americas",
+      "name": {
+        "he": "אמריקה",
+        "en": "The Americas"
+      },
+      "emoji": "🌎"
+    },
+    {
+      "id": "oceania",
+      "name": {
+        "he": "אוקיאניה",
+        "en": "Oceania"
+      },
+      "emoji": "🏝️"
+    },
+    {
+      "id": "polar",
+      "name": {
+        "he": "קצות העולם",
+        "en": "The Poles"
+      },
+      "emoji": "❄️"
     }
   ],
   "animals": [
@@ -687,18 +1886,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dog.ogg",
-          "sha256": "cd6efd1efe4af44a8fce30d4f850768bb99fd331d61c64635fa1b88382601613",
+          "sha256": "72fb9a6d603c914bfd01a73f266357437834f1f3c9fde3af88ea69c085ac2153",
           "bytes": 17513
         },
         "nameHe": {
           "path": "audio/names/he/dog.ogg",
-          "sha256": "14c63daa29286529f2fd2b05544735c83d57f128885749e01ca7064fd17ad4c6",
+          "sha256": "1d641706e5117d65634ba34b6742826fe1b9d8245b21e77f3ba5898d7a1c63b7",
           "bytes": 5722
         },
         "nameEn": {
           "path": "audio/names/en/dog.ogg",
-          "sha256": "9091eef8d35144ca43cfcb3d7e1f717ec91a32ddf0177cddb3a756477db178d7",
-          "bytes": 6051
+          "sha256": "780019b28c3450d0f0021b1b118251d046a66ca9e7a687b3cf8bc129c9cad632",
+          "bytes": 6200
         }
       }
     },
@@ -789,18 +1988,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cat.ogg",
-          "sha256": "641e29d8096c4b60261307bcdd83aa9d7682d8ef260adfb9b58acf197795c398",
+          "sha256": "b3dcf28d6c8071b4fd230d8adc3273a4c034d5260f96bd61d66a2debe77b9d1f",
           "bytes": 15987
         },
         "nameHe": {
           "path": "audio/names/he/cat.ogg",
-          "sha256": "d859a911ac052cf910e4f591c75831d45b0d73788eb53b868a58d84992bc8ab8",
+          "sha256": "13e842525f2ada43fc619c75452ad9a59ff7ed2ba7cb68719c530a0864aea89b",
           "bytes": 6136
         },
         "nameEn": {
           "path": "audio/names/en/cat.ogg",
-          "sha256": "221278e045b332580eeabb84732993c7f6d98f4825fe486d6963ffc85fde4ed6",
-          "bytes": 6021
+          "sha256": "2aaf8cf38a691bbf3535c70135e66e6bbb6908a3ef695a5cef4d44bf7a4168e1",
+          "bytes": 6188
         }
       }
     },
@@ -885,18 +2084,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cow.ogg",
-          "sha256": "7cc81eca3942c2472ffef721eeae585df0016ba358f8d67620875c11ec73bb6f",
+          "sha256": "1f31929aaad8e6cef2c2bf924c898fb068020d797b85c5b5acb723b4e7bf6647",
           "bytes": 20201
         },
         "nameHe": {
           "path": "audio/names/he/cow.ogg",
-          "sha256": "a443e1802d03e692fd02231d9f6993729c42b451b3506ade402cc0d11a845ea0",
+          "sha256": "5cfbc3c54679ea0f5f5b20af2473ae5b3c0f04d416927bbea5aa521484a4c1fe",
           "bytes": 4989
         },
         "nameEn": {
           "path": "audio/names/en/cow.ogg",
-          "sha256": "4f79d2370aacb984c6cd36bdce63191df3613d20c7da9f5083b35623a2297db7",
-          "bytes": 6384
+          "sha256": "c1f2fe08c691a39129f486ea808d3b48bef64ae5bdc4785bb104bddc5cce04b4",
+          "bytes": 6331
         }
       }
     },
@@ -981,18 +2180,18 @@
         ],
         "sound": {
           "path": "audio/sounds/sheep.ogg",
-          "sha256": "f5a30d8a11b2cbce90303e3cf2c882a756240ee9b5cdf8c43141d02c4ae57024",
+          "sha256": "84b7cbbc70f4e836f405355aa4e57acbee0ade5fd4d978f0f41f5531a9a7c1f4",
           "bytes": 28433
         },
         "nameHe": {
           "path": "audio/names/he/sheep.ogg",
-          "sha256": "27ac8f0cd7d8164fb3252f6c7f9b25ec947e66f27e13c16419484f0ace5eaa8f",
+          "sha256": "34da6589bf1539b583fe75124c6e1b946e5884e4b763fc920787fd3cd1b035d0",
           "bytes": 5431
         },
         "nameEn": {
           "path": "audio/names/en/sheep.ogg",
-          "sha256": "22947a3e85bd3cafd6af1758da8bbd33c935a079f90f6e75b018223eba7c247a",
-          "bytes": 6564
+          "sha256": "d50699b59c20126d14d2555f332ba06a452c7d548b5d276ebd374b095568f42a",
+          "bytes": 6243
         }
       }
     },
@@ -1077,18 +2276,18 @@
         ],
         "sound": {
           "path": "audio/sounds/horse.ogg",
-          "sha256": "eb7c80e92b471d676fdc46fb7626ae7951759eed7607fb5bf8ae01d1982a724e",
+          "sha256": "1ed512e08ba5ca596547076364fa8a915b5be390811cc4b747b229022de6ae1d",
           "bytes": 10897
         },
         "nameHe": {
           "path": "audio/names/he/horse.ogg",
-          "sha256": "7337be813f276536e5c91ee658a77cb6ad6b1519a71df83db023a2266a0f102d",
+          "sha256": "642bc34f045137ae3b42b1b7c60d2465b51b33788e2ee6217f0934d2bff188ed",
           "bytes": 5667
         },
         "nameEn": {
           "path": "audio/names/en/horse.ogg",
-          "sha256": "6b3efe7cfa235d9610c582823b61c0230f148475d822b476ff781a6231ac4b38",
-          "bytes": 6365
+          "sha256": "132991c836e8ec6b3965dae44dd0a2796c8ab7e192971f1714af4d328f6e04a2",
+          "bytes": 6376
         }
       }
     },
@@ -1177,18 +2376,18 @@
         ],
         "sound": {
           "path": "audio/sounds/duck.ogg",
-          "sha256": "19ed4218bb75a7839571071fac7760ab8288bd62e050f4d88a0c03ade2d81311",
+          "sha256": "e76676b30b312adaecb32a8958733314732b611328dc1b19e1c98c807aaf88cd",
           "bytes": 21510
         },
         "nameHe": {
           "path": "audio/names/he/duck.ogg",
-          "sha256": "a126104b0415ea59d2ef6dfe2b02f77a994354787e1d31ecfc77c89183aa4324",
+          "sha256": "1a10087d122419b8d0b58fc6b19dee971c87c7906504f5f1388a05c43e628b29",
           "bytes": 6227
         },
         "nameEn": {
           "path": "audio/names/en/duck.ogg",
-          "sha256": "fccecbdbf151eb0c21024d3537f2416a75c12143721cd4db41d7ce68135d1496",
-          "bytes": 6098
+          "sha256": "2304627171c00564f3a8463708a5db1ca282384998bc1348c46c14e1db6a3007",
+          "bytes": 5757
         }
       }
     },
@@ -1279,18 +2478,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rooster.ogg",
-          "sha256": "c924f4110b94453f8f80795754fc113f31a3d57a6643846f441438ba51d3f8fa",
+          "sha256": "626e485c2f5fbc24f4a4710fbf6959bd4b01ceddda8b5b2d1f06abc99494e0ae",
           "bytes": 28588
         },
         "nameHe": {
           "path": "audio/names/he/rooster.ogg",
-          "sha256": "cff364ee523f4134d99133698fb050d484f8630949676daee1e4bb56234c4e54",
+          "sha256": "a5eb0562638514e86dd2af12dfbf46b15781665de74f51f12de87b59c05d1f1d",
           "bytes": 6368
         },
         "nameEn": {
           "path": "audio/names/en/rooster.ogg",
-          "sha256": "1679a6f7c8ca8400b15b7b305f3fdb4b0c4640ac2068e8b45df1a99b3aa90612",
-          "bytes": 7315
+          "sha256": "b6f373e28c41e59e907feb906d0093ab75de7730de75881330dc8d3ffee78ce6",
+          "bytes": 7111
         }
       }
     },
@@ -1373,18 +2572,18 @@
         ],
         "sound": {
           "path": "audio/sounds/pig.ogg",
-          "sha256": "332580aa9a8f1f2b981547d03dfd3723f7f37390414e6b5ed3724d3ff1c03b4f",
+          "sha256": "0f905ca2831186aa732c605692d42876749a6f9a2b9ed561f39362cbe99243ba",
           "bytes": 30025
         },
         "nameHe": {
           "path": "audio/names/he/pig.ogg",
-          "sha256": "a584b7dd628a2533c0ef5e888f9181eab931e5c0a8a4997febde71117937814c",
+          "sha256": "b1ee901fe4919711cfbd46b5a41a7c86fdc8f1cf15797c734db1465dcf969b13",
           "bytes": 7868
         },
         "nameEn": {
           "path": "audio/names/en/pig.ogg",
-          "sha256": "d915f9e6a2ff6eeb7795773a47a585ed14b6690c257bdade4c92d478aaa2c2ef",
-          "bytes": 5084
+          "sha256": "087568a9fae084df7b6bb0843cd7b098cc1f235983f32532f40d7a66991599cd",
+          "bytes": 5101
         }
       }
     },
@@ -1467,18 +2666,18 @@
         ],
         "sound": {
           "path": "audio/sounds/goat.ogg",
-          "sha256": "f435996a5f51ae612ade64b5ab73035d38cd2dc135515a2d630fb6b1b7c43b4b",
+          "sha256": "eb0d92523d26d25e935329059eaef2f66eb946efe680b97166686cd91a0266cd",
           "bytes": 10841
         },
         "nameHe": {
           "path": "audio/names/he/goat.ogg",
-          "sha256": "f1ee934715a8fdbe6e0c535e493a3b6c2862fb3389d5e18280b122c7e30a1419",
+          "sha256": "7cbde867f1457fb0e99b2eef479abc16759b1a02511232a0aa6c5f53d584fd9e",
           "bytes": 4254
         },
         "nameEn": {
           "path": "audio/names/en/goat.ogg",
-          "sha256": "df8ef4894d99d31576bfd7ced38f1ede043a5a2442165f6c32a7212a4a28fc18",
-          "bytes": 5784
+          "sha256": "843dd6bfa77f83dc63b4fb28ed59c9543ebb39f0f19806d8a0c6ac9b8949ad7d",
+          "bytes": 5958
         }
       }
     },
@@ -1561,18 +2760,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rabbit.ogg",
-          "sha256": "c6a8faad4ee2c4ac31cdb16b1fa2a52d41f7c772ddf3c89e3d9d118cfaea9172",
+          "sha256": "d455dcd9c2fee581f9aaec7b3e846799cec4500fed8dc3fd45428a416ab28b82",
           "bytes": 32469
         },
         "nameHe": {
           "path": "audio/names/he/rabbit.ogg",
-          "sha256": "44924cbb9ab6b1c0e66d85f9d0e24556c2fe5ed1f39dcd03c688dc9849d2e919",
+          "sha256": "b91b65827db3147611cabf811f9594f58fcaba18d6cee4d04369ac71ff85e940",
           "bytes": 5893
         },
         "nameEn": {
           "path": "audio/names/en/rabbit.ogg",
-          "sha256": "b1666b7aca21a541ff6bb511bf822a4fd9d42663926559a2c5dcac3cc9764bb5",
-          "bytes": 6443
+          "sha256": "d029f3d249b7acdf4c0670e8747d0eecf35ded328177043c490d67838b3d49f8",
+          "bytes": 6707
         }
       }
     },
@@ -1655,18 +2854,18 @@
         ],
         "sound": {
           "path": "audio/sounds/donkey.ogg",
-          "sha256": "5f820dbdaebbd7ab17a3d736db46936f61a87cc0d0ea73a9fb61759a8036c2db",
+          "sha256": "5b6f38e2f96c2ab99f95c58e2422d353eb1ee41394cf24301a96351dd0e21480",
           "bytes": 31181
         },
         "nameHe": {
           "path": "audio/names/he/donkey.ogg",
-          "sha256": "9ed8220d24d15797c0b2acbd96cbd8dcf2d91c7e909f70f1fefe3bbbcf64e928",
+          "sha256": "9f6be2342d5793afd7d47ba9b3159367d2b7bcf6f9850cbe4356237f1809c06d",
           "bytes": 6584
         },
         "nameEn": {
           "path": "audio/names/en/donkey.ogg",
-          "sha256": "218edaf490d05da5f8107a36343495ffeacd55d6a3a6f8316ae211490c09cee2",
-          "bytes": 6949
+          "sha256": "8385a1e3f892723ed12249548d12ab8a59b4fb2923ffbebffcd5739ccd08756a",
+          "bytes": 6864
         }
       }
     },
@@ -1754,18 +2953,18 @@
         ],
         "sound": {
           "path": "audio/sounds/turkey.ogg",
-          "sha256": "f78fc0c34f8b72c4cd0bebc973aa6f4775d6fd16787940658a660870df117684",
+          "sha256": "bc25ef4773e40bd4f36703ad33f57aefbcde4214c8eadce6267034757a1801f9",
           "bytes": 10940
         },
         "nameHe": {
           "path": "audio/names/he/turkey.ogg",
-          "sha256": "5bec9ee5c0c591bf540bccf82c0c2fa38809b2373c3c23949ba3e805d97d928b",
+          "sha256": "5cb3a761940eb6268d974be4c819cce3b8f8163365b6c01bfdeef5932af23a3d",
           "bytes": 8347
         },
         "nameEn": {
           "path": "audio/names/en/turkey.ogg",
-          "sha256": "f06ce3e3bce3ef163210b67e5d921a6e199357243b551bc8ebb5ab7243f1f809",
-          "bytes": 6546
+          "sha256": "ea18eafc0bc7894b6f4f54c954c562b1f7637bc9eff0383194b76a0063fcbffb",
+          "bytes": 6602
         }
       }
     },
@@ -1851,18 +3050,18 @@
         ],
         "sound": {
           "path": "audio/sounds/goose.ogg",
-          "sha256": "53ee3dd1e895aea5a84e3846709347a0871d5426f5a112cfc82d76bc6a23ecb4",
+          "sha256": "fa629808c17a914e8322b171b21b301d22c9a876d3d0f9d1192ee82156d54f9b",
           "bytes": 6173
         },
         "nameHe": {
           "path": "audio/names/he/goose.ogg",
-          "sha256": "9d48582e42703f37fe48fbe8e9b92b1d1401d818460e91cb228ef181b5e7516b",
+          "sha256": "e0e8a0c5207dca687e8e53784cea6c8b5654d588aba65178cfe30f63fef38e70",
           "bytes": 4807
         },
         "nameEn": {
           "path": "audio/names/en/goose.ogg",
-          "sha256": "0077b58494f4a14c70b3edb3585b10b027f8c81956efac86849331478d778cb6",
-          "bytes": 6477
+          "sha256": "8959cd65ddea347952acc1212f355cbd3dca670e7e38e5b3399d967b9e1fbd15",
+          "bytes": 6365
         }
       }
     },
@@ -1945,18 +3144,18 @@
         ],
         "sound": {
           "path": "audio/sounds/mouse.ogg",
-          "sha256": "d8a65ce54037f302d9859fce98f88a5dd8581f64c26c190e24fde9fa7521c7e4",
+          "sha256": "c7c519fccdfb556bb4b6c6ae4c69156bd32a9e43812f754ff80e7c4c5fe39886",
           "bytes": 4594
         },
         "nameHe": {
           "path": "audio/names/he/mouse.ogg",
-          "sha256": "8e20573fa2ebee502e8c5403f7039cdbbf7a9bc5efa12153cefefaef0fc601c8",
+          "sha256": "83107c0137f19d183f47deb8bb436647074026e51679988c4b3bce8fb1f70d0e",
           "bytes": 5706
         },
         "nameEn": {
           "path": "audio/names/en/mouse.ogg",
-          "sha256": "ba3c764c0cb742351700175282f0f32f1d8ece1cf6157d17e4bbe4c0a5090e01",
-          "bytes": 6790
+          "sha256": "429e57a605887699e08a597c614573fd886d83608717960c7fc304ef91c6a6d4",
+          "bytes": 6935
         }
       }
     },
@@ -2039,18 +3238,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hamster.ogg",
-          "sha256": "48f6d0ae17eea4d4749a2bba4dfabf2e95fe1dd548ec2697a3587863c32f5554",
+          "sha256": "f5304f798f0b459a55a6793df717b4ff06d5a7e5c81a72d0f2215e3ab8db2350",
           "bytes": 23125
         },
         "nameHe": {
           "path": "audio/names/he/hamster.ogg",
-          "sha256": "bb090ade4aa7314ae2a29b7146c23d4fcd6cad14317eeb2c33854a690725c20d",
+          "sha256": "13ab2b6d1097299f11fcb7244e0a113271c082354954e7eaf0d8e982d4e22b9e",
           "bytes": 5584
         },
         "nameEn": {
           "path": "audio/names/en/hamster.ogg",
-          "sha256": "ce77ef0871b662f0fc6fea415b435ace21ef86bf0d2874a6f434b2b8d1dcf0cc",
-          "bytes": 7434
+          "sha256": "cc4224c72dabaa9cb48177f4fabe33571c53f4b48f7813f2fb3a0222c38e4981",
+          "bytes": 7366
         }
       }
     },
@@ -2141,18 +3340,18 @@
         ],
         "sound": {
           "path": "audio/sounds/lion.ogg",
-          "sha256": "61eef5adcb85519db120a5a4efc48d68b88ffb6a312739309e475f1f829cdf0f",
+          "sha256": "a961d20a5a652de467fb055f3cf5c722914279cd18186ca2b0508ce50a97f92a",
           "bytes": 28203
         },
         "nameHe": {
           "path": "audio/names/he/lion.ogg",
-          "sha256": "ab357cfe48c3fe288730e07808125dbb311ca1f11e30a3fcde95fe1c55a7766f",
+          "sha256": "e8c719a9575ee562a2e97e6febf0e3363b5169f91cb6a216d7e12926d0a1f64d",
           "bytes": 5864
         },
         "nameEn": {
           "path": "audio/names/en/lion.ogg",
-          "sha256": "c9ccd61a42e4cb72aca25afadf262f761dce9ae7f9f819295456b481a8f9bdf0",
-          "bytes": 6713
+          "sha256": "31ce8630951499d2a2aef88732b2f70d7c52c58b01ae2526de52fc10708dc4b4",
+          "bytes": 6208
         }
       }
     },
@@ -2237,18 +3436,18 @@
         ],
         "sound": {
           "path": "audio/sounds/elephant.ogg",
-          "sha256": "3b0f67e92e9e6bd432e45a5645ff254cd93ed10664abf10c676aafac93b2ca8e",
+          "sha256": "33888ddc9887ae248c48370c7a134c5b67d599304be8e723c36dc320e8446dee",
           "bytes": 10638
         },
         "nameHe": {
           "path": "audio/names/he/elephant.ogg",
-          "sha256": "8b325b0bff0fb8f9eb6f805a0f0c06692f784c0f526f7d9d56405d0eeabe3ad3",
+          "sha256": "4985932bca1564a2b184097526c8e9928bdda86ae511826591c5ca00fe62297a",
           "bytes": 6666
         },
         "nameEn": {
           "path": "audio/names/en/elephant.ogg",
-          "sha256": "d153252603440cba0d76dab8c4bfddccb36ac10ca0f20ce1ed032f326f2fe0d9",
-          "bytes": 7064
+          "sha256": "61d1595ec7c8919a3d185dca8aacf568655057e72172d68ccb257ad5d4954557",
+          "bytes": 7259
         }
       }
     },
@@ -2331,13 +3530,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/giraffe.ogg",
-          "sha256": "34563bf9d1f80ca2969ae5f97a1d06eb441c89a6da0bf757d902442e156859fd",
+          "sha256": "de3ba117f635972de4f97d557d8b542bf847853d8b4c96ece3920e4b00bdbc67",
           "bytes": 7008
         },
         "nameEn": {
           "path": "audio/names/en/giraffe.ogg",
-          "sha256": "6fc6451fd7ad4108e8c7354611f88ef6536552b2e43e325be2a4f1b0f05d2ec3",
-          "bytes": 7020
+          "sha256": "b8e6d55b7e5980df4853055820dd89d33bea9311c0dd774d4a3a7d92935eb56d",
+          "bytes": 7274
         }
       }
     },
@@ -2420,18 +3619,18 @@
         ],
         "sound": {
           "path": "audio/sounds/zebra.ogg",
-          "sha256": "069d92e10e03e35db98f154dbfcab1059866c6913a4eaf14ba13c2b5db046bf7",
+          "sha256": "2a1cc54df1e210e9c01c8d82ed572e72cac592a79f3e96c68574017605bdcb67",
           "bytes": 16734
         },
         "nameHe": {
           "path": "audio/names/he/zebra.ogg",
-          "sha256": "376d5a952e84c57d2f30fd051096bc6612bfe0580a3707db41bd25986437851d",
+          "sha256": "ad81049a986e73c0704865b8befeb99abc2b1f9a93bfad8cc004a97d861c973f",
           "bytes": 5514
         },
         "nameEn": {
           "path": "audio/names/en/zebra.ogg",
-          "sha256": "021c28fb3e4c67613cf793b81deb3f5ac38418f3c43dc572d3516e7200823b88",
-          "bytes": 7608
+          "sha256": "51e94f2041a53d0fbc7a9709c61fcd344df991048251e4ec69081587a7a61811",
+          "bytes": 7528
         }
       }
     },
@@ -2514,18 +3713,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rhino.ogg",
-          "sha256": "608a1f4a79839be166331ff5ec20590a38846a1c09b248235b220263fc6f0e54",
+          "sha256": "03f427488e9eb999d367b4e41e701d26ae09b0ec4c63396a14aea94c2021b558",
           "bytes": 26328
         },
         "nameHe": {
           "path": "audio/names/he/rhino.ogg",
-          "sha256": "caec704fb545d8bde1da3aea7a961bf066ebb2d7b81ea5744b372bec1a6f7288",
+          "sha256": "711d9600259294d52319cd4014bd037f5d611b2715c3773ce31f0df11f02a28d",
           "bytes": 6108
         },
         "nameEn": {
           "path": "audio/names/en/rhino.ogg",
-          "sha256": "d36b296478b779b46da3f17aba63ffa436d3bb5edcd4d0058098a91b6ccc0846",
-          "bytes": 9562
+          "sha256": "5a821377fec5a148c7539f70bdaf103913526a3ecc9731dd6be00734e6880d84",
+          "bytes": 9690
         }
       }
     },
@@ -2608,18 +3807,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hippo.ogg",
-          "sha256": "6fda4cb86d2c629b4063165dd4743477e2cf9fb64e22c5be5bf6c78639aceff1",
+          "sha256": "fc47bb504499fbe491fad3ce1c40761714eb142b52a0185bf8331d6c67d286f9",
           "bytes": 19039
         },
         "nameHe": {
           "path": "audio/names/he/hippo.ogg",
-          "sha256": "ad682d73bfa179754c6068ad5db62919e0c1c3a9df50a2e215c78457b70d9e9a",
+          "sha256": "c0d5f7c90e393bb5f2cca4294b03f100c2bc2b7ae6280108b04e27e9881c6fd8",
           "bytes": 8145
         },
         "nameEn": {
           "path": "audio/names/en/hippo.ogg",
-          "sha256": "7e62a51e5144ed21f98b8a6da6d01167ede1eaebac5198fce7e32041ae202819",
-          "bytes": 9721
+          "sha256": "7b4f052902c87559792f2228d5075d43fb2462869dd908949b141ef0fe289d4e",
+          "bytes": 9810
         }
       }
     },
@@ -2707,13 +3906,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/cheetah.ogg",
-          "sha256": "56600d2ba863ce5ef35877d11de16765d6bd67383dcb392e720f1058ca41e488",
+          "sha256": "35b1e940f207d092512982cc9a6c3e832a05150e8ada4e1e0a45fee419a235b5",
           "bytes": 6679
         },
         "nameEn": {
           "path": "audio/names/en/cheetah.ogg",
-          "sha256": "876283a9146cd7a0c669f02cf5ebbe04d3d258b09bd9f5b7743f630b3d4f6771",
-          "bytes": 7343
+          "sha256": "a6941b5e6239cbbaa796850a9cc6034a77ec4961e639585b329ecae713580bb1",
+          "bytes": 7220
         }
       }
     },
@@ -2801,18 +4000,18 @@
         ],
         "sound": {
           "path": "audio/sounds/leopard.ogg",
-          "sha256": "c262f85a4edbc09aeae27787959441079a50e7e0d85cf94552ec9a1326a1ae7c",
+          "sha256": "eb837f0eaf61f7d572e1ac24288f2d394bafc614953cc35817b935ea80929857",
           "bytes": 6123
         },
         "nameHe": {
           "path": "audio/names/he/leopard.ogg",
-          "sha256": "a639a524be895433fbac67018089b5ccb05f78dcd723d3ad3ddb1eb53a5f4587",
+          "sha256": "33f8c444072674769db5159f8d8509a7bda0814543c301b1e4046f931b0f7f8f",
           "bytes": 5314
         },
         "nameEn": {
           "path": "audio/names/en/leopard.ogg",
-          "sha256": "60a78baa6dbde8a84c86d931de4438195cee480d382d6c0b9834ff00dfbcfdad",
-          "bytes": 6771
+          "sha256": "c7eba7cd30780ea0c3ea0eed4adeba52f9101b86a0a4dfb416b47f32a1ef8b50",
+          "bytes": 6880
         }
       }
     },
@@ -2895,18 +4094,18 @@
         ],
         "sound": {
           "path": "audio/sounds/gorilla.ogg",
-          "sha256": "48b1d4d37d3a0e1c51fd1aa7324ee7a3003429d6fd6477aa7059fe5ac29ff3e6",
+          "sha256": "c012bde7172ede1f973fd0f76c7352d0a23f1bf357fd10c531a5d3380f27d7dc",
           "bytes": 26021
         },
         "nameHe": {
           "path": "audio/names/he/gorilla.ogg",
-          "sha256": "9cbcfc0f9a63ef9674a7cd8b3cb3e8488c1af8c778c4ecc89cf744ed024de818",
+          "sha256": "ed05939182e4fe946d0d3faa5d00d18b9f358327600a6f2e08ff9b51c1680de7",
           "bytes": 7268
         },
         "nameEn": {
           "path": "audio/names/en/gorilla.ogg",
-          "sha256": "eb21345bceaaed1d87e23f757947b10550ff03ca7a50188f85a169b329b489de",
-          "bytes": 6988
+          "sha256": "4898990efa7e2bcb6b9cda4793a5f02cc5c0eaa2d4ae47a743496880b821a9e5",
+          "bytes": 7089
         }
       }
     },
@@ -2993,18 +4192,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hyena.ogg",
-          "sha256": "c2e3182366428d164d1725122f10a224eca3c0f24fb985a5d9d42719f8543302",
+          "sha256": "3eb688d8716b4777d05daf33ca910ea0a2bbe4dee31d4475c06d48c44ede9f4a",
           "bytes": 8439
         },
         "nameHe": {
           "path": "audio/names/he/hyena.ogg",
-          "sha256": "e8ce208aaaad323f347254507e9c90629e392c05fffe49df2510cb156425dbe6",
+          "sha256": "19c1543c889a783291157983fd7683d85ca71030fed41246286c73e6fe4905eb",
           "bytes": 5703
         },
         "nameEn": {
           "path": "audio/names/en/hyena.ogg",
-          "sha256": "33beae92d71aec0cb6bfda4569cf5e27f797cc6c07bbb5b21eef18e1c4c6bd11",
-          "bytes": 7508
+          "sha256": "0b757ccf64f200d738c3470cf97d2a6517c45537d6bceaead5d7e1a51b7b88c2",
+          "bytes": 7762
         }
       }
     },
@@ -3092,13 +4291,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/meerkat.ogg",
-          "sha256": "cff95a69b200d06ab8a012c616caed52796fb0e0610f32907e37a0503b113023",
+          "sha256": "8c530add0396f9c1bfc1756b071be03841b1b39f20989863debfcdc831534a06",
           "bytes": 7822
         },
         "nameEn": {
           "path": "audio/names/en/meerkat.ogg",
-          "sha256": "6fbcb6cd9cf3a3fde7fc24dd03b5ec5e5fb1020c22ad40c35ff3caf300a82170",
-          "bytes": 7732
+          "sha256": "353f91f24c70c81d877487a38cc314085258f60e8867f95cbf92e7f683e94ed4",
+          "bytes": 7865
         }
       }
     },
@@ -3187,18 +4386,18 @@
         ],
         "sound": {
           "path": "audio/sounds/crocodile.ogg",
-          "sha256": "d6a7b924f1de62a0c8e2be88efc56a6128fde3310f22984d7f992b5857977090",
+          "sha256": "7bde51aed59d1d299deea6e861058670372e0e8dc6ff145a1e772d0d3c2bce3f",
           "bytes": 30114
         },
         "nameHe": {
           "path": "audio/names/he/crocodile.ogg",
-          "sha256": "0b8af45a313990ff7016f05efa781c28b4ac6bd92ba2e1cda6fbae42c3200dbb",
+          "sha256": "42447c83fbc43ae57ffdfd4edd4f97b97d91909cde238a7014953dea1c031562",
           "bytes": 6618
         },
         "nameEn": {
           "path": "audio/names/en/crocodile.ogg",
-          "sha256": "89b3ea08549a6d3e6abbd42febbda2da1512bf1dacfb8326745d339f922fe769",
-          "bytes": 7886
+          "sha256": "6ba8c6cb5c17c70babc263ea1b3dcc2341a8d392f620665ae9812b4a3b3d8a49",
+          "bytes": 7971
         }
       }
     },
@@ -3284,18 +4483,18 @@
         ],
         "sound": {
           "path": "audio/sounds/flamingo.ogg",
-          "sha256": "354871ed67991961c1a4c3e8dedfa13b386856dc65ad91bbfe355fc83f289623",
+          "sha256": "62050cf4830e32c3c3ab76bb73a0fe87ff50414933a166807c148c7c3e8df1f9",
           "bytes": 30805
         },
         "nameHe": {
           "path": "audio/names/he/flamingo.ogg",
-          "sha256": "a7e88df2fdb3a4b9b076f344b07bf423c413cef89bbc702305f49b0f64c9244a",
+          "sha256": "2c2caf672cd5237f8c7a22929c68f3de6a9ccefecf5dbda636ff2bf0b1e12aa5",
           "bytes": 8049
         },
         "nameEn": {
           "path": "audio/names/en/flamingo.ogg",
-          "sha256": "7b036775520018232dc974cb98257233f387c2b774c168f39a92df1e308e2d39",
-          "bytes": 7828
+          "sha256": "b71894578572685b41fc2d28d1076401e0f38daa3fc20c5c1ed1228e6997f1c2",
+          "bytes": 7759
         }
       }
     },
@@ -3382,13 +4581,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ostrich.ogg",
-          "sha256": "17ba80bb2c7b4ba086396497f42100d399ffb7b598014e1cfcbcf69b5ef89840",
+          "sha256": "fe04c14d9180f0b4ae0ab43fd8f16defa1d2490b214a5c51231657f27f9bbb3b",
           "bytes": 5041
         },
         "nameEn": {
           "path": "audio/names/en/ostrich.ogg",
-          "sha256": "6f17cb8544c26d6899ab53a10ce621b158142d776d3bc4138247e2c2234a4758",
-          "bytes": 7908
+          "sha256": "32c017296c5c4c6ac7031cd9d55c82129c7fb5b7138cdabe36320ae8ce1fb0e6",
+          "bytes": 8083
         }
       }
     },
@@ -3471,18 +4670,18 @@
         ],
         "sound": {
           "path": "audio/sounds/camel.ogg",
-          "sha256": "f21c27a45359a5b3278c3029801242de68baabcfe3c6ab1fa4ea7c8705854fb9",
+          "sha256": "c401e0a589c5fce2f1c10aa32eb1216c478033ef75091bc08f4269a93cf8087c",
           "bytes": 30608
         },
         "nameHe": {
           "path": "audio/names/he/camel.ogg",
-          "sha256": "05e75949b705a1d4e65a8cfdab18b1f1e1290cda8335bf4bc25f8fdb94d95c5d",
+          "sha256": "c6188cd472a2b9cc04af34bf14f365193d3bc5eb517ddc6e9a8943bde5694ac7",
           "bytes": 4901
         },
         "nameEn": {
           "path": "audio/names/en/camel.ogg",
-          "sha256": "d54af20c526c3887109d5e424a3201a8492aee296be5ab45aca6c0bd113edcb3",
-          "bytes": 6604
+          "sha256": "a1a483b797ed6ab05d3168622b24c205386d2dfbe06cf017f2f1ca1e75db24bb",
+          "bytes": 6580
         }
       }
     },
@@ -3571,18 +4770,18 @@
         ],
         "sound": {
           "path": "audio/sounds/tiger.ogg",
-          "sha256": "b6ff40dce81a4cfffd420eef48ac235157a8405cf78f9b9e9541802c5b0019fa",
+          "sha256": "225b0e78f479703f4ac0726684ec1f7c181917d4492b8b09311a381ee2ee118a",
           "bytes": 27607
         },
         "nameHe": {
           "path": "audio/names/he/tiger.ogg",
-          "sha256": "47fe2fa70f5402c632c713aaff4cd1b0e1f9a9a12ec81d71edb11a63ab7ce548",
+          "sha256": "6a6fe526a3deb6c7f39a800a9b428a09a132738df8cc0bc621482d58b07e1802",
           "bytes": 8929
         },
         "nameEn": {
           "path": "audio/names/en/tiger.ogg",
-          "sha256": "b0c98b34e3c08e61b352474efcfb378e8bf938d8fed15f1aeadcb954b539773b",
-          "bytes": 7163
+          "sha256": "57fc16e1bd334463104883a5134822b1a97193f40da35cc4ab4af193f8012685",
+          "bytes": 6749
         }
       }
     },
@@ -3665,18 +4864,18 @@
         ],
         "sound": {
           "path": "audio/sounds/panda.ogg",
-          "sha256": "67197b746c2a441bfbf2278c4435ffb137e659b0617bc03303f8f1cbb5de3031",
+          "sha256": "d5c3551b14a815c794ea62a5b271ce16c72d4926892688809b75f1537592fc3b",
           "bytes": 13234
         },
         "nameHe": {
           "path": "audio/names/he/panda.ogg",
-          "sha256": "57829aabf4c11ff5bace1d6392545c504d9b78d3ae526b08b885f686072d2fec",
+          "sha256": "3ba877e6675029200a6a3ca478a85bc4f8b34afc6aaff18fa8cf4dc3957ec761",
           "bytes": 5173
         },
         "nameEn": {
           "path": "audio/names/en/panda.ogg",
-          "sha256": "512bd93c657f7f8150ebce16ce152ec5e1146c105904f63fd1d873fc73d2b6e6",
-          "bytes": 6710
+          "sha256": "be3344caad90c312ee02da80928032be582bb384022efaac7d4f64ec3ce4c2c2",
+          "bytes": 6977
         }
       }
     },
@@ -3764,18 +4963,18 @@
         ],
         "sound": {
           "path": "audio/sounds/monkey.ogg",
-          "sha256": "97824f850987d25856a247241ae334214342c59151c5f60ee41e7d9b61d3da7e",
+          "sha256": "9f6241bfb3d225e9fe66deff6926feeb5f7f6af4b36508c09635591475b39215",
           "bytes": 14883
         },
         "nameHe": {
           "path": "audio/names/he/monkey.ogg",
-          "sha256": "3fec21f89c6c12d2b834ecfae34029a1eecd395597712a8d392d19362153ed7d",
+          "sha256": "4f8866a180d37489dfbce4029ab82caa147c7cd09ec218fdd5425d0ea717b6ff",
           "bytes": 5133
         },
         "nameEn": {
           "path": "audio/names/en/monkey.ogg",
-          "sha256": "2f0f1451111526941456721db53390414515807b727693a76090680d26337662",
-          "bytes": 6556
+          "sha256": "67b5e1d2fe5a9ab69d3ca85753a9b2912fd9b9949734d0debbe7a511508d9a45",
+          "bytes": 6473
         }
       }
     },
@@ -3858,13 +5057,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/orangutan.ogg",
-          "sha256": "13f57cd6bd542aa05d8f02109ad5d0419df7e9e12781fe3aecc9ca8a630398d3",
+          "sha256": "eda1852a95c94df2c5b0adf1a6371ddad6c20ddfd7f51f1f9818c2cd5825682d",
           "bytes": 7718
         },
         "nameEn": {
           "path": "audio/names/en/orangutan.ogg",
-          "sha256": "6542417eb439736469ef1cc3ce1405d875f06003365019af4310a53f54ba87df",
-          "bytes": 8515
+          "sha256": "18798ed736ab5e92f9e8b273fa5addca890734a7cc52ebfbf27bfcef68e0fe58",
+          "bytes": 8440
         }
       }
     },
@@ -3953,18 +5152,18 @@
         ],
         "sound": {
           "path": "audio/sounds/peacock.ogg",
-          "sha256": "eeae8798bc47eb517da1fcdb4a93813995517666af30fc295fb19c2ef69cf88e",
+          "sha256": "b3aec5c84bf25ff19dfb05c3b439cfbe03d67a4ae0d75f4c40d362221d02c672",
           "bytes": 28487
         },
         "nameHe": {
           "path": "audio/names/he/peacock.ogg",
-          "sha256": "01deaa658ee287644a3d2c61357eb01c00e65a322cbf6cad6207e54d16f0d91e",
+          "sha256": "337c1a660ff03ae278dc8a67892cf0bbba863d373375cce67280ad24699638cf",
           "bytes": 5405
         },
         "nameEn": {
           "path": "audio/names/en/peacock.ogg",
-          "sha256": "33477733b97396e16a1c5a98550b07ce61673e839b470e0ee2acd5eda7f2f999",
-          "bytes": 7598
+          "sha256": "b23f77a7a4ac7f86bfed0d356f9fb78f1d868bb09089e65c1fb4e34ba1593b16",
+          "bytes": 7601
         }
       }
     },
@@ -4053,18 +5252,18 @@
         ],
         "sound": {
           "path": "audio/sounds/snake.ogg",
-          "sha256": "c542aa31d9bca776bd3e12909aa18a5eb2b1279b82378a33721a73b70a2f7220",
+          "sha256": "5efec32e594c188e6e9ec743880ff4cd81c4e63102cc339db8f5e5af92f32742",
           "bytes": 28601
         },
         "nameHe": {
           "path": "audio/names/he/snake.ogg",
-          "sha256": "4d92d48b3e1d7ef93a275ec137dc0bd29d575b8f75fc50473150b2d79ec934b9",
+          "sha256": "64a66b2b930d9a37a394a2f9977df5f58eb59d8622d64a7f456d2d9e0faaa14f",
           "bytes": 5520
         },
         "nameEn": {
           "path": "audio/names/en/snake.ogg",
-          "sha256": "bb89f395212ed61699b28a23ae191500e181a59cc3430fbbdeefe56d8949e9e5",
-          "bytes": 7053
+          "sha256": "e5ed2118673f115e558c2e120d174e487f516edc02537b504e4df524a0023abb",
+          "bytes": 7152
         }
       }
     },
@@ -4147,13 +5346,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/water_buffalo.ogg",
-          "sha256": "741ed8c84e2ea3fc82558a2cf81bdc32e1f6569a7e58a23531cd4552004fac04",
+          "sha256": "682fe2068c0c7c32d4626002830ec9fafb27be53c03a4871beeea45c75c5b4b7",
           "bytes": 4889
         },
         "nameEn": {
           "path": "audio/names/en/water_buffalo.ogg",
-          "sha256": "f99122e37bdad038f17caee633640ce0cd066da0dba43362c57d3d19446461af",
-          "bytes": 9837
+          "sha256": "3b064046ed8010140bec99973e1f1f1aacab19fa4678f3c4d0b7cb72f070f4cc",
+          "bytes": 9649
         }
       }
     },
@@ -4236,18 +5435,18 @@
         ],
         "sound": {
           "path": "audio/sounds/yak.ogg",
-          "sha256": "401351d1daf47228534e174847786f87a87950ca484244352adeba2e9d52939c",
+          "sha256": "37a3f0bda2dea2eaa710dbef9e1491ffaf8f75cc45f814a3f06a897b6a2319bc",
           "bytes": 28373
         },
         "nameHe": {
           "path": "audio/names/he/yak.ogg",
-          "sha256": "bc79e5e50899334df35c68d3371634f6d497faa94e4dfec72b554381c221139a",
+          "sha256": "5e6ed6b31690f21d1ff6cbe5dd25863a252e2f2668df19657a1dbc031032371a",
           "bytes": 4660
         },
         "nameEn": {
           "path": "audio/names/en/yak.ogg",
-          "sha256": "b2d226aa2c7e1e52ba940c65a1735336cad55d59b57a5dcd3d03e771c318c9ce",
-          "bytes": 6493
+          "sha256": "fd16395b86c55ee43129c8c7622ef8aee8d43cf205c1a52aa3f6af83a80c1956",
+          "bytes": 6277
         }
       }
     },
@@ -4336,18 +5535,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bear.ogg",
-          "sha256": "78276fa557355970b71a09d54bcc9df4a689f34637c6a26732c856aab1181746",
+          "sha256": "72dc459b7fbd9e5b3145b8a2fd0f19714f501b47dc11d9b82d0de00d77870f13",
           "bytes": 28793
         },
         "nameHe": {
           "path": "audio/names/he/bear.ogg",
-          "sha256": "dd8cd8f7dec95512e0d82a7745b7a2e1ab4fc3d2ccb665785c959734ad519a32",
+          "sha256": "20db97d0f826215cfcda3ea794e491c4ad4b275af54a806ef39ac720ed188225",
           "bytes": 4937
         },
         "nameEn": {
           "path": "audio/names/en/bear.ogg",
-          "sha256": "9ef03fccff7b73c52c200c2315d4d99ee13ba588c63123310ce52275d3757160",
-          "bytes": 5479
+          "sha256": "6a79689781c5f37e039a73277b81c3925f14077633bc899413b2e35ac1cddd3f",
+          "bytes": 5389
         }
       }
     },
@@ -4434,18 +5633,18 @@
         ],
         "sound": {
           "path": "audio/sounds/polar_bear.ogg",
-          "sha256": "3b7015a9b15c3e6682ee415d0379bc2c14f1f574a86adf6398c941f40bb7089b",
+          "sha256": "2fc813d5658479b3d4cac445d4da7c05fd95b18c27b09b1a06285d37f1a7d525",
           "bytes": 30543
         },
         "nameHe": {
           "path": "audio/names/he/polar_bear.ogg",
-          "sha256": "6f888ae7653d139f293c6fa2eb54136b077387d8f34061ab03528045483a4172",
+          "sha256": "20901c103dd7c13e2a045ea0d4fe8a38e923221c7148d2d4f9da0147dde996e9",
           "bytes": 7226
         },
         "nameEn": {
           "path": "audio/names/en/polar_bear.ogg",
-          "sha256": "09d8594d8c911d6b84ab7e3ddc9ef2d297c782d886f7cc9659377cf2b1651646",
-          "bytes": 8875
+          "sha256": "b9fed5149d9bea24c13bee1ebd33c3583a5ee00abd9150801aa9d242f8b99048",
+          "bytes": 8783
         }
       }
     },
@@ -4534,18 +5733,18 @@
         ],
         "sound": {
           "path": "audio/sounds/wolf.ogg",
-          "sha256": "eae3b6e3d2c8cba8f5dd9d9fb69fd6045f73b2dc49f87ae8091c032570173723",
+          "sha256": "e09e907c50e0f51cb68da194aac58f86dac31d30358a0b16c9774f170e03cb50",
           "bytes": 21311
         },
         "nameHe": {
           "path": "audio/names/he/wolf.ogg",
-          "sha256": "0732fe536b33572fa1fe766150f0c48391424a2cf7d2563259e604fa4661c40f",
+          "sha256": "8ad79d72fa616ac37e46c53611389350363606d5f000893f25049ad591f94f78",
           "bytes": 5014
         },
         "nameEn": {
           "path": "audio/names/en/wolf.ogg",
-          "sha256": "583a9ebd390c388b90032f5d50c7fd4f5bb8e1d7d61422e95bdd985e6ee4923b",
-          "bytes": 5112
+          "sha256": "d8ce590233302f3619a1215fe403f81ab7f43955c97e1495e1f4ad7d3559b4a1",
+          "bytes": 5181
         }
       }
     },
@@ -4634,18 +5833,18 @@
         ],
         "sound": {
           "path": "audio/sounds/fox.ogg",
-          "sha256": "dce936945e234e66ac24d302e74e94f11733b4917817a9bad6d5d50b78d91d96",
+          "sha256": "eb64fad49dadac8247e82ffcc78d197498f3e21b1ee799a1918b0028e9cc9171",
           "bytes": 30219
         },
         "nameHe": {
           "path": "audio/names/he/fox.ogg",
-          "sha256": "7b22376784ee599f4887191b8399bf374585b7a2f41a54539484620cffd2f346",
+          "sha256": "424efd2c0aa233c9e91a6b2cb1d65efb5abd1591d7c86039ad7b23d323bdac87",
           "bytes": 5376
         },
         "nameEn": {
           "path": "audio/names/en/fox.ogg",
-          "sha256": "5bc0a758f12154abfd8f69e8fe99b7c15fd6a46c106972cbfe45f3f756ff0653",
-          "bytes": 7190
+          "sha256": "f0c3ef8b5f6ae3c5a7f17aa6d3f37157feb96011ef2b1f4bb17ad0814a12331d",
+          "bytes": 6922
         }
       }
     },
@@ -4728,18 +5927,18 @@
         ],
         "sound": {
           "path": "audio/sounds/deer.ogg",
-          "sha256": "9024860b34611ec4e8f6d72160a846ac65bb23193b5c06371c2325939d26610c",
+          "sha256": "21a4716781e8cabb015eb16609f2fd62b6f5e225ad905a294c36e4942711539a",
           "bytes": 8308
         },
         "nameHe": {
           "path": "audio/names/he/deer.ogg",
-          "sha256": "144e546004342858fda72c5eaa864327ae5e49dec5574414c738d988bcdcfb43",
+          "sha256": "1f9c2ec5ed739b6d23900a0f67ce53831d5e0403f5d2259ec5d51878d79c2b7b",
           "bytes": 6098
         },
         "nameEn": {
           "path": "audio/names/en/deer.ogg",
-          "sha256": "189c439bb628a31ea123a461c215b698132ac4c48fb72290a57b162d1c86bf73",
-          "bytes": 6229
+          "sha256": "6cde4a385f1718885d966f3471d57fd7d813467f3506069798a65131655898a8",
+          "bytes": 6457
         }
       }
     },
@@ -4822,18 +6021,18 @@
         ],
         "sound": {
           "path": "audio/sounds/moose.ogg",
-          "sha256": "d3a321196c4c189256b36418c2996e01ac801d98e6a43078a955c35e45873763",
+          "sha256": "bd50ab3c4a41fd98bb9205da9d3a1154a019d6ef4a7aa4d35888ef0b77de0edd",
           "bytes": 28003
         },
         "nameHe": {
           "path": "audio/names/he/moose.ogg",
-          "sha256": "160cdd504959db9a0edb7b11b0988557228c50efb024cf46f05885a642dbef93",
+          "sha256": "186b0f61c40efd201f8be7567c65df2f6339b78f6c0f80dd26952646d16fa893",
           "bytes": 5226
         },
         "nameEn": {
           "path": "audio/names/en/moose.ogg",
-          "sha256": "9977be7314d67dde405c8aa2c636ba44cc17e2c71f7576379ea72d998767222b",
-          "bytes": 6892
+          "sha256": "c0e7cb489e0f6852f14012803cc847ade25e92eb24358fd447d21146f98b3a82",
+          "bytes": 6533
         }
       }
     },
@@ -4923,18 +6122,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hedgehog.ogg",
-          "sha256": "3c1d624254d545f382c0f67b0303a337f71be77a3d547041f3e59abc559109dd",
+          "sha256": "9d3994b726182c2da115b9379ed165f377efbba40d8bc61d228496d7c0dbaccb",
           "bytes": 32536
         },
         "nameHe": {
           "path": "audio/names/he/hedgehog.ogg",
-          "sha256": "1a2846b892a411570e175944daaa586ecf68816b646a2c2f74ef16903a55f36b",
+          "sha256": "78af128203c6cd04e4ec315b59e6617938de19eba6cf4149677bcfa6279d0017",
           "bytes": 6966
         },
         "nameEn": {
           "path": "audio/names/en/hedgehog.ogg",
-          "sha256": "a595e1b768c4706592fc41893b22863a0281dbb7ec4ad6d3a4146299bbe22c63",
-          "bytes": 7318
+          "sha256": "efb8f85d12a63b7b3de1584646da7a6e253217b6c5ac407bd17482e68796cb0f",
+          "bytes": 7029
         }
       }
     },
@@ -5017,18 +6216,18 @@
         ],
         "sound": {
           "path": "audio/sounds/squirrel.ogg",
-          "sha256": "34b0e7f5c81f49901092ea1730554d5aba11d27e69f654e8defcc3a1b17ac3c9",
+          "sha256": "e30d4fbd6148d1bac9f9d0bbd2202282116da7ce683bff38a1c6a4521ae8213a",
           "bytes": 31608
         },
         "nameHe": {
           "path": "audio/names/he/squirrel.ogg",
-          "sha256": "34af2a9b9ffa17058dd3ebf3ae6c3c78ae352a5653bc1552a9cb13b1e1681dda",
+          "sha256": "71b0d4d42b35eb82701e7fe23029c7bdfca5021c0b226681d5b3f0dadc2051b7",
           "bytes": 6516
         },
         "nameEn": {
           "path": "audio/names/en/squirrel.ogg",
-          "sha256": "9c26c13fdfc39eb56d24b0df6f980ade7043adda7cf4d7767940056009944f02",
-          "bytes": 7255
+          "sha256": "8ebc4270cbea2ad8bfe573109f12e95b8639f19ed20d0ce838e17ae5470f6d5c",
+          "bytes": 7556
         }
       }
     },
@@ -5115,18 +6314,18 @@
         ],
         "sound": {
           "path": "audio/sounds/badger.ogg",
-          "sha256": "ff852d43eb5f3c3c7dc19feba08f69a73e444555c2a2b062bce004056d23d80d",
+          "sha256": "644a7d1381c0c6077e3961a17a12386304fc61a2af1b306b646814fd34630c18",
           "bytes": 30422
         },
         "nameHe": {
           "path": "audio/names/he/badger.ogg",
-          "sha256": "8487d253a89b25c40a70b6475d0e5ac1104fee2712df7feed515a73a204d4afc",
+          "sha256": "7a4e3d799fbfe6b56ce790efa6713940ead6f895245c56dfca0fb0faab945a28",
           "bytes": 7315
         },
         "nameEn": {
           "path": "audio/names/en/badger.ogg",
-          "sha256": "c7480a0978b4a89fabe4394894ca84621222d60f15de0573758d24bb42f4d117",
-          "bytes": 6874
+          "sha256": "2b57d24f0a95f62ca7f2660b630131ff72469bc45a89ad2f1e17087f06b7f0ce",
+          "bytes": 6987
         }
       }
     },
@@ -5209,13 +6408,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/beaver.ogg",
-          "sha256": "499036e5ffbd0b3bb8b8efdc07c005a1f7d242c0b194c36ddbf8ba7433986026",
+          "sha256": "813f5eedba6ec270435e4eb91f8670d80b39dba975ac8ed9d3aafc661b6484a6",
           "bytes": 5581
         },
         "nameEn": {
           "path": "audio/names/en/beaver.ogg",
-          "sha256": "c65763317fc8d82eddb065498a80e17a9f181a87ecae74fc5ccaa93d367b3972",
-          "bytes": 6459
+          "sha256": "4d7b9d4b27930d8bed0ecb40580f9d7e161a61c216396b1c3e8ed0be3fed3ade",
+          "bytes": 6462
         }
       }
     },
@@ -5303,18 +6502,18 @@
         ],
         "sound": {
           "path": "audio/sounds/otter.ogg",
-          "sha256": "ae01f361384d3b545df229fa130d6fe728bf7d389cf4a6988d4dbfa595c17991",
+          "sha256": "0982445abf5fd80f9e5b7a742d205695ccdd3a8d665546dc5fd99e3a756e4a3c",
           "bytes": 29325
         },
         "nameHe": {
           "path": "audio/names/he/otter.ogg",
-          "sha256": "c07c8e0bb4278510cb67e49675675cd200e8b811496e1064972e223c3f3ad4cc",
+          "sha256": "9bfe7732805cd511914f2337634b0cbfce8694b75fc7669e68ccf371d0440e56",
           "bytes": 5975
         },
         "nameEn": {
           "path": "audio/names/en/otter.ogg",
-          "sha256": "3e3b15e155c619426156dcc8c4c9e45e8986c71f3c86973c0eb41114ad428869",
-          "bytes": 5625
+          "sha256": "729e96c441da3f8347ddee247f81d8ad131cbb582d97071ebabb3cf7cda15573",
+          "bytes": 5230
         }
       }
     },
@@ -5403,18 +6602,18 @@
         ],
         "sound": {
           "path": "audio/sounds/owl.ogg",
-          "sha256": "cf5b04abd9e7cb829076170927f359cd14bd6771889487a67b3870430301a525",
+          "sha256": "8f02908498602b1c038893576ec15f368ab434683d7f8d765c609d2225ad005b",
           "bytes": 28347
         },
         "nameHe": {
           "path": "audio/names/he/owl.ogg",
-          "sha256": "bfdbbe12070a46058445e5374a3608d1ad92534a37a70bab05de601180845f28",
+          "sha256": "98079a83ca7dc5da8e3dcf416159924f3a4f2bae7c82ea5b6358ff52b11fcdcb",
           "bytes": 6793
         },
         "nameEn": {
           "path": "audio/names/en/owl.ogg",
-          "sha256": "0f7e34fc8221fdb1018d0071f19224019f7d72a5af8157d68b4f4e80ea02436f",
-          "bytes": 5799
+          "sha256": "c1a9826ba24c1c70efbdd5722d473aea1ef45945e0e5ffe682390ec80381cf66",
+          "bytes": 5723
         }
       }
     },
@@ -5503,18 +6702,18 @@
         ],
         "sound": {
           "path": "audio/sounds/eagle.ogg",
-          "sha256": "20c303984b22f45228d9af22766f18fe8a14eb21d0b23e5fbfa80904cabc4502",
+          "sha256": "9a3c5fbb4aabe2a15df6e42711e810cef918c53cdabc8395e7ce47a880ef74df",
           "bytes": 27962
         },
         "nameHe": {
           "path": "audio/names/he/eagle.ogg",
-          "sha256": "bfd210866d5cbd8678c591bbd12b40c0c552967f357917f72a87c03289b216be",
+          "sha256": "37ed9c3560e1fdbcf2c10682f350a23453e256c38d0fa3451d6e3b85cf4e0a77",
           "bytes": 5433
         },
         "nameEn": {
           "path": "audio/names/en/eagle.ogg",
-          "sha256": "eaf1547aaf90ba7bb56d54c089fa2b2b0342572dc057c185a10ba4399f436c0e",
-          "bytes": 6398
+          "sha256": "ad75b4dea148ca5a38205689fb55c013b8ce78400c764c0ddd63ad8bb5fd3746",
+          "bytes": 6357
         }
       }
     },
@@ -5603,18 +6802,18 @@
         ],
         "sound": {
           "path": "audio/sounds/raccoon.ogg",
-          "sha256": "69fdc20b2690bf1445112d4011402cc8b5d9965226d1a680ce2705bff7a7bd22",
+          "sha256": "507b0f0d084efc1b5f1c26380ba270ba6038ddd937aabf8bcf65aa3162c26a7c",
           "bytes": 28870
         },
         "nameHe": {
           "path": "audio/names/he/raccoon.ogg",
-          "sha256": "e1b3a0675b96a0693269881e7505f48764f04819735b2ee9242468e73c6409b7",
+          "sha256": "316a14af426403e36f32202d05a84eee207e826b020a9cd1187536980b47ac54",
           "bytes": 8428
         },
         "nameEn": {
           "path": "audio/names/en/raccoon.ogg",
-          "sha256": "c08172d349ae4a1bf1da132d46867e6d87918529b496383f29ea1fc2d70c8bcf",
-          "bytes": 7525
+          "sha256": "a1b0a8500215c9a94a453f65991761821c50ee3735580378696c03c905ecbde2",
+          "bytes": 7713
         }
       }
     },
@@ -5697,18 +6896,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bison.ogg",
-          "sha256": "4b54ce7b71ed725b26548cca8fd2b347f92474a8d0954817cb25f52e49afa983",
+          "sha256": "5b9111532f47790ba6e1e367649b4ca0541895caac5aeabb8545ba991762cf69",
           "bytes": 21738
         },
         "nameHe": {
           "path": "audio/names/he/bison.ogg",
-          "sha256": "87837fc1b8dd6e066a7cbba75c783ce2e4514e1932206cd565db9b156b65e048",
+          "sha256": "652437f20a39003a4159d6ac898d79c47e31850db56cded5d4770628e447a28a",
           "bytes": 8456
         },
         "nameEn": {
           "path": "audio/names/en/bison.ogg",
-          "sha256": "c8aee51976f1f29157d17bef72a86ce261f366e66ceb157ca289448da54cd924",
-          "bytes": 6739
+          "sha256": "403d681ff4b6cc8b99306361c7c16ec7d57c6d6abee30e20e926fa2da5046974",
+          "bytes": 6767
         }
       }
     },
@@ -5797,13 +6996,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/skunk.ogg",
-          "sha256": "a228a15bf4e9955d60597009f3e82c1021d374b43c0ccf09b11bbfeca1006902",
+          "sha256": "b7895c5a70d2c26ab9d5cd758f699f8219982460cb6b93c8c7edc0d16f6fbd23",
           "bytes": 6058
         },
         "nameEn": {
           "path": "audio/names/en/skunk.ogg",
-          "sha256": "1dd0bc599e6c8b30150af30339c941c3099b13ca37fff8c3a73c7a401f429be8",
-          "bytes": 7233
+          "sha256": "17ead8a9cfdae0afa05fbf7c61849c544555d9f8877bcecbf1540a5236d44943",
+          "bytes": 7056
         }
       }
     },
@@ -5886,13 +7085,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/kangaroo.ogg",
-          "sha256": "57f643c6bbbdaae3c643f03a8e1b34c070401fbb632932d4948371815715f282",
+          "sha256": "3d23b3adf21a3e39a1a5238c60a6032ae26238fb996c81dc5d3e572ea058d162",
           "bytes": 6390
         },
         "nameEn": {
           "path": "audio/names/en/kangaroo.ogg",
-          "sha256": "074c1263ca9d291738f9105078dc9ae7666640cddf60d0761f7ac6480a61a2ff",
-          "bytes": 7573
+          "sha256": "004b5a6b67dc480b34cee2cc904ec786804d3154cc876034e6dffba8ea229344",
+          "bytes": 7534
         }
       }
     },
@@ -5975,13 +7174,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/koala.ogg",
-          "sha256": "80bea7ba3a06fa30567e9ee5593e3129424471fdc774e719044e4ef1c5e688b0",
+          "sha256": "8d2041a7aa82995b66b5ad50e45817ad40b2240ec224b940e507a65ea320204d",
           "bytes": 4939
         },
         "nameEn": {
           "path": "audio/names/en/koala.ogg",
-          "sha256": "ef7df64cb1abe2d6a2f9997b3301ffe57507dc066890c78a3cd6fe838047c9d4",
-          "bytes": 7353
+          "sha256": "42bdf4e34e8363e5d98e44db181b59fec59695e300da009e4638cf50413573c1",
+          "bytes": 7438
         }
       }
     },
@@ -6064,13 +7263,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/sloth.ogg",
-          "sha256": "9a5f4bd8a29153608b89e44bb863de3d061bec0e3779481df474799662baa953",
+          "sha256": "d93a4c4401f775765c7b2c7213cd313c7d02ceffce2a9debf0794c3a3fbc62c8",
           "bytes": 5683
         },
         "nameEn": {
           "path": "audio/names/en/sloth.ogg",
-          "sha256": "edf45dfd16fd2f3f864f819bec2da101300cd90fc44f67ccd0e8099e5126ff6e",
-          "bytes": 7035
+          "sha256": "b84e7d4ed7a91f10d04b439317b885596c0c5c4b1b81d91ea8059d6fe115238c",
+          "bytes": 6663
         }
       }
     },
@@ -6153,18 +7352,18 @@
         ],
         "sound": {
           "path": "audio/sounds/llama.ogg",
-          "sha256": "8ac5a607c28b0195fcb0ea9ec97c0d40b320b7d747c61cbc195b7e9e555d4a8b",
+          "sha256": "3c5965910bf2ad858afe1cc6aee9dbc55449876695dea45f990216fc20e6ba99",
           "bytes": 30591
         },
         "nameHe": {
           "path": "audio/names/he/llama.ogg",
-          "sha256": "5df4c8cc8d0cd290578fb9604da29c091aae05b3e1ec7518a6133f20dc4965f7",
+          "sha256": "e9eb41bf68cdf98bc741a45e9af460ad9fa1648384856ed685a3398238b22ed6",
           "bytes": 6974
         },
         "nameEn": {
           "path": "audio/names/en/llama.ogg",
-          "sha256": "dd7d9283ef824a6905a42b94aae09cfda849d64b3413b1c91947da079125abd9",
-          "bytes": 6028
+          "sha256": "7f45ca87bef954fa0598df92de8f4d1b9c2d18368ed3afe332f87d7d29d498c9",
+          "bytes": 6414
         }
       }
     },
@@ -6247,18 +7446,18 @@
         ],
         "sound": {
           "path": "audio/sounds/alpaca.ogg",
-          "sha256": "c00813f1cf20367944a94db34b52ef4364c1b53ccacf0eff1b27ece6d556261a",
+          "sha256": "d0e8ffe76f96e864018841d6c605fecda90fc9a7adc932021e559330c07e2ae2",
           "bytes": 7025
         },
         "nameHe": {
           "path": "audio/names/he/alpaca.ogg",
-          "sha256": "d7afa64c58f09e7980429406fe231265466f0450aba67e00ca4fe81fb2873af0",
+          "sha256": "1576d219d00a54f4cbd3a5aa539b0160566de54e89d99a01738eb51745fced94",
           "bytes": 5359
         },
         "nameEn": {
           "path": "audio/names/en/alpaca.ogg",
-          "sha256": "309b93b42014de45a4cf51b78f769b57addd9fb464ba7457ef1d86af29609d69",
-          "bytes": 8173
+          "sha256": "926ecf849549bfb9c02bfa324ef54e77243d88059fd0d2cdf3e3eef5de7563d9",
+          "bytes": 7951
         }
       }
     },
@@ -6341,18 +7540,18 @@
         ],
         "sound": {
           "path": "audio/sounds/toucan.ogg",
-          "sha256": "24815f2e3ccf95d94283d6ca99a46c33a22fbac1766de4e30596c435aae0b904",
+          "sha256": "eb979e9e69b1a75621102bcb3868db7c3b2abdedbbad3108875a813e5bc06ad4",
           "bytes": 31266
         },
         "nameHe": {
           "path": "audio/names/he/toucan.ogg",
-          "sha256": "aa7c1a40734f2fdca4a701836ac6ef079dafdef2e336b0d9901bd4235b51cda7",
+          "sha256": "65fecd03a2f822959fbf37bda30a7b0e8efad46f8ba107ccf33d80c18560fbf9",
           "bytes": 5508
         },
         "nameEn": {
           "path": "audio/names/en/toucan.ogg",
-          "sha256": "626e8acf21d3b633bf1439d90ba8e0daec9d857447fd0ce59a850fa1fe2a4c41",
-          "bytes": 6966
+          "sha256": "134fd314a2333b013a95bb444422f67b36826740536d2412191d85f79a6a223d",
+          "bytes": 7175
         }
       }
     },
@@ -6435,18 +7634,18 @@
         ],
         "sound": {
           "path": "audio/sounds/parrot.ogg",
-          "sha256": "6804331107a384f372a90ae42918cdf6e7f5470e2a0d1f196abf7bf2d4918709",
+          "sha256": "51d5d44ebfc002739a23214c3b9754a3c09a6c105ed1c35332eec9c9ecc2d43a",
           "bytes": 30597
         },
         "nameHe": {
           "path": "audio/names/he/parrot.ogg",
-          "sha256": "b1055a7dc3e21d0f921e7e7c5014b0ed462bd30853be886ea09fc57bd14bb0e0",
+          "sha256": "459bd6f8487f99a6db0dbb203b95047185a9bae69baff2ea946a5811ae0489df",
           "bytes": 7214
         },
         "nameEn": {
           "path": "audio/names/en/parrot.ogg",
-          "sha256": "df708d14cfbd75a587842d164b4b03442b343793658b0aa72671ac2a28444c2a",
-          "bytes": 6886
+          "sha256": "824286b116bf2454a6facfdd186d030edc63d8ff312bc7eca2889aafee64638d",
+          "bytes": 7222
         }
       }
     },
@@ -6534,18 +7733,18 @@
         ],
         "sound": {
           "path": "audio/sounds/jaguar.ogg",
-          "sha256": "6eb6d5f4dcaaea74c87b54c03be28dfaa1ca69cd694df3b4b2e5c2e439243e20",
+          "sha256": "aa4ae232eca4785cb6d7c3b7ce7363b4083295e9a3609acc6645e1cb1e1188c3",
           "bytes": 17682
         },
         "nameHe": {
           "path": "audio/names/he/jaguar.ogg",
-          "sha256": "b447dd39e73890a51a4685557db45b994ac602a01e91c36ff1fdb9c2f09dc0c9",
+          "sha256": "362d914c4991de5b0488e0f2584a16f94480506899d6af33cd473409c5c23f05",
           "bytes": 6403
         },
         "nameEn": {
           "path": "audio/names/en/jaguar.ogg",
-          "sha256": "2d7d8c445d529b2179b1d58db9cce76ded5232f4af116888a3d68f2d65bd12cd",
-          "bytes": 7123
+          "sha256": "2bbb0f4ffe8ddee490319f77a6d33013721f1c0f4a2f1beffe7975fb507af080",
+          "bytes": 7079
         }
       }
     },
@@ -6632,18 +7831,18 @@
         ],
         "sound": {
           "path": "audio/sounds/penguin.ogg",
-          "sha256": "936210fb3395d485990a5cd9160f1bfa04c98936267daad7eb399cdba670f9f2",
+          "sha256": "fb58443c74e97a74257f055dd9ae14699b47676757077d46601d596049f8f473",
           "bytes": 29992
         },
         "nameHe": {
           "path": "audio/names/he/penguin.ogg",
-          "sha256": "1bd0d2f9ea993b27418a52ab4bbd3a5526ee418b5c39754bb07ee56ae6e9a3d2",
+          "sha256": "8324c59d77e12962ad95c7d9e836132b45cce3f2b388e0543c07499b7b078e62",
           "bytes": 8199
         },
         "nameEn": {
           "path": "audio/names/en/penguin.ogg",
-          "sha256": "678e554d284921bab7a9d33e27d22b1a437bbe1fa10d4f495d7bcbf765e4acfe",
-          "bytes": 6816
+          "sha256": "ad7ac582fc47b218ce987daf59e1cfc405c2b0a2be3672221d653f35cbf6b079",
+          "bytes": 7044
         }
       }
     },
@@ -6726,18 +7925,18 @@
         ],
         "sound": {
           "path": "audio/sounds/chipmunk.ogg",
-          "sha256": "d1f8da8a81fb1299dd1abf0270147ff1ec26f455020bc623bd26afa22764f2cc",
+          "sha256": "eec32a28e5a36cdd1c792ad2f789b031a2280c735ace4ad807e9c63c5b3bb845",
           "bytes": 22695
         },
         "nameHe": {
           "path": "audio/names/he/chipmunk.ogg",
-          "sha256": "76096b97a65b5910c0b1200def393b05761aca740d909577dc668a13146b36ff",
+          "sha256": "7251d2f163b80e059f8c8136ab43fddee0edfb831dce51c8ea1a2bf5e3cf62f7",
           "bytes": 8336
         },
         "nameEn": {
           "path": "audio/names/en/chipmunk.ogg",
-          "sha256": "bfba4711ffa73c91745ad66240c0f6cdaf42d905fe44ee1cd8d1bf5828d039d4",
-          "bytes": 7307
+          "sha256": "06648f8f2a48ceb79b3cf5ea18727afb9b8ed7bbc7bb9f27d81dd30e240b0f00",
+          "bytes": 7220
         }
       }
     },
@@ -6825,18 +8024,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dolphin.ogg",
-          "sha256": "1466070d606fc844cf6d65dabc8b31edb2c038f6af0cc8aee746ce73bf9846a9",
+          "sha256": "c778ded278eadd9887d469b635cc439e0e8ad50dbc26ccbe23c07ee5cfd439ac",
           "bytes": 32704
         },
         "nameHe": {
           "path": "audio/names/he/dolphin.ogg",
-          "sha256": "77bfb9bc02e880a1679b611de187ab97191449fefaca181b820fbe102f630ff7",
+          "sha256": "9ee264445de70b7f29e57c9dd347a2bf76c8e28ece0a7b7483fede9a417f18e6",
           "bytes": 7483
         },
         "nameEn": {
           "path": "audio/names/en/dolphin.ogg",
-          "sha256": "9661d0fd488e6cb0db4850808e3fea7710dfe092b5dd81dbc602d71b9f6f730d",
-          "bytes": 7091
+          "sha256": "232e2864cffcb5450ea702fad3f994fb2f3f07b64e7e7cf384a16a78e2998315",
+          "bytes": 6708
         }
       }
     },
@@ -6922,18 +8121,18 @@
         ],
         "sound": {
           "path": "audio/sounds/whale.ogg",
-          "sha256": "93e29c1f5733e817402501ea7d430cc0518f10d4d1c46547b0914b3b52a84248",
+          "sha256": "fe39f07482a39ae28e0204b27217ed9345ef0e02b10076a73e8a66f57652d32a",
           "bytes": 28235
         },
         "nameHe": {
           "path": "audio/names/he/whale.ogg",
-          "sha256": "1cc05770944e220a7e70cf3d71323c956f56528e583a2c11bc0957fe7bd8a551",
+          "sha256": "f74f9da53d0cd995aacbcfa8bc91cbfe0e9236f9a9d23643f280d506d97d84c0",
           "bytes": 6399
         },
         "nameEn": {
           "path": "audio/names/en/whale.ogg",
-          "sha256": "b9eabcf725e2ac1572b503b36e4b5a05179c75613118f30ac61d4e083793b8df",
-          "bytes": 5649
+          "sha256": "4fb7959958bab63f9e1bc0a0ea2390319399ed20ca79b055c31f0ba9d01e256a",
+          "bytes": 5789
         }
       }
     },
@@ -7022,13 +8221,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/shark.ogg",
-          "sha256": "01d2ba66793eed19bac6d2d141d3fff3cc0e0b96ce537a60901739ad4a483f76",
+          "sha256": "0fc2cb68b40f5086311d5031e3389bbb35023003230c07a140514d0a569e7711",
           "bytes": 7603
         },
         "nameEn": {
           "path": "audio/names/en/shark.ogg",
-          "sha256": "5d0c52e8273c9b78212281434605c2eabef0c9a4fb8ca0f9fc96cc45900201a4",
-          "bytes": 6961
+          "sha256": "97958d3a6e0042b5e6e31e8b7dd5a992e45d8cde7174f0352956f6c76ca4ed02",
+          "bytes": 7109
         }
       }
     },
@@ -7111,13 +8310,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/fish.ogg",
-          "sha256": "1a1a9c222ffe5618b69392edcbb3cd68434e5940f186f85f84f9dde8c4b7649e",
+          "sha256": "4939061158cd3cc0c2941b047f3d25acd04a0284ba777062ff89d2fe3ab81608",
           "bytes": 4332
         },
         "nameEn": {
           "path": "audio/names/en/fish.ogg",
-          "sha256": "a5e03c7770fc9b06014cb95494513dfeec4d09ec8c10723056ae5815da5e1e91",
-          "bytes": 4812
+          "sha256": "417677aa1a73e67a2fbd2a89106ba6510ed5bf229e3e742bb3a049198aa975ef",
+          "bytes": 4643
         }
       }
     },
@@ -7204,13 +8403,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/octopus.ogg",
-          "sha256": "7a817b2c7386f372aeeb6b50526f86a86293a6acda162ae142a98c20d614117f",
+          "sha256": "2c743db103f4c222b93a615de787cc4a04d67be0da36094f42e98cede43b6fdc",
           "bytes": 6736
         },
         "nameEn": {
           "path": "audio/names/en/octopus.ogg",
-          "sha256": "3847de56d20b0dbb0cf0ad7d2d47767cd315b858a04beb3f50445ff9d65f2d50",
-          "bytes": 8459
+          "sha256": "f5d9594457148e1b97727da4351df23f43e1dccdfa210947cce19ad7705386b0",
+          "bytes": 8546
         }
       }
     },
@@ -7297,13 +8496,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/crab.ogg",
-          "sha256": "586c666e7a332f53d262face70bbf61eb76dc0d22c4153ced2f306a44b4531cf",
+          "sha256": "ec9b45b4a08a0fbcefe8efbe6b64baf961e7e3b37acf0ca77584d6c426640af0",
           "bytes": 6060
         },
         "nameEn": {
           "path": "audio/names/en/crab.ogg",
-          "sha256": "4d08f8771f1dc9822e73bc8fe77f8aea3b6828b35e33fd3b31f41016b68bad0b",
-          "bytes": 6117
+          "sha256": "a0e094d583afbefe7b929e02f7dda7d19e2ae6c68a06416e4c39caf0d4283c78",
+          "bytes": 6280
         }
       }
     },
@@ -7391,18 +8590,18 @@
         ],
         "sound": {
           "path": "audio/sounds/seal.ogg",
-          "sha256": "25c438bb49e9055e7629a67895e56774d49bbb7457413b7a79186637658e419f",
+          "sha256": "d22c77b95ed81510ade2be0dcf3f224c9b858762cef7e3c17c2e36a72b417cc8",
           "bytes": 30709
         },
         "nameHe": {
           "path": "audio/names/he/seal.ogg",
-          "sha256": "1879098ba43f0e5a7553ff17b690044843701449f57c7335363bbe0bc4da5821",
+          "sha256": "cfd261c29bfd508b52c7805122eeca1e2050e87601fbe275494dce6ab6d9a290",
           "bytes": 6845
         },
         "nameEn": {
           "path": "audio/names/en/seal.ogg",
-          "sha256": "8761690db82c6ffe308110f9449b2e39674246f12afbe21b10fcdb2e0d2b29fe",
-          "bytes": 6174
+          "sha256": "54bbe4e79c4365b0222bec67bf178d6b5f69fe974f72f2e820996613aeb836ed",
+          "bytes": 6349
         }
       }
     },
@@ -7490,13 +8689,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/turtle.ogg",
-          "sha256": "7cd6d313734439c44ccbd8c90c947f306b0d5f518aec6fade3faabd92a7b5f76",
+          "sha256": "0eb03ea0d5af951c647a5a661efb36731a467e7c0cc621ed9ce742ef913c7f52",
           "bytes": 5126
         },
         "nameEn": {
           "path": "audio/names/en/turtle.ogg",
-          "sha256": "892ba412843866d58deb09b16785ff37b8901303e6beb4a3af360c27ca708ba4",
-          "bytes": 6795
+          "sha256": "9fb79ccbf7442a6935c34bb0b29ef665570d6ca80908f130194f94d126472efb",
+          "bytes": 6482
         }
       }
     },
@@ -7582,13 +8781,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/jellyfish.ogg",
-          "sha256": "863ffa3ed8c31283b0f2f9f3989e0b60b4bd124f551fceff68eca806cf7d3a7f",
+          "sha256": "96f79941c1b25925beb3e6476e45ea37ce2939ee2e39dce92ed85aed34f5f3fc",
           "bytes": 5471
         },
         "nameEn": {
           "path": "audio/names/en/jellyfish.ogg",
-          "sha256": "9b4f4ddffbed06c2dff2138bef8f10694cbc2203684350f8c1c0cf47c09259b7",
-          "bytes": 8424
+          "sha256": "b9f1f1ce7f321d9a7b132e104e0a0ba51b04142b1b7ea77d2ab189b66977b35c",
+          "bytes": 8299
         }
       }
     },
@@ -7671,13 +8870,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/seahorse.ogg",
-          "sha256": "da21c2d06f5e4ad8120fb508c2fbc96d0f1abbd51faeb48be1a7106dbe9999a6",
+          "sha256": "419c529226b5f3814349730d37fc75912200d7d8b6a303f9d4568ff1553c32b3",
           "bytes": 7975
         },
         "nameEn": {
           "path": "audio/names/en/seahorse.ogg",
-          "sha256": "9f2e2a7fc04388b5d73b1774f0aabacfc7284147f7518c41fb2afc94df7ff2d2",
-          "bytes": 8548
+          "sha256": "69516f152436075fa352867157d6b1bd25fe8e93e174662024f61cfa4e3b9a34",
+          "bytes": 8165
         }
       }
     },
@@ -7763,18 +8962,18 @@
         ],
         "sound": {
           "path": "audio/sounds/swan.ogg",
-          "sha256": "4a325841ab2fbba944eed824d9e84dc4b001f7ea66d2facdc3fd6ace7aa70668",
+          "sha256": "7b79d0110bd6007ae7de53094e7f10cbd0c13fa2d9471f0bfe378a1cf433205c",
           "bytes": 32317
         },
         "nameHe": {
           "path": "audio/names/he/swan.ogg",
-          "sha256": "df028727af190f6ffc6d68e3fcfe8e0b33e36633ce944cb6d5067ad86f5428c6",
+          "sha256": "394d197d8147df2eb714e4b0ebb43c204f88b74e77990de826cbdfbc64d616fe",
           "bytes": 6605
         },
         "nameEn": {
           "path": "audio/names/en/swan.ogg",
-          "sha256": "5f8d8a088cd03b29bf0803c19a5120435e10f65dcd3b4abde3bb348ccfd4a8d8",
-          "bytes": 7232
+          "sha256": "09c1d3368ea887177b4d4d0843dc5ae6dd89664356baeb8045f33333cf882850",
+          "bytes": 7096
         }
       }
     },
@@ -7857,18 +9056,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dove.ogg",
-          "sha256": "d156526f748a0c657d125486700fe7400893b4480a5f67d20a6a6702ba9da18a",
+          "sha256": "bb13fae94e9ef4af9cb3a3826b73bcebc3c2949a1116624980618ae0eae7dbe7",
           "bytes": 21486
         },
         "nameHe": {
           "path": "audio/names/he/dove.ogg",
-          "sha256": "2a1c751516cda7cf29bf00dda8bc2ded9068162dccf95e199c6beb00ec4479aa",
+          "sha256": "23aaacdb5b66ba427bd000ee507b02043c593f98482a05829aa65ff4a512d48d",
           "bytes": 5530
         },
         "nameEn": {
           "path": "audio/names/en/dove.ogg",
-          "sha256": "206efd4545e713cee19508c325a3e9cf4899c77b665d03494bf22c08fa7ca854",
-          "bytes": 5787
+          "sha256": "5386fe01a08a54b20d6667b6f0bcfa1669c7a7301ea94e289b1bb8db355670bd",
+          "bytes": 5608
         }
       }
     },
@@ -7955,18 +9154,18 @@
         ],
         "sound": {
           "path": "audio/sounds/crow.ogg",
-          "sha256": "f2241a6ff184fbf8569db1cd024e2183faacf7b47ccdd21e4c1cf37837f7d204",
+          "sha256": "491e6465dacc026490316c22644b47552f783ce5cd8ac2e9b75886a3126601c9",
           "bytes": 20475
         },
         "nameHe": {
           "path": "audio/names/he/crow.ogg",
-          "sha256": "4e2a7ed2381a147f7a5828ca97d49fcca27e35ae356c47f9ddb71c87c820c51d",
+          "sha256": "c196f1fd27defbc2c10bcc4c97635563657e008b8abeedbfca31fb8c3a0b6b1a",
           "bytes": 5362
         },
         "nameEn": {
           "path": "audio/names/en/crow.ogg",
-          "sha256": "efd5ef0cf0399b49b20b95b55b2c2c7bf689b7b73a10cda0841a2fe137ee0e04",
-          "bytes": 6519
+          "sha256": "6c38c25ff355cd659d3dd98d3fb32f83f1256d81653266343c1d3ef2e52a5405",
+          "bytes": 6332
         }
       }
     },
@@ -8053,18 +9252,18 @@
         ],
         "sound": {
           "path": "audio/sounds/seagull.ogg",
-          "sha256": "862666066f8236c74e5867150162dde93ef6c674b120ccd9009a7a6b1739a7b2",
+          "sha256": "584e034a6813539d8e24c8d9787c8b46ee44b0388966212dc5b206b36368d1e2",
           "bytes": 29201
         },
         "nameHe": {
           "path": "audio/names/he/seagull.ogg",
-          "sha256": "8f1af6eb7f7e534ef87e281195a606f857575289193bef3cdce382d7e3fd140d",
+          "sha256": "4642bb5c7a39b752f2ecc76f6b184565fb3e700fe28c2da35a904fd2b9dc336e",
           "bytes": 6034
         },
         "nameEn": {
           "path": "audio/names/en/seagull.ogg",
-          "sha256": "aa20789f5f2172c10d9f33a2ca344be32e6e4b188c5a9f90e3a9a7ac477dc07e",
-          "bytes": 8343
+          "sha256": "decf99fc5ea60097610f2f5d7c793cb84871f8b749071cc1fd370370dcd814ae",
+          "bytes": 8225
         }
       }
     },
@@ -8152,18 +9351,18 @@
         ],
         "sound": {
           "path": "audio/sounds/woodpecker.ogg",
-          "sha256": "0394db91819826247ed31d17dede466dc099d7526831e5cbaf96c2972b6c2bef",
+          "sha256": "a8c80aee8717691a40af6d4de1e0900c8f045627a66df34908f8ae5868a7f863",
           "bytes": 30531
         },
         "nameHe": {
           "path": "audio/names/he/woodpecker.ogg",
-          "sha256": "93ea95b137b56c4cfa2d08af579d2624d6cbbe48899fef46f72d82183d62190e",
+          "sha256": "3f3a0382bddb6f36c92d8db4a42d90f839894e8507aacf1e1a54180dda654663",
           "bytes": 4960
         },
         "nameEn": {
           "path": "audio/names/en/woodpecker.ogg",
-          "sha256": "3c7bdbc1a02d5f9fe7474df7290a8aa39d0df2e1ce9dc2adacb6379b7c850488",
-          "bytes": 7542
+          "sha256": "6afa3962b1529a0c2f3dccaf6cf58b2e89904371fabf796dae5dea3641b68c7a",
+          "bytes": 7900
         }
       }
     },
@@ -8252,18 +9451,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hoopoe.ogg",
-          "sha256": "f430f3002038bdbe6856ad40ed1e6eea1729442277a648d52e5eadb5d37b3646",
+          "sha256": "9dc0d4090a180b3b4389fa9c6734baca67fbc8206e6638696cd119e5feb14dd0",
           "bytes": 28042
         },
         "nameHe": {
           "path": "audio/names/he/hoopoe.ogg",
-          "sha256": "af90939b4654b34b2c8ff32a1973b0e34a02282cd443b54be1470486909b6c3d",
+          "sha256": "bfc963811cde045cd5240a76acef50f321c0102c283947f53f4516e62637967d",
           "bytes": 7692
         },
         "nameEn": {
           "path": "audio/names/en/hoopoe.ogg",
-          "sha256": "b3e0b56d50b1a040f5edbd76d87806fa20b5ff665366b5fb5e935fc53ef87051",
-          "bytes": 7467
+          "sha256": "3503ea84c255e881f931ac487bcc1aae3715678a165b57317a12c54a28b2e578",
+          "bytes": 7054
         }
       }
     },
@@ -8350,18 +9549,18 @@
         ],
         "sound": {
           "path": "audio/sounds/sparrow.ogg",
-          "sha256": "f56dcb03db9c24487d52e2675f3d8104a67d18953bfd81e4b65175ff07a73c9f",
+          "sha256": "65cd444f0b868cdd6e092c5c3419f5ffc7f5a866b1f6d7053ab28c24d3344da9",
           "bytes": 14001
         },
         "nameHe": {
           "path": "audio/names/he/sparrow.ogg",
-          "sha256": "995f3c9463cff9ad59c9adf338d42526b99afd9e7d5b5f03f767c2f07e2b4e84",
+          "sha256": "b887e7b18c87a130394875a764e6de5496510f7bb31f0834af5015f9990ec623",
           "bytes": 5646
         },
         "nameEn": {
           "path": "audio/names/en/sparrow.ogg",
-          "sha256": "e9b64c8fbc0777341b196fdcab5c630a46eff873e83bb3a1c6de2843ba2ea206",
-          "bytes": 7752
+          "sha256": "d6552a2887d7ef0a448931ec71dcb7807bb802d89498149aa506f37c26467fbe",
+          "bytes": 7889
         }
       }
     },
@@ -8451,18 +9650,18 @@
         ],
         "sound": {
           "path": "audio/sounds/frog.ogg",
-          "sha256": "a70e80e897d9406430eccdc50237574d333e858bcb46740f545dd7bf9b12a803",
+          "sha256": "15f0e8df635cefdf839008b977e326f93f9d47dd343330eb451b8c16f7a44343",
           "bytes": 8034
         },
         "nameHe": {
           "path": "audio/names/he/frog.ogg",
-          "sha256": "29134cee6d63596cacd3472f6e98e339105437d85c1b0cd43c3af7da6fc912b0",
+          "sha256": "06f184a8ffc308b8ac0da2d0b309d8f9f86154b12dec5845e5f45b2e2df8248c",
           "bytes": 6372
         },
         "nameEn": {
           "path": "audio/names/en/frog.ogg",
-          "sha256": "2d87f76fbdc6644d8be4d0818b66c4e58f96d7528b9908bc2556da8579a1299e",
-          "bytes": 6688
+          "sha256": "adbc71c1c117b34b6795346addac8ab26a9eff80ea244c739d6a2e592a73845c",
+          "bytes": 6290
         }
       }
     },
@@ -8545,18 +9744,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bee.ogg",
-          "sha256": "ab7d51ce231e45529871b4af160038657686804dbbdae78a1d1e2ef23b3273a4",
+          "sha256": "19ddc966c067ededa7f1f77f924f50cf9cad20f6d14067188fc5317bc8a5c01d",
           "bytes": 28788
         },
         "nameHe": {
           "path": "audio/names/he/bee.ogg",
-          "sha256": "5360a869fb7991204f98315775aa9092b86e540b78f9e6e9179c6748fd6b212d",
+          "sha256": "a8f0b2d6684ae6db26b6a72d2505c07d592f4bc83bbbd297c909ff1cf8db6700",
           "bytes": 5633
         },
         "nameEn": {
           "path": "audio/names/en/bee.ogg",
-          "sha256": "060ed8c5aeac6055e50c17c785401bf5ea7430c26f3cea17201ee6abb167392e",
-          "bytes": 5116
+          "sha256": "92f334434929a77eab7b72f5b0b7ad0c5069b24f9dcc8a3b53f3b3f5635694b2",
+          "bytes": 5612
         }
       }
     },
@@ -8639,13 +9838,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/butterfly.ogg",
-          "sha256": "1542b82c5808b854797d094189d7bd475ed747ff76ab415e242ffe76549aacd9",
+          "sha256": "7dc3b0cb25d33eea8aeafbbbd0c1ead335274e26fcac3e52f2618b9ad4b125c3",
           "bytes": 6353
         },
         "nameEn": {
           "path": "audio/names/en/butterfly.ogg",
-          "sha256": "c8606ed67c638cc0e57d9550c60b3e0fee12e41e02427befe7bba8a43c250802",
-          "bytes": 8102
+          "sha256": "97b75fea66a62c3ae5ef4b99a2df57641e8b71949f58c12ecef26c180fa5fe28",
+          "bytes": 7865
         }
       }
     },
@@ -8731,13 +9930,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ant.ogg",
-          "sha256": "b39f17f506233309d5c5c361fc7bcfb75e12032b81f4938d155062cd786a7a41",
+          "sha256": "b593ea5a9657a903981cea9fb26c5de10f1eed091f951534e5c108012389d20a",
           "bytes": 4601
         },
         "nameEn": {
           "path": "audio/names/en/ant.ogg",
-          "sha256": "d5d6de4787efaaa7f98e313e68680bf6d68bf5c5a63aeee26bae68005f8c5873",
-          "bytes": 6059
+          "sha256": "37e2a57280b95cff527a606eb91c8660eb8ee2d32701bd03a72700121722c44e",
+          "bytes": 5929
         }
       }
     },
@@ -8820,13 +10019,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/snail.ogg",
-          "sha256": "3abb6f80ee6105c240d5125d2eb60870d22a37c5cebac9666705da7e71bcc08c",
+          "sha256": "ca9fdac957afe245ae82635c1270c3fc6092752636a681bdebbd76b8ccd05fde",
           "bytes": 8601
         },
         "nameEn": {
           "path": "audio/names/en/snail.ogg",
-          "sha256": "64ff56ebeb1dddbc1eacd2cf93399f41e47236d2ee62f924902160aacb4f8c51",
-          "bytes": 7397
+          "sha256": "12a0fd96bba4ee570a9a463e98d6f4321dd71ae49ec8c9030ff246c1a7854320",
+          "bytes": 7789
         }
       }
     },
@@ -8909,13 +10108,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ladybug.ogg",
-          "sha256": "dd7b3f643b5937e0f320bf8e04be6d2c3d8bec25705fa80d2165e649ccaeece3",
+          "sha256": "3ce3c2d69c5b40cfd2a14138eb6978be7a8730efd8df07e3f768680bee8b7925",
           "bytes": 9189
         },
         "nameEn": {
           "path": "audio/names/en/ladybug.ogg",
-          "sha256": "fa9ad82396e48c85f6099beb80a6b3dba4e3e353823ad4eee28aec11a0f22df6",
-          "bytes": 8199
+          "sha256": "fd0900a059a4b12b9c9ed7ab37ec032682fa62b0bbcfd4ff6295d18d7b50aaa3",
+          "bytes": 8210
         }
       }
     },
@@ -9004,13 +10203,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/spider.ogg",
-          "sha256": "fe318851fce76d62be460b51c3e17427e4da419aabf0c9e0eabd9f6d861aa0af",
+          "sha256": "2e931ce95ac43bbb1912a04ef4cb9f8d1ee33a1ad3b9475a8129ff3e4252396e",
           "bytes": 7606
         },
         "nameEn": {
           "path": "audio/names/en/spider.ogg",
-          "sha256": "6fb4cfe9b1b4187f7f8a9e8f60d3abe4d5abc51b62724f080898ca733de5c3b3",
-          "bytes": 7564
+          "sha256": "73bf74ceb7a562aa4189f786c8ff06800afda15921451f5da8926259248e5a00",
+          "bytes": 7403
         }
       }
     },
@@ -9093,18 +10292,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cricket.ogg",
-          "sha256": "7a0e96f1b1eeaaaf30f712a61b489258c93f9ddabde8e4f661476746b0ff02e1",
+          "sha256": "da30c4657ab02c9ef9de96e13a28831329d13d5a7300fee023323acba1ab6c85",
           "bytes": 28060
         },
         "nameHe": {
           "path": "audio/names/he/cricket.ogg",
-          "sha256": "62473c35ac4a9a20a93c03fde4725a9eace0c429486e6143706bfdf26e3b762d",
+          "sha256": "d8bb018b3f6606bc0ac3ab2cb20ca23ee3184b9dc3a8d7dc21005792c335b87f",
           "bytes": 6976
         },
         "nameEn": {
           "path": "audio/names/en/cricket.ogg",
-          "sha256": "e8ae58d10b7e8f6dd8d0469fce9d4f5c526090776f720417488b57a8b798e2e1",
-          "bytes": 6817
+          "sha256": "5d832d0676611c00ebcc5f5d2310f02f7075e7315383433a5f490541b58e7883",
+          "bytes": 6705
         }
       }
     },
@@ -9193,13 +10392,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/lizard.ogg",
-          "sha256": "09ffd2a927d7b61f3241b002f9738d8b232690cd678dbe193341cbc5b112c91d",
+          "sha256": "8aa358757ad6baf9b4db38ea90757b80f50e5596e15005aca0b5b7ed512ad395",
           "bytes": 4643
         },
         "nameEn": {
           "path": "audio/names/en/lizard.ogg",
-          "sha256": "c603e15dca183c2f1b0690235f06c6758086ff34f7afe5972459026b31b4500b",
-          "bytes": 6837
+          "sha256": "e97b59f461aeb7299502573eca29f25de507036a4b5a8377c22e0248af9ec608",
+          "bytes": 7020
         }
       }
     },
@@ -9287,18 +10486,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bat.ogg",
-          "sha256": "aff71641006260f1e31069821224542b73a08fb72712e17d377b9672f1f2e720",
+          "sha256": "83003b4bb112fe224f3ab92c04656365df8a1c566117e87cdfc5edb8d34f876c",
           "bytes": 29975
         },
         "nameHe": {
           "path": "audio/names/he/bat.ogg",
-          "sha256": "c440070801fa6cf9781a15006a571b6836175992f0ce9b192e305d53f40cfe9d",
+          "sha256": "175bb36da5bc5c03617e9445867cd35e46cbb8d8e91704399bca04cab9bf2862",
           "bytes": 5250
         },
         "nameEn": {
           "path": "audio/names/en/bat.ogg",
-          "sha256": "f08cf5cd2573eac094577f058eeca97a060a1cd5baa0160685997abb4e71d164",
-          "bytes": 5863
+          "sha256": "67f0f2a689904407166259be1ace0271fd8149ef4072abe9653940117c2515a4",
+          "bytes": 5948
         }
       }
     },
@@ -9386,13 +10585,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/scorpion.ogg",
-          "sha256": "bcc97038a89fb96e7ed29c244773b7eca7a8ec699dc9506723da065b3a516483",
+          "sha256": "c3813cbb96d455845a724ec8df5472ebaa5226d54e247ed071b814be5ce9ddd8",
           "bytes": 4943
         },
         "nameEn": {
           "path": "audio/names/en/scorpion.ogg",
-          "sha256": "fe1f4a2ff8d90e5382caa4465721737a813087f556edfa14e146ffa83b71b007",
-          "bytes": 8474
+          "sha256": "90857fb805a9078785e264c11c96fea04424ada651c4784118d20368a376aabe",
+          "bytes": 8092
         }
       }
     },
@@ -9471,13 +10670,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/caterpillar.ogg",
-          "sha256": "da1764b8b15557a1c0fdd7b1f81b4fd1a5ddedee9e1341bdd9219153e78afe38",
+          "sha256": "babac80df28e1fd04bf4dab65f519861822dd003bf9c07fba857b7ded61cb243",
           "bytes": 5578
         },
         "nameEn": {
           "path": "audio/names/en/caterpillar.ogg",
-          "sha256": "c329f03af7f0a227553cc36d7f5cc98c09be83e5cc98a7ef73d43bdb2a38e335",
-          "bytes": 8648
+          "sha256": "8dc77524579407d708c61455a8c64bc98a29b118990c35247c4e7ee9a6cba1fb",
+          "bytes": 8477
         }
       }
     }
