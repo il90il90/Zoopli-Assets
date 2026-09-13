@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 3,
-  "generatedAt": "2026-09-13T05:51:24+00:00",
+  "contentVersion": 4,
+  "generatedAt": "2026-09-13T11:50:46+00:00",
   "baseUrl": "https://cdn.jsdelivr.net/gh/il90il90/Zoopli-Assets@main/",
   "categories": [
     {
@@ -640,7 +640,7 @@
         "en": "At home with the family"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור כלבים",
         "en": "puppy"
       },
       "size": {
@@ -687,18 +687,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dog.ogg",
-          "sha256": "f2362c6982784bed9343a3998c89eba71a8ff6cd1223451c49ab8cd3031d33b3",
+          "sha256": "c4731520c805b8a71dd599336fa961c35e24253e53e70810ee5e10fdf61b4631",
           "bytes": 17513
         },
         "nameHe": {
           "path": "audio/names/he/dog.ogg",
-          "sha256": "9fedd28d5d557af59dd6486d7181f4467f7b36d5692a5aa476992547d38bfd90",
+          "sha256": "0052648227d226e3a6b86e64f48313b7e783dbb62995610a6f1cdfc7a7d4b916",
           "bytes": 5722
         },
         "nameEn": {
           "path": "audio/names/en/dog.ogg",
-          "sha256": "50352ba921267d42c432e29a04bdfcd11756e83eedfb71229144defbf123dfd2",
-          "bytes": 5752
+          "sha256": "8a79300a0cdcdf457d27234d06a33030d34d1d010c6accba45258f1030f6c796",
+          "bytes": 6045
         }
       }
     },
@@ -736,7 +736,7 @@
         "en": "At home or in the yard"
       },
       "babyName": {
-        "he": "גורה",
+        "he": "חתלתול",
         "en": "kitten"
       },
       "size": {
@@ -789,18 +789,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cat.ogg",
-          "sha256": "7368f6069151ce07831b2f84ad47d7622d0ff1dde5c83f2ed82c7bac5bc69332",
+          "sha256": "ea7b2bc6418fb78b852cb3da832cbef7378c1e492e77ae8046a941622530e0c7",
           "bytes": 15987
         },
         "nameHe": {
           "path": "audio/names/he/cat.ogg",
-          "sha256": "50204c387051fc70a654558abcb21b5adc415423f7003ac2520c85c18de44f46",
+          "sha256": "fd0376aa2f40ecedf84449f328a4de522a04da4cdf5bf448378fcfef24b63054",
           "bytes": 6136
         },
         "nameEn": {
           "path": "audio/names/en/cat.ogg",
-          "sha256": "837fd3989c1f3b99dc21e66caa5892bda26b1d0cb21b495b88eb00153442c87b",
-          "bytes": 6050
+          "sha256": "8e1e274e1af309cfeb234d7e077f22f361481f0a26f2a772cf538eb621c97d0a",
+          "bytes": 6117
         }
       }
     },
@@ -885,18 +885,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cow.ogg",
-          "sha256": "29e27d95ab0f8fe335f1b0fa6dc4a2d9f9e108121e82ebe57946cc74a9943943",
+          "sha256": "77c14e1a68ab2a8a21be5420a68b29af09f505bf4051469663eb57fcb93814cd",
           "bytes": 20201
         },
         "nameHe": {
           "path": "audio/names/he/cow.ogg",
-          "sha256": "08d6ac19049f07088238b406ee640fa5a45a4f33dcae38eb7e6683bb9de1d674",
+          "sha256": "822315268bbe07e2be359b2ea0e5d35986ef7dc161ddfe056726edc4b067484b",
           "bytes": 4989
         },
         "nameEn": {
           "path": "audio/names/en/cow.ogg",
-          "sha256": "e4408c90f95db1689b09638fca57098a1595df3f8861d2b829f10179fe987493",
-          "bytes": 6316
+          "sha256": "4fa260cbc32385b57b1d08e9c89e22eee7927b0a55d9a3dbb965ad922bdde90f",
+          "bytes": 6252
         }
       }
     },
@@ -981,18 +981,18 @@
         ],
         "sound": {
           "path": "audio/sounds/sheep.ogg",
-          "sha256": "7bfda80ba7a749cc16c75feb7289508d53561fccb3659446700786b73d021e07",
+          "sha256": "0d585af38e69b133f6db0fdb57efecd0e8cdeeba6df749939b43aa2427560e82",
           "bytes": 28433
         },
         "nameHe": {
           "path": "audio/names/he/sheep.ogg",
-          "sha256": "3f11b84299abaac154436f64c2e828c247092420aaf4b8857f1bc54c3c1cf5a0",
+          "sha256": "785e34c0046b66590ace5d907317b75b23e871089fe3619bb39371c0841be1d3",
           "bytes": 5431
         },
         "nameEn": {
           "path": "audio/names/en/sheep.ogg",
-          "sha256": "88a4169f605dd38196175132b9dd0d9cdf3392530f8574c757b93af763be10d1",
-          "bytes": 5983
+          "sha256": "ad870d34fe04c05fd01494f87255263909c90b3a51f9b7ceba55073d24d64919",
+          "bytes": 6147
         }
       }
     },
@@ -1077,18 +1077,18 @@
         ],
         "sound": {
           "path": "audio/sounds/horse.ogg",
-          "sha256": "87c8ff0e57e14b4c887bad2794a7a5d03cf22e143efd3cbc47d6a204096ecd77",
+          "sha256": "ad03b3b5618c68bf6b337cd0dfe43ab19be8bc10c8ebb5bf7282bd3265154a9c",
           "bytes": 10897
         },
         "nameHe": {
           "path": "audio/names/he/horse.ogg",
-          "sha256": "2c64b984ab096c8b60cbadce7d2515251e16a0635fbb6c505c4ca8d8a2d43a36",
+          "sha256": "4c229c68b5382e8009bb1fdbec5ca9ac4f645f55d9630d0eee7f78508749a4fe",
           "bytes": 5667
         },
         "nameEn": {
           "path": "audio/names/en/horse.ogg",
-          "sha256": "c033fc22b77099110a26f9abeb1f181fd468e68519da48e65d281298dc1f2aeb",
-          "bytes": 6562
+          "sha256": "2c68860be9ab902389424281138baf1a8fa4586bafbd0a3918f54096b30cf2bd",
+          "bytes": 6518
         }
       }
     },
@@ -1126,7 +1126,7 @@
         "en": "Near ponds and rivers"
       },
       "babyName": {
-        "he": "אפרוח",
+        "he": "ברווזון",
         "en": "duckling"
       },
       "size": {
@@ -1177,18 +1177,18 @@
         ],
         "sound": {
           "path": "audio/sounds/duck.ogg",
-          "sha256": "5a1652de5366cc9b206033b60747edffee1022f690f11f97187c5654ecda6831",
+          "sha256": "4ca2e8ace41535c748d053cc9eff1e69c9d630f56e9e9d6121f758a73d0a7aed",
           "bytes": 21510
         },
         "nameHe": {
           "path": "audio/names/he/duck.ogg",
-          "sha256": "d2b55c857aef506a660e2da00d9d541d0d2d2caeab6e5511eb7c89ffdf3f7fd3",
+          "sha256": "dbff6d4939f27e089b807754b394b94ad6c1fb9a816e589a43e566de9edfec89",
           "bytes": 6227
         },
         "nameEn": {
           "path": "audio/names/en/duck.ogg",
-          "sha256": "65edd0d1448fe5b5474a6456be7dabd4c161143bc258ae9dc1f26723fc04ee1c",
-          "bytes": 5848
+          "sha256": "acd5d4cb7e09a3dfda23e604cd11b4ebcd7c4a560f4d3dce81e34e17ee228873",
+          "bytes": 5856
         }
       }
     },
@@ -1279,18 +1279,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rooster.ogg",
-          "sha256": "cad197e1c31f1c35e5dfd12ea9476ae2a66c16900ada51a54acc7a7e41938eb3",
+          "sha256": "779b489855ce542ed830b1d95a3e400a7dc1dacdee6b321bc078cf85bf897883",
           "bytes": 28588
         },
         "nameHe": {
           "path": "audio/names/he/rooster.ogg",
-          "sha256": "b81487fb8a875fbdafea9d2fbcbf9e7dd4f64a9e8336e604f7c1fbe696386921",
+          "sha256": "c35a024e1b9c8fb42e438f366f66f97627f980e4346972b8134c3d308a4c68a8",
           "bytes": 6368
         },
         "nameEn": {
           "path": "audio/names/en/rooster.ogg",
-          "sha256": "1c395f483583f93eff535b601728b6f464830a47ce4bbda13c8c2e8fd890ed9e",
-          "bytes": 7219
+          "sha256": "41edd068df9bdbe251658c49ae55de545d8f70198eb0896256706337dfa17aee",
+          "bytes": 7244
         }
       }
     },
@@ -1373,18 +1373,18 @@
         ],
         "sound": {
           "path": "audio/sounds/pig.ogg",
-          "sha256": "759ab8a50835596cb6cdb44a452c09b0e863d057d4e259f2411f79c766b5658d",
+          "sha256": "37bf75f6799b954067871fb8dc4e6c005c2bbe988d305865d9f2507f8ae433b1",
           "bytes": 30025
         },
         "nameHe": {
           "path": "audio/names/he/pig.ogg",
-          "sha256": "8c5498c5ad7114d400d7f1b1600d75f351e90b52f0674d9b8f51a34b75074af7",
+          "sha256": "85510bbe87541331ed3dac98aaade2b2589defbd8a45e7ae565b3aa93fb2f959",
           "bytes": 7868
         },
         "nameEn": {
           "path": "audio/names/en/pig.ogg",
-          "sha256": "ba8f9003c7d4b61f89d551a089c6cb429d4b2e4270836a6100a11901adcc818c",
-          "bytes": 4693
+          "sha256": "cc141352ca9a8ef13c26d097847a3ea609e4e31b47fffb4626c4e7694aea5afb",
+          "bytes": 5194
         }
       }
     },
@@ -1467,18 +1467,18 @@
         ],
         "sound": {
           "path": "audio/sounds/goat.ogg",
-          "sha256": "fd31294d753fb5ea15fd59f9cd2f655cff85d5124f199e1bfa204a90a021ea6c",
+          "sha256": "d5b1bdf8a84520c5fe21424f3fb444da3935762aa7c7b1afa59829a27f3114d1",
           "bytes": 10841
         },
         "nameHe": {
           "path": "audio/names/he/goat.ogg",
-          "sha256": "3d0e04cd47033b3808c292ea350cd6488a27bf1e9ede2d0100bcee6a702bbb2b",
+          "sha256": "5df7a6d239a3fb42ca8503af66e830b7cca8bf27b66f84da03bb013a74331f13",
           "bytes": 4254
         },
         "nameEn": {
           "path": "audio/names/en/goat.ogg",
-          "sha256": "99d9e94ec67cb3de9412185f07422d4e33b76ecf87b14dff9c488554df2eeff9",
-          "bytes": 6037
+          "sha256": "584347c7cf8e6625264c907cfc22de4b67d553061226e45e6fe50d352c5232b4",
+          "bytes": 5710
         }
       }
     },
@@ -1516,7 +1516,7 @@
         "en": "In burrows underground, in fields and in homes"
       },
       "babyName": {
-        "he": "גור",
+        "he": "ארנבון",
         "en": "kit"
       },
       "size": {
@@ -1561,18 +1561,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rabbit.ogg",
-          "sha256": "799b8682e3121935da7e0bdb4649641a35029541f5604ee33b9b03666436a199",
+          "sha256": "9020381aede86d02a3002b620382a3f429138700d88a79b69565a13a66de1693",
           "bytes": 32469
         },
         "nameHe": {
           "path": "audio/names/he/rabbit.ogg",
-          "sha256": "2d8caaa02fb919556488c35fe4b6ec509b13464cd0177a3cb7bcdabede80c5a1",
+          "sha256": "cc563d3b75360875d5a3ee6f61307ecc7e0f4986fff9adf07cc302cedf895663",
           "bytes": 5893
         },
         "nameEn": {
           "path": "audio/names/en/rabbit.ogg",
-          "sha256": "4628906ae7c39d30477525c0e3f738cae8f1958693949542c8d317715f4d195e",
-          "bytes": 6562
+          "sha256": "e967ed21980a69dd91c2df821fb7168a313562f791c3aef0673a91063f1c1149",
+          "bytes": 6406
         }
       }
     },
@@ -1655,18 +1655,18 @@
         ],
         "sound": {
           "path": "audio/sounds/donkey.ogg",
-          "sha256": "84b987fee246104aa95e7d6d578049966889c3d4daf11eab80eed579c80a6cc5",
+          "sha256": "42f01544e5573b6f9afae5c7e644bd9ec614346ce5b7b30b8c3c77461bf0dfb6",
           "bytes": 31181
         },
         "nameHe": {
           "path": "audio/names/he/donkey.ogg",
-          "sha256": "d0c7b16065ec79bb3d26f1e837cda6cd361ac309c6979aefc10e1f5c04ca1563",
+          "sha256": "e64fddc07c42ff30a5504d1bc53de4deb696362cf1e659b07c93e6cee32769f9",
           "bytes": 6584
         },
         "nameEn": {
           "path": "audio/names/en/donkey.ogg",
-          "sha256": "986c57b638389937e06cbcc609658009fb414577c76f20b91e0878e3eddf20a8",
-          "bytes": 7131
+          "sha256": "290755ee1ce925e8a708f4142a3a1b5dbb88f9d36455630a45251a7db3e9e234",
+          "bytes": 6526
         }
       }
     },
@@ -1754,18 +1754,18 @@
         ],
         "sound": {
           "path": "audio/sounds/turkey.ogg",
-          "sha256": "dff574966827e148b234cc46e865becac9a0bc564e36987c0c4f4befb6784246",
+          "sha256": "f12b368c9070e6e02f7796b7c27944fdabd24e01086adbc6f34a3463b0f86650",
           "bytes": 10940
         },
         "nameHe": {
           "path": "audio/names/he/turkey.ogg",
-          "sha256": "3521c46621d9dfe27e1e7c1e99728c3b45b0599f33b28e5fe0c655e3e88da692",
+          "sha256": "c4bfd91b089400727e709d784dbc4b87f31cfb904423801b7c1bfa2582a47f31",
           "bytes": 8347
         },
         "nameEn": {
           "path": "audio/names/en/turkey.ogg",
-          "sha256": "29b2d74d3e14e630a8de2683a45f492cfc9cd8efa816fcbbe7df5c3f8bb6fe63",
-          "bytes": 6736
+          "sha256": "a26b1f6b5269df03c6649762b78e898a56f686db71e25881f0c4c67c9f9f4da6",
+          "bytes": 6841
         }
       }
     },
@@ -1803,7 +1803,7 @@
         "en": "Beside lakes, rivers and ponds"
       },
       "babyName": {
-        "he": "אפרוח",
+        "he": "אווזון",
         "en": "gosling"
       },
       "size": {
@@ -1851,18 +1851,18 @@
         ],
         "sound": {
           "path": "audio/sounds/goose.ogg",
-          "sha256": "5342e28119bd8be04a4a14b3299aa05022410c3dc5abe3573485158f080f403b",
+          "sha256": "0bfe20afd533f1f60f4e1677e28c957bbdf005609da4ce965fdfca4f59572b12",
           "bytes": 6173
         },
         "nameHe": {
           "path": "audio/names/he/goose.ogg",
-          "sha256": "3e2a99ff3177af94ff27525b93c098f59b71efb28bf997ad161ebc0967c872c6",
+          "sha256": "ccc441b697ef96c0846d116a27185f1bff8952ced8ad1701b297f58f3c21876a",
           "bytes": 4807
         },
         "nameEn": {
           "path": "audio/names/en/goose.ogg",
-          "sha256": "e8440c11d0f2259d21bbbb65af568d28f85ee37d5272ed7387274d2806f76959",
-          "bytes": 6614
+          "sha256": "5d9d60cf08ccbaa0667c006d49b9023bc6c17f060369a1d44785e1e510fb0b88",
+          "bytes": 6725
         }
       }
     },
@@ -1900,7 +1900,7 @@
         "en": "In fields, in burrows and sometimes in a warm corner of a house"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור עכברים",
         "en": "pup"
       },
       "size": {
@@ -1945,18 +1945,18 @@
         ],
         "sound": {
           "path": "audio/sounds/mouse.ogg",
-          "sha256": "39feabc38d67433e1f941559a04df43d9f3159f0098befdd376a5334602ef755",
+          "sha256": "4d007f64930c37d7e6654e3e0121da972c6266b521553e73193d953f47a6079e",
           "bytes": 4594
         },
         "nameHe": {
           "path": "audio/names/he/mouse.ogg",
-          "sha256": "2d7ffe5d4bd4beb478dd18a60ea99b0a5f9d77eaf36f39e8254625387f180125",
+          "sha256": "fc292ed89e7b0b68ddd550ed1b7bad6c99599d24983cf05b94efeba88be7281b",
           "bytes": 5706
         },
         "nameEn": {
           "path": "audio/names/en/mouse.ogg",
-          "sha256": "aec61cdf9ea8a44dc4bb7b87bb3e870b2524ae14b23a09bbd8d4cb7205ec13f2",
-          "bytes": 6542
+          "sha256": "d5133871b1a9e4ac928b54701429d0ea31fe3a5a823032228eaa80600a9807db",
+          "bytes": 6731
         }
       }
     },
@@ -1994,7 +1994,7 @@
         "en": "In burrows in dry fields, and in a cosy cage at home"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור אוגרים",
         "en": "pup"
       },
       "size": {
@@ -2039,18 +2039,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hamster.ogg",
-          "sha256": "0e0e6d7e6fd41153d7e67e9a80d7c60c9f0fe6c5a976ae8c93b552e522718a7a",
+          "sha256": "68727e513f865897c6d70149373f8e271dbc568a06bcce4506659226926d5d04",
           "bytes": 23125
         },
         "nameHe": {
           "path": "audio/names/he/hamster.ogg",
-          "sha256": "477ea209c00ce39dc56145496ea858cc3501787209a79ff182bc81f895d4ba8e",
+          "sha256": "d08bab7d8128558d741bb3d441803cb29350e8c28bfcbc87635e7bba246ac196",
           "bytes": 5584
         },
         "nameEn": {
           "path": "audio/names/en/hamster.ogg",
-          "sha256": "4221f0a3f5643ff067688786003ca1f1907136d56a5eb3cc56cff110d5db1511",
-          "bytes": 7381
+          "sha256": "3a80c125cd29f3aadd02a5922ec51af3fd669fc59b3e6c353f05db49df0a704c",
+          "bytes": 7294
         }
       }
     },
@@ -2088,7 +2088,7 @@
         "en": "On the African savannah"
       },
       "babyName": {
-        "he": "גור",
+        "he": "כפיר",
         "en": "cub"
       },
       "size": {
@@ -2141,18 +2141,18 @@
         ],
         "sound": {
           "path": "audio/sounds/lion.ogg",
-          "sha256": "5ef43dc8e6f29a6d10f692a60012b40fa58385f0ea55c44c47d926ad509b4f1d",
+          "sha256": "d40b0f775d74b172918969f5f319371fd35d97b92896e9e34165070aca5ab8af",
           "bytes": 28203
         },
         "nameHe": {
           "path": "audio/names/he/lion.ogg",
-          "sha256": "1937bf5c7524dbc26de9b14b390896ef581473473696ed16ba1c6cf5baa28dc3",
+          "sha256": "6c44ae0b8253012e39ebcfb1c09c6d0126843742b37a7951b0409c2b252a153b",
           "bytes": 5864
         },
         "nameEn": {
           "path": "audio/names/en/lion.ogg",
-          "sha256": "2d1c20caaaaeaef85decdcabf0a78d7205c767bdc776a07c4920ebc6f1f01e96",
-          "bytes": 6303
+          "sha256": "199aae427510c70bb6b64b72b7719e9247e3a91ec9f92a6470a5cd58aae5678d",
+          "bytes": 6268
         }
       }
     },
@@ -2190,7 +2190,7 @@
         "en": "On the savannah and in forests in Africa and Asia"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור פילים",
         "en": "calf"
       },
       "size": {
@@ -2237,18 +2237,18 @@
         ],
         "sound": {
           "path": "audio/sounds/elephant.ogg",
-          "sha256": "960541ffa9ef3f913853a2e4d836205bc0559fa430b0b798660668ede46be48a",
+          "sha256": "453b92f7a57548e205f77ecac5f7086293534325d78951e465feb2bdbe084253",
           "bytes": 10638
         },
         "nameHe": {
           "path": "audio/names/he/elephant.ogg",
-          "sha256": "88f907875a2ebefd2c91af123fe12b303882699c34dd6048a9f08323ee4e32b5",
+          "sha256": "8bf5653b63973cfad92ffe3d6794bee73e58385ce66dc47bca28934ac62ecd16",
           "bytes": 6666
         },
         "nameEn": {
           "path": "audio/names/en/elephant.ogg",
-          "sha256": "d300702e1c02f563cb9753708b4eccbf7a29297db55614abfda277548554fa31",
-          "bytes": 7192
+          "sha256": "2ef1d2deba3bfdec25e3c92b073d5de4f1665cd5f6037c13910754f4a7bc2b13",
+          "bytes": 7205
         }
       }
     },
@@ -2286,7 +2286,7 @@
         "en": "On the African savannah, among the acacia trees"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור ג'ירפות",
         "en": "calf"
       },
       "size": {
@@ -2331,13 +2331,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/giraffe.ogg",
-          "sha256": "030872077f7271ec60035e6b5ac7b64143b3ae6f09175b00fe17bb58a65ff697",
+          "sha256": "dee8ca6186ecdef3ef37479a8b76a9b5b1ed29ec969789fa7b52a2f3dfee13ed",
           "bytes": 7008
         },
         "nameEn": {
           "path": "audio/names/en/giraffe.ogg",
-          "sha256": "9a420f1d120fa7d0fd5616cb7f6003f667791c4609cf7c1e7a564e8dcde3975b",
-          "bytes": 7256
+          "sha256": "59cf2f497e5aed5f0cea1107d36f8eb3b82e3e975af0e6bbea297ed251748a8b",
+          "bytes": 7094
         }
       }
     },
@@ -2375,7 +2375,7 @@
         "en": "On the grasslands of Africa"
       },
       "babyName": {
-        "he": "סייחה",
+        "he": "סייח",
         "en": "foal"
       },
       "size": {
@@ -2420,18 +2420,18 @@
         ],
         "sound": {
           "path": "audio/sounds/zebra.ogg",
-          "sha256": "dd98b54ff29e01747297370baf7a675a1a011f3e52ca1f2a163c938d7afbb67b",
+          "sha256": "b148fa88325c65bbae8924a60a6b693be5c46df0c8201146120fa674536708a8",
           "bytes": 16734
         },
         "nameHe": {
           "path": "audio/names/he/zebra.ogg",
-          "sha256": "2d12ddfc846b28fc7d03e17410ef94df04399693912b1f5fbb47060cca519028",
+          "sha256": "f69a0be475debf224ba83576416ff96c31841163898041ff604c96da0c580ee4",
           "bytes": 5514
         },
         "nameEn": {
           "path": "audio/names/en/zebra.ogg",
-          "sha256": "b98b91c3cd510ad83c5ecf5497d27e4cebe5741e973dce3bcf79b45c27e8c702",
-          "bytes": 7531
+          "sha256": "4637721a734346d7d46cf50e828a564fd2a56b97598f8c33a4916aadc51ec497",
+          "bytes": 7494
         }
       }
     },
@@ -2469,7 +2469,7 @@
         "en": "On the savannah and in reserves in Africa and Asia"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור קרנפים",
         "en": "calf"
       },
       "size": {
@@ -2514,18 +2514,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rhino.ogg",
-          "sha256": "b32559067fe5956a77ee4efe7bc3a90a128f69c89d223bca545552e39ebbd682",
+          "sha256": "731b3cfe302d73a2c8a06401d90836f96d7c156d9a566dcc86170e15dc6694bc",
           "bytes": 26328
         },
         "nameHe": {
           "path": "audio/names/he/rhino.ogg",
-          "sha256": "f4ee6bc41000a3aca0a14923f0abce923c1914101a46302668e5dbb590bcdc9c",
+          "sha256": "4ba0cabe9c3c27ab7341dca600af45c5e25703c30c99a624a8477f780dbdace2",
           "bytes": 6108
         },
         "nameEn": {
           "path": "audio/names/en/rhino.ogg",
-          "sha256": "6d0a55def6a4245315a7f6689b3ccff37133b3f4dc0b5d426bf1af7946e5d23f",
-          "bytes": 9642
+          "sha256": "b06c95c9ffcc8441abe310f72333f69c0bf111fd04ab975f2d985c02409eb276",
+          "bytes": 9585
         }
       }
     },
@@ -2563,7 +2563,7 @@
         "en": "In the rivers and lakes of Africa"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור היפופוטמים",
         "en": "calf"
       },
       "size": {
@@ -2608,18 +2608,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hippo.ogg",
-          "sha256": "5392062feaf0b914e7f8d2e92a7f83c2f38f95068108da7f9c1b41978955683e",
+          "sha256": "64cc67c2d1d68ad816c24972287f35576d52193670093590d3ca393519ca8d87",
           "bytes": 19039
         },
         "nameHe": {
           "path": "audio/names/he/hippo.ogg",
-          "sha256": "23b748ff28564220436cddb7e7016d31ebc0140ba237a610a7e774fa7988924a",
+          "sha256": "ef9e27d052744951734195393cfda0fe0e48979dde316d02e212fb4302695673",
           "bytes": 8145
         },
         "nameEn": {
           "path": "audio/names/en/hippo.ogg",
-          "sha256": "c2054d8fa127afb08ca0f60b8c08238ba95d44854e1dfd15083eef4702721a56",
-          "bytes": 10143
+          "sha256": "1de4b8b8e78b7c9fcb9f1d3acbc513187aecdb88eaa36cff684c5220494443f8",
+          "bytes": 9956
         }
       }
     },
@@ -2657,7 +2657,7 @@
         "en": "On the open plains of Africa"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור ברדלסים",
         "en": "cub"
       },
       "size": {
@@ -2707,13 +2707,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/cheetah.ogg",
-          "sha256": "6eee1a1b8e1bf69570c0925ea2aa791f2e4883f32711ec10cd71d08b9bc7f21a",
+          "sha256": "286e486e07448a17b941258ebc90ac288cd574814b2c6eedcfc8742f317861c0",
           "bytes": 6679
         },
         "nameEn": {
           "path": "audio/names/en/cheetah.ogg",
-          "sha256": "1404011b7cd325678ee55ec4ff7edfddf91ce331fbe0ff14d4a4d697cff6b473",
-          "bytes": 7191
+          "sha256": "b1fbb8b5df645fcf299816013752daf78648834126e5a8dfe3d5f9dc9a769c25",
+          "bytes": 7095
         }
       }
     },
@@ -2751,7 +2751,7 @@
         "en": "In forests, mountains and savannah across Africa and Asia"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור נמרים",
         "en": "cub"
       },
       "size": {
@@ -2801,18 +2801,18 @@
         ],
         "sound": {
           "path": "audio/sounds/leopard.ogg",
-          "sha256": "b5a8ad40839776caf303e6991fd4795bdee18677cc7f16e4c4f34808c896fc02",
+          "sha256": "002833343eb7b47ca02c5abe39f0f5a8c8b4dae7051eef90dc95273ab7310347",
           "bytes": 6123
         },
         "nameHe": {
           "path": "audio/names/he/leopard.ogg",
-          "sha256": "45cd8012750c6256abb5f02ba92dd732a847d286603521e838e1cd9ce355380a",
+          "sha256": "4ce26f209e261a8802f684c5e6c415cbe1a3d668d4eb041cbbdd60160a33ecf1",
           "bytes": 5314
         },
         "nameEn": {
           "path": "audio/names/en/leopard.ogg",
-          "sha256": "c62cc6da09711d0005a0517ee2d5f9039d666c73dd0d1c621419ee792223627f",
-          "bytes": 6817
+          "sha256": "d466d4d1a44494d3db9d8530772a4bbdd5f9907f684b9035d339e19c056be35b",
+          "bytes": 6744
         }
       }
     },
@@ -2850,7 +2850,7 @@
         "en": "In the rainforests of central Africa"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור גורילות",
         "en": "infant"
       },
       "size": {
@@ -2895,18 +2895,18 @@
         ],
         "sound": {
           "path": "audio/sounds/gorilla.ogg",
-          "sha256": "906c0780f72b9536ac1c021e99868cfad1dd0077dd0ea2d31b40b84ed469ea63",
+          "sha256": "7951928a136163f131fb2baca3f34deddb55fd732bb99e0336baf1c079a96169",
           "bytes": 26021
         },
         "nameHe": {
           "path": "audio/names/he/gorilla.ogg",
-          "sha256": "39f08dc54fa5aa1adc32c8d1381a0453adcfe650deb8f300a42aa0f2fda97f34",
+          "sha256": "f258826476cc39883f920bc073a0298d3e8012741113f9b9f95649974d79b1df",
           "bytes": 7268
         },
         "nameEn": {
           "path": "audio/names/en/gorilla.ogg",
-          "sha256": "64cd366979e2ca12c572e4ab0812f84dc4fa2413eb499ee6c828911f5ff2e614",
-          "bytes": 7172
+          "sha256": "2ffc230fac9ce366f499837bf6ec891825ab49f43dbaa811b56f4dd4a2bdc8b8",
+          "bytes": 7227
         }
       }
     },
@@ -2944,7 +2944,7 @@
         "en": "On the savannah and in the deserts of Africa"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור צבועים",
         "en": "cub"
       },
       "size": {
@@ -2993,18 +2993,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hyena.ogg",
-          "sha256": "7f087fbd2079851954d37c4938ce01234bc6e789e044d7c6ef1c95b32c20b533",
+          "sha256": "64bf1ea5811c6e6f30c992a1a284b43d14fab0c5d2fc6acdddd4c6d5e47d694c",
           "bytes": 8439
         },
         "nameHe": {
           "path": "audio/names/he/hyena.ogg",
-          "sha256": "200b19f51e764d4bb92def12e843940ed7dd12eb94a2df3a6f20a638c3181dc5",
+          "sha256": "1c43cab91cc532ddc315b3713d91a55bf8e6c116459c88df96d5dc318a450004",
           "bytes": 5703
         },
         "nameEn": {
           "path": "audio/names/en/hyena.ogg",
-          "sha256": "b08092c3750fa27d15437b2a40731c1f231d37024506e2399dd2491b8740cff5",
-          "bytes": 7564
+          "sha256": "c3140a0ad4ddb1c46def2a1f86f6ec5e741cbebb3d01bd41157762532e145375",
+          "bytes": 7738
         }
       }
     },
@@ -3042,7 +3042,7 @@
         "en": "In the Kalahari Desert in southern Africa"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור סוריקטות",
         "en": "pup"
       },
       "size": {
@@ -3092,13 +3092,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/meerkat.ogg",
-          "sha256": "6eeb0b4082bbb8e2a87fd6e5ea4141acbd6370a8814c3b50251cdf446fd8a5d3",
+          "sha256": "e77a9f687f030bd09d7f3aedc420556f4b8ecde79cc435135f3c95da2749f061",
           "bytes": 7822
         },
         "nameEn": {
           "path": "audio/names/en/meerkat.ogg",
-          "sha256": "c6d566bd49f55c2dba1a7add386f6e1ab15ae58ed24a29149503a18de80df8f5",
-          "bytes": 7804
+          "sha256": "adae4967d4a08375bbc62d046d95e700096e0cf3d04337d2520dce955130b97c",
+          "bytes": 7868
         }
       }
     },
@@ -3136,7 +3136,7 @@
         "en": "In warm rivers, swamps and lakes"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור תנינים",
         "en": "hatchling"
       },
       "size": {
@@ -3187,18 +3187,18 @@
         ],
         "sound": {
           "path": "audio/sounds/crocodile.ogg",
-          "sha256": "7d7492009692d7872ebaf9583c657e4d30d156e77bfe89600aeff4ab53324aad",
+          "sha256": "817ba3c17295da27ea22944d0a00bb83ac6cf706e1d08e2e3f81575b2b38e43b",
           "bytes": 30114
         },
         "nameHe": {
           "path": "audio/names/he/crocodile.ogg",
-          "sha256": "cc1db61200a968a6fee086d35498f011526ac6f7a046193ab8e37c9ba8d9892d",
+          "sha256": "2ea73af45a2ee36a386ce2f14bd905d7759b4c4e7fdc202662e867ee0708c22a",
           "bytes": 6618
         },
         "nameEn": {
           "path": "audio/names/en/crocodile.ogg",
-          "sha256": "03a1e519c9fd886bba78300478938642bb3376bed43422e7113a94f96179ee62",
-          "bytes": 7889
+          "sha256": "24340fd9c36f8f2ed300540c5628553bfb05cf93b21853c334f0b760d5ea5328",
+          "bytes": 7675
         }
       }
     },
@@ -3284,18 +3284,18 @@
         ],
         "sound": {
           "path": "audio/sounds/flamingo.ogg",
-          "sha256": "b5122049133dc26862b515d5973b096cc71a794057623844ac52c464b77b520d",
+          "sha256": "6b67728ca7b315f875345b4cd24b096d875234779bb23d4c005372171542c62b",
           "bytes": 30805
         },
         "nameHe": {
           "path": "audio/names/he/flamingo.ogg",
-          "sha256": "a9fee70a2948628efd104c838eb4d552057c4325b37e712d4658c36ffdafe95b",
+          "sha256": "cc87f8622c33ccd9de83ee489d74a4665f5b5e14f46d007ce3e5d637e052ad1c",
           "bytes": 8049
         },
         "nameEn": {
           "path": "audio/names/en/flamingo.ogg",
-          "sha256": "1679b632133bddc26e62fbcbdeae02e56df08744c5a5b85577d41c1bcc7f2867",
-          "bytes": 7636
+          "sha256": "ba50c3debc5ad9aeeb18e3a7c4f49b9d8c41719761607acd56ca9766674b15f9",
+          "bytes": 7683
         }
       }
     },
@@ -3382,13 +3382,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ostrich.ogg",
-          "sha256": "84f746382018507a13f441464e8a29beed2eea500f36065d63bb0971364da468",
+          "sha256": "c4e086008a6ccf202c4bf74bb112f78bf6b9192f229090c42760166584e1677a",
           "bytes": 5041
         },
         "nameEn": {
           "path": "audio/names/en/ostrich.ogg",
-          "sha256": "87802b175cb58104db23a3ec759c3dd9c86fc30ce145204e845fc1d6de98bbb0",
-          "bytes": 7901
+          "sha256": "905bb154ec433733e79cb20db134cf13eb5835538a5ef722abdda0027b2ee6b9",
+          "bytes": 7883
         }
       }
     },
@@ -3426,7 +3426,7 @@
         "en": "In the deserts of Asia and Africa"
       },
       "babyName": {
-        "he": "גור",
+        "he": "בכר",
         "en": "calf"
       },
       "size": {
@@ -3471,18 +3471,18 @@
         ],
         "sound": {
           "path": "audio/sounds/camel.ogg",
-          "sha256": "e9f3cd6f8d682e141b9636d37b9d4387788ae11c41d5606400b2046e56fddfe5",
+          "sha256": "17b88b98cb7ae8321da8d64361751843a035112798b474cb7800dadea022f7f8",
           "bytes": 30608
         },
         "nameHe": {
           "path": "audio/names/he/camel.ogg",
-          "sha256": "4678b8915d61aa183d5f9102a2127c7062d99f852883b83854e93b09eb6b5ae5",
+          "sha256": "d7da9677f15f10045c380f39accf4c3086a82b19b1ee99004a11bdd5e0fa63bd",
           "bytes": 4901
         },
         "nameEn": {
           "path": "audio/names/en/camel.ogg",
-          "sha256": "26897a23d9e2523d71099f63155635fd6412ba12230245e2b06f81927b0424c5",
-          "bytes": 6751
+          "sha256": "294329ac0f840cc1da15f35633992c431a0c998ed50ee74be8e9f0384e0a7d0e",
+          "bytes": 6531
         }
       }
     },
@@ -3520,7 +3520,7 @@
         "en": "In the forests and swamps of Asia"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור טיגריסים",
         "en": "cub"
       },
       "size": {
@@ -3571,18 +3571,18 @@
         ],
         "sound": {
           "path": "audio/sounds/tiger.ogg",
-          "sha256": "e28a4714806b3b002d0906908f10ee0daf2924eba68e296d9dd4946cd1444717",
+          "sha256": "35cc7e7a79f54aea14005319ad6b746c92fb0a4d6b40cbe30cb12328b82339ff",
           "bytes": 27607
         },
         "nameHe": {
           "path": "audio/names/he/tiger.ogg",
-          "sha256": "1ae1554ef4243c715845b76ca74fc81bee957eca2b0b94d674260d39ae7f1088",
+          "sha256": "ff5d0919dae4767e76467db2d0c040d981278f4086e68c40b4742d477512a3f3",
           "bytes": 8929
         },
         "nameEn": {
           "path": "audio/names/en/tiger.ogg",
-          "sha256": "e729bb90ec72b6b91697d174ca4e80e18d82c30d04954a6245c34ba3f0d90c9a",
-          "bytes": 6870
+          "sha256": "1d79b9b33afb7135ac942056086e22d9b8a7f55ee216c88664ef482a3240c8c7",
+          "bytes": 6882
         }
       }
     },
@@ -3620,7 +3620,7 @@
         "en": "In the bamboo forests of the Chinese mountains"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור פנדות",
         "en": "cub"
       },
       "size": {
@@ -3665,18 +3665,18 @@
         ],
         "sound": {
           "path": "audio/sounds/panda.ogg",
-          "sha256": "02b15216c3e80fd9da11217bb19c419374b3b75a5fe7a054c7dd94f11c4129a2",
+          "sha256": "53c76ec8781757d3d34fa9f360cce2fd45bed9706b1a6c82fd72d98318888fa1",
           "bytes": 13234
         },
         "nameHe": {
           "path": "audio/names/he/panda.ogg",
-          "sha256": "8c0a896da984ae5263c8e3c3267d7e371516042a41de5e32cb16ae4de895f008",
+          "sha256": "08dfd9d49c3ca36da515a14abd8e2d9559228d54c1580c2536eef7bd161f03c2",
           "bytes": 5173
         },
         "nameEn": {
           "path": "audio/names/en/panda.ogg",
-          "sha256": "d49385b4e500c1b3338c0ab0e00a443e2d70a69d09d3b97e65aa1c95f770d010",
-          "bytes": 7143
+          "sha256": "4c81f0ea6d4cc4692b6fd140972563a2c18362afcdb632bcc3edd6b2d04f9b3c",
+          "bytes": 7161
         }
       }
     },
@@ -3714,7 +3714,7 @@
         "en": "In the rainforest, up in the trees"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור קופים",
         "en": "infant"
       },
       "size": {
@@ -3764,18 +3764,18 @@
         ],
         "sound": {
           "path": "audio/sounds/monkey.ogg",
-          "sha256": "5a6896b88d330af12e008472bb5774815f734fff3b1e988c39f5a69175c1adbb",
+          "sha256": "6ec192aa1af4a9cf112fc3b4d5601f0f90f961dc6613338e3d520722427af857",
           "bytes": 14883
         },
         "nameHe": {
           "path": "audio/names/he/monkey.ogg",
-          "sha256": "d5df9fb7e4394362379c529f661ad950082c8ad93c958b270c2c238cd6f59b92",
+          "sha256": "43d6a5bddcb9d8d80cd59d561776e948ea1c0a9a5fc604bf61e0ae799e9fae21",
           "bytes": 5133
         },
         "nameEn": {
           "path": "audio/names/en/monkey.ogg",
-          "sha256": "75d4cb0169a90e17e83cd274963b6878ea8dc953f0f7f8540666abb8c70c5ddb",
-          "bytes": 6486
+          "sha256": "f241fab4a315c12418ee31538fc49dc0ebd240e134ba71bb751d119983a18917",
+          "bytes": 6286
         }
       }
     },
@@ -3813,7 +3813,7 @@
         "en": "In the rainforests of Borneo and Sumatra"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור אורנגאוטנים",
         "en": "infant"
       },
       "size": {
@@ -3858,13 +3858,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/orangutan.ogg",
-          "sha256": "63c3ca583ebe1c0ce2fa0a0ded93d6ffa64775d5a8e4e20a7b6701c9341bd31b",
+          "sha256": "050193bab0c7a5e7b5636a030923159a577faa28f82468e5db9c37649aafb9d1",
           "bytes": 7718
         },
         "nameEn": {
           "path": "audio/names/en/orangutan.ogg",
-          "sha256": "67a937872f5deaa0154980ee3d09a09ca973705d692fcb9e726417a3ec772b35",
-          "bytes": 8576
+          "sha256": "53abccd578efe5a59843fd014d033c5267615f422306577de55765261db15f4d",
+          "bytes": 8760
         }
       }
     },
@@ -3953,18 +3953,18 @@
         ],
         "sound": {
           "path": "audio/sounds/peacock.ogg",
-          "sha256": "93b2c2f3333af7d725a1aa0e12217f15c7eb749d635a948683a61eebfafc998c",
+          "sha256": "f0058c68e4cec02c3805b2940a50d35cd4657250a62d0ef06c2d24215cccb731",
           "bytes": 28487
         },
         "nameHe": {
           "path": "audio/names/he/peacock.ogg",
-          "sha256": "21e38ddfacfa55e07bd2c69ce3436b70de8982bedea7b9c25ef9af49344ff50a",
+          "sha256": "0bf81ce9b94e63a0050b72eb4ae52d2a523313c578f038b7809f661a04b308c7",
           "bytes": 5405
         },
         "nameEn": {
           "path": "audio/names/en/peacock.ogg",
-          "sha256": "7de783c039c9cb7a49662e2749f976e43e9af133d2a56c9706d530b64cf1dced",
-          "bytes": 7622
+          "sha256": "45d5203211173acd1df2f96d73c2ee0818b14f7e6ffaab9e9a3bac9ac04556ea",
+          "bytes": 7539
         }
       }
     },
@@ -4002,7 +4002,7 @@
         "en": "In deserts, forests, fields and among rocks"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור נחשים",
         "en": "hatchling"
       },
       "size": {
@@ -4053,18 +4053,18 @@
         ],
         "sound": {
           "path": "audio/sounds/snake.ogg",
-          "sha256": "0e51772d4a7524dbd97e58be41c206d93b8ad8465c55daedd411b37bc63dee9a",
+          "sha256": "9a24caab4f49d4b4a69d2a665785a19f4ae4c6e8ab87cc1c2b71aba64aa01419",
           "bytes": 28601
         },
         "nameHe": {
           "path": "audio/names/he/snake.ogg",
-          "sha256": "83a1a8e93623f62fb1dfb6a5bd99a35e32b3360d4058cb2cb14dae077dad1657",
+          "sha256": "48ba90c9df8a28286136c5bca927368efb906f58e58dcba00417824c637859eb",
           "bytes": 5520
         },
         "nameEn": {
           "path": "audio/names/en/snake.ogg",
-          "sha256": "d941b17792762261b7653c3425dbcd0af39d1418b59fddb39c3be96d0f16adf1",
-          "bytes": 6833
+          "sha256": "6d282088df8e330f0a97fe45575374cef4f4298abd0b3c466c1a135c6f9b76ac",
+          "bytes": 7395
         }
       }
     },
@@ -4147,13 +4147,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/water_buffalo.ogg",
-          "sha256": "63108c48b658a9cc34bebadb338404929d999738949cc963c441ae4767c439ec",
+          "sha256": "902330639dca5bb1d94b5fb322480b0fac267a2c87451ae2d551273f4c83d300",
           "bytes": 4889
         },
         "nameEn": {
           "path": "audio/names/en/water_buffalo.ogg",
-          "sha256": "46c464ec16e529f155498df52e86a0063d74006e7f578607979699bd57e00130",
-          "bytes": 9737
+          "sha256": "6b47f609a7b47718c62f6c8681fde94956b703351663281696ffd58e278e1f88",
+          "bytes": 9566
         }
       }
     },
@@ -4236,18 +4236,18 @@
         ],
         "sound": {
           "path": "audio/sounds/yak.ogg",
-          "sha256": "c80a0b489631be824d1f5e357267b65b7caeab73ee7966b462b57e869a22fe54",
+          "sha256": "1feea621643d3631f5f849a5cb342f9d2320c5c1dec554ed75d44101ac9c7b9d",
           "bytes": 28373
         },
         "nameHe": {
           "path": "audio/names/he/yak.ogg",
-          "sha256": "3140cbe992cba07c186ebd471de9045cdaa961564c47f875e2401d99a05fe65f",
+          "sha256": "5ac6cee49a796efc905e9b763575c0897a8d5da34a53b6846d03c7e8b474200a",
           "bytes": 4660
         },
         "nameEn": {
           "path": "audio/names/en/yak.ogg",
-          "sha256": "7ba4aeb1447f69b69da8d3f51ec6cf0dfc7471747d12de91d513134510f34e20",
-          "bytes": 6324
+          "sha256": "c9c97019bf4af510b37b924ea686e7a1b82b0465140dbbfa1870dc6c91b2f531",
+          "bytes": 6228
         }
       }
     },
@@ -4285,7 +4285,7 @@
         "en": "In the forests and mountains of Europe, Asia and America"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור דובים",
         "en": "cub"
       },
       "size": {
@@ -4336,18 +4336,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bear.ogg",
-          "sha256": "c51a9b36023c3d364e0b5cd020b0d0ab720c09361d4cb5cdf875e68e9c95ca82",
+          "sha256": "c99ca1f35af41fbdb493186539ac18be74226dab1d2fe0433e1f8d2c7fc81c6e",
           "bytes": 28793
         },
         "nameHe": {
           "path": "audio/names/he/bear.ogg",
-          "sha256": "e2220a02bd3ba2379bdb87805bd2b3adbb03839061aac3e6939b20455372a0a6",
+          "sha256": "2316381c0474eef6e878e9855a1cc4de7f8a94fd5d913937f50f91da239e8c03",
           "bytes": 4937
         },
         "nameEn": {
           "path": "audio/names/en/bear.ogg",
-          "sha256": "4914418bb8fdc89c9aeadf32ffa85dc416977aebef917960a69df931a4ffded0",
-          "bytes": 5594
+          "sha256": "c54cb2b82bd1a63af32d30f50dd17e8258cb1edf0e1d7be3125093ea3c2d4138",
+          "bytes": 5476
         }
       }
     },
@@ -4385,7 +4385,7 @@
         "en": "On the ice of the Arctic"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור דובים",
         "en": "cub"
       },
       "size": {
@@ -4434,18 +4434,18 @@
         ],
         "sound": {
           "path": "audio/sounds/polar_bear.ogg",
-          "sha256": "6ae23065b783786c58c1107022d17f4e1926bb020cb1fe4c250b744b9b19c34c",
+          "sha256": "762fdad3da78870d20fac1a3223b0fed2ab0ba8ed4c0d5ef6763516b6da4b890",
           "bytes": 30543
         },
         "nameHe": {
           "path": "audio/names/he/polar_bear.ogg",
-          "sha256": "7710278f22fed763bedb88cdd828f1485cf5431c02f677e16bdbc7517571ee99",
+          "sha256": "76bccd6f444cc268219cfd257810cd806bbb876d82d235a5409970db327bc0c2",
           "bytes": 7226
         },
         "nameEn": {
           "path": "audio/names/en/polar_bear.ogg",
-          "sha256": "c5a337b624736f7730e076ee3b7bbec53dda45992831c4302a8da3561ad1b703",
-          "bytes": 8627
+          "sha256": "c7e7eab3edefdf6694aac2050511de9ac98cbd2b8539a7ec589d4fba1c88cc46",
+          "bytes": 8995
         }
       }
     },
@@ -4483,7 +4483,7 @@
         "en": "In forests, mountains and cold steppes"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור זאבים",
         "en": "pup"
       },
       "size": {
@@ -4534,18 +4534,18 @@
         ],
         "sound": {
           "path": "audio/sounds/wolf.ogg",
-          "sha256": "1ccd54fb933b70dca003f79fa80b2f87e20404abc1c320cad00e115b23c8df1f",
+          "sha256": "420e140d7957114496aee58a0998ca1792806aadb7b4d42bddaf027f2cc234c8",
           "bytes": 21311
         },
         "nameHe": {
           "path": "audio/names/he/wolf.ogg",
-          "sha256": "2bd688dbcc1667a4c89dded8c409cd4d17fb887503ae4059e23dedfa10c1e0fc",
+          "sha256": "ab4806a96379f7db5ff9d4f81fe5b58fee7b3e2fc4bcf27abd3b77d320e793c9",
           "bytes": 5014
         },
         "nameEn": {
           "path": "audio/names/en/wolf.ogg",
-          "sha256": "4d1dc982a761bf324a7b43deabb2724ddf712b6eb1ba7a1fdac88aca1621aa4b",
-          "bytes": 5134
+          "sha256": "eca461b183f1c1cd0232da0ecf159af29ea3670fbbb15fd25b55b3223bba55d9",
+          "bytes": 5168
         }
       }
     },
@@ -4583,7 +4583,7 @@
         "en": "In fields, forests, deserts and sometimes at the edge of town"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור שועלים",
         "en": "kit"
       },
       "size": {
@@ -4634,18 +4634,18 @@
         ],
         "sound": {
           "path": "audio/sounds/fox.ogg",
-          "sha256": "59dafb8cb71c85e883186e9cad06d63d7a1135e69538f7a331005d4681bfd6ea",
+          "sha256": "62709624345e616bec177534d93d6325fd36270ccf404de124991f75e16d67c3",
           "bytes": 30219
         },
         "nameHe": {
           "path": "audio/names/he/fox.ogg",
-          "sha256": "789d3b7798207d6540c7e508bd99cf2baa2155bcef36c472f5ef8c9a40371e76",
+          "sha256": "56ca4967552fc324b39cee31e7952c292de0f08c682e398827db75db29e0c805",
           "bytes": 5376
         },
         "nameEn": {
           "path": "audio/names/en/fox.ogg",
-          "sha256": "694e85218022265039b1b82c8edc387f83c56015d367cfc33cdde1ad9850850a",
-          "bytes": 7071
+          "sha256": "dbbc8d0ed236bce99e07d8b8264445c61aa9e7c5871470e26b88f9d7e09e59f2",
+          "bytes": 7015
         }
       }
     },
@@ -4728,18 +4728,18 @@
         ],
         "sound": {
           "path": "audio/sounds/deer.ogg",
-          "sha256": "f99930c10ef1c0f8075a7386f5619d4581a8b170b429a559b91293675a6d01e6",
+          "sha256": "29e3b0c57d084cf9a8ac051802ca61d00d2d3b1dab14ec6fccf978bf8e3094fd",
           "bytes": 8308
         },
         "nameHe": {
           "path": "audio/names/he/deer.ogg",
-          "sha256": "bd5871168b583a8196f5fdc11b9e6ba8db2d37fbd9fea092811adf2aafe3645c",
+          "sha256": "c282962f80efbc8254b06f18257721d09e683eadb2ec58d908321606b90a58e0",
           "bytes": 6098
         },
         "nameEn": {
           "path": "audio/names/en/deer.ogg",
-          "sha256": "9b7e4b0e29f5204857131afa4cd4f0694c1954474d16c58e6e403967f3c9dc5a",
-          "bytes": 6184
+          "sha256": "56f49f929347a5ab26af55e6db49d5dd4125ccdf5bc2f65343f001604713af36",
+          "bytes": 6536
         }
       }
     },
@@ -4822,18 +4822,18 @@
         ],
         "sound": {
           "path": "audio/sounds/moose.ogg",
-          "sha256": "ad282b16eb7f65d09369a1ebb2a7eb8f7c61f843a67eaac3b63bfd81ee75da8e",
+          "sha256": "761f0cd81588ee7071476bb4e7607a37c335bdfc870288156fb5f05c21e09ae2",
           "bytes": 28003
         },
         "nameHe": {
           "path": "audio/names/he/moose.ogg",
-          "sha256": "801223202a0a76da8ef526927ee3e5e98133ceac5361cd1313a41bf5ce65cd42",
+          "sha256": "08d7fec574949eb49d1cf0fac35babe6946b0d1636c35e25dc97005fd171a69c",
           "bytes": 5226
         },
         "nameEn": {
           "path": "audio/names/en/moose.ogg",
-          "sha256": "77c5c9bcc124eac26fa9e6ba2ba2328309f3a5e2d5657ae1dd65e7421b06a752",
-          "bytes": 6574
+          "sha256": "f9be98c73291398b409929911ee33cab9019b67efa5fdcc4544c9b7276df5185",
+          "bytes": 6547
         }
       }
     },
@@ -4871,7 +4871,7 @@
         "en": "In gardens, fields and hedgerows"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור קיפודים",
         "en": "hoglet"
       },
       "size": {
@@ -4923,18 +4923,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hedgehog.ogg",
-          "sha256": "20661c81efa71772f9cf6acd8c3862528431331ed9845ed4667e5d4be1ed8966",
+          "sha256": "c84ed99375dff0fa933eb20d423a907107f72e7155cb0dbf395984d792071934",
           "bytes": 32536
         },
         "nameHe": {
           "path": "audio/names/he/hedgehog.ogg",
-          "sha256": "760e3cc625abab873693ebe0b30c38a4df86cfa061dffd5637e26bd662aeafb9",
+          "sha256": "5a7586c619e44c805685a82496b509b815a08c56adb859e9601f39f215844e2d",
           "bytes": 6966
         },
         "nameEn": {
           "path": "audio/names/en/hedgehog.ogg",
-          "sha256": "42e02f2c0c967e83a8d89a2e94e042a2cb5cdc71bf73689cb97e5af09477e392",
-          "bytes": 6981
+          "sha256": "48a639d4c227180a7df95c95f672d0f7afb0c00fb1e5c2abf913b54fa895b59f",
+          "bytes": 7110
         }
       }
     },
@@ -4972,7 +4972,7 @@
         "en": "In forests, parks and gardens"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור סנאים",
         "en": "kit"
       },
       "size": {
@@ -5017,18 +5017,18 @@
         ],
         "sound": {
           "path": "audio/sounds/squirrel.ogg",
-          "sha256": "a1fae247c30ac571f5bd41cbfb22649376af9bdfe0d2a428c82760e54503b8f4",
+          "sha256": "9bb5743d1b64bd4e7bc444209659adeacfcda7222d998fdfb98973193efc3655",
           "bytes": 31608
         },
         "nameHe": {
           "path": "audio/names/he/squirrel.ogg",
-          "sha256": "f1e5042c92ebe9d02ae1adf556b5b63c1b913c39fc93105370c2d4c829ed6c4c",
+          "sha256": "9a402c46298ba4ecdb595839e4e1e4cb54c4b5e3d71a7b4087fedbfb81c2d6b7",
           "bytes": 6516
         },
         "nameEn": {
           "path": "audio/names/en/squirrel.ogg",
-          "sha256": "2a944d29c56fc8bbbc11ddc8ed37176b8a9d350e9f9f457408bae9003da237f4",
-          "bytes": 7632
+          "sha256": "2dd03e4d24039e5327028005e5278a58bb8346b23592b69f64be501d592fad72",
+          "bytes": 7742
         }
       }
     },
@@ -5066,7 +5066,7 @@
         "en": "In the forests and fields of Europe and Asia"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור גיריות",
         "en": "cub"
       },
       "size": {
@@ -5115,18 +5115,18 @@
         ],
         "sound": {
           "path": "audio/sounds/badger.ogg",
-          "sha256": "7ee3adbb9a6b6da665d42955095537b749793627e0d04ee6ea36e865e23ab56a",
+          "sha256": "b37e36fbf7a1e386cbe866a0bdeffbdea4b9fe163e62e9ddf023522d97b9f0d1",
           "bytes": 30422
         },
         "nameHe": {
           "path": "audio/names/he/badger.ogg",
-          "sha256": "e5dca405abfb6cdca168cebd9f22b7fbba6eee4e53f81c9e851dd49b418b1f2c",
+          "sha256": "4280897119a906d9a627f0797ab632e654296ec56345766d6af80f3a5b66d570",
           "bytes": 7315
         },
         "nameEn": {
           "path": "audio/names/en/badger.ogg",
-          "sha256": "6b8029300d50723f315d62e215f6492c68df67077af0152e1ae6778f453abc67",
-          "bytes": 6895
+          "sha256": "95d9975fa63aad7bfae15d8b4db6bfd4661d3edcb7a210a27542f662105345cb",
+          "bytes": 6990
         }
       }
     },
@@ -5164,7 +5164,7 @@
         "en": "In the rivers and lakes of Europe and North America"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור בונים",
         "en": "kit"
       },
       "size": {
@@ -5209,13 +5209,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/beaver.ogg",
-          "sha256": "e1b61156622afc70979ca151f97e707fe1a33091ca3697f5ab3b686d433ff456",
+          "sha256": "9713c12160945847c45dfebfecfbd8074ee6b444e0417d0a4c0d7b2fa9d36d11",
           "bytes": 5581
         },
         "nameEn": {
           "path": "audio/names/en/beaver.ogg",
-          "sha256": "3eb579f32a393da4f78bcc6ce268654b6207eee39dddc674e870a82d2bbbdf1b",
-          "bytes": 6270
+          "sha256": "6656691acebf3e15d35065ff92531efdd53a643c305d7c6f6fa1a6b175918ba3",
+          "bytes": 6309
         }
       }
     },
@@ -5253,7 +5253,7 @@
         "en": "In rivers, streams and along the coast"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור לוטרות",
         "en": "pup"
       },
       "size": {
@@ -5303,18 +5303,18 @@
         ],
         "sound": {
           "path": "audio/sounds/otter.ogg",
-          "sha256": "627382e513a56221f0d8678f2d5e12c3e95f1289fe585f69a1387fe0c4c1af1f",
+          "sha256": "3c403d3a5764bf583d001d5f1ed0f08c78b841a5ef0c2da2ce7a1782bf084e72",
           "bytes": 29325
         },
         "nameHe": {
           "path": "audio/names/he/otter.ogg",
-          "sha256": "f7981cb8bbfa6150667ccfe5c775bad3414d190518053efea8f55005faf7b051",
+          "sha256": "62b6abdc7deeefd3094c1d1abb2b4e3c90327c8fa036076cbc4eaf599a03aff7",
           "bytes": 5975
         },
         "nameEn": {
           "path": "audio/names/en/otter.ogg",
-          "sha256": "9cd6b7a39d43e8ed9a5d1c0e3825996c4ff4f0dfd9c8b37bd2f8d627731e27c5",
-          "bytes": 5502
+          "sha256": "e88c44bb2d518cfda65ab531bbd7a8f6e65e9f9c5b4c845d27789ad8ba8cc467",
+          "bytes": 5615
         }
       }
     },
@@ -5352,7 +5352,7 @@
         "en": "In forests, orchards and old ruins"
       },
       "babyName": {
-        "he": "אפרוח",
+        "he": "גוזל",
         "en": "owlet"
       },
       "size": {
@@ -5403,18 +5403,18 @@
         ],
         "sound": {
           "path": "audio/sounds/owl.ogg",
-          "sha256": "0a74183e62e107a0ba37844eedbb40fca062f3dfdaafe6eca0625391ccedee4a",
+          "sha256": "7d22c307cb3a19ef0f463b68737c16b0bb5f3fdc44418148941c6679b6197228",
           "bytes": 28347
         },
         "nameHe": {
           "path": "audio/names/he/owl.ogg",
-          "sha256": "61fa89ed2d22d4884b137cc4e6948c98623a6b3906f5fbd874fa70ab46e8f1eb",
+          "sha256": "e0ceab1a1321782fd3f2e98215a59a32cd6eb1aa16dec9b940fb4e45ad64c9af",
           "bytes": 6793
         },
         "nameEn": {
           "path": "audio/names/en/owl.ogg",
-          "sha256": "6809633d418f19c3fe8b17fb3eed6e8f982f06fe7f30ca743e7ce7e89a72fb02",
-          "bytes": 5931
+          "sha256": "be5b01ab84f5b415bdb6dbe3b58b7c43b1fb724332896302ad9ecf1f89d55564",
+          "bytes": 6168
         }
       }
     },
@@ -5452,7 +5452,7 @@
         "en": "On high mountains and cliffs"
       },
       "babyName": {
-        "he": "אפרוח",
+        "he": "גוזל",
         "en": "eaglet"
       },
       "size": {
@@ -5503,18 +5503,18 @@
         ],
         "sound": {
           "path": "audio/sounds/eagle.ogg",
-          "sha256": "c165eaedb56f4028210e7d22d18998f954e84381982c2a2cd519716571a0775b",
+          "sha256": "11347f06d93d3e6aaddbd017cb924b2d8d88438a7820180bc16aa55cdadf4ef2",
           "bytes": 27962
         },
         "nameHe": {
           "path": "audio/names/he/eagle.ogg",
-          "sha256": "0be7272b355ae9f994da48044f686dd7830c61b7c4de8a2bf702011d97ec6bcf",
+          "sha256": "4655327534263d8ba7b6e78864f45d54c11b2938fec0db980b4e8a545ca80590",
           "bytes": 5433
         },
         "nameEn": {
           "path": "audio/names/en/eagle.ogg",
-          "sha256": "cbb49eaaf61b7dd7da300ef04e781e5bd6bcf5b32836ab57998925d89a532eb9",
-          "bytes": 6462
+          "sha256": "2f1ada6adbcc0c670ccb7b749c2e344d5c1a49afb1c782cfdb671cc8d4d0adb2",
+          "bytes": 6445
         }
       }
     },
@@ -5552,7 +5552,7 @@
         "en": "In forests, near streams and on the edge of towns"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור דביבונים",
         "en": "kit"
       },
       "size": {
@@ -5603,18 +5603,18 @@
         ],
         "sound": {
           "path": "audio/sounds/raccoon.ogg",
-          "sha256": "db9f6435eee489ddfcd6566b907b482146e63e2b3c9d043374aa47ef8596f40f",
+          "sha256": "19d78c5e83a3757f763013a7a62046002bbe6e3ae3f5da3be6c41cdc9e4ebf90",
           "bytes": 28870
         },
         "nameHe": {
           "path": "audio/names/he/raccoon.ogg",
-          "sha256": "b545d8d04f6a0b3b5621637b28dcbe4e4749ed463c3a01147d563f59eccc3ef7",
+          "sha256": "3b269b6ef2b423ab4ef559ba41d98a069cd4288f05e3d270d48ffafc5ad6a202",
           "bytes": 8428
         },
         "nameEn": {
           "path": "audio/names/en/raccoon.ogg",
-          "sha256": "3abfe79d15d7d49550171b16156a18fc0451600a4661f3786ee861794a0dbb80",
-          "bytes": 7774
+          "sha256": "eb33d5158fcdabeb623984fe77c8ffff039650bd188510970dbbf5e449e2711d",
+          "bytes": 7423
         }
       }
     },
@@ -5697,18 +5697,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bison.ogg",
-          "sha256": "f4123942a95dd735bceeda33fdd4081f1c944882583b099d232697bda65bb410",
+          "sha256": "a64c8caf3e025395539b2e55e757e1c7b9b3778287bf8ab34676422b14fbb1e9",
           "bytes": 21738
         },
         "nameHe": {
           "path": "audio/names/he/bison.ogg",
-          "sha256": "4ded34219cd9e5982c1d5e7c84afbe0f1c20d9cb80cf6e9a4d7d3fe0f04156cc",
+          "sha256": "603428fffd1b3de826204b7479ce08e4c340222134b3268c5e1b843d5cab22e9",
           "bytes": 8456
         },
         "nameEn": {
           "path": "audio/names/en/bison.ogg",
-          "sha256": "7ea84515e9340db13594d33b03596157d5babbdef63a4888e32b04aaa8c5efc0",
-          "bytes": 6663
+          "sha256": "a3bb5a0af970f271c6539854958d1909dfd83db90e0dd3ba7d59c5e997cf8b65",
+          "bytes": 6870
         }
       }
     },
@@ -5746,7 +5746,7 @@
         "en": "In the forests and fields of America"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור בואשים",
         "en": "kit"
       },
       "size": {
@@ -5797,13 +5797,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/skunk.ogg",
-          "sha256": "05db466dc0d74e43a7e320a329c0f9a362dae987be176cdcbaee9c3b9424b03a",
+          "sha256": "84847ff69c14f8c1cfcdf10fc0cd1edad11830a0abc6afa7df21ca3df11249b0",
           "bytes": 6058
         },
         "nameEn": {
           "path": "audio/names/en/skunk.ogg",
-          "sha256": "0c9ee131f21f85485ee5e1a9d65f9e0df121e8f1450b403f494d5420ed2e5634",
-          "bytes": 7328
+          "sha256": "ddcedbc8541ebd40eb6d2ec9f5cdbe2ddd94f4f15cf5b48af89572c40a94399e",
+          "bytes": 7309
         }
       }
     },
@@ -5841,7 +5841,7 @@
         "en": "On the plains and scrublands of Australia"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור קנגורו",
         "en": "joey"
       },
       "size": {
@@ -5886,13 +5886,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/kangaroo.ogg",
-          "sha256": "236d66019906d5cf0275e892944b05239a9f6c08124f9be416aa94c1d9d8a8d7",
+          "sha256": "55d1bbdf0cd4b43cd319eea1bdbda54e81475e2dc1b20aa084f7a4c720e25db0",
           "bytes": 6390
         },
         "nameEn": {
           "path": "audio/names/en/kangaroo.ogg",
-          "sha256": "efe910a018b65e911f56600eea26f09a025df0b3225dc3e08ba7457e17d3fa43",
-          "bytes": 7719
+          "sha256": "547d9f1c9d3a18dd86d5e590940f3cf53e0d10a53f5f922baad4110869cb6f1d",
+          "bytes": 7549
         }
       }
     },
@@ -5930,7 +5930,7 @@
         "en": "In the eucalyptus forests of Australia"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור קואלות",
         "en": "joey"
       },
       "size": {
@@ -5975,13 +5975,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/koala.ogg",
-          "sha256": "16f4103befc1abfde3216987635dc466ff6013ed9e6bdcec2203963f9b664e32",
+          "sha256": "96d74fee40926f0de2eaa0ef5a781441a812b153f220eeb0e5d957a213ce1062",
           "bytes": 4939
         },
         "nameEn": {
           "path": "audio/names/en/koala.ogg",
-          "sha256": "3362cb7494b8fa97c2084bcd49789d05a0b484414f6b5ba04271d4deb1b1bb7a",
-          "bytes": 7381
+          "sha256": "dede14596a67b2c6c9f09cdfea1d6a8880db7501c37d10e1c9d839e77d27bca6",
+          "bytes": 7700
         }
       }
     },
@@ -6019,7 +6019,7 @@
         "en": "In the rainforests of South America"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור עצלנים",
         "en": "pup"
       },
       "size": {
@@ -6064,13 +6064,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/sloth.ogg",
-          "sha256": "13c3b0384580406d317ffc7f52b0af69cf6f3a32e24fe1f8dbdf6e42b7871b37",
+          "sha256": "4f51be636cd0102c0d6bc3f4255974a58198a9b12e5d03c86307140026d0ce95",
           "bytes": 5683
         },
         "nameEn": {
           "path": "audio/names/en/sloth.ogg",
-          "sha256": "f2c45ef14b798f0af0f6c87a913733ec7387ac0221b9fa3384f5d4f315a0150d",
-          "bytes": 6772
+          "sha256": "68a4dadf0d7b0af06545a223a9a3ef8f41bde979fe78f54afdac79ec33d878d3",
+          "bytes": 6746
         }
       }
     },
@@ -6108,7 +6108,7 @@
         "en": "In the Andes mountains of South America"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור למות",
         "en": "cria"
       },
       "size": {
@@ -6153,18 +6153,18 @@
         ],
         "sound": {
           "path": "audio/sounds/llama.ogg",
-          "sha256": "1102e237e6b74ad804999806a67e62949fac17573da490db5a42f3b3a8c6af7b",
+          "sha256": "d04355350f033b4960a8d296ece9a5de2f0549b1ea5d10b5daf741bead1c24f2",
           "bytes": 30591
         },
         "nameHe": {
           "path": "audio/names/he/llama.ogg",
-          "sha256": "efd73abd3de71b91e9849333599f2d6e031edb3190eea9765a8d9222680a4e3c",
+          "sha256": "266f998354afe2c45f5e72e373a7d00a5bc7bcd14f77971315c141d1943fefe5",
           "bytes": 6974
         },
         "nameEn": {
           "path": "audio/names/en/llama.ogg",
-          "sha256": "136fa981c924b28397978f3f2799de0703ca7d73e470803a1053c74c5cee1e3c",
-          "bytes": 6191
+          "sha256": "711631d325c1e543b2fd4b910ba80152be2236af069b7f1d4a96648f0ebeb31e",
+          "bytes": 6336
         }
       }
     },
@@ -6202,7 +6202,7 @@
         "en": "On the high plateaus of Peru and Bolivia"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור אלפקות",
         "en": "cria"
       },
       "size": {
@@ -6247,18 +6247,18 @@
         ],
         "sound": {
           "path": "audio/sounds/alpaca.ogg",
-          "sha256": "dd6f87af3ca7ae7dee49e901af4b3cce00f26a28c4d7581c36b043bb6803a28d",
+          "sha256": "886af40242fc6df0497cf0327f42b839ba7ce2b5953762dc6dd8f3c64c7f46df",
           "bytes": 7025
         },
         "nameHe": {
           "path": "audio/names/he/alpaca.ogg",
-          "sha256": "ae8d08225da955042814c534ab5bbd842ad78228f005a756cece8e6d7d2bd3fd",
+          "sha256": "a257907094d750cb61d117fc5a318ed5adf63f56ac5e4d84c37bdb68f8f3f292",
           "bytes": 5359
         },
         "nameEn": {
           "path": "audio/names/en/alpaca.ogg",
-          "sha256": "7ddf8cf0545fcd3746e5ee76d5098a0a705189ddc7bd3185f19b211d58d728c8",
-          "bytes": 8378
+          "sha256": "752a579d3f98e3eae3f0b560df167507698e298d9c1eb8b3f3175d08736ad441",
+          "bytes": 8437
         }
       }
     },
@@ -6296,7 +6296,7 @@
         "en": "In the rainforests of South America"
       },
       "babyName": {
-        "he": "אפרוח",
+        "he": "גוזל",
         "en": "chick"
       },
       "size": {
@@ -6341,18 +6341,18 @@
         ],
         "sound": {
           "path": "audio/sounds/toucan.ogg",
-          "sha256": "cf23c6260c3913fdcf5c9753a93bb1c82e26016b0e8471432e8fdadeb7be976c",
+          "sha256": "3e579e392b0a04b16086777c41a57280f01b3d0cb4e94ee59d90ffdcb0d929a9",
           "bytes": 31266
         },
         "nameHe": {
           "path": "audio/names/he/toucan.ogg",
-          "sha256": "f1658392377bf5600ec16876830a85079dd0facc7c4339f3634d60a48f8cd2d2",
+          "sha256": "13cbd3f279452840ea63107b239cc218f85a6d02ac215e725f7b30679d0fa002",
           "bytes": 5508
         },
         "nameEn": {
           "path": "audio/names/en/toucan.ogg",
-          "sha256": "3a77ce55f030047855d28437a1eb02b399c65ffb3cab7d0334cc70641db469db",
-          "bytes": 7248
+          "sha256": "869dde91311eb1e09e461636a804ce01c422c56b5b1d602398b27917ff5cdb17",
+          "bytes": 7021
         }
       }
     },
@@ -6390,7 +6390,7 @@
         "en": "In tropical forests of South America, Africa and Australia"
       },
       "babyName": {
-        "he": "אפרוח",
+        "he": "גוזל",
         "en": "chick"
       },
       "size": {
@@ -6435,18 +6435,18 @@
         ],
         "sound": {
           "path": "audio/sounds/parrot.ogg",
-          "sha256": "a30e12b3226b7e5a7c16ec1c959302a56395ea185ce08b09ee69e9d305d4306f",
+          "sha256": "2840d7984fd2a09084b308ab4e07f3716ee92b851c7cdb4d028a73e13e6d7ab7",
           "bytes": 30597
         },
         "nameHe": {
           "path": "audio/names/he/parrot.ogg",
-          "sha256": "99a7868bc9186528f219193a3c6c6dbe6eae116a6a37c89fe2eedd9bfc09cfb6",
+          "sha256": "1e743567d0177fad90d38c0f0a9c2c34e4d96537ea60eaad29316a6719273ba5",
           "bytes": 7214
         },
         "nameEn": {
           "path": "audio/names/en/parrot.ogg",
-          "sha256": "50c463fe2c64a962d5665f623bb672b58b35f4353feee063f680636c9e951b0f",
-          "bytes": 7244
+          "sha256": "2615926556a29585290a51d1114c6840886dd65d283c194ad59cb4cce1137b85",
+          "bytes": 7034
         }
       }
     },
@@ -6484,7 +6484,7 @@
         "en": "In the rainforests and wetlands of South America"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור יגוארים",
         "en": "cub"
       },
       "size": {
@@ -6534,18 +6534,18 @@
         ],
         "sound": {
           "path": "audio/sounds/jaguar.ogg",
-          "sha256": "c7ff13e8a5c4f4015be862acb4f3115fe7e22e8fb816b0cf700f3d9943405624",
+          "sha256": "5297d2e8c55aafac8490208aaf0526d3dc4cf1fb1951274c51434ce119598108",
           "bytes": 17682
         },
         "nameHe": {
           "path": "audio/names/he/jaguar.ogg",
-          "sha256": "d6316a334d6d0ac0db057cee7be3661729b6417865df0ddef445de63bb34d6a8",
+          "sha256": "c17aa9deb2f637ea6b670f1fe59b0da6f1a02b181c248572e335a7ab396ca8ee",
           "bytes": 6403
         },
         "nameEn": {
           "path": "audio/names/en/jaguar.ogg",
-          "sha256": "4532c33b6182f3be8f6ae7808129b473d6abe7a2b2d3733b7967f6fe40834c98",
-          "bytes": 7361
+          "sha256": "96209ec2df4025c8a1aa9ead736cef9a17b0c4d478fc3bd39f1ca705da16ef8d",
+          "bytes": 7157
         }
       }
     },
@@ -6632,18 +6632,18 @@
         ],
         "sound": {
           "path": "audio/sounds/penguin.ogg",
-          "sha256": "b667b294f8fb0dcb04053a85dc2907d5f60ab2b17db4dc5ecd3ba9a7947760c5",
+          "sha256": "b1c3ec8208bc5e14403a06f58a309d0d6deefb2b2514fa6c070ec9fbe3bfc2b6",
           "bytes": 29992
         },
         "nameHe": {
           "path": "audio/names/he/penguin.ogg",
-          "sha256": "30fc6cbc9ae32848e834b02299b238624dc5e5f7e0a5a7d8edd6606eadf714e1",
+          "sha256": "15bc435de4420511de4752f005810181d019d2760a6546475d43a773597b527a",
           "bytes": 8199
         },
         "nameEn": {
           "path": "audio/names/en/penguin.ogg",
-          "sha256": "50b90a327a648b01bdffb5680ffea9bd837e71e8825fc898f692bfb01ae51b18",
-          "bytes": 7028
+          "sha256": "e0dc32b41ee23996a9aa3d641e3b4aa44279febaef693a8af45e0137b0056f3c",
+          "bytes": 7259
         }
       }
     },
@@ -6681,7 +6681,7 @@
         "en": "In the forests of North America"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור צ'יפמאנקים",
         "en": "pup"
       },
       "size": {
@@ -6726,18 +6726,18 @@
         ],
         "sound": {
           "path": "audio/sounds/chipmunk.ogg",
-          "sha256": "6b3a7b2b0cb46af0d104eac0835daa6b02f2fc730ec28db766c01ad0fdd557d1",
+          "sha256": "022ccb6cddcd5c74f11419a6b2af1029b9898da57eaeecab122a23613f155fe8",
           "bytes": 22695
         },
         "nameHe": {
           "path": "audio/names/he/chipmunk.ogg",
-          "sha256": "2887a0696f4cc04aa40a207ce197d35ee7a86ae20857fcb8dd6673414e9ed6f3",
+          "sha256": "7ec707bfa606178cb54dc9814146bc06ab02599d7d252328d6cc55402714428e",
           "bytes": 8336
         },
         "nameEn": {
           "path": "audio/names/en/chipmunk.ogg",
-          "sha256": "5d8eeb6fb631405a4c6464d46f75463754b27619f43f02e2958d7218b94b72af",
-          "bytes": 7465
+          "sha256": "e364cf38b083d8fe44ae8587e16e4843f89386ba8604483a45a4061edfacc5a1",
+          "bytes": 7175
         }
       }
     },
@@ -6775,7 +6775,7 @@
         "en": "In seas and oceans, including the Mediterranean"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור דולפינים",
         "en": "calf"
       },
       "size": {
@@ -6825,18 +6825,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dolphin.ogg",
-          "sha256": "332b16fb980b2c24b968d5dc0e3bfaafcbca59df4df2f3322d62a6716dae9f38",
+          "sha256": "9e33d9a75c8ff4aa687e54b3e9bfffab2c3490504416e634f3cf2041496320af",
           "bytes": 32704
         },
         "nameHe": {
           "path": "audio/names/he/dolphin.ogg",
-          "sha256": "3b265cfafe372621edad7d7e2fedd4654a3e659ab6a4fbaf8ac6faaeb708a435",
+          "sha256": "a71027a34e70b3bc7cc6aadcef611b2fbcc04093e80d69f162da449da1d60ad0",
           "bytes": 7483
         },
         "nameEn": {
           "path": "audio/names/en/dolphin.ogg",
-          "sha256": "363ff8f331a07d668731e954ef0bcf6ff663c2c9f78dcc1f9a3753b17f9d09ce",
-          "bytes": 6946
+          "sha256": "856c790b7b0007a49de651508d9a88851db8f0abc0daa2d705781f836e7caa6c",
+          "bytes": 6815
         }
       }
     },
@@ -6874,7 +6874,7 @@
         "en": "In every ocean"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור לווייתנים",
         "en": "calf"
       },
       "size": {
@@ -6922,18 +6922,18 @@
         ],
         "sound": {
           "path": "audio/sounds/whale.ogg",
-          "sha256": "b1f32d61ac21bb5e3c56232d2bffe6f12895da64e091df56652fc14f42253061",
+          "sha256": "647a89f665864b88c6b604be86d1e90f751c49398a1de0577ebe7226c2e64239",
           "bytes": 28235
         },
         "nameHe": {
           "path": "audio/names/he/whale.ogg",
-          "sha256": "a5ebc86f3eceaffb6c9dd083f86a198ecfc4b55a43e1e922db1d831ddae79bb9",
+          "sha256": "614646e46e55c5259a8670ec20ea30ba68f9fc036f0758c9b80aa79ecc78cdd7",
           "bytes": 6399
         },
         "nameEn": {
           "path": "audio/names/en/whale.ogg",
-          "sha256": "2c897f76fb5c1afa6751cd6a27688014aaa86db51d1d4fb366456cdac7ea8f68",
-          "bytes": 5683
+          "sha256": "0626d563fbb3dbbbc59db7fa4a319fc33698a4c51869d52b9fcab07cba40a0a2",
+          "bytes": 5626
         }
       }
     },
@@ -6971,7 +6971,7 @@
         "en": "In seas and oceans all over the world"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור כרישים",
         "en": "pup"
       },
       "size": {
@@ -7022,13 +7022,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/shark.ogg",
-          "sha256": "b7637d3601f72a6b6ba7483acedcc5d4460cc5d096d552df0a7788021b650d93",
+          "sha256": "aabd2f3964aa5b3fc3679dc5a06ea39a4b1e7ea8b1890989cd51169b6ea711da",
           "bytes": 7603
         },
         "nameEn": {
           "path": "audio/names/en/shark.ogg",
-          "sha256": "0162a31e1f604a034dd2f45fd3863be14f1409c3c520e1cc235c0799115efe9b",
-          "bytes": 7290
+          "sha256": "c9c70000c6ce6924f2f47914dcc4a58e20d897dc47b9c3fc6c3eef1a604e5dc7",
+          "bytes": 7430
         }
       }
     },
@@ -7066,7 +7066,7 @@
         "en": "In seas, rivers, lakes and aquariums"
       },
       "babyName": {
-        "he": "גור",
+        "he": "דגיג",
         "en": "fry"
       },
       "size": {
@@ -7111,13 +7111,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/fish.ogg",
-          "sha256": "517a5e5d625d189d4e52e45a9152ff1a9ef678650bdc42ecc4d9ad5e4333487d",
+          "sha256": "279d56e15ac9227b4c28091ccd704788cb1df8fd171967b4a7be5001334a0fd4",
           "bytes": 4332
         },
         "nameEn": {
           "path": "audio/names/en/fish.ogg",
-          "sha256": "55661cc50a6e95b9b400e8973a5088de6da4d8ea17822276a1f59ea3bc5b206f",
-          "bytes": 4748
+          "sha256": "934a6824d5aa4dcd6c110bd1d8117af9ed7583cca133f3b448868191a30c8d68",
+          "bytes": 4805
         }
       }
     },
@@ -7155,7 +7155,7 @@
         "en": "On the sea floor, among rocks and caves"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור תמנונים",
         "en": "hatchling"
       },
       "size": {
@@ -7204,13 +7204,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/octopus.ogg",
-          "sha256": "47caa8a79e117d5782917bef9a3fab301b9bc47055c792d6f8e6352b6187dc84",
+          "sha256": "33fc39012bbc3514091fc13a6656edaa59d02c35dea3df756546a7b6625f6ff1",
           "bytes": 6736
         },
         "nameEn": {
           "path": "audio/names/en/octopus.ogg",
-          "sha256": "5bf37c55998f0b5ee284fb641381f1c4ded53c997bab0cf7496648c3f6c3e351",
-          "bytes": 8770
+          "sha256": "15fa8636e388773e140c7ea2bc1e600ffb76407566abc4fd62eb086657d4bfc4",
+          "bytes": 8576
         }
       }
     },
@@ -7248,7 +7248,7 @@
         "en": "On the beach, among rocks and on the sea floor"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור סרטנים",
         "en": "larva"
       },
       "size": {
@@ -7297,13 +7297,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/crab.ogg",
-          "sha256": "e4bf2870a92f9e6d00769ce0dd97b14d0aac6690165adcef0126cfd3570e41b0",
+          "sha256": "113920de46c7d7340516dfe3c32818e0b0f0e23251d057766f6777f37a1695dc",
           "bytes": 6060
         },
         "nameEn": {
           "path": "audio/names/en/crab.ogg",
-          "sha256": "59e11471c56bd609c055d0f617c6985fc91184bd34ccaad76ff980baf9a0cff2",
-          "bytes": 6186
+          "sha256": "e38c9c859b6c970c1fb06e42b84763af16cb5ee6ab1a081bddeadfe7e5e5400d",
+          "bytes": 6529
         }
       }
     },
@@ -7341,7 +7341,7 @@
         "en": "In the sea and on cold, rocky shores"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור כלבי ים",
         "en": "pup"
       },
       "size": {
@@ -7391,18 +7391,18 @@
         ],
         "sound": {
           "path": "audio/sounds/seal.ogg",
-          "sha256": "0db7b6464ddfc49ccc39c2546b0caa4d987898b3a6e80def3b7b4af1c4d3c6f4",
+          "sha256": "bebae72e2892288fd7191863a75d90928e3450607d6273a37471e7f0292c6ef2",
           "bytes": 30709
         },
         "nameHe": {
           "path": "audio/names/he/seal.ogg",
-          "sha256": "c0af035150b113dc13c5cb84b2250cb5bd4cb4b5b39ada71e2eda3e41ca99a8c",
+          "sha256": "9ba9f4c69af5a3730e3d9c3fd9bef985a275238df7408cfb02c549677e8ed12c",
           "bytes": 6845
         },
         "nameEn": {
           "path": "audio/names/en/seal.ogg",
-          "sha256": "e822dc22741bf70af2fb6b81cbbff1797342c13db4844df8402b6ac148946433",
-          "bytes": 5868
+          "sha256": "7e63335b0aec91659114ce2106774740c46499d12877e2d407613b6296a4599e",
+          "bytes": 6370
         }
       }
     },
@@ -7440,7 +7440,7 @@
         "en": "In the sea, in rivers, in fields and in the desert"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור צבים",
         "en": "hatchling"
       },
       "size": {
@@ -7490,13 +7490,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/turtle.ogg",
-          "sha256": "e121f07f7bfd0472a3ac3237996dc83642f68cddb48b764078122f92529c7622",
+          "sha256": "f2c859c8b1494913eefbaa1c49dbc2efb63919d6207a7aff28d75efcfa7551d4",
           "bytes": 5126
         },
         "nameEn": {
           "path": "audio/names/en/turtle.ogg",
-          "sha256": "35b1d078409c7fe887bc977f38a832961401b00b990ae4ac7d570a80ecedbf4c",
-          "bytes": 6810
+          "sha256": "629d823c376ec859aec661fe3a3531548ab0f67a245723e0a2c7a860a911f85d",
+          "bytes": 6662
         }
       }
     },
@@ -7534,7 +7534,7 @@
         "en": "In the sea, near the shore and in deep water"
       },
       "babyName": {
-        "he": "גור",
+        "he": "פוליפ",
         "en": "polyp"
       },
       "size": {
@@ -7582,13 +7582,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/jellyfish.ogg",
-          "sha256": "01d4f81f19171ead80e341af3c0ff47129105f1a2a64dec69a25b4e64a97bde8",
+          "sha256": "656a4cb3cd36f7cc2dfd90166e7853ba4ac3ac0251b2ab848ffd1a6e5d010ba2",
           "bytes": 5471
         },
         "nameEn": {
           "path": "audio/names/en/jellyfish.ogg",
-          "sha256": "7b2b65a0a9dda461e3bd95b4a9d82305232abf23a1396eea6e63f35defc313c6",
-          "bytes": 8147
+          "sha256": "0963be115f07da2a24b8dbe77a689a2e90ad5c5672ce07d2d2ae4cd6e3bf26bd",
+          "bytes": 8430
         }
       }
     },
@@ -7626,7 +7626,7 @@
         "en": "Among sea grass and coral in shallow water"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור סוסוני ים",
         "en": "fry"
       },
       "size": {
@@ -7671,13 +7671,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/seahorse.ogg",
-          "sha256": "2e06a3f1cf7131414fd796302a2aed5919e1cb5fe524fe86715f64059ea7918b",
+          "sha256": "fedec49c6aa22515c05ed8ab0b502692bc0ea4537833c920b9f944ed3f467803",
           "bytes": 7975
         },
         "nameEn": {
           "path": "audio/names/en/seahorse.ogg",
-          "sha256": "1d34ec199ace7d0432c4a22d7da2573e62888467782aace7eb7d7ee2abb72958",
-          "bytes": 8258
+          "sha256": "6f4a3a5baf5070f11c01ae93ff8d063765a8d472990cc384753a16f27d536bdf",
+          "bytes": 8171
         }
       }
     },
@@ -7715,7 +7715,7 @@
         "en": "On lakes, rivers and ponds"
       },
       "babyName": {
-        "he": "אפרוח",
+        "he": "גוזל",
         "en": "cygnet"
       },
       "size": {
@@ -7763,18 +7763,18 @@
         ],
         "sound": {
           "path": "audio/sounds/swan.ogg",
-          "sha256": "e83d087ec9faff07d36ce2dbe53a5e189771b9c3ede48de71f93c9170671d04a",
+          "sha256": "8a4cc63a10ea899fcf6b43519d3d6d1af320ead32fbbd19d27ef82883001615a",
           "bytes": 32317
         },
         "nameHe": {
           "path": "audio/names/he/swan.ogg",
-          "sha256": "fdd0d1e2c6fb6bf8927cbbdb94bf8db06c4a1263a9fa0867d613e0a69d1b5e3e",
+          "sha256": "ffa85aedf9a06aa284390dd60b75dc0a12ccc31346a840819df558d4a8479b0e",
           "bytes": 6605
         },
         "nameEn": {
           "path": "audio/names/en/swan.ogg",
-          "sha256": "e16d4ffa03974060cd2c8b6543d38d21da752bb5b9a887af49c1d5f4c6e30967",
-          "bytes": 7296
+          "sha256": "925eb7f10df01575d5599a10606980d2f0f3a36a97b641b0c7ba03d0472d73f9",
+          "bytes": 7108
         }
       }
     },
@@ -7857,18 +7857,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dove.ogg",
-          "sha256": "12b2a4328b16124f563a3c4adf9571a03fe3327699726ce0756f6d0bc381db2e",
+          "sha256": "c3b59a33c089acf2dea3316732ae03a97f91da8e02d6794164b0d4c848e8cef4",
           "bytes": 21486
         },
         "nameHe": {
           "path": "audio/names/he/dove.ogg",
-          "sha256": "d590c74ea524ce2a4e28dd6db4e1ce1c48b9bb159a191a460f2883e66efa302c",
+          "sha256": "72c3e82ead2bd92f9abdd2c5cb4e4cfa107bc5d413d19385a17cf278dcef82de",
           "bytes": 5530
         },
         "nameEn": {
           "path": "audio/names/en/dove.ogg",
-          "sha256": "fa1c6b10879415989f839d344b9446213b55a9d065cc469c3d37f4c3f546614a",
-          "bytes": 5591
+          "sha256": "7873d370f91ae04e07f5e5176caa77bdec9d4b327d18ccf3b9f5a3c2be346f5f",
+          "bytes": 5666
         }
       }
     },
@@ -7955,18 +7955,18 @@
         ],
         "sound": {
           "path": "audio/sounds/crow.ogg",
-          "sha256": "3d1ea4395db59d5fe285e5295dc5963e2ab536396cef6e7a73cb13a91e4f0328",
+          "sha256": "5ed9aeb2ea1204d19e29d085a3336ae9b4c11d4abde5e4a943a683afa564ce2d",
           "bytes": 20475
         },
         "nameHe": {
           "path": "audio/names/he/crow.ogg",
-          "sha256": "2c5426d7f4eccece5b23feec8c6a45cbfb5e77b59e44f9b32aa429f162624d72",
+          "sha256": "bda1d832b57d9de52602a935c17255239bec2ef1a6a1eef60b9befb90c18b4eb",
           "bytes": 5362
         },
         "nameEn": {
           "path": "audio/names/en/crow.ogg",
-          "sha256": "9164eacf32915eab8109b224ca73fa6525efe1be72bc5f3659c05c4f4929dd72",
-          "bytes": 6524
+          "sha256": "bf5d61b1fab33ea1d8c405daf9626c4ec6ea243b57ac72587e0664824306284d",
+          "bytes": 6301
         }
       }
     },
@@ -8053,18 +8053,18 @@
         ],
         "sound": {
           "path": "audio/sounds/seagull.ogg",
-          "sha256": "08ea3f1d4188cc78370afb47f61d73ef07dc303dcc9af9f30c79f762a49f4b4a",
+          "sha256": "1c81182f9f86fd42d628bfec4a5b6541e6b2ba2c4f9340a23babcd4eb7ff9401",
           "bytes": 29201
         },
         "nameHe": {
           "path": "audio/names/he/seagull.ogg",
-          "sha256": "b93191f998a9d16649556e571c4db9c51762c1273da08481e61830cc4b5cb55c",
+          "sha256": "1be86de76f96c5e7b7f28dbb6c0dc0b15f3e902d426ba4d7abdd077ee1a9f670",
           "bytes": 6034
         },
         "nameEn": {
           "path": "audio/names/en/seagull.ogg",
-          "sha256": "44924f19de95145424fa0970f3dd9e3193902fe16d222851b9f93d66d6b4e737",
-          "bytes": 8324
+          "sha256": "316ebc2b75789fcb52275b4fe6041d81409bb601e3025d42e301f43557df1fae",
+          "bytes": 8259
         }
       }
     },
@@ -8152,18 +8152,18 @@
         ],
         "sound": {
           "path": "audio/sounds/woodpecker.ogg",
-          "sha256": "4eb5a6b5b4eb711254b565301bd099ca03eb4a2582fac36dba2ab27a09eaa011",
+          "sha256": "9b871aa1e2cc568d477c1c87ec94cb39c0977c2598eb0720fff1c39f54368b5a",
           "bytes": 30531
         },
         "nameHe": {
           "path": "audio/names/he/woodpecker.ogg",
-          "sha256": "63493e75cc45c4c76547f74e766b4b22f04f9d7747ea63d95fb7c412f6f9a2aa",
+          "sha256": "93f8d19ead2aa06ec23bbc28967fc61947ee079ec903b36004cfd102ecc15cee",
           "bytes": 4960
         },
         "nameEn": {
           "path": "audio/names/en/woodpecker.ogg",
-          "sha256": "d51aa06c799b40ed2d95eb3b3f93a329b0f2ffbfc96ceabeec614a5bdbac5650",
-          "bytes": 7845
+          "sha256": "77f4cae3d378971f5b602c09b9d481aa41ac580d01d1dbe165702d51f1a238e6",
+          "bytes": 7677
         }
       }
     },
@@ -8252,18 +8252,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hoopoe.ogg",
-          "sha256": "0895841fa9da797e5caea81e221e32325e359a82ece4c059b2db504f613e232b",
+          "sha256": "146a0bb4b1e83f1b269edabf822638ff5917005f401958a33ffd84d22a802aa1",
           "bytes": 28042
         },
         "nameHe": {
           "path": "audio/names/he/hoopoe.ogg",
-          "sha256": "4d5f87e9589150589257bb4cdd5d8dd28c1dacb068168f53be1e349eee127385",
+          "sha256": "fc67450c6ad31c0c4b95e61d187d4894894e2e74dffbafb0b3302528d57b03cf",
           "bytes": 7692
         },
         "nameEn": {
           "path": "audio/names/en/hoopoe.ogg",
-          "sha256": "fe30bc17cc178c0e1dd1ab95ebd2c2a307974c1d53c0a5f39b6970972c59b680",
-          "bytes": 7000
+          "sha256": "b3d62e628d25bcd48f3852029769c19a0ff2282e477076fd126388751196d693",
+          "bytes": 7172
         }
       }
     },
@@ -8350,18 +8350,18 @@
         ],
         "sound": {
           "path": "audio/sounds/sparrow.ogg",
-          "sha256": "89fa5d1c6c1a5f65694d046245087a9caceffa9c1d9a0efff127b8920032707b",
+          "sha256": "a791fbaa370d1f2d0bf92d7d05cf5e210861db70cf37252987fcc073060b471d",
           "bytes": 14001
         },
         "nameHe": {
           "path": "audio/names/he/sparrow.ogg",
-          "sha256": "23125c324d8167596c49f3f04f24fa12e64b97560bd7d90b8500abb68615ddb7",
+          "sha256": "3b99892854cf85c8c0e30a92cb96194e78bbabf45d2c05ad8d23a8e1595ace65",
           "bytes": 5646
         },
         "nameEn": {
           "path": "audio/names/en/sparrow.ogg",
-          "sha256": "83b9f89b7192ce4a92921ea012bf78ff2038229cbce13c8dff9301bd88b38f4b",
-          "bytes": 7818
+          "sha256": "ed63938b00ca543614ba64e8aba74b84047fef39b424de1d7f9180414928aafe",
+          "bytes": 7867
         }
       }
     },
@@ -8451,18 +8451,18 @@
         ],
         "sound": {
           "path": "audio/sounds/frog.ogg",
-          "sha256": "a93f7ca70b8eb5b2324459f5911ed23bb4a51ecb0b4afefc418766f2fcc31a81",
+          "sha256": "ee3fee6c446cff611e9dc47d85dd25f0badab92928104152a8e7e1525ee2e5c4",
           "bytes": 8034
         },
         "nameHe": {
           "path": "audio/names/he/frog.ogg",
-          "sha256": "6fac5e2b177fb26cbaa19ee32dce26f3f1124cad16e380b7607fd37e365dbd5e",
+          "sha256": "37feafc354fdd4ba45da27e8cee120ea4e540dc15248eb25d48fdece8704061f",
           "bytes": 6372
         },
         "nameEn": {
           "path": "audio/names/en/frog.ogg",
-          "sha256": "6f6f964217bb04c688ad6947b72721f511bb26d84cd245c22110086cab01ab44",
-          "bytes": 6352
+          "sha256": "5fafd16aaab65b2784b3940819f35a98c90e7296a8aa0366041f6c637b197e8b",
+          "bytes": 6447
         }
       }
     },
@@ -8545,18 +8545,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bee.ogg",
-          "sha256": "69fb718a88e5889f3d7cde0839e205467fd17858508a8ecf8777aa3c34035d4f",
+          "sha256": "ad33651a1f910fd847af678c06df964c0c3e1ccafff4c4a8f11cec5bb3b21805",
           "bytes": 28788
         },
         "nameHe": {
           "path": "audio/names/he/bee.ogg",
-          "sha256": "77001049fc712cad730a7d8a6549f3d84d433c8d89501fdcbdf53a4a619788aa",
+          "sha256": "30417765f149e7dfe3dfbc68777886418872300751e0ec5acc2167da2051bfcf",
           "bytes": 5633
         },
         "nameEn": {
           "path": "audio/names/en/bee.ogg",
-          "sha256": "503cb5a654fc471fe40a67d2964e80677fb88280f00c6eeedb10064eac3f33fa",
-          "bytes": 5523
+          "sha256": "23d8cfc35f89eef1d1d1e417d1e42c213471e4efa88171b13e9b037fde935faf",
+          "bytes": 5094
         }
       }
     },
@@ -8639,13 +8639,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/butterfly.ogg",
-          "sha256": "696df9a8f67c35eef21ab2c484e78f8030862fa4b3839e8ca88f0ade568ba2bd",
+          "sha256": "26bcf4974d1996eaeb6128e54e28c4e2a08349f7949b9d3d75430f5fe87e9b41",
           "bytes": 6353
         },
         "nameEn": {
           "path": "audio/names/en/butterfly.ogg",
-          "sha256": "0faeee723ae750354d168398a411ab23669db002e9787c819e153ddd45083478",
-          "bytes": 8353
+          "sha256": "90e82249f5525f459392eb3d22de722264d196d125f3affda8a841a641f37ce5",
+          "bytes": 8157
         }
       }
     },
@@ -8731,13 +8731,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ant.ogg",
-          "sha256": "e1c6c0bb304ec8c3e064e0dea59e4bf9c30900aaf6f28d1c25db303d39b7cc6e",
+          "sha256": "2ceeaf2ebb1b6ce0acd92536426fb2d7fd132765573d3a6302a45d8983362f0d",
           "bytes": 4601
         },
         "nameEn": {
           "path": "audio/names/en/ant.ogg",
-          "sha256": "0a83d6cd03b7a096c81ef90ac3730179cf15b0caf998f76d10d0fa65319ede6f",
-          "bytes": 5836
+          "sha256": "0f1b7d2c27ecdd81585827e1819cdd9f99a778f50a0d70496c313975d6c05002",
+          "bytes": 6151
         }
       }
     },
@@ -8775,7 +8775,7 @@
         "en": "In gardens, among damp leaves and under stones"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור חלזונות",
         "en": "hatchling"
       },
       "size": {
@@ -8820,13 +8820,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/snail.ogg",
-          "sha256": "cb45ddbc3219a2479b2e61ef392397c79aa83f32b47dfb05b1a3b9c684fa434c",
+          "sha256": "1c0b3a1392bebe2dbbe6a907efca055d97ff6fc37d0c7c158e01d36293b67850",
           "bytes": 8601
         },
         "nameEn": {
           "path": "audio/names/en/snail.ogg",
-          "sha256": "3cbdff3c3ee514e9df4cc97e882da5ead2a74be3fbaa5043d73c105721f8fc93",
-          "bytes": 7554
+          "sha256": "2b4938efadf03253efa3a2bbc59e22aaf94751a708affbe8234e4ddc9503ad47",
+          "bytes": 7611
         }
       }
     },
@@ -8909,13 +8909,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ladybug.ogg",
-          "sha256": "5578e9186d2687c2f1ec4e76cfa1b34ca9d3a74eaf361025b844e9aad3a2b03d",
+          "sha256": "ed0e9977f743fa914fd0367ea8b66a037b88ecbde3ef8ea28eff7341ad2178e9",
           "bytes": 9189
         },
         "nameEn": {
           "path": "audio/names/en/ladybug.ogg",
-          "sha256": "7c62456da1b2b439d18cc2a309862f2755d8f8646078845b97feb99ddc23ffc2",
-          "bytes": 8411
+          "sha256": "98904441b50290b5c52b276227408a11a3997959515416d8a0dd0d7ab80d81b9",
+          "bytes": 8223
         }
       }
     },
@@ -8953,7 +8953,7 @@
         "en": "In corners, in the garden, among branches and in houses"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור עכבישים",
         "en": "spiderling"
       },
       "size": {
@@ -9004,13 +9004,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/spider.ogg",
-          "sha256": "0c52e17ba8085a16962d95adf72b3d4a9e9f91df76ca4a463e52bbca34a2c42a",
+          "sha256": "8bed1fc1fc2ffd5771de4eb4a83e8e802c68fde6375cc72d701841109eb1634d",
           "bytes": 7606
         },
         "nameEn": {
           "path": "audio/names/en/spider.ogg",
-          "sha256": "a68b9df39cd782a48038cbd216f98b997c10a4e7f95d038ded7444bde9b9cd78",
-          "bytes": 7258
+          "sha256": "a4d85326d290512a7b009f92e2557f2b84c0ed243f065fb2cfedac5616631863",
+          "bytes": 7216
         }
       }
     },
@@ -9093,18 +9093,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cricket.ogg",
-          "sha256": "cdaa1913cd04994e15e1b57cf843413ceae3a39dcdd29fcac605fe48663ecb2f",
+          "sha256": "1bc17c4b5cf7f54b811845bbd4c717b370eed4a003071ab00d35a9bda2169123",
           "bytes": 28060
         },
         "nameHe": {
           "path": "audio/names/he/cricket.ogg",
-          "sha256": "025d5ed724dc69f0fc7e374bada687a00113d3a66c50555eb8b932b625b5861c",
+          "sha256": "97db06c44a96a274bcf298ae525a0dc868b986b65ec8de2a09a71a6d4e487172",
           "bytes": 6976
         },
         "nameEn": {
           "path": "audio/names/en/cricket.ogg",
-          "sha256": "45dcb24a9b215ddc523d99a3e35a73c66a99018a54a572ab50ad7fb9a59d5d2d",
-          "bytes": 6960
+          "sha256": "9f22118bda312a0c9d2b1092e0ed74ecba564daaf8de00d967d75c8e2c631530",
+          "bytes": 6781
         }
       }
     },
@@ -9142,7 +9142,7 @@
         "en": "Among rocks, on walls and in the desert"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור לטאות",
         "en": "hatchling"
       },
       "size": {
@@ -9193,13 +9193,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/lizard.ogg",
-          "sha256": "91da27eb9bb6555bb62eb4294885b6fa9d1a7bd32c1745a3019c742c105e6bcd",
+          "sha256": "3a8c560893bf74894ea4f7765b08385dd83c1d9f658b6f6da70dde2adffbd134",
           "bytes": 4643
         },
         "nameEn": {
           "path": "audio/names/en/lizard.ogg",
-          "sha256": "6568c5ac287296294a6d83f987112641712c9b5f6693fa4b24c907bf2aa9970e",
-          "bytes": 6996
+          "sha256": "077b6e50ac527440c4d656b8c3f5563c9f62cafce0808f75a8704c282b180db5",
+          "bytes": 7052
         }
       }
     },
@@ -9237,7 +9237,7 @@
         "en": "In caves, hollow trees and attics"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור עטלפים",
         "en": "pup"
       },
       "size": {
@@ -9287,18 +9287,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bat.ogg",
-          "sha256": "5080f48527f0f2beac7db58135cf64adb3d22b97a1a9ddfdbd759ad699b9aeb6",
+          "sha256": "8931c745ac4a5f4f97a7bd26b6fa1e524ded9c2a8622640567528e3301ef6bb3",
           "bytes": 29975
         },
         "nameHe": {
           "path": "audio/names/he/bat.ogg",
-          "sha256": "6047b0aae8f6063c96b78ebf7e40e51a50002adae3e9d6574b373f735b6108bb",
+          "sha256": "8d3077d086031bfe5d5da3fa0d040817761392cf856416f886b15fc216a21c68",
           "bytes": 5250
         },
         "nameEn": {
           "path": "audio/names/en/bat.ogg",
-          "sha256": "3cab1168f6782dcce5f91df4c52acf5d9b08d86f0aae92a641ceb9b5ce1248d5",
-          "bytes": 6032
+          "sha256": "b6710f3a707f80b9011254cfc3e2bdce9f2b34d5eb3ca40bbd7891880252bbb3",
+          "bytes": 5791
         }
       }
     },
@@ -9336,7 +9336,7 @@
         "en": "In the desert, among rocks and under stones"
       },
       "babyName": {
-        "he": "גור",
+        "he": "גור עקרבים",
         "en": "scorpling"
       },
       "size": {
@@ -9386,13 +9386,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/scorpion.ogg",
-          "sha256": "0604b53d806614a3548ebfd6680c715490015fe3fff408fc036751e7870b873c",
+          "sha256": "43a9d154a16c7ecc5a1ee6b640e898fdacc9f73b6f3db75fb31b0f5fa796e6f1",
           "bytes": 4943
         },
         "nameEn": {
           "path": "audio/names/en/scorpion.ogg",
-          "sha256": "6ed316cc7745aa56fc4073a18a340aaba5f6bccad661d75e723e4f57afda186c",
-          "bytes": 8436
+          "sha256": "24fc8ead4eca8b7cebeb57c5650db9bc9eab7daf8ba64d0aea4f15e212fb5b0b",
+          "bytes": 8262
         }
       }
     },
@@ -9471,13 +9471,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/caterpillar.ogg",
-          "sha256": "4c279dac5cf4357fe2067ca2800e41e5fed41f480deae2c2966f30230330241a",
+          "sha256": "75b4d354c4bfea2617ca5bd294d62479abb2945f512b23439d62322409bf1edb",
           "bytes": 5578
         },
         "nameEn": {
           "path": "audio/names/en/caterpillar.ogg",
-          "sha256": "c0a040ab075582e26c739b7d6cb1af091a21dce2096f9813be7cf1e00c5f4dcb",
-          "bytes": 8672
+          "sha256": "b1be6acf084a5a892664090c5c4a190a87ea94d0e939d0ee0f5ae17120c3ee2a",
+          "bytes": 8367
         }
       }
     }
