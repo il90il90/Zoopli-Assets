@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 2,
-  "generatedAt": "2026-09-13T01:20:28+00:00",
+  "contentVersion": 3,
+  "generatedAt": "2026-09-13T05:51:24+00:00",
   "baseUrl": "https://cdn.jsdelivr.net/gh/il90il90/Zoopli-Assets@main/",
   "categories": [
     {
@@ -639,6 +639,14 @@
         "he": "בבית עם המשפחה",
         "en": "At home with the family"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "puppy"
+      },
+      "size": {
+        "he": "בערך בגובה הברכיים שלכם",
+        "en": "About as tall as your knees"
+      },
       "facts": {
         "he": [
           "לכל כלב יש טביעת אף ייחודית, כמו טביעת אצבע שלנו",
@@ -679,18 +687,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dog.ogg",
-          "sha256": "703c2bfba6d1e1038be525789a700aef5c7903f3ed7331c89a1e31f48268a26b",
+          "sha256": "f2362c6982784bed9343a3998c89eba71a8ff6cd1223451c49ab8cd3031d33b3",
           "bytes": 17513
         },
         "nameHe": {
           "path": "audio/names/he/dog.ogg",
-          "sha256": "e7287b224fa92c5f5a8b97601ff4b64fe5614d2ae188d14e2b80d3a38a994e42",
+          "sha256": "9fedd28d5d557af59dd6486d7181f4467f7b36d5692a5aa476992547d38bfd90",
           "bytes": 5722
         },
         "nameEn": {
           "path": "audio/names/en/dog.ogg",
-          "sha256": "dadf20714d0848cc0dc2d0d7002bc746a2eda09ae58f20720c3e09f835f9153a",
-          "bytes": 5662
+          "sha256": "50352ba921267d42c432e29a04bdfcd11756e83eedfb71229144defbf123dfd2",
+          "bytes": 5752
         }
       }
     },
@@ -727,6 +735,20 @@
         "he": "בבית או בחצר",
         "en": "At home or in the yard"
       },
+      "babyName": {
+        "he": "גורה",
+        "en": "kitten"
+      },
+      "size": {
+        "he": "קטן — נכנס לתוך ארגז נעליים",
+        "en": "Small — fits inside a shoebox"
+      },
+      "eatsIds": [
+        "mouse",
+        "sparrow",
+        "lizard",
+        "butterfly"
+      ],
       "facts": {
         "he": [
           "חתולים ישנים כמעט שתי שלישיות מהיום",
@@ -767,18 +789,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cat.ogg",
-          "sha256": "db44e15918e1b32a6be7998c543b88c42b0beaad8d17ee780422f52438126fb6",
+          "sha256": "7368f6069151ce07831b2f84ad47d7622d0ff1dde5c83f2ed82c7bac5bc69332",
           "bytes": 15987
         },
         "nameHe": {
           "path": "audio/names/he/cat.ogg",
-          "sha256": "d46d4642ca00aabf0fe1a0f71090a39be60b1cb8a8c1562b7b09640730509fb5",
+          "sha256": "50204c387051fc70a654558abcb21b5adc415423f7003ac2520c85c18de44f46",
           "bytes": 6136
         },
         "nameEn": {
           "path": "audio/names/en/cat.ogg",
-          "sha256": "dc613807f6638cf634627608c7ad05ac7a90e85d649356c245699ac1ee578725",
-          "bytes": 6064
+          "sha256": "837fd3989c1f3b99dc21e66caa5892bda26b1d0cb21b495b88eb00153442c87b",
+          "bytes": 6050
         }
       }
     },
@@ -814,6 +836,14 @@
       "habitat": {
         "he": "ברפת ובמרעה",
         "en": "In the barn and the pasture"
+      },
+      "babyName": {
+        "he": "עגל",
+        "en": "calf"
+      },
+      "size": {
+        "he": "כבדה כמו מכונית קטנה",
+        "en": "As heavy as a small car"
       },
       "facts": {
         "he": [
@@ -855,18 +885,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cow.ogg",
-          "sha256": "d71d0b04db19bd41d8c50ba85846450f04a1a27cd2c6a2765769ffceafb7369c",
+          "sha256": "29e27d95ab0f8fe335f1b0fa6dc4a2d9f9e108121e82ebe57946cc74a9943943",
           "bytes": 20201
         },
         "nameHe": {
           "path": "audio/names/he/cow.ogg",
-          "sha256": "c3290a13989b835b3794175c5e1a6aa8c798c62ae5e24e76e6b5617364791454",
+          "sha256": "08d6ac19049f07088238b406ee640fa5a45a4f33dcae38eb7e6683bb9de1d674",
           "bytes": 4989
         },
         "nameEn": {
           "path": "audio/names/en/cow.ogg",
-          "sha256": "8518bfcef002ff79044de7251e4354dbbbbd707c16d22a5fd6357d82cd68cc3d",
-          "bytes": 6221
+          "sha256": "e4408c90f95db1689b09638fca57098a1595df3f8861d2b829f10179fe987493",
+          "bytes": 6316
         }
       }
     },
@@ -902,6 +932,14 @@
       "habitat": {
         "he": "במרעה ובדיר",
         "en": "In the pasture and the pen"
+      },
+      "babyName": {
+        "he": "טלה",
+        "en": "lamb"
+      },
+      "size": {
+        "he": "בערך בגודל של כלב גדול",
+        "en": "About the size of a big dog"
       },
       "facts": {
         "he": [
@@ -943,18 +981,18 @@
         ],
         "sound": {
           "path": "audio/sounds/sheep.ogg",
-          "sha256": "8dad39ffa132344b0bfbfda79c2e31fd47ea110784641fe04e083637ba2544f7",
+          "sha256": "7bfda80ba7a749cc16c75feb7289508d53561fccb3659446700786b73d021e07",
           "bytes": 28433
         },
         "nameHe": {
           "path": "audio/names/he/sheep.ogg",
-          "sha256": "4acbec90618e85d5105c69974db8a89be9c0aa8f13f20ff011b38f32c34eb998",
+          "sha256": "3f11b84299abaac154436f64c2e828c247092420aaf4b8857f1bc54c3c1cf5a0",
           "bytes": 5431
         },
         "nameEn": {
           "path": "audio/names/en/sheep.ogg",
-          "sha256": "25f0e5cf0442447ddf2bb08bb45079f8f53764d9006d2fb0aa4efaa542405c30",
-          "bytes": 6117
+          "sha256": "88a4169f605dd38196175132b9dd0d9cdf3392530f8574c757b93af763be10d1",
+          "bytes": 5983
         }
       }
     },
@@ -990,6 +1028,14 @@
       "habitat": {
         "he": "באורווה ובשדה",
         "en": "In the stable and the field"
+      },
+      "babyName": {
+        "he": "סייח",
+        "en": "foal"
+      },
+      "size": {
+        "he": "גבוה יותר מאבא",
+        "en": "Taller than a grown-up"
       },
       "facts": {
         "he": [
@@ -1031,18 +1077,18 @@
         ],
         "sound": {
           "path": "audio/sounds/horse.ogg",
-          "sha256": "474f88a386acc1a3704f3b63ef3070977601f1bbb10eb900905b08a169ecb7c8",
+          "sha256": "87c8ff0e57e14b4c887bad2794a7a5d03cf22e143efd3cbc47d6a204096ecd77",
           "bytes": 10897
         },
         "nameHe": {
           "path": "audio/names/he/horse.ogg",
-          "sha256": "2b80859f1a5a174b87c7b31c737374ce53f120bee1fb1196dc17aafd67bda6c8",
+          "sha256": "2c64b984ab096c8b60cbadce7d2515251e16a0635fbb6c505c4ca8d8a2d43a36",
           "bytes": 5667
         },
         "nameEn": {
           "path": "audio/names/en/horse.ogg",
-          "sha256": "e3cb17572d186955389e3c4ab7a299c961c132ae429761e8761122877ba5934b",
-          "bytes": 6598
+          "sha256": "c033fc22b77099110a26f9abeb1f181fd468e68519da48e65d281298dc1f2aeb",
+          "bytes": 6562
         }
       }
     },
@@ -1079,6 +1125,18 @@
         "he": "ליד אגמים ונהרות",
         "en": "Near ponds and rivers"
       },
+      "babyName": {
+        "he": "אפרוח",
+        "en": "duckling"
+      },
+      "size": {
+        "he": "בערך בגודל של כדורגל",
+        "en": "About the size of a football"
+      },
+      "eatsIds": [
+        "snail",
+        "fish"
+      ],
       "facts": {
         "he": [
           "לנוצות הברווז יש שכבה שמנונית שלא נותנת למים להיכנס",
@@ -1119,18 +1177,18 @@
         ],
         "sound": {
           "path": "audio/sounds/duck.ogg",
-          "sha256": "573cbd3ac89aa772e49e987b0ad10318a799ff4df68de5210711ae18cf9049d7",
+          "sha256": "5a1652de5366cc9b206033b60747edffee1022f690f11f97187c5654ecda6831",
           "bytes": 21510
         },
         "nameHe": {
           "path": "audio/names/he/duck.ogg",
-          "sha256": "eb61123c2b1bcaedf6bcfb0adee91fd3f3bad8191469f2607a8acc5d7487ae55",
+          "sha256": "d2b55c857aef506a660e2da00d9d541d0d2d2caeab6e5511eb7c89ffdf3f7fd3",
           "bytes": 6227
         },
         "nameEn": {
           "path": "audio/names/en/duck.ogg",
-          "sha256": "e24ae54c1b31bde1d3de8398745b5671327bd7b5adc73e96319b2bca432a01de",
-          "bytes": 5940
+          "sha256": "65edd0d1448fe5b5474a6456be7dabd4c161143bc258ae9dc1f26723fc04ee1c",
+          "bytes": 5848
         }
       }
     },
@@ -1167,6 +1225,20 @@
         "he": "בלול ובחצר המשק",
         "en": "In the coop and the farmyard"
       },
+      "babyName": {
+        "he": "אפרוח",
+        "en": "chick"
+      },
+      "size": {
+        "he": "מגיע עד הברכיים שלכם",
+        "en": "Comes up to your knees"
+      },
+      "eatsIds": [
+        "ant",
+        "cricket",
+        "caterpillar",
+        "snail"
+      ],
       "facts": {
         "he": [
           "התרנגול קורא גם באמצע היום, לא רק בבוקר",
@@ -1207,18 +1279,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rooster.ogg",
-          "sha256": "3dcc58c2c49f91ba9c4b2d1dbf7302d4c9c4177a1ef9e52946b7693f537b372b",
+          "sha256": "cad197e1c31f1c35e5dfd12ea9476ae2a66c16900ada51a54acc7a7e41938eb3",
           "bytes": 28588
         },
         "nameHe": {
           "path": "audio/names/he/rooster.ogg",
-          "sha256": "1097d3c40f0dc6faebd7e383ed56d946d8e7dd1384ac1e16cf1020457d5aa1c5",
+          "sha256": "b81487fb8a875fbdafea9d2fbcbf9e7dd4f64a9e8336e604f7c1fbe696386921",
           "bytes": 6368
         },
         "nameEn": {
           "path": "audio/names/en/rooster.ogg",
-          "sha256": "54bba2a95c382c714d54c74debf21d16113eaf874a1c36db02c64bdc8a3d5de1",
-          "bytes": 6932
+          "sha256": "1c395f483583f93eff535b601728b6f464830a47ce4bbda13c8c2e8fd890ed9e",
+          "bytes": 7219
         }
       }
     },
@@ -1254,6 +1326,14 @@
       "habitat": {
         "he": "בחווה ובדיר, ליד שלולית בוץ",
         "en": "On the farm, next to a muddy puddle"
+      },
+      "babyName": {
+        "he": "חזרזיר",
+        "en": "piglet"
+      },
+      "size": {
+        "he": "כבד כמו שלושה ילדים",
+        "en": "As heavy as three children"
       },
       "facts": {
         "he": [
@@ -1293,18 +1373,18 @@
         ],
         "sound": {
           "path": "audio/sounds/pig.ogg",
-          "sha256": "6247df4f9ab3bb0c5cd345b5c0c24c1819f5b93e4fb967aa9f092b32114325d7",
+          "sha256": "759ab8a50835596cb6cdb44a452c09b0e863d057d4e259f2411f79c766b5658d",
           "bytes": 30025
         },
         "nameHe": {
           "path": "audio/names/he/pig.ogg",
-          "sha256": "302d13126c13d5cfd4badb52eec472fd102db75533774c9bcabecc7361e608dd",
+          "sha256": "8c5498c5ad7114d400d7f1b1600d75f351e90b52f0674d9b8f51a34b75074af7",
           "bytes": 7868
         },
         "nameEn": {
           "path": "audio/names/en/pig.ogg",
-          "sha256": "2bb6f0ec9cebf928cbc0a502b9b6cac7cab602a20600d65f45ab3f3a5703f162",
-          "bytes": 5240
+          "sha256": "ba8f9003c7d4b61f89d551a089c6cb429d4b2e4270836a6100a11901adcc818c",
+          "bytes": 4693
         }
       }
     },
@@ -1340,6 +1420,14 @@
       "habitat": {
         "he": "בהרים, במרעה ובחוות",
         "en": "In the mountains, in pastures and on farms"
+      },
+      "babyName": {
+        "he": "גדי",
+        "en": "kid"
+      },
+      "size": {
+        "he": "בערך בגובה של ילד בן שלוש",
+        "en": "About as tall as a three-year-old"
       },
       "facts": {
         "he": [
@@ -1379,18 +1467,18 @@
         ],
         "sound": {
           "path": "audio/sounds/goat.ogg",
-          "sha256": "73caf6a134afdf6d977fab236e93e2af66bdcc2de09fd94e2ffbf584276a3482",
+          "sha256": "fd31294d753fb5ea15fd59f9cd2f655cff85d5124f199e1bfa204a90a021ea6c",
           "bytes": 10841
         },
         "nameHe": {
           "path": "audio/names/he/goat.ogg",
-          "sha256": "e5f5deddb7b35e4d17860e51b4680d6be005f10e98f3d69b9626b60476e46af8",
+          "sha256": "3d0e04cd47033b3808c292ea350cd6488a27bf1e9ede2d0100bcee6a702bbb2b",
           "bytes": 4254
         },
         "nameEn": {
           "path": "audio/names/en/goat.ogg",
-          "sha256": "f45d903461374bb3917dd1b483c0ea163fdda782306dd43071d05711d9273896",
-          "bytes": 6030
+          "sha256": "99d9e94ec67cb3de9412185f07422d4e33b76ecf87b14dff9c488554df2eeff9",
+          "bytes": 6037
         }
       }
     },
@@ -1426,6 +1514,14 @@
       "habitat": {
         "he": "במחילות מתחת לאדמה, בשדות ובבתים",
         "en": "In burrows underground, in fields and in homes"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "kit"
+      },
+      "size": {
+        "he": "נכנס בין שתי כפות ידיים",
+        "en": "Fits between two hands"
       },
       "facts": {
         "he": [
@@ -1465,18 +1561,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rabbit.ogg",
-          "sha256": "18dd0c39a0a3ff0b2067db51fa25dba2333cc1c24a9c8807377a875ea2db5f5f",
+          "sha256": "799b8682e3121935da7e0bdb4649641a35029541f5604ee33b9b03666436a199",
           "bytes": 32469
         },
         "nameHe": {
           "path": "audio/names/he/rabbit.ogg",
-          "sha256": "1bcc2901fca97155eb1fd5523fc9a37e7eecdbfd1610b03f2276421953b0f1d3",
+          "sha256": "2d8caaa02fb919556488c35fe4b6ec509b13464cd0177a3cb7bcdabede80c5a1",
           "bytes": 5893
         },
         "nameEn": {
           "path": "audio/names/en/rabbit.ogg",
-          "sha256": "01a95c32ad7aa4fe3f39d11ad4b6926ee80a74c61e095558183da4b1e1ff6e74",
-          "bytes": 6801
+          "sha256": "4628906ae7c39d30477525c0e3f738cae8f1958693949542c8d317715f4d195e",
+          "bytes": 6562
         }
       }
     },
@@ -1512,6 +1608,14 @@
       "habitat": {
         "he": "בכפרים, בחוות ובשבילים הרריים",
         "en": "In villages, on farms and on mountain trails"
+      },
+      "babyName": {
+        "he": "עייר",
+        "en": "foal"
+      },
+      "size": {
+        "he": "קצת נמוך מסוס",
+        "en": "A little shorter than a horse"
       },
       "facts": {
         "he": [
@@ -1551,18 +1655,18 @@
         ],
         "sound": {
           "path": "audio/sounds/donkey.ogg",
-          "sha256": "a09a639a302f674cc6cba3dadaaee0e860dbea867cd4f698abc0f2125f477c1e",
+          "sha256": "84b987fee246104aa95e7d6d578049966889c3d4daf11eab80eed579c80a6cc5",
           "bytes": 31181
         },
         "nameHe": {
           "path": "audio/names/he/donkey.ogg",
-          "sha256": "506355fadcbb62e717704f83d5fc029e401413204dae3065ef3416916280a952",
+          "sha256": "d0c7b16065ec79bb3d26f1e837cda6cd361ac309c6979aefc10e1f5c04ca1563",
           "bytes": 6584
         },
         "nameEn": {
           "path": "audio/names/en/donkey.ogg",
-          "sha256": "f7d224f45fb99da0367d0de6fb35df3cc9a9232989f1d36b6ad19653f1541629",
-          "bytes": 6866
+          "sha256": "986c57b638389937e06cbcc609658009fb414577c76f20b91e0878e3eddf20a8",
+          "bytes": 7131
         }
       }
     },
@@ -1599,6 +1703,19 @@
         "he": "בלולים ובחצרות, ובטבע ביערות",
         "en": "In coops and yards, and in forests in the wild"
       },
+      "babyName": {
+        "he": "אפרוח",
+        "en": "poult"
+      },
+      "size": {
+        "he": "מגיע עד הברכיים, ורחב מאוד",
+        "en": "Knee-high, and very wide"
+      },
+      "eatsIds": [
+        "ant",
+        "cricket",
+        "snail"
+      ],
       "facts": {
         "he": [
           "העור על הצוואר משנה צבע לפי מה שהוא מרגיש — אדום, כחול או לבן",
@@ -1637,18 +1754,18 @@
         ],
         "sound": {
           "path": "audio/sounds/turkey.ogg",
-          "sha256": "d464916d00f4a96f0626ca89f399253ff0f54b5e034f0602db6213813c15f6a8",
+          "sha256": "dff574966827e148b234cc46e865becac9a0bc564e36987c0c4f4befb6784246",
           "bytes": 10940
         },
         "nameHe": {
           "path": "audio/names/he/turkey.ogg",
-          "sha256": "7b2b075b4e8167593f5a9c637ce4e9397657dcaeda94d1c6df657f8ee5e02e65",
+          "sha256": "3521c46621d9dfe27e1e7c1e99728c3b45b0599f33b28e5fe0c655e3e88da692",
           "bytes": 8347
         },
         "nameEn": {
           "path": "audio/names/en/turkey.ogg",
-          "sha256": "642306716e9c0c1b8edb1b4ed7a9877ef84b1cd86620a17eaa137a8ae5c21f14",
-          "bytes": 6943
+          "sha256": "29b2d74d3e14e630a8de2683a45f492cfc9cd8efa816fcbbe7df5c3f8bb6fe63",
+          "bytes": 6736
         }
       }
     },
@@ -1685,6 +1802,17 @@
         "he": "ליד אגמים, נהרות ובריכות",
         "en": "Beside lakes, rivers and ponds"
       },
+      "babyName": {
+        "he": "אפרוח",
+        "en": "gosling"
+      },
+      "size": {
+        "he": "בערך בגודל של תרמיל גב",
+        "en": "About the size of a backpack"
+      },
+      "eatsIds": [
+        "snail"
+      ],
       "facts": {
         "he": [
           "אווזים עפים בצורת V כדי לחסוך כוח, כשכל אחד נשען על האוויר של מי שלפניו",
@@ -1723,18 +1851,18 @@
         ],
         "sound": {
           "path": "audio/sounds/goose.ogg",
-          "sha256": "669d58ab0012dfd48a519e7c7e64fc67a180080478ff3bbf03e109e5358d94b0",
+          "sha256": "5342e28119bd8be04a4a14b3299aa05022410c3dc5abe3573485158f080f403b",
           "bytes": 6173
         },
         "nameHe": {
           "path": "audio/names/he/goose.ogg",
-          "sha256": "c4e07686e10364d69d3764b37fd3a1398c3b166a65854db6455c80282956138a",
+          "sha256": "3e2a99ff3177af94ff27525b93c098f59b71efb28bf997ad161ebc0967c872c6",
           "bytes": 4807
         },
         "nameEn": {
           "path": "audio/names/en/goose.ogg",
-          "sha256": "f1a97b7e4c89c4fa674890b3394f1638ddfa04ef709eaae1218cc5e836eaeef9",
-          "bytes": 6403
+          "sha256": "e8440c11d0f2259d21bbbb65af568d28f85ee37d5272ed7387274d2806f76959",
+          "bytes": 6614
         }
       }
     },
@@ -1770,6 +1898,14 @@
       "habitat": {
         "he": "בשדות, במחילות ולפעמים בפינה חמה בבית",
         "en": "In fields, in burrows and sometimes in a warm corner of a house"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "pup"
+      },
+      "size": {
+        "he": "קטן כמו כף יד של ילד",
+        "en": "As small as a child's palm"
       },
       "facts": {
         "he": [
@@ -1809,18 +1945,18 @@
         ],
         "sound": {
           "path": "audio/sounds/mouse.ogg",
-          "sha256": "8e1950d0c2a9b12cd7d72e463d0d0481c7a05a3df9f8aea07bf2ab3b420544cb",
+          "sha256": "39feabc38d67433e1f941559a04df43d9f3159f0098befdd376a5334602ef755",
           "bytes": 4594
         },
         "nameHe": {
           "path": "audio/names/he/mouse.ogg",
-          "sha256": "50e6719280ed25996ef8dc8c155ca1e406a27b9b094f774a6fe586534aec94f8",
+          "sha256": "2d7ffe5d4bd4beb478dd18a60ea99b0a5f9d77eaf36f39e8254625387f180125",
           "bytes": 5706
         },
         "nameEn": {
           "path": "audio/names/en/mouse.ogg",
-          "sha256": "8c8b3a640c0de30dbd8285bfa1b6f244f02c6e30ad8b713afce3921745dea0b2",
-          "bytes": 6778
+          "sha256": "aec61cdf9ea8a44dc4bb7b87bb3e870b2524ae14b23a09bbd8d4cb7205ec13f2",
+          "bytes": 6542
         }
       }
     },
@@ -1856,6 +1992,14 @@
       "habitat": {
         "he": "במחילות בשדות יבשים, ובכלוב מרופד בבית",
         "en": "In burrows in dry fields, and in a cosy cage at home"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "pup"
+      },
+      "size": {
+        "he": "נכנס לכף יד אחת",
+        "en": "Fits in one hand"
       },
       "facts": {
         "he": [
@@ -1895,18 +2039,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hamster.ogg",
-          "sha256": "06e99b6920054c6fa137bb208e4195737dfd1a1ccba1b5f4bc3ab4f462cc6d29",
+          "sha256": "0e0e6d7e6fd41153d7e67e9a80d7c60c9f0fe6c5a976ae8c93b552e522718a7a",
           "bytes": 23125
         },
         "nameHe": {
           "path": "audio/names/he/hamster.ogg",
-          "sha256": "dcb7037dba55c209e781817866422e9b455fb4bcb6b37da0cff440cb7349c454",
+          "sha256": "477ea209c00ce39dc56145496ea858cc3501787209a79ff182bc81f895d4ba8e",
           "bytes": 5584
         },
         "nameEn": {
           "path": "audio/names/en/hamster.ogg",
-          "sha256": "1ff779389d2cb7db63aed209c0512e646420a0872e1a887971c39b37e1e38a21",
-          "bytes": 7172
+          "sha256": "4221f0a3f5643ff067688786003ca1f1907136d56a5eb3cc56cff110d5db1511",
+          "bytes": 7381
         }
       }
     },
@@ -1943,6 +2087,20 @@
         "he": "בסוואנה באפריקה",
         "en": "On the African savannah"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "cub"
+      },
+      "size": {
+        "he": "ארוך כמו ספה",
+        "en": "As long as a sofa"
+      },
+      "eatsIds": [
+        "zebra",
+        "giraffe",
+        "water_buffalo",
+        "ostrich"
+      ],
       "facts": {
         "he": [
           "אריות חיים בקבוצה שנקראת להקה",
@@ -1983,18 +2141,18 @@
         ],
         "sound": {
           "path": "audio/sounds/lion.ogg",
-          "sha256": "5fa65e78517ce0f05cc2168173d263af11447c5ca237c61a5af26a5ba5e68379",
+          "sha256": "5ef43dc8e6f29a6d10f692a60012b40fa58385f0ea55c44c47d926ad509b4f1d",
           "bytes": 28203
         },
         "nameHe": {
           "path": "audio/names/he/lion.ogg",
-          "sha256": "a095e5a585ea0883fb25fa32910f7e85ddbc12b7c6a0042deda78e07a509d1d5",
+          "sha256": "1937bf5c7524dbc26de9b14b390896ef581473473696ed16ba1c6cf5baa28dc3",
           "bytes": 5864
         },
         "nameEn": {
           "path": "audio/names/en/lion.ogg",
-          "sha256": "7992e4cdb362878e519d796718f696adddee7de16b1b647802a0eea54d2110ac",
-          "bytes": 6621
+          "sha256": "2d1c20caaaaeaef85decdcabf0a78d7205c767bdc776a07c4920ebc6f1f01e96",
+          "bytes": 6303
         }
       }
     },
@@ -2030,6 +2188,14 @@
       "habitat": {
         "he": "בסוואנה וביער באפריקה ובאסיה",
         "en": "On the savannah and in forests in Africa and Asia"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "calf"
+      },
+      "size": {
+        "he": "גבוה משתי דלתות, וכבד כמו ארבע מכוניות",
+        "en": "Taller than two doors, heavier than four cars"
       },
       "facts": {
         "he": [
@@ -2071,18 +2237,18 @@
         ],
         "sound": {
           "path": "audio/sounds/elephant.ogg",
-          "sha256": "bb6407305b22681dda0a609762f7aac7ba18d826808532b94351f4ef64fa999a",
+          "sha256": "960541ffa9ef3f913853a2e4d836205bc0559fa430b0b798660668ede46be48a",
           "bytes": 10638
         },
         "nameHe": {
           "path": "audio/names/he/elephant.ogg",
-          "sha256": "3b121a4b460ad672fb76faada20385e9fe7c40e4a4a5ce9c47eba2415fe944d0",
+          "sha256": "88f907875a2ebefd2c91af123fe12b303882699c34dd6048a9f08323ee4e32b5",
           "bytes": 6666
         },
         "nameEn": {
           "path": "audio/names/en/elephant.ogg",
-          "sha256": "1692c83925bd7f4f958c5de33ff41f78dc4d098142e9c45be10108f6a78a098e",
-          "bytes": 7562
+          "sha256": "d300702e1c02f563cb9753708b4eccbf7a29297db55614abfda277548554fa31",
+          "bytes": 7192
         }
       }
     },
@@ -2118,6 +2284,14 @@
       "habitat": {
         "he": "בסוואנה של אפריקה, בין עצי שיטה",
         "en": "On the African savannah, among the acacia trees"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "calf"
+      },
+      "size": {
+        "he": "הכי גבוהה בעולם — כמו בית בן שתי קומות",
+        "en": "The tallest in the world — like a two-storey house"
       },
       "facts": {
         "he": [
@@ -2157,13 +2331,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/giraffe.ogg",
-          "sha256": "230078b11ede067ed87dbd9ec73667b6f11fb2dda7802bc86fd2736be150d9f6",
+          "sha256": "030872077f7271ec60035e6b5ac7b64143b3ae6f09175b00fe17bb58a65ff697",
           "bytes": 7008
         },
         "nameEn": {
           "path": "audio/names/en/giraffe.ogg",
-          "sha256": "1c23f8563879a9128dda14d70c720b692f82a0dfe4a0c8b3931028c1fc58386b",
-          "bytes": 7219
+          "sha256": "9a420f1d120fa7d0fd5616cb7f6003f667791c4609cf7c1e7a564e8dcde3975b",
+          "bytes": 7256
         }
       }
     },
@@ -2199,6 +2373,14 @@
       "habitat": {
         "he": "במישורי העשב של אפריקה",
         "en": "On the grasslands of Africa"
+      },
+      "babyName": {
+        "he": "סייחה",
+        "en": "foal"
+      },
+      "size": {
+        "he": "בערך בגודל של סוס קטן",
+        "en": "About the size of a small horse"
       },
       "facts": {
         "he": [
@@ -2238,18 +2420,18 @@
         ],
         "sound": {
           "path": "audio/sounds/zebra.ogg",
-          "sha256": "d76a422958e5dbb3e276b0ae87aed7721f49bef45decec6c157df9843d9a07b9",
+          "sha256": "dd98b54ff29e01747297370baf7a675a1a011f3e52ca1f2a163c938d7afbb67b",
           "bytes": 16734
         },
         "nameHe": {
           "path": "audio/names/he/zebra.ogg",
-          "sha256": "90e12a2a802e07295e3a8f258dfbcf686fa306a6d5ecd4db76b4bef8b5779a07",
+          "sha256": "2d12ddfc846b28fc7d03e17410ef94df04399693912b1f5fbb47060cca519028",
           "bytes": 5514
         },
         "nameEn": {
           "path": "audio/names/en/zebra.ogg",
-          "sha256": "1e313eb26267a840eae4617bbbcf12250a221b37618ecc77c665dc0e9ffa18ff",
-          "bytes": 7488
+          "sha256": "b98b91c3cd510ad83c5ecf5497d27e4cebe5741e973dce3bcf79b45c27e8c702",
+          "bytes": 7531
         }
       }
     },
@@ -2285,6 +2467,14 @@
       "habitat": {
         "he": "בסוואנה ובשמורות באפריקה ובאסיה",
         "en": "On the savannah and in reserves in Africa and Asia"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "calf"
+      },
+      "size": {
+        "he": "כבד כמו שתי מכוניות",
+        "en": "As heavy as two cars"
       },
       "facts": {
         "he": [
@@ -2324,18 +2514,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rhino.ogg",
-          "sha256": "e33649c4f0d7e09b964f8455a17ede3d77bdb8d132110d8a43b8c81c0fbe84ac",
+          "sha256": "b32559067fe5956a77ee4efe7bc3a90a128f69c89d223bca545552e39ebbd682",
           "bytes": 26328
         },
         "nameHe": {
           "path": "audio/names/he/rhino.ogg",
-          "sha256": "d3cb8fc9c738db59f6364c73f10bbffb5f7e093cb9039bec00aa08e2d4fa120f",
+          "sha256": "f4ee6bc41000a3aca0a14923f0abce923c1914101a46302668e5dbb590bcdc9c",
           "bytes": 6108
         },
         "nameEn": {
           "path": "audio/names/en/rhino.ogg",
-          "sha256": "a568e3c52dd62d4bb698e5bac27104e6a088819d0e676c02e4c2234d11692fad",
-          "bytes": 9743
+          "sha256": "6d0a55def6a4245315a7f6689b3ccff37133b3f4dc0b5d426bf1af7946e5d23f",
+          "bytes": 9642
         }
       }
     },
@@ -2371,6 +2561,14 @@
       "habitat": {
         "he": "בנהרות ובאגמים של אפריקה",
         "en": "In the rivers and lakes of Africa"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "calf"
+      },
+      "size": {
+        "he": "כבד כמו שלוש מכוניות",
+        "en": "As heavy as three cars"
       },
       "facts": {
         "he": [
@@ -2410,18 +2608,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hippo.ogg",
-          "sha256": "f1d6ab90e0fbacffbf3c1776b94b947279f3f1683ca97b9458aaeac539105afe",
+          "sha256": "5392062feaf0b914e7f8d2e92a7f83c2f38f95068108da7f9c1b41978955683e",
           "bytes": 19039
         },
         "nameHe": {
           "path": "audio/names/he/hippo.ogg",
-          "sha256": "0d68204e6e5cd22bdff141cc05d6e1d504f537a4d94c5a6f35ec19faa1d1d45e",
+          "sha256": "23b748ff28564220436cddb7e7016d31ebc0140ba237a610a7e774fa7988924a",
           "bytes": 8145
         },
         "nameEn": {
           "path": "audio/names/en/hippo.ogg",
-          "sha256": "ddae465d21f51b4b9a5a3c77189e94c7769043d15750194ca215fe6c46e81bb5",
-          "bytes": 10262
+          "sha256": "c2054d8fa127afb08ca0f60b8c08238ba95d44854e1dfd15083eef4702721a56",
+          "bytes": 10143
         }
       }
     },
@@ -2458,6 +2656,19 @@
         "he": "במישורים הפתוחים של אפריקה",
         "en": "On the open plains of Africa"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "cub"
+      },
+      "size": {
+        "he": "דק וארוך, בערך כמו ספה",
+        "en": "Slim and long, about sofa-sized"
+      },
+      "eatsIds": [
+        "deer",
+        "rabbit",
+        "ostrich"
+      ],
       "facts": {
         "he": [
           "הברדלס מגיע ממנוחה למהירות מלאה בשלוש שניות",
@@ -2496,13 +2707,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/cheetah.ogg",
-          "sha256": "d010aba937b33dafb8d14e6fe6d3d6d9decfd35c8db9ba24ff0d68fef7254f52",
+          "sha256": "6eee1a1b8e1bf69570c0925ea2aa791f2e4883f32711ec10cd71d08b9bc7f21a",
           "bytes": 6679
         },
         "nameEn": {
           "path": "audio/names/en/cheetah.ogg",
-          "sha256": "6a16b0eedc27f9c68967f3b148e45a8c5232de46f48a64383bbd5ea9a9b3ca5e",
-          "bytes": 7378
+          "sha256": "1404011b7cd325678ee55ec4ff7edfddf91ce331fbe0ff14d4a4d697cff6b473",
+          "bytes": 7191
         }
       }
     },
@@ -2539,6 +2750,19 @@
         "he": "ביערות, בהרים ובסוואנה של אפריקה ואסיה",
         "en": "In forests, mountains and savannah across Africa and Asia"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "cub"
+      },
+      "size": {
+        "he": "בערך בגודל של כלב גדול מאוד",
+        "en": "About the size of a very large dog"
+      },
+      "eatsIds": [
+        "monkey",
+        "deer",
+        "rabbit"
+      ],
       "facts": {
         "he": [
           "לכל נמר יש דגם כתמים ייחודי, ואפשר לזהות אותו לפיו",
@@ -2577,18 +2801,18 @@
         ],
         "sound": {
           "path": "audio/sounds/leopard.ogg",
-          "sha256": "2ec901040482de56b0fc131ff257996284c95ba5bd8c8ab40db74e16784e5b3d",
+          "sha256": "b5a8ad40839776caf303e6991fd4795bdee18677cc7f16e4c4f34808c896fc02",
           "bytes": 6123
         },
         "nameHe": {
           "path": "audio/names/he/leopard.ogg",
-          "sha256": "eb4098e4d770943a7859277ae25a378e6564b9de1f9d8abf64928bf6c2acf076",
+          "sha256": "45cd8012750c6256abb5f02ba92dd732a847d286603521e838e1cd9ce355380a",
           "bytes": 5314
         },
         "nameEn": {
           "path": "audio/names/en/leopard.ogg",
-          "sha256": "c999f5a01acda2fa2159afa80a769f0488eb5132b663c95759b21f5b3dd6b486",
-          "bytes": 6698
+          "sha256": "c62cc6da09711d0005a0517ee2d5f9039d666c73dd0d1c621419ee792223627f",
+          "bytes": 6817
         }
       }
     },
@@ -2624,6 +2848,14 @@
       "habitat": {
         "he": "ביערות הגשם של מרכז אפריקה",
         "en": "In the rainforests of central Africa"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "infant"
+      },
+      "size": {
+        "he": "גבוהה כמו אבא, ורחבה הרבה יותר",
+        "en": "As tall as a grown-up, and much broader"
       },
       "facts": {
         "he": [
@@ -2663,18 +2895,18 @@
         ],
         "sound": {
           "path": "audio/sounds/gorilla.ogg",
-          "sha256": "90839c7442adad65a18587c7671c9bdb1067db3da4f7bb217f78985806cb72b2",
+          "sha256": "906c0780f72b9536ac1c021e99868cfad1dd0077dd0ea2d31b40b84ed469ea63",
           "bytes": 26021
         },
         "nameHe": {
           "path": "audio/names/he/gorilla.ogg",
-          "sha256": "261b2136005905808d0dc576296391240f91a9a5aaa88622f995237bf4122274",
+          "sha256": "39f08dc54fa5aa1adc32c8d1381a0453adcfe650deb8f300a42aa0f2fda97f34",
           "bytes": 7268
         },
         "nameEn": {
           "path": "audio/names/en/gorilla.ogg",
-          "sha256": "fec672253d03856b4c1a88751f561d33a6c21b8974275f8bd5131f1df7294f20",
-          "bytes": 7149
+          "sha256": "64cd366979e2ca12c572e4ab0812f84dc4fa2413eb499ee6c828911f5ff2e614",
+          "bytes": 7172
         }
       }
     },
@@ -2711,6 +2943,18 @@
         "he": "בסוואנה ובמדבריות של אפריקה",
         "en": "On the savannah and in the deserts of Africa"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "cub"
+      },
+      "size": {
+        "he": "בערך בגודל של רועה גרמני",
+        "en": "About the size of a German shepherd"
+      },
+      "eatsIds": [
+        "zebra",
+        "ostrich"
+      ],
       "facts": {
         "he": [
           "הצבוע הוא קרוב משפחה של החתול, ולא של הכלב",
@@ -2749,18 +2993,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hyena.ogg",
-          "sha256": "8aad7c128e241516f268fd86fef16ee63ebcba468f011db5fbdb809e24e2a21e",
+          "sha256": "7f087fbd2079851954d37c4938ce01234bc6e789e044d7c6ef1c95b32c20b533",
           "bytes": 8439
         },
         "nameHe": {
           "path": "audio/names/he/hyena.ogg",
-          "sha256": "7f6844fb6cc74432e66804e35eb7bba05b9b352b49e65cf197d510a8b661af63",
+          "sha256": "200b19f51e764d4bb92def12e843940ed7dd12eb94a2df3a6f20a638c3181dc5",
           "bytes": 5703
         },
         "nameEn": {
           "path": "audio/names/en/hyena.ogg",
-          "sha256": "b6d9a9deb77ceded8c94deadf1c89ec850e2004fa10f009e24547f6e530b9e64",
-          "bytes": 7584
+          "sha256": "b08092c3750fa27d15437b2a40731c1f231d37024506e2399dd2491b8740cff5",
+          "bytes": 7564
         }
       }
     },
@@ -2797,6 +3041,19 @@
         "he": "במדבר קלהארי בדרום אפריקה",
         "en": "In the Kalahari Desert in southern Africa"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "pup"
+      },
+      "size": {
+        "he": "בגובה של בקבוק מים",
+        "en": "As tall as a water bottle"
+      },
+      "eatsIds": [
+        "scorpion",
+        "cricket",
+        "lizard"
+      ],
       "facts": {
         "he": [
           "תמיד יש סוריקטה אחת ששומרת, ומתחלפות במשמרות",
@@ -2835,13 +3092,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/meerkat.ogg",
-          "sha256": "5101d3e118a1e6d4b818f64a11959d302c84d703c361733c57205d45e9800332",
+          "sha256": "6eeb0b4082bbb8e2a87fd6e5ea4141acbd6370a8814c3b50251cdf446fd8a5d3",
           "bytes": 7822
         },
         "nameEn": {
           "path": "audio/names/en/meerkat.ogg",
-          "sha256": "5328bbc56f9308b485479c381cc858fbbd077813f1826b88d91e434b002273f1",
-          "bytes": 7681
+          "sha256": "c6d566bd49f55c2dba1a7add386f6e1ab15ae58ed24a29149503a18de80df8f5",
+          "bytes": 7804
         }
       }
     },
@@ -2878,6 +3135,20 @@
         "he": "בנהרות, בביצות ובאגמים החמים",
         "en": "In warm rivers, swamps and lakes"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "hatchling"
+      },
+      "size": {
+        "he": "ארוך כמו מכונית",
+        "en": "As long as a car"
+      },
+      "eatsIds": [
+        "fish",
+        "zebra",
+        "duck",
+        "turtle"
+      ],
       "facts": {
         "he": [
           "התנין מחליף שיניים כל החיים — עד אלפי שיניים",
@@ -2916,18 +3187,18 @@
         ],
         "sound": {
           "path": "audio/sounds/crocodile.ogg",
-          "sha256": "a51f42a2d9d408b2d801af976fa399a47733e8bc0690ff19bd93167f0f766f69",
+          "sha256": "7d7492009692d7872ebaf9583c657e4d30d156e77bfe89600aeff4ab53324aad",
           "bytes": 30114
         },
         "nameHe": {
           "path": "audio/names/he/crocodile.ogg",
-          "sha256": "c829e9c0a6e826779afca09901f7be189880854c90f88f9d5bb6c725b6e49776",
+          "sha256": "cc1db61200a968a6fee086d35498f011526ac6f7a046193ab8e37c9ba8d9892d",
           "bytes": 6618
         },
         "nameEn": {
           "path": "audio/names/en/crocodile.ogg",
-          "sha256": "8ca3d2b2feabebc7feb0019a7ed88e97d3f141b33eaa07657976145b2cb5d1d6",
-          "bytes": 7970
+          "sha256": "03a1e519c9fd886bba78300478938642bb3376bed43422e7113a94f96179ee62",
+          "bytes": 7889
         }
       }
     },
@@ -2964,6 +3235,17 @@
         "he": "באגמים מלוחים ורדודים",
         "en": "On shallow salty lakes"
       },
+      "babyName": {
+        "he": "אפרוח",
+        "en": "chick"
+      },
+      "size": {
+        "he": "גבוה כמעט כמוכם",
+        "en": "Almost as tall as you"
+      },
+      "eatsIds": [
+        "crab"
+      ],
       "facts": {
         "he": [
           "אפרוח פלמינגו נולד אפור ולבן, והוורוד מגיע רק אחרי שנים",
@@ -3002,18 +3284,18 @@
         ],
         "sound": {
           "path": "audio/sounds/flamingo.ogg",
-          "sha256": "d12819ba4efceebfec38a07a7419ba223d378c54630f679e019c10a7a9dd08bb",
+          "sha256": "b5122049133dc26862b515d5973b096cc71a794057623844ac52c464b77b520d",
           "bytes": 30805
         },
         "nameHe": {
           "path": "audio/names/he/flamingo.ogg",
-          "sha256": "1a3cb1cceed0e36fac928bd75beca74eadb43ac895bba40aea9b41824ed04c57",
+          "sha256": "a9fee70a2948628efd104c838eb4d552057c4325b37e712d4658c36ffdafe95b",
           "bytes": 8049
         },
         "nameEn": {
           "path": "audio/names/en/flamingo.ogg",
-          "sha256": "072cbf6dda3a4599de8b592586085438052f568e7b5859ecd68bcb21f6de97ac",
-          "bytes": 7660
+          "sha256": "1679b632133bddc26e62fbcbdeae02e56df08744c5a5b85577d41c1bcc7f2867",
+          "bytes": 7636
         }
       }
     },
@@ -3050,6 +3332,18 @@
         "he": "בסוואנה ובמדבריות של אפריקה",
         "en": "On the savannah and in the deserts of Africa"
       },
+      "babyName": {
+        "he": "אפרוח",
+        "en": "chick"
+      },
+      "size": {
+        "he": "גבוה יותר מאבא — הציפור הגדולה בעולם",
+        "en": "Taller than a grown-up — the biggest bird there is"
+      },
+      "eatsIds": [
+        "cricket",
+        "lizard"
+      ],
       "facts": {
         "he": [
           "ביצת יען היא הביצה הגדולה בעולם, ושוקלת כמו עשרים ביצי תרנגולת",
@@ -3088,13 +3382,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ostrich.ogg",
-          "sha256": "801337f003b71bb13c5c08ea72ddb2da52d2acd7e9967955dd0c56ae141bd328",
+          "sha256": "84f746382018507a13f441464e8a29beed2eea500f36065d63bb0971364da468",
           "bytes": 5041
         },
         "nameEn": {
           "path": "audio/names/en/ostrich.ogg",
-          "sha256": "b68ccbd2e404e9f68e969f1ca9976b77bda62a96783e29b4b2a5eb13f56f0351",
-          "bytes": 7785
+          "sha256": "87802b175cb58104db23a3ec759c3dd9c86fc30ce145204e845fc1d6de98bbb0",
+          "bytes": 7901
         }
       }
     },
@@ -3130,6 +3424,14 @@
       "habitat": {
         "he": "במדבריות של אסיה ואפריקה",
         "en": "In the deserts of Asia and Africa"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "calf"
+      },
+      "size": {
+        "he": "גבוה משני ילדים זה על זה",
+        "en": "Taller than two children standing on each other"
       },
       "facts": {
         "he": [
@@ -3169,18 +3471,18 @@
         ],
         "sound": {
           "path": "audio/sounds/camel.ogg",
-          "sha256": "f20869ccca8391851e786cf90f4aef3b088b390a7bfebdd3c5d7c5f7cb7758d7",
+          "sha256": "e9f3cd6f8d682e141b9636d37b9d4387788ae11c41d5606400b2046e56fddfe5",
           "bytes": 30608
         },
         "nameHe": {
           "path": "audio/names/he/camel.ogg",
-          "sha256": "efde779eddeea93c470b12a65c7443e02fab36a35222bc177728e1155e13a93b",
+          "sha256": "4678b8915d61aa183d5f9102a2127c7062d99f852883b83854e93b09eb6b5ae5",
           "bytes": 4901
         },
         "nameEn": {
           "path": "audio/names/en/camel.ogg",
-          "sha256": "67a4455edad28f8a759c1c07038efe4aa52b36eb9fa55f3d484a75cf329ea5bb",
-          "bytes": 6922
+          "sha256": "26897a23d9e2523d71099f63155635fd6412ba12230245e2b06f81927b0424c5",
+          "bytes": 6751
         }
       }
     },
@@ -3217,6 +3519,20 @@
         "he": "ביערות ובביצות של אסיה",
         "en": "In the forests and swamps of Asia"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "cub"
+      },
+      "size": {
+        "he": "ארוך כמו מיטה",
+        "en": "As long as a bed"
+      },
+      "eatsIds": [
+        "deer",
+        "water_buffalo",
+        "monkey",
+        "pig"
+      ],
       "facts": {
         "he": [
           "הפסים של הטיגריס נמצאים גם על העור שלו, ולא רק על הפרווה",
@@ -3255,18 +3571,18 @@
         ],
         "sound": {
           "path": "audio/sounds/tiger.ogg",
-          "sha256": "3159cc160ab522e7fc5ad2966025f0c644368215f68cd5809665de5c0b851435",
+          "sha256": "e28a4714806b3b002d0906908f10ee0daf2924eba68e296d9dd4946cd1444717",
           "bytes": 27607
         },
         "nameHe": {
           "path": "audio/names/he/tiger.ogg",
-          "sha256": "107e36b3f73176e2f5dfa04ad8b4691f612690a8908c9c3dcbef6da1c932a464",
+          "sha256": "1ae1554ef4243c715845b76ca74fc81bee957eca2b0b94d674260d39ae7f1088",
           "bytes": 8929
         },
         "nameEn": {
           "path": "audio/names/en/tiger.ogg",
-          "sha256": "79ec14cae7d220a59bb95dac974d1ed5114537052b502dd06ef6099084b5e000",
-          "bytes": 7121
+          "sha256": "e729bb90ec72b6b91697d174ca4e80e18d82c30d04954a6245c34ba3f0d90c9a",
+          "bytes": 6870
         }
       }
     },
@@ -3302,6 +3618,14 @@
       "habitat": {
         "he": "ביערות במבוק בהרי סין",
         "en": "In the bamboo forests of the Chinese mountains"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "cub"
+      },
+      "size": {
+        "he": "בערך בגודל של ילד גדול",
+        "en": "About the size of a big child"
       },
       "facts": {
         "he": [
@@ -3341,18 +3665,18 @@
         ],
         "sound": {
           "path": "audio/sounds/panda.ogg",
-          "sha256": "87b22bb0a9c7373f74c002e1822aee261961986a85da00747b585826f65656f5",
+          "sha256": "02b15216c3e80fd9da11217bb19c419374b3b75a5fe7a054c7dd94f11c4129a2",
           "bytes": 13234
         },
         "nameHe": {
           "path": "audio/names/he/panda.ogg",
-          "sha256": "16b6d1bfdca7daa6ac4d3cab2a8aeee58586a211c71b862146ab16c72a1df07c",
+          "sha256": "8c0a896da984ae5263c8e3c3267d7e371516042a41de5e32cb16ae4de895f008",
           "bytes": 5173
         },
         "nameEn": {
           "path": "audio/names/en/panda.ogg",
-          "sha256": "b462b3486128c95ee3e27673c7e37ba62ca73ab1799ca647989ed35b625292a6",
-          "bytes": 7023
+          "sha256": "d49385b4e500c1b3338c0ab0e00a443e2d70a69d09d3b97e65aa1c95f770d010",
+          "bytes": 7143
         }
       }
     },
@@ -3389,6 +3713,17 @@
         "he": "ביער הגשם ועל העצים",
         "en": "In the rainforest, up in the trees"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "infant"
+      },
+      "size": {
+        "he": "בערך בגודל של חתול גדול",
+        "en": "About the size of a large cat"
+      },
+      "eatsIds": [
+        "ant"
+      ],
       "facts": {
         "he": [
           "לקופים יש טביעות אצבע, כמו לבני אדם",
@@ -3429,18 +3764,18 @@
         ],
         "sound": {
           "path": "audio/sounds/monkey.ogg",
-          "sha256": "bafa4c0dd45aface1fe37706d2d1f678864d6a0ca4428808fac68e5d53987cfc",
+          "sha256": "5a6896b88d330af12e008472bb5774815f734fff3b1e988c39f5a69175c1adbb",
           "bytes": 14883
         },
         "nameHe": {
           "path": "audio/names/he/monkey.ogg",
-          "sha256": "9e0741463bab2a6849d8afec4571abcec809ce17d30a9f0bd8d715d113d8038b",
+          "sha256": "d5df9fb7e4394362379c529f661ad950082c8ad93c958b270c2c238cd6f59b92",
           "bytes": 5133
         },
         "nameEn": {
           "path": "audio/names/en/monkey.ogg",
-          "sha256": "4a69a9dc9a21f536c74d1fabc7dcfa34812c0ca7e9f3a231997c5e9fc6cce4fc",
-          "bytes": 6218
+          "sha256": "75d4cb0169a90e17e83cd274963b6878ea8dc953f0f7f8540666abb8c70c5ddb",
+          "bytes": 6486
         }
       }
     },
@@ -3476,6 +3811,14 @@
       "habitat": {
         "he": "ביערות הגשם של בורנאו וסומטרה",
         "en": "In the rainforests of Borneo and Sumatra"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "infant"
+      },
+      "size": {
+        "he": "בגובה של ילד, עם ידיים ארוכות מאוד",
+        "en": "Child-height, with very long arms"
       },
       "facts": {
         "he": [
@@ -3515,13 +3858,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/orangutan.ogg",
-          "sha256": "cf3c2c1e2afa309670ca208d0ea91f8b5c33c5ab6e4f98860f4d4838c1c091f6",
+          "sha256": "63c3ca583ebe1c0ce2fa0a0ded93d6ffa64775d5a8e4e20a7b6701c9341bd31b",
           "bytes": 7718
         },
         "nameEn": {
           "path": "audio/names/en/orangutan.ogg",
-          "sha256": "885b75b28fffd76ab42a00d06e936981a58af05793f7c810a7c0e094bf3e3354",
-          "bytes": 8678
+          "sha256": "67a937872f5deaa0154980ee3d09a09ca973705d692fcb9e726417a3ec772b35",
+          "bytes": 8576
         }
       }
     },
@@ -3558,6 +3901,20 @@
         "he": "ביערות ובכפרים של הודו",
         "en": "In the forests and villages of India"
       },
+      "babyName": {
+        "he": "אפרוח",
+        "en": "chick"
+      },
+      "size": {
+        "he": "עם הזנב פרוש — רחב כמו דלת",
+        "en": "With its tail open — as wide as a door"
+      },
+      "eatsIds": [
+        "snake",
+        "ant",
+        "cricket",
+        "lizard"
+      ],
       "facts": {
         "he": [
           "רק הזכר צבעוני; הנקבה חומה, כדי להסתתר עם האפרוחים",
@@ -3596,18 +3953,18 @@
         ],
         "sound": {
           "path": "audio/sounds/peacock.ogg",
-          "sha256": "de9bf7469e85e3e8a3f5a158ab171f09bad2bf0c24603f7df7577f2771ffb26c",
+          "sha256": "93b2c2f3333af7d725a1aa0e12217f15c7eb749d635a948683a61eebfafc998c",
           "bytes": 28487
         },
         "nameHe": {
           "path": "audio/names/he/peacock.ogg",
-          "sha256": "93c68671c871b1ac740ea5d37a4761aaddc776edfa9dc68aececd5dc40e779f7",
+          "sha256": "21e38ddfacfa55e07bd2c69ce3436b70de8982bedea7b9c25ef9af49344ff50a",
           "bytes": 5405
         },
         "nameEn": {
           "path": "audio/names/en/peacock.ogg",
-          "sha256": "1181adb0c9eacd6e2147a3c49fb0974193f4bef4aa716731dea2ccbc19b6c6cc",
-          "bytes": 7699
+          "sha256": "7de783c039c9cb7a49662e2749f976e43e9af133d2a56c9706d530b64cf1dced",
+          "bytes": 7622
         }
       }
     },
@@ -3644,6 +4001,20 @@
         "he": "במדבר, ביער, בשדה ובין סלעים",
         "en": "In deserts, forests, fields and among rocks"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "hatchling"
+      },
+      "size": {
+        "he": "יש קטנים כמו עיפרון וארוכים כמו אוטובוס",
+        "en": "Some as small as a pencil, some as long as a bus"
+      },
+      "eatsIds": [
+        "mouse",
+        "frog",
+        "sparrow",
+        "lizard"
+      ],
       "facts": {
         "he": [
           "הנחש מריח באמצעות הלשון, ומעביר את הריח לחיך",
@@ -3682,18 +4053,18 @@
         ],
         "sound": {
           "path": "audio/sounds/snake.ogg",
-          "sha256": "cfb244226c836e0873036818ef3aa078034c9b7c8745a743b8c0121046547055",
+          "sha256": "0e51772d4a7524dbd97e58be41c206d93b8ad8465c55daedd411b37bc63dee9a",
           "bytes": 28601
         },
         "nameHe": {
           "path": "audio/names/he/snake.ogg",
-          "sha256": "563e57d8c3ae35a0929e27b69d599f13d11f8d85e0d285db50452887040e9209",
+          "sha256": "83a1a8e93623f62fb1dfb6a5bd99a35e32b3360d4058cb2cb14dae077dad1657",
           "bytes": 5520
         },
         "nameEn": {
           "path": "audio/names/en/snake.ogg",
-          "sha256": "6d37243caf83b38ea22d5dce8210af9b45628532b00e110cafd67971e8da406c",
-          "bytes": 7106
+          "sha256": "d941b17792762261b7653c3425dbcd0af39d1418b59fddb39c3be96d0f16adf1",
+          "bytes": 6833
         }
       }
     },
@@ -3729,6 +4100,14 @@
       "habitat": {
         "he": "בשדות אורז, בביצות ובנהרות של אסיה",
         "en": "In rice fields, swamps and rivers across Asia"
+      },
+      "babyName": {
+        "he": "עגל",
+        "en": "calf"
+      },
+      "size": {
+        "he": "כבד כמו מכונית גדולה",
+        "en": "As heavy as a big car"
       },
       "facts": {
         "he": [
@@ -3768,13 +4147,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/water_buffalo.ogg",
-          "sha256": "42a960cd4a68400cf44dc625194f905fc124a44ada70fa85da5e154f01753e03",
+          "sha256": "63108c48b658a9cc34bebadb338404929d999738949cc963c441ae4767c439ec",
           "bytes": 4889
         },
         "nameEn": {
           "path": "audio/names/en/water_buffalo.ogg",
-          "sha256": "51c037cc69f4c55f73cb2f40593a6ac85a5d0256c70d48b8d5ae4635e7b885c1",
-          "bytes": 9706
+          "sha256": "46c464ec16e529f155498df52e86a0063d74006e7f578607979699bd57e00130",
+          "bytes": 9737
         }
       }
     },
@@ -3810,6 +4189,14 @@
       "habitat": {
         "he": "ברמות הגבוהות של טיבט והימלאיה",
         "en": "On the high plateaus of Tibet and the Himalayas"
+      },
+      "babyName": {
+        "he": "עגל",
+        "en": "calf"
+      },
+      "size": {
+        "he": "כבד כמו מכונית, ומכוסה פרווה ארוכה",
+        "en": "Car-heavy, under a long shaggy coat"
       },
       "facts": {
         "he": [
@@ -3849,18 +4236,18 @@
         ],
         "sound": {
           "path": "audio/sounds/yak.ogg",
-          "sha256": "d265b015c89a4523527e9987139756ceae577ca61d2569c6d0ffe96e41055848",
+          "sha256": "c80a0b489631be824d1f5e357267b65b7caeab73ee7966b462b57e869a22fe54",
           "bytes": 28373
         },
         "nameHe": {
           "path": "audio/names/he/yak.ogg",
-          "sha256": "394756c29a067a1a2495b11d05e4399b571554e04f4c8a6e6cfd30739dc1c3ad",
+          "sha256": "3140cbe992cba07c186ebd471de9045cdaa961564c47f875e2401d99a05fe65f",
           "bytes": 4660
         },
         "nameEn": {
           "path": "audio/names/en/yak.ogg",
-          "sha256": "8d607dbe69b0cb33595ebfeb6bd8edde06a7ba9100a4b4f2eb0aacc284a0e5a6",
-          "bytes": 6319
+          "sha256": "7ba4aeb1447f69b69da8d3f51ec6cf0dfc7471747d12de91d513134510f34e20",
+          "bytes": 6324
         }
       }
     },
@@ -3897,6 +4284,20 @@
         "he": "ביערות ובהרים של אירופה, אסיה ואמריקה",
         "en": "In the forests and mountains of Europe, Asia and America"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "cub"
+      },
+      "size": {
+        "he": "כשהוא עומד — גבוה משתי דלתות",
+        "en": "Standing up — taller than two doors"
+      },
+      "eatsIds": [
+        "fish",
+        "bee",
+        "mouse",
+        "deer"
+      ],
       "facts": {
         "he": [
           "הדוב ישן כל החורף בלי לאכול ובלי לשתות",
@@ -3935,18 +4336,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bear.ogg",
-          "sha256": "86565ff9bee844a43e70c4db8ed268f51ef301ac5201cba36f04b4e2aafbe45c",
+          "sha256": "c51a9b36023c3d364e0b5cd020b0d0ab720c09361d4cb5cdf875e68e9c95ca82",
           "bytes": 28793
         },
         "nameHe": {
           "path": "audio/names/he/bear.ogg",
-          "sha256": "e7de1f951762f3743d659c4d9701c34bf274f744f67aa5945c8ee9f8028cb031",
+          "sha256": "e2220a02bd3ba2379bdb87805bd2b3adbb03839061aac3e6939b20455372a0a6",
           "bytes": 4937
         },
         "nameEn": {
           "path": "audio/names/en/bear.ogg",
-          "sha256": "0bd8cb428d8ee59e9ab3317f8f1336c50a4c61446ade82e3bda0d178b031d53a",
-          "bytes": 5443
+          "sha256": "4914418bb8fdc89c9aeadf32ffa85dc416977aebef917960a69df931a4ffded0",
+          "bytes": 5594
         }
       }
     },
@@ -3983,6 +4384,18 @@
         "he": "על הקרח של הקוטב הצפוני",
         "en": "On the ice of the Arctic"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "cub"
+      },
+      "size": {
+        "he": "הדוב הגדול בעולם, כבד כמו מכונית",
+        "en": "The biggest bear there is, as heavy as a car"
+      },
+      "eatsIds": [
+        "seal",
+        "fish"
+      ],
       "facts": {
         "he": [
           "העור של דוב הקוטב שחור מתחת לפרווה, כדי לספוג את חום השמש",
@@ -4021,18 +4434,18 @@
         ],
         "sound": {
           "path": "audio/sounds/polar_bear.ogg",
-          "sha256": "3a926262deef3d74a3800e5a5cb831bdcd777b00ec9bf3b8ceba8de856053ca2",
+          "sha256": "6ae23065b783786c58c1107022d17f4e1926bb020cb1fe4c250b744b9b19c34c",
           "bytes": 30543
         },
         "nameHe": {
           "path": "audio/names/he/polar_bear.ogg",
-          "sha256": "11fadaa4f413b0a584b65e7e61bb363cca3cb8f6ab48049d798232d8a390fd6f",
+          "sha256": "7710278f22fed763bedb88cdd828f1485cf5431c02f677e16bdbc7517571ee99",
           "bytes": 7226
         },
         "nameEn": {
           "path": "audio/names/en/polar_bear.ogg",
-          "sha256": "64a05b804741db2bc415345decf6927e686cc54c82095525f15524d8ac88767c",
-          "bytes": 8641
+          "sha256": "c5a337b624736f7730e076ee3b7bbec53dda45992831c4302a8da3561ad1b703",
+          "bytes": 8627
         }
       }
     },
@@ -4069,6 +4482,20 @@
         "he": "ביערות, בהרים ובערבות הקרות",
         "en": "In forests, mountains and cold steppes"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "pup"
+      },
+      "size": {
+        "he": "בערך בגודל של כלב רועים גדול",
+        "en": "About the size of a large shepherd dog"
+      },
+      "eatsIds": [
+        "deer",
+        "moose",
+        "rabbit",
+        "mouse"
+      ],
       "facts": {
         "he": [
           "היללה של הזאב נשמעת למרחק עשרה קילומטרים",
@@ -4107,18 +4534,18 @@
         ],
         "sound": {
           "path": "audio/sounds/wolf.ogg",
-          "sha256": "f43c9759f93f1dcaf724225b4c4ac6c45385bdcade0d831c119f848496b16657",
+          "sha256": "1ccd54fb933b70dca003f79fa80b2f87e20404abc1c320cad00e115b23c8df1f",
           "bytes": 21311
         },
         "nameHe": {
           "path": "audio/names/he/wolf.ogg",
-          "sha256": "a22fb64805b449c518bad0a80c2801b4d823890098cb0704ee4bb240cd538fbb",
+          "sha256": "2bd688dbcc1667a4c89dded8c409cd4d17fb887503ae4059e23dedfa10c1e0fc",
           "bytes": 5014
         },
         "nameEn": {
           "path": "audio/names/en/wolf.ogg",
-          "sha256": "602c785174ed358a4a39f6ad81ebc4b92a8ddb55019f44d644dc073e446f7bd7",
-          "bytes": 5365
+          "sha256": "4d1dc982a761bf324a7b43deabb2724ddf712b6eb1ba7a1fdac88aca1621aa4b",
+          "bytes": 5134
         }
       }
     },
@@ -4155,6 +4582,20 @@
         "he": "בשדות, ביערות, במדבר ולפעמים בקצה העיר",
         "en": "In fields, forests, deserts and sometimes at the edge of town"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "kit"
+      },
+      "size": {
+        "he": "קטן מכלב — בערך בגודל של חתול גדול",
+        "en": "Smaller than a dog — about a big cat"
+      },
+      "eatsIds": [
+        "mouse",
+        "rabbit",
+        "sparrow",
+        "frog"
+      ],
       "facts": {
         "he": [
           "השועל שומע מכרסם שזז מתחת לשלג, ואז קופץ ישר עליו",
@@ -4193,18 +4634,18 @@
         ],
         "sound": {
           "path": "audio/sounds/fox.ogg",
-          "sha256": "89237ddfe439ac296eac2169e77d02b300740402f85fd818dd8917f03824f18b",
+          "sha256": "59dafb8cb71c85e883186e9cad06d63d7a1135e69538f7a331005d4681bfd6ea",
           "bytes": 30219
         },
         "nameHe": {
           "path": "audio/names/he/fox.ogg",
-          "sha256": "1205088bd03e7c610ce237a56b506db6b5a006246c8cc54a8c80a4d231c38cde",
+          "sha256": "789d3b7798207d6540c7e508bd99cf2baa2155bcef36c472f5ef8c9a40371e76",
           "bytes": 5376
         },
         "nameEn": {
           "path": "audio/names/en/fox.ogg",
-          "sha256": "fa2d1744bd51b02f388a5f792df1ee4ffd4912ee20f238d37e53acc38967ae87",
-          "bytes": 6830
+          "sha256": "694e85218022265039b1b82c8edc387f83c56015d367cfc33cdde1ad9850850a",
+          "bytes": 7071
         }
       }
     },
@@ -4240,6 +4681,14 @@
       "habitat": {
         "he": "ביערות ובאחו",
         "en": "In forests and meadows"
+      },
+      "babyName": {
+        "he": "עופר",
+        "en": "fawn"
+      },
+      "size": {
+        "he": "מגיע עד החזה של אבא",
+        "en": "Comes up to a grown-up's chest"
       },
       "facts": {
         "he": [
@@ -4279,18 +4728,18 @@
         ],
         "sound": {
           "path": "audio/sounds/deer.ogg",
-          "sha256": "f21fbc1d4fdcc3945c6c72956afad5037b3a0212ec1ff5c8be0d2982cf963bfe",
+          "sha256": "f99930c10ef1c0f8075a7386f5619d4581a8b170b429a559b91293675a6d01e6",
           "bytes": 8308
         },
         "nameHe": {
           "path": "audio/names/he/deer.ogg",
-          "sha256": "9fb92b64addb013665235fa33aee25bd813ea99037364c53bbc68325b70231e0",
+          "sha256": "bd5871168b583a8196f5fdc11b9e6ba8db2d37fbd9fea092811adf2aafe3645c",
           "bytes": 6098
         },
         "nameEn": {
           "path": "audio/names/en/deer.ogg",
-          "sha256": "21e68ec9026f286780271a789cd13e18b95d91cf8ec01ceaa4d4f0386499802e",
-          "bytes": 6313
+          "sha256": "9b7e4b0e29f5204857131afa4cd4f0694c1954474d16c58e6e403967f3c9dc5a",
+          "bytes": 6184
         }
       }
     },
@@ -4326,6 +4775,14 @@
       "habitat": {
         "he": "ביערות הקרים של קנדה, סקנדינביה ורוסיה",
         "en": "In the cold forests of Canada, Scandinavia and Russia"
+      },
+      "babyName": {
+        "he": "עגל",
+        "en": "calf"
+      },
+      "size": {
+        "he": "הכי גדול במשפחת האיילים — גבוה ממכונית",
+        "en": "The biggest deer of all — taller than a car"
       },
       "facts": {
         "he": [
@@ -4365,18 +4822,18 @@
         ],
         "sound": {
           "path": "audio/sounds/moose.ogg",
-          "sha256": "5ca18de1dd49608da7a523f2664f3539c18c658311397f707c34d8e6ce5538a6",
+          "sha256": "ad282b16eb7f65d09369a1ebb2a7eb8f7c61f843a67eaac3b63bfd81ee75da8e",
           "bytes": 28003
         },
         "nameHe": {
           "path": "audio/names/he/moose.ogg",
-          "sha256": "cdb588b7c01290e871223fcd8f097dd5d496aadaa795b810564b967e93667381",
+          "sha256": "801223202a0a76da8ef526927ee3e5e98133ceac5361cd1313a41bf5ce65cd42",
           "bytes": 5226
         },
         "nameEn": {
           "path": "audio/names/en/moose.ogg",
-          "sha256": "ed4da35a339fc3106e3d3340e97c90847a8e30a165fe26673e5e588b87053495",
-          "bytes": 6731
+          "sha256": "77c5c9bcc124eac26fa9e6ba2ba2328309f3a5e2d5657ae1dd65e7421b06a752",
+          "bytes": 6574
         }
       }
     },
@@ -4413,6 +4870,21 @@
         "he": "בגינות, בשדות ובשיחים",
         "en": "In gardens, fields and hedgerows"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "hoglet"
+      },
+      "size": {
+        "he": "נכנס בתוך כף יד",
+        "en": "Fits in the palm of a hand"
+      },
+      "eatsIds": [
+        "snail",
+        "ant",
+        "caterpillar",
+        "spider",
+        "cricket"
+      ],
       "facts": {
         "he": [
           "על הקיפוד יש כחמשת אלפים קוצים, והם עשויים מאותו חומר כמו שיער",
@@ -4451,18 +4923,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hedgehog.ogg",
-          "sha256": "f1e016d099ca139b010e2c7c4cf04402998aa31d0d0e89ec9d9fca5dccc857ce",
+          "sha256": "20661c81efa71772f9cf6acd8c3862528431331ed9845ed4667e5d4be1ed8966",
           "bytes": 32536
         },
         "nameHe": {
           "path": "audio/names/he/hedgehog.ogg",
-          "sha256": "4523b9d8dc41ed03375a8868401377b3cc591e5cbf5c551b19e8029b3a4564f0",
+          "sha256": "760e3cc625abab873693ebe0b30c38a4df86cfa061dffd5637e26bd662aeafb9",
           "bytes": 6966
         },
         "nameEn": {
           "path": "audio/names/en/hedgehog.ogg",
-          "sha256": "70fa846e1b14ea1864eef2152167bf6a269ef6d0cc5f4ae6ceba88bd2ef99e6c",
-          "bytes": 7071
+          "sha256": "42e02f2c0c967e83a8d89a2e94e042a2cb5cdc71bf73689cb97e5af09477e392",
+          "bytes": 6981
         }
       }
     },
@@ -4498,6 +4970,14 @@
       "habitat": {
         "he": "ביערות, בפארקים ובגנים",
         "en": "In forests, parks and gardens"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "kit"
+      },
+      "size": {
+        "he": "בערך בגודל של בקבוק קטן",
+        "en": "About the size of a small bottle"
       },
       "facts": {
         "he": [
@@ -4537,18 +5017,18 @@
         ],
         "sound": {
           "path": "audio/sounds/squirrel.ogg",
-          "sha256": "959ce7b7de5655956ad1d5343a02529434404f655722385b58dff9495a40e72c",
+          "sha256": "a1fae247c30ac571f5bd41cbfb22649376af9bdfe0d2a428c82760e54503b8f4",
           "bytes": 31608
         },
         "nameHe": {
           "path": "audio/names/he/squirrel.ogg",
-          "sha256": "f85d7b2a26559cb1dd948c98442b013c8da2cc5a0de3ebdd13a6f7ea93a94338",
+          "sha256": "f1e5042c92ebe9d02ae1adf556b5b63c1b913c39fc93105370c2d4c829ed6c4c",
           "bytes": 6516
         },
         "nameEn": {
           "path": "audio/names/en/squirrel.ogg",
-          "sha256": "821595245cea9951ea9ed112afac0ce3a34f3d2e7e400f8cebdb565ed23ba6b4",
-          "bytes": 7360
+          "sha256": "2a944d29c56fc8bbbc11ddc8ed37176b8a9d350e9f9f457408bae9003da237f4",
+          "bytes": 7632
         }
       }
     },
@@ -4585,6 +5065,18 @@
         "he": "ביערות ובשדות של אירופה ואסיה",
         "en": "In the forests and fields of Europe and Asia"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "cub"
+      },
+      "size": {
+        "he": "בערך בגודל של כלב קטן ושמן",
+        "en": "About the size of a short, stout dog"
+      },
+      "eatsIds": [
+        "mouse",
+        "snail"
+      ],
       "facts": {
         "he": [
           "מחילת גיריות יכולה להיות בת מאה שנה, ודורות ממשיכים לחפור אותה",
@@ -4623,18 +5115,18 @@
         ],
         "sound": {
           "path": "audio/sounds/badger.ogg",
-          "sha256": "306c44ced1d0f7b430925602a54e4cf43045a25a733e4ebde0ab11cfc3530c31",
+          "sha256": "7ee3adbb9a6b6da665d42955095537b749793627e0d04ee6ea36e865e23ab56a",
           "bytes": 30422
         },
         "nameHe": {
           "path": "audio/names/he/badger.ogg",
-          "sha256": "209b6dcbe5ce3ef8a1c949d8a90105174123e1b8bd84372c4e935cab3c1616de",
+          "sha256": "e5dca405abfb6cdca168cebd9f22b7fbba6eee4e53f81c9e851dd49b418b1f2c",
           "bytes": 7315
         },
         "nameEn": {
           "path": "audio/names/en/badger.ogg",
-          "sha256": "120be5105d3fb6cb049b62affe4b66a67a573f9e2f840d6ba9e8d7f00232b915",
-          "bytes": 6739
+          "sha256": "6b8029300d50723f315d62e215f6492c68df67077af0152e1ae6778f453abc67",
+          "bytes": 6895
         }
       }
     },
@@ -4670,6 +5162,14 @@
       "habitat": {
         "he": "בנהרות ובאגמים של אירופה וצפון אמריקה",
         "en": "In the rivers and lakes of Europe and North America"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "kit"
+      },
+      "size": {
+        "he": "בערך בגודל של חתול שמן מאוד",
+        "en": "About the size of a very plump cat"
       },
       "facts": {
         "he": [
@@ -4709,13 +5209,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/beaver.ogg",
-          "sha256": "221d4d57eafcde3961cc5d2654b584df49bbf3da2ba2ff8c56fe21477cfae6b4",
+          "sha256": "e1b61156622afc70979ca151f97e707fe1a33091ca3697f5ab3b686d433ff456",
           "bytes": 5581
         },
         "nameEn": {
           "path": "audio/names/en/beaver.ogg",
-          "sha256": "fff20eef25cc5b81e4aada6d3c3fd8e6e507ff90c6a3fbd87fd7caf200c25a11",
-          "bytes": 6443
+          "sha256": "3eb579f32a393da4f78bcc6ce268654b6207eee39dddc674e870a82d2bbbdf1b",
+          "bytes": 6270
         }
       }
     },
@@ -4752,6 +5252,19 @@
         "he": "בנהרות, בפלגים ולאורך החוף",
         "en": "In rivers, streams and along the coast"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "pup"
+      },
+      "size": {
+        "he": "ארוכה כמו זרוע של אבא",
+        "en": "As long as a grown-up's arm"
+      },
+      "eatsIds": [
+        "fish",
+        "crab",
+        "frog"
+      ],
       "facts": {
         "he": [
           "לוטרות ים אוחזות ידיים בשינה, כדי לא להיסחף זו מזו",
@@ -4790,18 +5303,18 @@
         ],
         "sound": {
           "path": "audio/sounds/otter.ogg",
-          "sha256": "29af081dc1a72afb462d49d7cce919597b737a27d3f30a390e86ba98ef0532bc",
+          "sha256": "627382e513a56221f0d8678f2d5e12c3e95f1289fe585f69a1387fe0c4c1af1f",
           "bytes": 29325
         },
         "nameHe": {
           "path": "audio/names/he/otter.ogg",
-          "sha256": "1310cc305c671d224e1f015589826f58d7d8ae260f02e1a23d08a111dea1d847",
+          "sha256": "f7981cb8bbfa6150667ccfe5c775bad3414d190518053efea8f55005faf7b051",
           "bytes": 5975
         },
         "nameEn": {
           "path": "audio/names/en/otter.ogg",
-          "sha256": "e14dbc4fee955921ae7938e06636a41cec5df52651a3b6c0e045d264e9f334f6",
-          "bytes": 5260
+          "sha256": "9cd6b7a39d43e8ed9a5d1c0e3825996c4ff4f0dfd9c8b37bd2f8d627731e27c5",
+          "bytes": 5502
         }
       }
     },
@@ -4838,6 +5351,20 @@
         "he": "ביערות, במטעים ובחורבות",
         "en": "In forests, orchards and old ruins"
       },
+      "babyName": {
+        "he": "אפרוח",
+        "en": "owlet"
+      },
+      "size": {
+        "he": "יש קטנים ככוס ויש בגודל של חתול",
+        "en": "Some cup-sized, some as big as a cat"
+      },
+      "eatsIds": [
+        "mouse",
+        "bat",
+        "sparrow",
+        "frog"
+      ],
       "facts": {
         "he": [
           "הנוצות שלו מרככות את האוויר, ולכן הוא עף בלי קול",
@@ -4876,18 +5403,18 @@
         ],
         "sound": {
           "path": "audio/sounds/owl.ogg",
-          "sha256": "0dc0864b83f8e59ce358cd6a6c3969aeb0920000435e7871ee423f1a22e498e0",
+          "sha256": "0a74183e62e107a0ba37844eedbb40fca062f3dfdaafe6eca0625391ccedee4a",
           "bytes": 28347
         },
         "nameHe": {
           "path": "audio/names/he/owl.ogg",
-          "sha256": "c4b33eacbe81d23ef6cebb27705a7f0d786879202cafa9f777cbaed25744dfd1",
+          "sha256": "61fa89ed2d22d4884b137cc4e6948c98623a6b3906f5fbd874fa70ab46e8f1eb",
           "bytes": 6793
         },
         "nameEn": {
           "path": "audio/names/en/owl.ogg",
-          "sha256": "cfe173aa03d37e0e97749f354d23084434fd5044ceacea9cf920cc94e953e09b",
-          "bytes": 6002
+          "sha256": "6809633d418f19c3fe8b17fb3eed6e8f982f06fe7f30ca743e7ce7e89a72fb02",
+          "bytes": 5931
         }
       }
     },
@@ -4924,6 +5451,20 @@
         "he": "בהרים גבוהים ובצוקים",
         "en": "On high mountains and cliffs"
       },
+      "babyName": {
+        "he": "אפרוח",
+        "en": "eaglet"
+      },
+      "size": {
+        "he": "כשהוא פורש כנפיים — רחב כמו מיטה",
+        "en": "Wings open — as wide as a bed"
+      },
+      "eatsIds": [
+        "fish",
+        "rabbit",
+        "snake",
+        "mouse"
+      ],
       "facts": {
         "he": [
           "העיט רואה ארנב ממרחק של שלושה קילומטרים",
@@ -4962,18 +5503,18 @@
         ],
         "sound": {
           "path": "audio/sounds/eagle.ogg",
-          "sha256": "8cc0aea4c633612c8e7eb9d55b0bee0a25361f2034ef83b59a436c6c648b7199",
+          "sha256": "c165eaedb56f4028210e7d22d18998f954e84381982c2a2cd519716571a0775b",
           "bytes": 27962
         },
         "nameHe": {
           "path": "audio/names/he/eagle.ogg",
-          "sha256": "7c1196129f48570ec49779f1204d289c03de4b23c9bdfb39dd1fb7c12570faf5",
+          "sha256": "0be7272b355ae9f994da48044f686dd7830c61b7c4de8a2bf702011d97ec6bcf",
           "bytes": 5433
         },
         "nameEn": {
           "path": "audio/names/en/eagle.ogg",
-          "sha256": "85287a0c57c43c48a571669289d6d3b9df7aab98636c69650e079e8a06afe6f6",
-          "bytes": 6642
+          "sha256": "cbb49eaaf61b7dd7da300ef04e781e5bd6bcf5b32836ab57998925d89a532eb9",
+          "bytes": 6462
         }
       }
     },
@@ -5010,6 +5551,20 @@
         "he": "ביערות, ליד נחלים ובקצה הערים",
         "en": "In forests, near streams and on the edge of towns"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "kit"
+      },
+      "size": {
+        "he": "בערך בגודל של חתול גדול",
+        "en": "About the size of a large cat"
+      },
+      "eatsIds": [
+        "fish",
+        "crab",
+        "frog",
+        "snail"
+      ],
       "facts": {
         "he": [
           "הידיים של הדביבון רגישות כל כך, שהוא מזהה חפץ בלי לראות אותו",
@@ -5048,18 +5603,18 @@
         ],
         "sound": {
           "path": "audio/sounds/raccoon.ogg",
-          "sha256": "ab63689ca94fa01d3024af0f7696c012ee3f0647d6a1d1f426dcd2842788eb64",
+          "sha256": "db9f6435eee489ddfcd6566b907b482146e63e2b3c9d043374aa47ef8596f40f",
           "bytes": 28870
         },
         "nameHe": {
           "path": "audio/names/he/raccoon.ogg",
-          "sha256": "89ad690d4cea6a95aa15143255309d4a1c8bcd0eda72804e207855bf5e31e84f",
+          "sha256": "b545d8d04f6a0b3b5621637b28dcbe4e4749ed463c3a01147d563f59eccc3ef7",
           "bytes": 8428
         },
         "nameEn": {
           "path": "audio/names/en/raccoon.ogg",
-          "sha256": "cdecf74b3bfd6c27b56c77fcf364bb9f814a9dd4593c67961cdac75324a0fce0",
-          "bytes": 7582
+          "sha256": "3abfe79d15d7d49550171b16156a18fc0451600a4661f3786ee861794a0dbb80",
+          "bytes": 7774
         }
       }
     },
@@ -5095,6 +5650,14 @@
       "habitat": {
         "he": "בערבות של צפון אמריקה וביערות אירופה",
         "en": "On the plains of North America and in European forests"
+      },
+      "babyName": {
+        "he": "עגל",
+        "en": "calf"
+      },
+      "size": {
+        "he": "כבד כמו מכונית, עם ראש ענק",
+        "en": "Car-heavy, with an enormous head"
       },
       "facts": {
         "he": [
@@ -5134,18 +5697,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bison.ogg",
-          "sha256": "faa5e5462151e09a1f4c424e8ec7464257feb7ebbe51d63cd9fb679bac2d2988",
+          "sha256": "f4123942a95dd735bceeda33fdd4081f1c944882583b099d232697bda65bb410",
           "bytes": 21738
         },
         "nameHe": {
           "path": "audio/names/he/bison.ogg",
-          "sha256": "1f8e7f38dd03837733f135c84b0e892eee712140550ee0685c8e897dbe8f0d48",
+          "sha256": "4ded34219cd9e5982c1d5e7c84afbe0f1c20d9cb80cf6e9a4d7d3fe0f04156cc",
           "bytes": 8456
         },
         "nameEn": {
           "path": "audio/names/en/bison.ogg",
-          "sha256": "2263189bef16edc0c34f75cbc0668467bcbd6258ec9f877e5e70cccbf12543cb",
-          "bytes": 6467
+          "sha256": "7ea84515e9340db13594d33b03596157d5babbdef63a4888e32b04aaa8c5efc0",
+          "bytes": 6663
         }
       }
     },
@@ -5182,6 +5745,20 @@
         "he": "ביערות ובשדות של אמריקה",
         "en": "In the forests and fields of America"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "kit"
+      },
+      "size": {
+        "he": "בערך בגודל של חתול",
+        "en": "About the size of a cat"
+      },
+      "eatsIds": [
+        "bee",
+        "cricket",
+        "mouse",
+        "snail"
+      ],
       "facts": {
         "he": [
           "הבואש מזהיר קודם ברקיעות ובהרמת הזנב, ומתיז רק אם חייבים",
@@ -5220,13 +5797,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/skunk.ogg",
-          "sha256": "15f49ddd205c5013439aeedecc1f71c3ebea1576baad3c878c89be939bf22191",
+          "sha256": "05db466dc0d74e43a7e320a329c0f9a362dae987be176cdcbaee9c3b9424b03a",
           "bytes": 6058
         },
         "nameEn": {
           "path": "audio/names/en/skunk.ogg",
-          "sha256": "0176c3cd63fdb96e4669aed2dc6a5c87d0dac3ed56ff9b51fdbb8640699db9dc",
-          "bytes": 6989
+          "sha256": "0c9ee131f21f85485ee5e1a9d65f9e0df121e8f1450b403f494d5420ed2e5634",
+          "bytes": 7328
         }
       }
     },
@@ -5262,6 +5839,14 @@
       "habitat": {
         "he": "במישורים ובשיחים של אוסטרליה",
         "en": "On the plains and scrublands of Australia"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "joey"
+      },
+      "size": {
+        "he": "כשהוא עומד — גבוה כמו אבא",
+        "en": "Standing up — as tall as a grown-up"
       },
       "facts": {
         "he": [
@@ -5301,13 +5886,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/kangaroo.ogg",
-          "sha256": "0cb410f16215491a0a165f2f2e97c73fa7f191d3e5a4963b27dec81d6982d34d",
+          "sha256": "236d66019906d5cf0275e892944b05239a9f6c08124f9be416aa94c1d9d8a8d7",
           "bytes": 6390
         },
         "nameEn": {
           "path": "audio/names/en/kangaroo.ogg",
-          "sha256": "efcd2c59bad1cb35b55cd7b5d097f12be7251f2f79ccf7aaad03eac75bfa553e",
-          "bytes": 7590
+          "sha256": "efe910a018b65e911f56600eea26f09a025df0b3225dc3e08ba7457e17d3fa43",
+          "bytes": 7719
         }
       }
     },
@@ -5343,6 +5928,14 @@
       "habitat": {
         "he": "ביערות האקליפטוס של אוסטרליה",
         "en": "In the eucalyptus forests of Australia"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "joey"
+      },
+      "size": {
+        "he": "בערך בגודל של כרית גדולה",
+        "en": "About the size of a big cushion"
       },
       "facts": {
         "he": [
@@ -5382,13 +5975,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/koala.ogg",
-          "sha256": "c9859bacc65ab43cdc66668d5e53e5f6c5771f164c7036b5ac91bdb9b9afada0",
+          "sha256": "16f4103befc1abfde3216987635dc466ff6013ed9e6bdcec2203963f9b664e32",
           "bytes": 4939
         },
         "nameEn": {
           "path": "audio/names/en/koala.ogg",
-          "sha256": "2c54bb39d60dfa9c32645565170f9435336650d9388f9de5c2c3645ea209e217",
-          "bytes": 7448
+          "sha256": "3362cb7494b8fa97c2084bcd49789d05a0b484414f6b5ba04271d4deb1b1bb7a",
+          "bytes": 7381
         }
       }
     },
@@ -5424,6 +6017,14 @@
       "habitat": {
         "he": "ביערות הגשם של דרום אמריקה",
         "en": "In the rainforests of South America"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "pup"
+      },
+      "size": {
+        "he": "בערך בגודל של חתול, ותלוי הפוך",
+        "en": "Cat-sized, and upside down"
       },
       "facts": {
         "he": [
@@ -5463,13 +6064,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/sloth.ogg",
-          "sha256": "71009668925aa9edf5d2ea2f0603fb0efb500336c9f84dd4bbe51266504324af",
+          "sha256": "13c3b0384580406d317ffc7f52b0af69cf6f3a32e24fe1f8dbdf6e42b7871b37",
           "bytes": 5683
         },
         "nameEn": {
           "path": "audio/names/en/sloth.ogg",
-          "sha256": "1718c5eda1ebb92b8ef7699a3ab26699815b0400d5ddea78a7125d81373921b8",
-          "bytes": 6693
+          "sha256": "f2c45ef14b798f0af0f6c87a913733ec7387ac0221b9fa3384f5d4f315a0150d",
+          "bytes": 6772
         }
       }
     },
@@ -5505,6 +6106,14 @@
       "habitat": {
         "he": "בהרי האנדים בדרום אמריקה",
         "en": "In the Andes mountains of South America"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "cria"
+      },
+      "size": {
+        "he": "גבוהה כמעט כמו אבא",
+        "en": "Almost as tall as a grown-up"
       },
       "facts": {
         "he": [
@@ -5544,18 +6153,18 @@
         ],
         "sound": {
           "path": "audio/sounds/llama.ogg",
-          "sha256": "15305c7d5a203b73f43d02495f9e5bd69a8af84677503139ca8528175b49864b",
+          "sha256": "1102e237e6b74ad804999806a67e62949fac17573da490db5a42f3b3a8c6af7b",
           "bytes": 30591
         },
         "nameHe": {
           "path": "audio/names/he/llama.ogg",
-          "sha256": "e2def6e398d434954915138dfcb8100073bf63563848289e17ca5b9d1138537b",
+          "sha256": "efd73abd3de71b91e9849333599f2d6e031edb3190eea9765a8d9222680a4e3c",
           "bytes": 6974
         },
         "nameEn": {
           "path": "audio/names/en/llama.ogg",
-          "sha256": "44e482b6dfaff252e4c03be8d39c00806185e8695fde082e6460b913a7b7e139",
-          "bytes": 6452
+          "sha256": "136fa981c924b28397978f3f2799de0703ca7d73e470803a1053c74c5cee1e3c",
+          "bytes": 6191
         }
       }
     },
@@ -5591,6 +6200,14 @@
       "habitat": {
         "he": "ברמות הגבוהות של פרו ובוליביה",
         "en": "On the high plateaus of Peru and Bolivia"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "cria"
+      },
+      "size": {
+        "he": "קצת נמוכה מלמה",
+        "en": "A little shorter than a llama"
       },
       "facts": {
         "he": [
@@ -5630,18 +6247,18 @@
         ],
         "sound": {
           "path": "audio/sounds/alpaca.ogg",
-          "sha256": "f2d57eca809237fab503da60525e08b32ba5e475e22a9234ecbfab5beabe22e2",
+          "sha256": "dd6f87af3ca7ae7dee49e901af4b3cce00f26a28c4d7581c36b043bb6803a28d",
           "bytes": 7025
         },
         "nameHe": {
           "path": "audio/names/he/alpaca.ogg",
-          "sha256": "64bd897d25f19884ca92064c351e275ec7d66095707eb5dad4b69a0b2859a30a",
+          "sha256": "ae8d08225da955042814c534ab5bbd842ad78228f005a756cece8e6d7d2bd3fd",
           "bytes": 5359
         },
         "nameEn": {
           "path": "audio/names/en/alpaca.ogg",
-          "sha256": "a57eddebc5bae73e5204f50f0f4716835bc4bd825f12defd8cccedfb9b42bbf4",
-          "bytes": 8282
+          "sha256": "7ddf8cf0545fcd3746e5ee76d5098a0a705189ddc7bd3185f19b211d58d728c8",
+          "bytes": 8378
         }
       }
     },
@@ -5677,6 +6294,14 @@
       "habitat": {
         "he": "ביערות הגשם של דרום אמריקה",
         "en": "In the rainforests of South America"
+      },
+      "babyName": {
+        "he": "אפרוח",
+        "en": "chick"
+      },
+      "size": {
+        "he": "בערך בגודל של חתול קטן, חצי מזה מקור",
+        "en": "About the size of a small cat, half of it beak"
       },
       "facts": {
         "he": [
@@ -5716,18 +6341,18 @@
         ],
         "sound": {
           "path": "audio/sounds/toucan.ogg",
-          "sha256": "6e43aba65de186035227be7e8427820c194ae8f29a3e505958742a195fc4e276",
+          "sha256": "cf23c6260c3913fdcf5c9753a93bb1c82e26016b0e8471432e8fdadeb7be976c",
           "bytes": 31266
         },
         "nameHe": {
           "path": "audio/names/he/toucan.ogg",
-          "sha256": "ec056e19517977cd96ef54b018573ebed6af647426e4a0583846b2cd6523158b",
+          "sha256": "f1658392377bf5600ec16876830a85079dd0facc7c4339f3634d60a48f8cd2d2",
           "bytes": 5508
         },
         "nameEn": {
           "path": "audio/names/en/toucan.ogg",
-          "sha256": "c1d736d3718f9d681b85d30be82482a16f480915ad7005e7eb43a1e3511b66cc",
-          "bytes": 7161
+          "sha256": "3a77ce55f030047855d28437a1eb02b399c65ffb3cab7d0334cc70641db469db",
+          "bytes": 7248
         }
       }
     },
@@ -5763,6 +6388,14 @@
       "habitat": {
         "he": "ביערות טרופיים בדרום אמריקה, אפריקה ואוסטרליה",
         "en": "In tropical forests of South America, Africa and Australia"
+      },
+      "babyName": {
+        "he": "אפרוח",
+        "en": "chick"
+      },
+      "size": {
+        "he": "יש קטנים כמו יד ויש בגודל של חתול",
+        "en": "Some hand-sized, some as big as a cat"
       },
       "facts": {
         "he": [
@@ -5802,18 +6435,18 @@
         ],
         "sound": {
           "path": "audio/sounds/parrot.ogg",
-          "sha256": "23569f2e813a7b402582a1ba7ec71771d5418bef699d5ca26df6384161970d32",
+          "sha256": "a30e12b3226b7e5a7c16ec1c959302a56395ea185ce08b09ee69e9d305d4306f",
           "bytes": 30597
         },
         "nameHe": {
           "path": "audio/names/he/parrot.ogg",
-          "sha256": "142f513fda84bca7192d3a39b784862055f60dd2a36faef17d6cecf866fb8ee2",
+          "sha256": "99a7868bc9186528f219193a3c6c6dbe6eae116a6a37c89fe2eedd9bfc09cfb6",
           "bytes": 7214
         },
         "nameEn": {
           "path": "audio/names/en/parrot.ogg",
-          "sha256": "0d1054e7b1d43066b02d5d37153450b1df9c392dbd406780ccad6e09d8a275fd",
-          "bytes": 6996
+          "sha256": "50c463fe2c64a962d5665f623bb672b58b35f4353feee063f680636c9e951b0f",
+          "bytes": 7244
         }
       }
     },
@@ -5850,6 +6483,19 @@
         "he": "ביערות הגשם ובביצות של דרום אמריקה",
         "en": "In the rainforests and wetlands of South America"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "cub"
+      },
+      "size": {
+        "he": "החתול הגדול של אמריקה — ארוך כמו ספה",
+        "en": "The Americas' big cat — as long as a sofa"
+      },
+      "eatsIds": [
+        "turtle",
+        "fish",
+        "crocodile"
+      ],
       "facts": {
         "he": [
           "היגואר אוהב מים, בניגוד כמעט לכל חתול אחר",
@@ -5888,18 +6534,18 @@
         ],
         "sound": {
           "path": "audio/sounds/jaguar.ogg",
-          "sha256": "73d45185587d145f7f303b1d0dce9c9f7b78c0d290c603b3fb3f5949ce5fb953",
+          "sha256": "c7ff13e8a5c4f4015be862acb4f3115fe7e22e8fb816b0cf700f3d9943405624",
           "bytes": 17682
         },
         "nameHe": {
           "path": "audio/names/he/jaguar.ogg",
-          "sha256": "9c0145b20fc86d7c62fc93275bfb27b2da84b2ef7dfdcb3152444d72fdd4bad6",
+          "sha256": "d6316a334d6d0ac0db057cee7be3661729b6417865df0ddef445de63bb34d6a8",
           "bytes": 6403
         },
         "nameEn": {
           "path": "audio/names/en/jaguar.ogg",
-          "sha256": "ace72b3124528129c1134bf105f3cbea21744b979300546e5bec5b37f859d121",
-          "bytes": 7465
+          "sha256": "4532c33b6182f3be8f6ae7808129b473d6abe7a2b2d3733b7967f6fe40834c98",
+          "bytes": 7361
         }
       }
     },
@@ -5936,6 +6582,18 @@
         "he": "על הקרח ובים של אנטארקטיקה ודרום העולם",
         "en": "On the ice and in the seas of Antarctica and the far south"
       },
+      "babyName": {
+        "he": "אפרוח",
+        "en": "chick"
+      },
+      "size": {
+        "he": "יש בגובה הברכיים ויש בגובה ילד",
+        "en": "Some knee-high, some child-height"
+      },
+      "eatsIds": [
+        "fish",
+        "crab"
+      ],
       "facts": {
         "he": [
           "אבא פינגווין קיסר שומר על הביצה על הרגליים שלו בכל החורף",
@@ -5974,18 +6632,18 @@
         ],
         "sound": {
           "path": "audio/sounds/penguin.ogg",
-          "sha256": "ac68a94434f672dec77602f73fb861df25ac9a4af4f4d4efa0982ff9f178c6fb",
+          "sha256": "b667b294f8fb0dcb04053a85dc2907d5f60ab2b17db4dc5ecd3ba9a7947760c5",
           "bytes": 29992
         },
         "nameHe": {
           "path": "audio/names/he/penguin.ogg",
-          "sha256": "18034871d8e46e0b809e1e1ca507a4a752fd8fa754e4a8e6ab513ce1d09ce3d6",
+          "sha256": "30fc6cbc9ae32848e834b02299b238624dc5e5f7e0a5a7d8edd6606eadf714e1",
           "bytes": 8199
         },
         "nameEn": {
           "path": "audio/names/en/penguin.ogg",
-          "sha256": "60f9a1301fb5decb85ab250784b7020c44840a7c0160ec0d8760f5f1d6da456e",
-          "bytes": 6894
+          "sha256": "50b90a327a648b01bdffb5680ffea9bd837e71e8825fc898f692bfb01ae51b18",
+          "bytes": 7028
         }
       }
     },
@@ -6021,6 +6679,14 @@
       "habitat": {
         "he": "ביערות של צפון אמריקה",
         "en": "In the forests of North America"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "pup"
+      },
+      "size": {
+        "he": "נכנס בכף יד",
+        "en": "Fits in a palm"
       },
       "facts": {
         "he": [
@@ -6060,18 +6726,18 @@
         ],
         "sound": {
           "path": "audio/sounds/chipmunk.ogg",
-          "sha256": "6770acb158b647626373e6f14eca6117acea132a68874017ca1edca90846edb2",
+          "sha256": "6b3a7b2b0cb46af0d104eac0835daa6b02f2fc730ec28db766c01ad0fdd557d1",
           "bytes": 22695
         },
         "nameHe": {
           "path": "audio/names/he/chipmunk.ogg",
-          "sha256": "e0e1db092c5a6288a453d1cbb58054e811a6d1326fcdc620c811a0ec65c050fa",
+          "sha256": "2887a0696f4cc04aa40a207ce197d35ee7a86ae20857fcb8dd6673414e9ed6f3",
           "bytes": 8336
         },
         "nameEn": {
           "path": "audio/names/en/chipmunk.ogg",
-          "sha256": "8026bea592555ab626a88ede8fb8cfcafa63fbedb97406582a3e7d98bbee7534",
-          "bytes": 7608
+          "sha256": "5d8eeb6fb631405a4c6464d46f75463754b27619f43f02e2958d7218b94b72af",
+          "bytes": 7465
         }
       }
     },
@@ -6108,6 +6774,19 @@
         "he": "בימים ובאוקיינוסים, וגם בים התיכון",
         "en": "In seas and oceans, including the Mediterranean"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "calf"
+      },
+      "size": {
+        "he": "ארוך כמו מכונית",
+        "en": "As long as a car"
+      },
+      "eatsIds": [
+        "fish",
+        "octopus",
+        "crab"
+      ],
       "facts": {
         "he": [
           "לכל דולפין יש שריקה משלו — כמו שם פרטי",
@@ -6146,18 +6825,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dolphin.ogg",
-          "sha256": "9ead39ceab14ed5b6482d9850ac1baa287dc27eac19895715db1b83ecc182745",
+          "sha256": "332b16fb980b2c24b968d5dc0e3bfaafcbca59df4df2f3322d62a6716dae9f38",
           "bytes": 32704
         },
         "nameHe": {
           "path": "audio/names/he/dolphin.ogg",
-          "sha256": "3922840f701e113a942d12b4ac9b5328995dbe7cc54e0236e4b6bd9fa29ab12d",
+          "sha256": "3b265cfafe372621edad7d7e2fedd4654a3e659ab6a4fbaf8ac6faaeb708a435",
           "bytes": 7483
         },
         "nameEn": {
           "path": "audio/names/en/dolphin.ogg",
-          "sha256": "cf73bd7672514e731333d6728a2fcd6cd453957948d3196165c3c8f248922705",
-          "bytes": 6749
+          "sha256": "363ff8f331a07d668731e954ef0bcf6ff663c2c9f78dcc1f9a3753b17f9d09ce",
+          "bytes": 6946
         }
       }
     },
@@ -6194,6 +6873,17 @@
         "he": "בכל האוקיינוסים",
         "en": "In every ocean"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "calf"
+      },
+      "size": {
+        "he": "החיה הגדולה בעולם — ארוך כמו שלושה אוטובוסים",
+        "en": "The biggest animal on Earth — as long as three buses"
+      },
+      "eatsIds": [
+        "fish"
+      ],
       "facts": {
         "he": [
           "הלב של לווייתן כחול גדול כמו מכונית קטנה",
@@ -6232,18 +6922,18 @@
         ],
         "sound": {
           "path": "audio/sounds/whale.ogg",
-          "sha256": "543e32d3b10a25af0c0b5e2dbd160041807ad42b656dbbbb75e83d564a0eeeba",
+          "sha256": "b1f32d61ac21bb5e3c56232d2bffe6f12895da64e091df56652fc14f42253061",
           "bytes": 28235
         },
         "nameHe": {
           "path": "audio/names/he/whale.ogg",
-          "sha256": "6906228ce2b9d7cf46ea19836033374f6a037a8cd96cbaa67ad95594fc6e6c59",
+          "sha256": "a5ebc86f3eceaffb6c9dd083f86a198ecfc4b55a43e1e922db1d831ddae79bb9",
           "bytes": 6399
         },
         "nameEn": {
           "path": "audio/names/en/whale.ogg",
-          "sha256": "33fd1c94a37fe294ce7fa22245d9339b2cf43cc1d0b9f1b7bf43006790347ed3",
-          "bytes": 5628
+          "sha256": "2c897f76fb5c1afa6751cd6a27688014aaa86db51d1d4fb366456cdac7ea8f68",
+          "bytes": 5683
         }
       }
     },
@@ -6280,6 +6970,20 @@
         "he": "בימים ובאוקיינוסים בכל העולם",
         "en": "In seas and oceans all over the world"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "pup"
+      },
+      "size": {
+        "he": "יש קטנים כמו חתול ויש ארוכים כמו אוטובוס",
+        "en": "Some cat-sized, some as long as a bus"
+      },
+      "eatsIds": [
+        "seal",
+        "fish",
+        "octopus",
+        "turtle"
+      ],
       "facts": {
         "he": [
           "לכריש אין עצמות — השלד שלו עשוי סחוס, כמו האוזניים שלנו",
@@ -6318,13 +7022,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/shark.ogg",
-          "sha256": "f0d7288d855d11f0567e3834922859517a584e5cfd4cfc469b7a21ec5c31bb22",
+          "sha256": "b7637d3601f72a6b6ba7483acedcc5d4460cc5d096d552df0a7788021b650d93",
           "bytes": 7603
         },
         "nameEn": {
           "path": "audio/names/en/shark.ogg",
-          "sha256": "a207d7ed0bbe779e245e39b6ddfd500fd2e0464d3774cb2e02c7dc8ef74b8790",
-          "bytes": 7021
+          "sha256": "0162a31e1f604a034dd2f45fd3863be14f1409c3c520e1cc235c0799115efe9b",
+          "bytes": 7290
         }
       }
     },
@@ -6360,6 +7064,14 @@
       "habitat": {
         "he": "בים, בנהרות, באגמים ובאקווריום",
         "en": "In seas, rivers, lakes and aquariums"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "fry"
+      },
+      "size": {
+        "he": "מקטן כמו ציפורן ועד גדול כמו ילד",
+        "en": "From fingernail-small to child-sized"
       },
       "facts": {
         "he": [
@@ -6399,13 +7111,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/fish.ogg",
-          "sha256": "08bcdb718d887b61275f00f96dceea06f8cbd1db1762ac45ab181387b3e7c3b1",
+          "sha256": "517a5e5d625d189d4e52e45a9152ff1a9ef678650bdc42ecc4d9ad5e4333487d",
           "bytes": 4332
         },
         "nameEn": {
           "path": "audio/names/en/fish.ogg",
-          "sha256": "dcff8cb56a0821d9c781cd84a5ad077652e158a44fa16a04440e4cbd904b7904",
-          "bytes": 4786
+          "sha256": "55661cc50a6e95b9b400e8973a5088de6da4d8ea17822276a1f59ea3bc5b206f",
+          "bytes": 4748
         }
       }
     },
@@ -6442,6 +7154,18 @@
         "he": "בקרקעית הים, בין סלעים ומערות",
         "en": "On the sea floor, among rocks and caves"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "hatchling"
+      },
+      "size": {
+        "he": "הזרועות שלו ארוכות כמו הידיים שלכם",
+        "en": "Its arms are as long as your arms"
+      },
+      "eatsIds": [
+        "crab",
+        "fish"
+      ],
       "facts": {
         "he": [
           "לתמנון שלושה לבבות ודם בצבע כחול",
@@ -6480,13 +7204,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/octopus.ogg",
-          "sha256": "e6fed74834aa123d314acbd80de4a0cb1e067528b6dc173ee635861509d21b36",
+          "sha256": "47caa8a79e117d5782917bef9a3fab301b9bc47055c792d6f8e6352b6187dc84",
           "bytes": 6736
         },
         "nameEn": {
           "path": "audio/names/en/octopus.ogg",
-          "sha256": "0f7f90a6000f9b908397d6978e05e598d4f46b5daf388e18292a4237b314a6b7",
-          "bytes": 8353
+          "sha256": "5bf37c55998f0b5ee284fb641381f1c4ded53c997bab0cf7496648c3f6c3e351",
+          "bytes": 8770
         }
       }
     },
@@ -6523,6 +7247,18 @@
         "he": "על החוף, בין סלעים ובקרקעית הים",
         "en": "On the beach, among rocks and on the sea floor"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "larva"
+      },
+      "size": {
+        "he": "מקטן כמו מטבע ועד רחב כמו צלחת",
+        "en": "From coin-small to plate-wide"
+      },
+      "eatsIds": [
+        "fish",
+        "snail"
+      ],
       "facts": {
         "he": [
           "הסרטן הולך הצידה, כי כך בנויות הרגליים שלו",
@@ -6561,13 +7297,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/crab.ogg",
-          "sha256": "f3a53fe355880168b873ab3a7bb5e7fdcfde60d448936c8b47915e0d2228b431",
+          "sha256": "e4bf2870a92f9e6d00769ce0dd97b14d0aac6690165adcef0126cfd3570e41b0",
           "bytes": 6060
         },
         "nameEn": {
           "path": "audio/names/en/crab.ogg",
-          "sha256": "3d8d400ba686783279502560515ced39464605c19bc2930879d0b8918684e253",
-          "bytes": 6364
+          "sha256": "59e11471c56bd609c055d0f617c6985fc91184bd34ccaad76ff980baf9a0cff2",
+          "bytes": 6186
         }
       }
     },
@@ -6604,6 +7340,19 @@
         "he": "בים ועל חופים סלעיים וקרים",
         "en": "In the sea and on cold, rocky shores"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "pup"
+      },
+      "size": {
+        "he": "ארוך כמו מיטה של ילד",
+        "en": "As long as a child's bed"
+      },
+      "eatsIds": [
+        "fish",
+        "octopus",
+        "crab"
+      ],
       "facts": {
         "he": [
           "השפם של כלב הים מרגיש את הגלים הקטנים שדג משאיר אחריו",
@@ -6642,18 +7391,18 @@
         ],
         "sound": {
           "path": "audio/sounds/seal.ogg",
-          "sha256": "03b43c31d8c6b7dd6879d46d634cfe3502172b5bc2c62b52199a33ec4d9ae49c",
+          "sha256": "0db7b6464ddfc49ccc39c2546b0caa4d987898b3a6e80def3b7b4af1c4d3c6f4",
           "bytes": 30709
         },
         "nameHe": {
           "path": "audio/names/he/seal.ogg",
-          "sha256": "85ed3e6710222d7fbbc46a46d067cc144528201b8566d6dcd1af54b59466b3a4",
+          "sha256": "c0af035150b113dc13c5cb84b2250cb5bd4cb4b5b39ada71e2eda3e41ca99a8c",
           "bytes": 6845
         },
         "nameEn": {
           "path": "audio/names/en/seal.ogg",
-          "sha256": "8249ae56b99519cb96b7db1ae36ee930472b68016f4a33c1f536f6f8cc6b5e5c",
-          "bytes": 5914
+          "sha256": "e822dc22741bf70af2fb6b81cbbff1797342c13db4844df8402b6ac148946433",
+          "bytes": 5868
         }
       }
     },
@@ -6690,6 +7439,19 @@
         "he": "בים, בנהרות, בשדות ובמדבר",
         "en": "In the sea, in rivers, in fields and in the desert"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "hatchling"
+      },
+      "size": {
+        "he": "יש בגודל כף יד ויש בגודל שולחן",
+        "en": "Some palm-sized, some table-sized"
+      },
+      "eatsIds": [
+        "jellyfish",
+        "fish",
+        "crab"
+      ],
       "facts": {
         "he": [
           "השריון של הצב הוא חלק מהשלד שלו, ואי אפשר להוציא אותו ממנו",
@@ -6728,13 +7490,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/turtle.ogg",
-          "sha256": "870ba5ea437ff7e3a3b12ebfb0658d9eaae64bc4634ad45420b9978183a68352",
+          "sha256": "e121f07f7bfd0472a3ac3237996dc83642f68cddb48b764078122f92529c7622",
           "bytes": 5126
         },
         "nameEn": {
           "path": "audio/names/en/turtle.ogg",
-          "sha256": "f872b7ecdc77ccb55ed31a57b65c45e499b1e53ce7b20e054c90fd764fac4d63",
-          "bytes": 6463
+          "sha256": "35b1d078409c7fe887bc977f38a832961401b00b990ae4ac7d570a80ecedbf4c",
+          "bytes": 6810
         }
       }
     },
@@ -6771,6 +7533,17 @@
         "he": "בים, קרוב לחוף ובמים עמוקים",
         "en": "In the sea, near the shore and in deep water"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "polyp"
+      },
+      "size": {
+        "he": "יש קטנות כמו כפתור ויש רחבות כמו מטרייה",
+        "en": "Some button-small, some umbrella-wide"
+      },
+      "eatsIds": [
+        "fish"
+      ],
       "facts": {
         "he": [
           "המדוזה עשויה מתשעים ותשעה אחוזים מים",
@@ -6809,13 +7582,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/jellyfish.ogg",
-          "sha256": "ebe496257f20bac9260a1ad572f09eb3734ccfb40ea2c774d390f26bbc1e8e98",
+          "sha256": "01d4f81f19171ead80e341af3c0ff47129105f1a2a64dec69a25b4e64a97bde8",
           "bytes": 5471
         },
         "nameEn": {
           "path": "audio/names/en/jellyfish.ogg",
-          "sha256": "51a7a9a3a45ed31aff952b56cae31405a1bcb1858f1548208d57b897aeef36c2",
-          "bytes": 8692
+          "sha256": "7b2b65a0a9dda461e3bd95b4a9d82305232abf23a1396eea6e63f35defc313c6",
+          "bytes": 8147
         }
       }
     },
@@ -6851,6 +7624,14 @@
       "habitat": {
         "he": "בין עשבי ים ואלמוגים במים רדודים",
         "en": "Among sea grass and coral in shallow water"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "fry"
+      },
+      "size": {
+        "he": "קטן כמו אצבע",
+        "en": "As small as a finger"
       },
       "facts": {
         "he": [
@@ -6890,13 +7671,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/seahorse.ogg",
-          "sha256": "36aab5c7cbc0f011469f9ec689c3a5b5137cf2b4b370a9835c2c9d6d803fafee",
+          "sha256": "2e06a3f1cf7131414fd796302a2aed5919e1cb5fe524fe86715f64059ea7918b",
           "bytes": 7975
         },
         "nameEn": {
           "path": "audio/names/en/seahorse.ogg",
-          "sha256": "6c6e740bbcf7789254b0738a48a404752d5185083a0524f035575fd415402812",
-          "bytes": 8306
+          "sha256": "1d34ec199ace7d0432c4a22d7da2573e62888467782aace7eb7d7ee2abb72958",
+          "bytes": 8258
         }
       }
     },
@@ -6933,6 +7714,17 @@
         "he": "באגמים, בנהרות ובבריכות",
         "en": "On lakes, rivers and ponds"
       },
+      "babyName": {
+        "he": "אפרוח",
+        "en": "cygnet"
+      },
+      "size": {
+        "he": "עם צוואר זקוף — כמעט בגובה שלכם",
+        "en": "Neck up — almost as tall as you"
+      },
+      "eatsIds": [
+        "fish"
+      ],
       "facts": {
         "he": [
           "לברבור יותר נוצות מלכל ציפור אחרת — יותר מעשרים אלף",
@@ -6971,18 +7763,18 @@
         ],
         "sound": {
           "path": "audio/sounds/swan.ogg",
-          "sha256": "9af024711bef5a42d3ee69db9f32db6389163012c30613fd52b849cd8edb2ad6",
+          "sha256": "e83d087ec9faff07d36ce2dbe53a5e189771b9c3ede48de71f93c9170671d04a",
           "bytes": 32317
         },
         "nameHe": {
           "path": "audio/names/he/swan.ogg",
-          "sha256": "0374ac8a1a291cfd0b995d75d26095bcde7806ef0797f0586ed12edeb8aead57",
+          "sha256": "fdd0d1e2c6fb6bf8927cbbdb94bf8db06c4a1263a9fa0867d613e0a69d1b5e3e",
           "bytes": 6605
         },
         "nameEn": {
           "path": "audio/names/en/swan.ogg",
-          "sha256": "51723ce3cadb1589d56ea49e2c3c377a72540cfe0b214e50048a98d7b047af1b",
-          "bytes": 7318
+          "sha256": "e16d4ffa03974060cd2c8b6543d38d21da752bb5b9a887af49c1d5f4c6e30967",
+          "bytes": 7296
         }
       }
     },
@@ -7018,6 +7810,14 @@
       "habitat": {
         "he": "בערים, בשדות ועל גגות",
         "en": "In cities, in fields and on rooftops"
+      },
+      "babyName": {
+        "he": "גוזל",
+        "en": "squab"
+      },
+      "size": {
+        "he": "נכנסת בשתי כפות ידיים",
+        "en": "Fits in two hands"
       },
       "facts": {
         "he": [
@@ -7057,18 +7857,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dove.ogg",
-          "sha256": "f5cdd1e68d69148bbbc2c86a06eef203f44b8833d1fa4da3b3064a134d95f7dc",
+          "sha256": "12b2a4328b16124f563a3c4adf9571a03fe3327699726ce0756f6d0bc381db2e",
           "bytes": 21486
         },
         "nameHe": {
           "path": "audio/names/he/dove.ogg",
-          "sha256": "45665680750a5a6e66afe5c8adfad1a7c3e9c0cf8535ef49ed7c931e13cdc29f",
+          "sha256": "d590c74ea524ce2a4e28dd6db4e1ce1c48b9bb159a191a460f2883e66efa302c",
           "bytes": 5530
         },
         "nameEn": {
           "path": "audio/names/en/dove.ogg",
-          "sha256": "a84a39867be5c0a6f6ac418d8d71c86d386cb4f4015115ae258464379c532702",
-          "bytes": 5835
+          "sha256": "fa1c6b10879415989f839d344b9446213b55a9d065cc469c3d37f4c3f546614a",
+          "bytes": 5591
         }
       }
     },
@@ -7105,6 +7905,18 @@
         "he": "בערים, בשדות וביערות בכל העולם",
         "en": "In cities, fields and forests all over the world"
       },
+      "babyName": {
+        "he": "גוזל",
+        "en": "chick"
+      },
+      "size": {
+        "he": "בערך בגודל של חתול קטן",
+        "en": "About the size of a small cat"
+      },
+      "eatsIds": [
+        "mouse",
+        "snail"
+      ],
       "facts": {
         "he": [
           "עורב זוכר פרצוף של אדם שנים, ומספר על כך לעורבים אחרים",
@@ -7143,18 +7955,18 @@
         ],
         "sound": {
           "path": "audio/sounds/crow.ogg",
-          "sha256": "8a6a12247c485cca7ad3beb4ca31ded04e56230de18c941a55e65310b706e5b6",
+          "sha256": "3d1ea4395db59d5fe285e5295dc5963e2ab536396cef6e7a73cb13a91e4f0328",
           "bytes": 20475
         },
         "nameHe": {
           "path": "audio/names/he/crow.ogg",
-          "sha256": "d895f68b7361c6841562240131c0d8f38df8b36fcc6a28e40804c884097dd5e9",
+          "sha256": "2c5426d7f4eccece5b23feec8c6a45cbfb5e77b59e44f9b32aa429f162624d72",
           "bytes": 5362
         },
         "nameEn": {
           "path": "audio/names/en/crow.ogg",
-          "sha256": "f6dbf14258eb8302e5c5e709f3d80538ae46f47b682e6dd224392b75795dc9b9",
-          "bytes": 6247
+          "sha256": "9164eacf32915eab8109b224ca73fa6525efe1be72bc5f3659c05c4f4929dd72",
+          "bytes": 6524
         }
       }
     },
@@ -7191,6 +8003,18 @@
         "he": "לאורך החופים, בנמלים ובימים",
         "en": "Along coasts, in harbours and out at sea"
       },
+      "babyName": {
+        "he": "גוזל",
+        "en": "chick"
+      },
+      "size": {
+        "he": "כשהוא פורש כנפיים — רחב כמו ידיים פרושות",
+        "en": "Wings open — as wide as your outstretched arms"
+      },
+      "eatsIds": [
+        "fish",
+        "crab"
+      ],
       "facts": {
         "he": [
           "לשחף יש בלוטה מיוחדת שמוציאה את המלח ממי הים",
@@ -7229,18 +8053,18 @@
         ],
         "sound": {
           "path": "audio/sounds/seagull.ogg",
-          "sha256": "182a9c2ba7fcb70f968f504770f6e5c237199ea350998d51b15df1f61b9c7633",
+          "sha256": "08ea3f1d4188cc78370afb47f61d73ef07dc303dcc9af9f30c79f762a49f4b4a",
           "bytes": 29201
         },
         "nameHe": {
           "path": "audio/names/he/seagull.ogg",
-          "sha256": "ab4ed12bc4d791e951cb9371e7c12e09e136d3865eb5df35921e185728e78826",
+          "sha256": "b93191f998a9d16649556e571c4db9c51762c1273da08481e61830cc4b5cb55c",
           "bytes": 6034
         },
         "nameEn": {
           "path": "audio/names/en/seagull.ogg",
-          "sha256": "3bdf32440b7459237b6ae918d2dad6a239b5faef59e8d8cfe6441d20158dc0e2",
-          "bytes": 8343
+          "sha256": "44924f19de95145424fa0970f3dd9e3193902fe16d222851b9f93d66d6b4e737",
+          "bytes": 8324
         }
       }
     },
@@ -7277,6 +8101,19 @@
         "he": "ביערות, בחורשות ובפארקים",
         "en": "In forests, woods and parks"
       },
+      "babyName": {
+        "he": "גוזל",
+        "en": "chick"
+      },
+      "size": {
+        "he": "בערך בגודל של יד",
+        "en": "About the size of a hand"
+      },
+      "eatsIds": [
+        "ant",
+        "caterpillar",
+        "spider"
+      ],
       "facts": {
         "he": [
           "הלשון של הנקר ארוכה כל כך שהיא מתפתלת סביב הגולגולת שלו",
@@ -7315,18 +8152,18 @@
         ],
         "sound": {
           "path": "audio/sounds/woodpecker.ogg",
-          "sha256": "890b11872f1ed8a0046a14c0e0c843faeae86f3a04e5de1b7351bcc66fbc7d1e",
+          "sha256": "4eb5a6b5b4eb711254b565301bd099ca03eb4a2582fac36dba2ab27a09eaa011",
           "bytes": 30531
         },
         "nameHe": {
           "path": "audio/names/he/woodpecker.ogg",
-          "sha256": "db9bc5d903c7091539c4f089cfcb384d242e3469145dbcc49215d7379f8a262c",
+          "sha256": "63493e75cc45c4c76547f74e766b4b22f04f9d7747ea63d95fb7c412f6f9a2aa",
           "bytes": 4960
         },
         "nameEn": {
           "path": "audio/names/en/woodpecker.ogg",
-          "sha256": "33e488c3669b99beaa34bdd2b20d2fd3141d9fdde058014e4cae0f2c014c76f8",
-          "bytes": 7605
+          "sha256": "d51aa06c799b40ed2d95eb3b3f93a329b0f2ffbfc96ceabeec614a5bdbac5650",
+          "bytes": 7845
         }
       }
     },
@@ -7363,6 +8200,20 @@
         "he": "בשדות, בפרדסים ובגנים",
         "en": "In fields, orchards and gardens"
       },
+      "babyName": {
+        "he": "גוזל",
+        "en": "chick"
+      },
+      "size": {
+        "he": "בערך בגודל של יונה",
+        "en": "About the size of a dove"
+      },
+      "eatsIds": [
+        "ant",
+        "caterpillar",
+        "cricket",
+        "spider"
+      ],
       "facts": {
         "he": [
           "הדוכיפת נבחרה לציפור הלאומית של ישראל",
@@ -7401,18 +8252,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hoopoe.ogg",
-          "sha256": "58c398fa45cf7ecfd80b3ad54c974e56e20a516e055fa4cc1f29d567218bd4b9",
+          "sha256": "0895841fa9da797e5caea81e221e32325e359a82ece4c059b2db504f613e232b",
           "bytes": 28042
         },
         "nameHe": {
           "path": "audio/names/he/hoopoe.ogg",
-          "sha256": "b9c222d038200e2da37f4e901c4f0b1cfc654f60f0563685cca7d045aa0eb4d6",
+          "sha256": "4d5f87e9589150589257bb4cdd5d8dd28c1dacb068168f53be1e349eee127385",
           "bytes": 7692
         },
         "nameEn": {
           "path": "audio/names/en/hoopoe.ogg",
-          "sha256": "ad73d9bef7d4fac689f8f5cf28e9ad72554ae3891dc165798697d382ad46a74c",
-          "bytes": 7276
+          "sha256": "fe30bc17cc178c0e1dd1ab95ebd2c2a307974c1d53c0a5f39b6970972c59b680",
+          "bytes": 7000
         }
       }
     },
@@ -7449,6 +8300,18 @@
         "he": "בערים, בכפרים ובשדות בכל העולם",
         "en": "In cities, villages and fields all over the world"
       },
+      "babyName": {
+        "he": "גוזל",
+        "en": "chick"
+      },
+      "size": {
+        "he": "קטן כמו כף יד",
+        "en": "As small as a palm"
+      },
+      "eatsIds": [
+        "ant",
+        "caterpillar"
+      ],
       "facts": {
         "he": [
           "הדרור חי ליד בני אדם כבר אלפי שנים",
@@ -7487,18 +8350,18 @@
         ],
         "sound": {
           "path": "audio/sounds/sparrow.ogg",
-          "sha256": "1d77706a928fd7a1e14cd9ec279998a8cc712fbd56fa6c2e5c16a82d68275925",
+          "sha256": "89fa5d1c6c1a5f65694d046245087a9caceffa9c1d9a0efff127b8920032707b",
           "bytes": 14001
         },
         "nameHe": {
           "path": "audio/names/he/sparrow.ogg",
-          "sha256": "d5672f5ec3e13debb2ebd7e693b9d9725d75d5c3447489a26dc08befec45a824",
+          "sha256": "23125c324d8167596c49f3f04f24fa12e64b97560bd7d90b8500abb68615ddb7",
           "bytes": 5646
         },
         "nameEn": {
           "path": "audio/names/en/sparrow.ogg",
-          "sha256": "7255262c831f100d8b84a7b29017a43ecb9467a2ec07da45a97bf3fa22cf1437",
-          "bytes": 7914
+          "sha256": "83b9f89b7192ce4a92921ea012bf78ff2038229cbce13c8dff9301bd88b38f4b",
+          "bytes": 7818
         }
       }
     },
@@ -7535,6 +8398,21 @@
         "he": "ליד בריכות, נחלים וביצות",
         "en": "Near ponds, streams and marshes"
       },
+      "babyName": {
+        "he": "ראשן",
+        "en": "tadpole"
+      },
+      "size": {
+        "he": "בדרך כלל נכנסת בכף יד",
+        "en": "Usually fits in a palm"
+      },
+      "eatsIds": [
+        "bee",
+        "ant",
+        "butterfly",
+        "cricket",
+        "spider"
+      ],
       "facts": {
         "he": [
           "הצפרדע נושמת גם דרך העור, ולכן היא חייבת להישאר לחה",
@@ -7573,18 +8451,18 @@
         ],
         "sound": {
           "path": "audio/sounds/frog.ogg",
-          "sha256": "fa52cc0f7b2f1e355bab20ecf9b8b999ab8e57733b05640169ab1c6864a2bb23",
+          "sha256": "a93f7ca70b8eb5b2324459f5911ed23bb4a51ecb0b4afefc418766f2fcc31a81",
           "bytes": 8034
         },
         "nameHe": {
           "path": "audio/names/he/frog.ogg",
-          "sha256": "872970c5f15f2a1dd4d703f8ca876a6fc96f7a7c4cb923765aa88fefb953aa7e",
+          "sha256": "6fac5e2b177fb26cbaa19ee32dce26f3f1124cad16e380b7607fd37e365dbd5e",
           "bytes": 6372
         },
         "nameEn": {
           "path": "audio/names/en/frog.ogg",
-          "sha256": "c1ad139eba09d2bef799167fd7c6cd4326a14b6dc9ad727d48a6aba578bb7a2f",
-          "bytes": 6779
+          "sha256": "6f6f964217bb04c688ad6947b72721f511bb26d84cd245c22110086cab01ab44",
+          "bytes": 6352
         }
       }
     },
@@ -7620,6 +8498,14 @@
       "habitat": {
         "he": "בכוורת, בשדות פרחים ובגנים",
         "en": "In the hive, in flower meadows and in gardens"
+      },
+      "babyName": {
+        "he": "זחל",
+        "en": "larva"
+      },
+      "size": {
+        "he": "קטנה כמו ציפורן",
+        "en": "As small as a fingernail"
       },
       "facts": {
         "he": [
@@ -7659,18 +8545,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bee.ogg",
-          "sha256": "f8884f6dd688f9415737ef5f9f6c011c90863c974664eb59821ca212d12a4eb7",
+          "sha256": "69fb718a88e5889f3d7cde0839e205467fd17858508a8ecf8777aa3c34035d4f",
           "bytes": 28788
         },
         "nameHe": {
           "path": "audio/names/he/bee.ogg",
-          "sha256": "4d82ff5396176a3d56fcd515012217042135b9d1e6d4b2e16f8463527dd6e996",
+          "sha256": "77001049fc712cad730a7d8a6549f3d84d433c8d89501fdcbdf53a4a619788aa",
           "bytes": 5633
         },
         "nameEn": {
           "path": "audio/names/en/bee.ogg",
-          "sha256": "a9a831822af8afb86c6d634b6a144f8c8f79062d042d8566720470f368764081",
-          "bytes": 4953
+          "sha256": "503cb5a654fc471fe40a67d2964e80677fb88280f00c6eeedb10064eac3f33fa",
+          "bytes": 5523
         }
       }
     },
@@ -7706,6 +8592,14 @@
       "habitat": {
         "he": "בגנים, בשדות פרחים וביערות",
         "en": "In gardens, flower meadows and forests"
+      },
+      "babyName": {
+        "he": "זחל",
+        "en": "caterpillar"
+      },
+      "size": {
+        "he": "הכנפיים פרושות ברוחב של כף יד",
+        "en": "Its open wings span a palm"
       },
       "facts": {
         "he": [
@@ -7745,13 +8639,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/butterfly.ogg",
-          "sha256": "cdc994f29cd1b7d4c190a49ef0c2af40ffed1065cf7cfde33dd8480fc128d1f0",
+          "sha256": "696df9a8f67c35eef21ab2c484e78f8030862fa4b3839e8ca88f0ade568ba2bd",
           "bytes": 6353
         },
         "nameEn": {
           "path": "audio/names/en/butterfly.ogg",
-          "sha256": "a18d3f9a6b87a128881b500556e0a1de47e2078e967b88a2b31b422c9bc92343",
-          "bytes": 7836
+          "sha256": "0faeee723ae750354d168398a411ab23669db002e9787c819e153ddd45083478",
+          "bytes": 8353
         }
       }
     },
@@ -7788,6 +8682,17 @@
         "he": "בקן מתחת לאדמה, בגינה ובשדה",
         "en": "In a nest under the ground, in gardens and fields"
       },
+      "babyName": {
+        "he": "זחל",
+        "en": "larva"
+      },
+      "size": {
+        "he": "קטנה כמו גרגר אורז",
+        "en": "As small as a grain of rice"
+      },
+      "eatsIds": [
+        "caterpillar"
+      ],
       "facts": {
         "he": [
           "הנמלים מסמנות שביל בריח, וכך כולן מוצאות את האוכל",
@@ -7826,13 +8731,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ant.ogg",
-          "sha256": "f64a8d9661805703f0359d176c5eeeba7b66a2b05b8a420d6e24f83e9c2828b6",
+          "sha256": "e1c6c0bb304ec8c3e064e0dea59e4bf9c30900aaf6f28d1c25db303d39b7cc6e",
           "bytes": 4601
         },
         "nameEn": {
           "path": "audio/names/en/ant.ogg",
-          "sha256": "611f41ccfe75a02049dd79b3ae7ba6dcb16c29f70eaf0d6344ef9ec7347782d2",
-          "bytes": 6091
+          "sha256": "0a83d6cd03b7a096c81ef90ac3730179cf15b0caf998f76d10d0fa65319ede6f",
+          "bytes": 5836
         }
       }
     },
@@ -7868,6 +8773,14 @@
       "habitat": {
         "he": "בגינה, בין עלים לחים ותחת אבנים",
         "en": "In gardens, among damp leaves and under stones"
+      },
+      "babyName": {
+        "he": "גור",
+        "en": "hatchling"
+      },
+      "size": {
+        "he": "הבית שלו בגודל של מטבע",
+        "en": "Its house is the size of a coin"
       },
       "facts": {
         "he": [
@@ -7907,13 +8820,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/snail.ogg",
-          "sha256": "a56420ebb691b33d3995e50df59e1b6f79598741a77b5853a69e8b73eb161d6f",
+          "sha256": "cb45ddbc3219a2479b2e61ef392397c79aa83f32b47dfb05b1a3b9c684fa434c",
           "bytes": 8601
         },
         "nameEn": {
           "path": "audio/names/en/snail.ogg",
-          "sha256": "1ea11ce6947baa2f7a981de38be9e1c415fb102762bc598f7a4084764aa9e5c0",
-          "bytes": 7561
+          "sha256": "3cbdff3c3ee514e9df4cc97e882da5ead2a74be3fbaa5043d73c105721f8fc93",
+          "bytes": 7554
         }
       }
     },
@@ -7949,6 +8862,14 @@
       "habitat": {
         "he": "בגינות, בשדות ועל עלים ירוקים",
         "en": "In gardens, fields and on green leaves"
+      },
+      "babyName": {
+        "he": "זחל",
+        "en": "larva"
+      },
+      "size": {
+        "he": "קטנה כמו ציפורן של תינוק",
+        "en": "As small as a baby's fingernail"
       },
       "facts": {
         "he": [
@@ -7988,13 +8909,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ladybug.ogg",
-          "sha256": "853957ad83fc0d45a0abef10eb021a7ea8c06e39b2bf0b5ee5e7ba3925a14700",
+          "sha256": "5578e9186d2687c2f1ec4e76cfa1b34ca9d3a74eaf361025b844e9aad3a2b03d",
           "bytes": 9189
         },
         "nameEn": {
           "path": "audio/names/en/ladybug.ogg",
-          "sha256": "7b3b2d38d55b67a48de53817739ca17d4a162708b34524f7b532115a5c875c93",
-          "bytes": 8613
+          "sha256": "7c62456da1b2b439d18cc2a309862f2755d8f8646078845b97feb99ddc23ffc2",
+          "bytes": 8411
         }
       }
     },
@@ -8031,6 +8952,20 @@
         "he": "בפינות, בגינה, בין ענפים ובבתים",
         "en": "In corners, in the garden, among branches and in houses"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "spiderling"
+      },
+      "size": {
+        "he": "רובם קטנים כמו מטבע",
+        "en": "Most are as small as a coin"
+      },
+      "eatsIds": [
+        "bee",
+        "butterfly",
+        "ant",
+        "cricket"
+      ],
       "facts": {
         "he": [
           "חוט העכביש חזק יותר מפלדה באותו עובי",
@@ -8069,13 +9004,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/spider.ogg",
-          "sha256": "132d1c4a8beb1392c4f01328af4d76afcbb9e8dff7e5c9dd4f3525f970b56636",
+          "sha256": "0c52e17ba8085a16962d95adf72b3d4a9e9f91df76ca4a463e52bbca34a2c42a",
           "bytes": 7606
         },
         "nameEn": {
           "path": "audio/names/en/spider.ogg",
-          "sha256": "84b9bfd990d9ef664eefbb7ab7dd668a15a08c51d1ec250157152b0d1269e0be",
-          "bytes": 7168
+          "sha256": "a68b9df39cd782a48038cbd216f98b997c10a4e7f95d038ded7444bde9b9cd78",
+          "bytes": 7258
         }
       }
     },
@@ -8111,6 +9046,14 @@
       "habitat": {
         "he": "בשדות, בגינות ומתחת לאבנים",
         "en": "In fields, gardens and under stones"
+      },
+      "babyName": {
+        "he": "נימפה",
+        "en": "nymph"
+      },
+      "size": {
+        "he": "בערך בגודל של אצבע",
+        "en": "About the size of a finger"
       },
       "facts": {
         "he": [
@@ -8150,18 +9093,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cricket.ogg",
-          "sha256": "23fc97d2ed20c228ea48de6d84e3357b98983d2157f2e92f562fc118b7fc49cd",
+          "sha256": "cdaa1913cd04994e15e1b57cf843413ceae3a39dcdd29fcac605fe48663ecb2f",
           "bytes": 28060
         },
         "nameHe": {
           "path": "audio/names/he/cricket.ogg",
-          "sha256": "52b2fcb7de7ba15611e127b0f8297d0d37a2a6959d32e41ca89b1a5146109280",
+          "sha256": "025d5ed724dc69f0fc7e374bada687a00113d3a66c50555eb8b932b625b5861c",
           "bytes": 6976
         },
         "nameEn": {
           "path": "audio/names/en/cricket.ogg",
-          "sha256": "4be3b15debdbe22fdd7c9901572cde3dd8cf0572775bea57a72e132514e3a1f0",
-          "bytes": 7052
+          "sha256": "45dcb24a9b215ddc523d99a3e35a73c66a99018a54a572ab50ad7fb9a59d5d2d",
+          "bytes": 6960
         }
       }
     },
@@ -8198,6 +9141,20 @@
         "he": "בין סלעים, על קירות ובמדבר",
         "en": "Among rocks, on walls and in the desert"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "hatchling"
+      },
+      "size": {
+        "he": "בדרך כלל באורך של כף יד",
+        "en": "Usually as long as a hand"
+      },
+      "eatsIds": [
+        "ant",
+        "cricket",
+        "spider",
+        "caterpillar"
+      ],
       "facts": {
         "he": [
           "הזנב שממשיך לזוז מסיח את הדעת, והלטאה בינתיים נמלטת",
@@ -8236,13 +9193,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/lizard.ogg",
-          "sha256": "857215c8ea83697c33dba1f4f27669b667385dfd309e84954618c448435d7b64",
+          "sha256": "91da27eb9bb6555bb62eb4294885b6fa9d1a7bd32c1745a3019c742c105e6bcd",
           "bytes": 4643
         },
         "nameEn": {
           "path": "audio/names/en/lizard.ogg",
-          "sha256": "98b9f4949d6a50374c2f9fd06e63eaaa9a0bea9505b3cfdb3b713d17fefe4fcd",
-          "bytes": 6910
+          "sha256": "6568c5ac287296294a6d83f987112641712c9b5f6693fa4b24c907bf2aa9970e",
+          "bytes": 6996
         }
       }
     },
@@ -8279,6 +9236,19 @@
         "he": "במערות, בעצים חלולים ובעליית גג",
         "en": "In caves, hollow trees and attics"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "pup"
+      },
+      "size": {
+        "he": "רובם נכנסים בכף יד",
+        "en": "Most fit in a palm"
+      },
+      "eatsIds": [
+        "cricket",
+        "butterfly",
+        "bee"
+      ],
       "facts": {
         "he": [
           "העטלף תופס עד אלף יתושים בשעה",
@@ -8317,18 +9287,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bat.ogg",
-          "sha256": "64dc55f725f5531f3e494b9a9d83563e0d80f84ba82b3a1369b64a209fd00636",
+          "sha256": "5080f48527f0f2beac7db58135cf64adb3d22b97a1a9ddfdbd759ad699b9aeb6",
           "bytes": 29975
         },
         "nameHe": {
           "path": "audio/names/he/bat.ogg",
-          "sha256": "1ce1c328f255993db9a330bbca0dbcc669d5f22148aa32285d7f3b2f8d2a4774",
+          "sha256": "6047b0aae8f6063c96b78ebf7e40e51a50002adae3e9d6574b373f735b6108bb",
           "bytes": 5250
         },
         "nameEn": {
           "path": "audio/names/en/bat.ogg",
-          "sha256": "0251eb9b8ae3f242cb1f440ace185b9f899b4ccd4a9c3078db5cb280c3987d97",
-          "bytes": 5984
+          "sha256": "3cab1168f6782dcce5f91df4c52acf5d9b08d86f0aae92a641ceb9b5ce1248d5",
+          "bytes": 6032
         }
       }
     },
@@ -8365,6 +9335,19 @@
         "he": "במדבר, בין סלעים ותחת אבנים",
         "en": "In the desert, among rocks and under stones"
       },
+      "babyName": {
+        "he": "גור",
+        "en": "scorpling"
+      },
+      "size": {
+        "he": "בערך באורך של אצבע",
+        "en": "About as long as a finger"
+      },
+      "eatsIds": [
+        "cricket",
+        "spider",
+        "ant"
+      ],
       "facts": {
         "he": [
           "העקרב זוהר בירוק כשמאירים עליו באור אולטרה סגול",
@@ -8403,13 +9386,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/scorpion.ogg",
-          "sha256": "a0e6f416ec3c8f49464aa399a0022c8992a79ec797f88ecc90893137d2753840",
+          "sha256": "0604b53d806614a3548ebfd6680c715490015fe3fff408fc036751e7870b873c",
           "bytes": 4943
         },
         "nameEn": {
           "path": "audio/names/en/scorpion.ogg",
-          "sha256": "f8a71c56103689e0518fbcbaaec49ae8305f3bf2eecd05e6cbc3a0f248298886",
-          "bytes": 8175
+          "sha256": "6ed316cc7745aa56fc4073a18a340aaba5f6bccad661d75e723e4f57afda186c",
+          "bytes": 8436
         }
       }
     },
@@ -8445,6 +9428,10 @@
       "habitat": {
         "he": "על עלים ירוקים בגינה ובשדה",
         "en": "On green leaves in gardens and fields"
+      },
+      "size": {
+        "he": "בערך באורך של אצבע קטנה",
+        "en": "About as long as a little finger"
       },
       "facts": {
         "he": [
@@ -8484,13 +9471,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/caterpillar.ogg",
-          "sha256": "9ebe0242d9362a335b2cfe89dd3e5aacc6e920cd4c405780aa4075a96991e267",
+          "sha256": "4c279dac5cf4357fe2067ca2800e41e5fed41f480deae2c2966f30230330241a",
           "bytes": 5578
         },
         "nameEn": {
           "path": "audio/names/en/caterpillar.ogg",
-          "sha256": "b70daa6c5df514e186b47ff5b2e45dab427049057961c13f29d49747b5633654",
-          "bytes": 8629
+          "sha256": "c0a040ab075582e26c739b7d6cb1af091a21dce2096f9813be7cf1e00c5f4dcb",
+          "bytes": 8672
         }
       }
     }
