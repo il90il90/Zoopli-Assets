@@ -4,15 +4,69 @@ Every image and sound in the Zoopli content pack is listed below with its source
 and licence. Files are redistributed unmodified except for resizing, cropping, silence
 trimming and re-encoding for mobile playback.
 
-The spoken animal names are synthesised with espeak-ng. The synthesiser is GPL-licensed
-software; the audio it produces carries no licence restriction, in the same way that a
-compiler's output is not covered by the compiler's licence.
+The spoken animal names are synthesised: English with Piper's LJSpeech voice, trained on
+a public-domain dataset, and Hebrew with espeak-ng. espeak-ng is GPL-licensed software,
+and the audio it produces carries no licence restriction, in the same way that a
+compiler's output is not covered by the compiler's licence. On a phone that has its own
+voice for a language, the app uses that instead and these clips are never heard.
 
 Zoopli collects no personal data, contains no advertising and offers no purchases.
 
 ## Apache License 2.0
 
+- **images/icons/alpaca.webp** — Noto Emoji U+1F999
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/ant.webp** — Noto Emoji U+1F41C
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/badger.webp** — Noto Emoji U+1F9A1
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/bat.webp** — Noto Emoji U+1F987
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/bear.webp** — Noto Emoji U+1F43B
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/beaver.webp** — Noto Emoji U+1F9AB
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/bee.webp** — Noto Emoji U+1F41D
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/bison.webp** — Noto Emoji U+1F9AC
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/butterfly.webp** — Noto Emoji U+1F98B
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/camel.webp** — Noto Emoji U+1F42A
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
 - **images/icons/cat.webp** — Noto Emoji U+1F431
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/caterpillar.webp** — Noto Emoji U+1F41B
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/cheetah.webp** — Noto Emoji U+1F406
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/chipmunk.webp** — Noto Emoji U+1F43F
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
@@ -20,7 +74,39 @@ Zoopli collects no personal data, contains no advertising and offers no purchase
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/crab.webp** — Noto Emoji U+1F980
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/cricket.webp** — Noto Emoji U+1F997
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/crocodile.webp** — Noto Emoji U+1F40A
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/crow.webp** — Noto Emoji U+1F426
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/deer.webp** — Noto Emoji U+1F98C
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
 - **images/icons/dog.webp** — Noto Emoji U+1F436
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/dolphin.webp** — Noto Emoji U+1F42C
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/donkey.webp** — Noto Emoji U+1F434
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/dove.webp** — Noto Emoji U+1F54A
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
@@ -28,7 +114,59 @@ Zoopli collects no personal data, contains no advertising and offers no purchase
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/eagle.webp** — Noto Emoji U+1F985
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
 - **images/icons/elephant.webp** — Noto Emoji U+1F418
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/fish.webp** — Noto Emoji U+1F41F
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/flamingo.webp** — Noto Emoji U+1F9A9
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/fox.webp** — Noto Emoji U+1F98A
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/frog.webp** — Noto Emoji U+1F438
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/giraffe.webp** — Noto Emoji U+1F992
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/goat.webp** — Noto Emoji U+1F410
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/goose.webp** — Noto Emoji U+1F9A2
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/gorilla.webp** — Noto Emoji U+1F98D
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/hamster.webp** — Noto Emoji U+1F439
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/hedgehog.webp** — Noto Emoji U+1F994
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/hippo.webp** — Noto Emoji U+1F99B
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/hoopoe.webp** — Noto Emoji U+1F426
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
@@ -36,7 +174,47 @@ Zoopli collects no personal data, contains no advertising and offers no purchase
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/hyena.webp** — Noto Emoji U+1F43A
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/jaguar.webp** — Noto Emoji U+1F406
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/jellyfish.webp** — Noto Emoji U+1FABC
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/kangaroo.webp** — Noto Emoji U+1F998
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/koala.webp** — Noto Emoji U+1F428
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/ladybug.webp** — Noto Emoji U+1F41E
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/leopard.webp** — Noto Emoji U+1F406
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
 - **images/icons/lion.webp** — Noto Emoji U+1F981
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/lizard.webp** — Noto Emoji U+1F98E
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/llama.webp** — Noto Emoji U+1F999
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/meerkat.webp** — Noto Emoji U+1F9A1
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
@@ -44,7 +222,91 @@ Zoopli collects no personal data, contains no advertising and offers no purchase
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/moose.webp** — Noto Emoji U+1F98C
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/mouse.webp** — Noto Emoji U+1F42D
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/octopus.webp** — Noto Emoji U+1F419
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/orangutan.webp** — Noto Emoji U+1F9A7
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/ostrich.webp** — Noto Emoji U+1F426
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/otter.webp** — Noto Emoji U+1F9A6
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/owl.webp** — Noto Emoji U+1F989
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/panda.webp** — Noto Emoji U+1F43C
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/parrot.webp** — Noto Emoji U+1F99C
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/peacock.webp** — Noto Emoji U+1F99A
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/penguin.webp** — Noto Emoji U+1F427
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/pig.webp** — Noto Emoji U+1F437
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/polar_bear.webp** — Noto Emoji U+1F43B
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/rabbit.webp** — Noto Emoji U+1F430
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/raccoon.webp** — Noto Emoji U+1F99D
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/rhino.webp** — Noto Emoji U+1F98F
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
 - **images/icons/rooster.webp** — Noto Emoji U+1F413
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/scorpion.webp** — Noto Emoji U+1F982
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/seagull.webp** — Noto Emoji U+1F426
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/seahorse.webp** — Noto Emoji U+1F40E
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/seal.webp** — Noto Emoji U+1F9AD
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/shark.webp** — Noto Emoji U+1F988
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
@@ -52,103 +314,1484 @@ Zoopli collects no personal data, contains no advertising and offers no purchase
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/skunk.webp** — Noto Emoji U+1F9A8
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/sloth.webp** — Noto Emoji U+1F9A5
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/snail.webp** — Noto Emoji U+1F40C
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/snake.webp** — Noto Emoji U+1F40D
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/sparrow.webp** — Noto Emoji U+1F426
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/spider.webp** — Noto Emoji U+1F577
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/squirrel.webp** — Noto Emoji U+1F43F
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/swan.webp** — Noto Emoji U+1F9A2
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/tiger.webp** — Noto Emoji U+1F42F
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/toucan.webp** — Noto Emoji U+1F99C
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/turkey.webp** — Noto Emoji U+1F983
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/turtle.webp** — Noto Emoji U+1F422
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/water_buffalo.webp** — Noto Emoji U+1F403
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/whale.webp** — Noto Emoji U+1F433
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/wolf.webp** — Noto Emoji U+1F43A
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/woodpecker.webp** — Noto Emoji U+1F426
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/yak.webp** — Noto Emoji U+1F402
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+- **images/icons/zebra.webp** — Noto Emoji U+1F993
+  - Author: Google Inc.
+  - Source: https://github.com/googlefonts/noto-emoji
+  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+
+## CC BY 2.0
+
+- **images/photos/badger-2.webp** — File:A Very Wet Badger (51283095909).jpg
+  - Author: Andy Morffew from Itchen Abbas, Hampshire, UK
+  - Source: https://commons.wikimedia.org/wiki/File:A_Very_Wet_Badger_(51283095909).jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- **images/photos/badger-3.webp** — File:European Badger - Meles meles - Scotland (53260881618).jpg
+  - Author: caroline legg
+  - Source: https://commons.wikimedia.org/wiki/File:European_Badger_-_Meles_meles_-_Scotland_(53260881618).jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- **images/photos/butterfly-2.webp** — File:Pipevine Swallowtail - Philenius battenor, Brookside Gardens "Wings of Fancy" butterfly exhibit, Wheaton, Maryland.jpg
+  - Author: Judy Gallagher
+  - Source: https://commons.wikimedia.org/wiki/File:Pipevine_Swallowtail_-_Philenius_battenor,_Brookside_Gardens_%22Wings_of_Fancy%22_butterfly_exhibit,_Wheaton,_Maryland.jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- **images/photos/butterfly-3.webp** — File:Orange flower orange butterfly wings - 6737319223.jpg
+  - Author: Loving Jazz Photography
+  - Source: https://commons.wikimedia.org/wiki/File:Orange_flower_orange_butterfly_wings_-_6737319223.jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- **images/photos/cheetah-2.webp** — File:Cheetah portrait Whipsnade Zoo.jpg
+  - Author: William Warby
+  - Source: https://commons.wikimedia.org/wiki/File:Cheetah_portrait_Whipsnade_Zoo.jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- **images/photos/crocodile-2.webp** — File:Nile crocodile head.jpg
+  - Author: Leigh Bedford
+  - Source: https://commons.wikimedia.org/wiki/File:Nile_crocodile_head.jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- **images/photos/deer-3.webp** — File:Wild Yezo sika deers.jpg
+  - Author: MIKI Yoshihito
+  - Source: https://commons.wikimedia.org/wiki/File:Wild_Yezo_sika_deers.jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- **images/photos/flamingo-3.webp** — File:Greater Flamingos. Phoenicopterus ruber - Flickr - gailhampshire.jpg
+  - Author: gailhampshire from Cradley, Malvern, U.K
+  - Source: https://commons.wikimedia.org/wiki/File:Greater_Flamingos._Phoenicopterus_ruber_-_Flickr_-_gailhampshire.jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- **images/photos/hippo-3.webp** — File:Hippopotamus amphibius Whipsnade Zoo.jpg
+  - Author: William Warby
+  - Source: https://commons.wikimedia.org/wiki/File:Hippopotamus_amphibius_Whipsnade_Zoo.jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- **images/photos/lion-3.webp** — File:Lion male with scanty mane at Samburu NR 2.jpg
+  - Author: Jesse Hull
+  - Source: https://commons.wikimedia.org/wiki/File:Lion_male_with_scanty_mane_at_Samburu_NR_2.jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- **images/photos/lizard-2.webp** — File:Lacertidae- Darevskia brauneri darevskii (Brauner's Rock Lizard) female.jpg
+  - Author: Kristof Zyskowski &amp; Yulia Bereshpolova
+  - Source: https://commons.wikimedia.org/wiki/File:Lacertidae-_Darevskia_brauneri_darevskii_(Brauner%27s_Rock_Lizard)_female.jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- **images/photos/penguin-2.webp** — File:Adelie Penguins on iceberg.jpg
+  - Author: Jason Auch
+  - Source: https://commons.wikimedia.org/wiki/File:Adelie_Penguins_on_iceberg.jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- **images/photos/rabbit-3.webp** — File:European rabbit (Oryctolagus cuniculus) kitten.jpg
+  - Author: Alexis Lours
+  - Source: https://commons.wikimedia.org/wiki/File:European_rabbit_(Oryctolagus_cuniculus)_kitten.jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- **images/photos/seahorse-1.webp** — File:Seahorse - Vlissingen IMO - 8213744.jpg
+  - Author: joost j. bakker from ijmuiden, the netherlands
+  - Source: https://commons.wikimedia.org/wiki/File:Seahorse_-_Vlissingen_IMO_-_8213744.jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- **images/photos/skunk-3.webp** — File:Striped Skunk (Mephitis mephitis) DSC 0030.jpg
+  - Author: Dan &amp; Lin Dzurisin
+  - Source: https://commons.wikimedia.org/wiki/File:Striped_Skunk_(Mephitis_mephitis)_DSC_0030.jpg
+  - Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+
+## CC BY 2.5
+
+- **images/photos/leopard-3.webp** — File:Amur Leopard Pittsburgh Zoo.jpg
+  - Author: Colin Hines www.ColinHinesPhotography.com
+  - Source: https://commons.wikimedia.org/wiki/File:Amur_Leopard_Pittsburgh_Zoo.jpg
+  - Licence: CC BY 2.5 (https://creativecommons.org/licenses/by/2.5)
 
 ## CC BY 3.0
 
-- **images/photos/duck.webp** — File:Male mallard duck 2.jpg
+- **audio/sounds/leopard.ogg** — Leopard's Cough Isolated.wav
+  - Author: drobiumdesign
+  - Source: https://freesound.org/people/drobiumdesign/sounds/346402/
+  - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+- **images/photos/bison-3.webp** — File:Bison bonasus (Linnaeus 1758).jpg
+  - Author: Michael Gäbler
+  - Source: https://commons.wikimedia.org/wiki/File:Bison_bonasus_(Linnaeus_1758).jpg
+  - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)
+- **images/photos/dog-3.webp** — File:Callie the golden retriever puppy.jpg
+  - Author: MichaelMcPhee
+  - Source: https://commons.wikimedia.org/wiki/File:Callie_the_golden_retriever_puppy.jpg
+  - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)
+- **images/photos/duck-1.webp** — File:Male mallard duck 2.jpg
   - Author: Acarpentier
   - Source: https://commons.wikimedia.org/wiki/File:Male_mallard_duck_2.jpg
+  - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)
+- **images/photos/eagle-1.webp** — File:Juvenile Bald Eagle (head).jpg
+  - Author: Michael Gäbler
+  - Source: https://commons.wikimedia.org/wiki/File:Juvenile_Bald_Eagle_(head).jpg
+  - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)
+- **images/photos/jellyfish-1.webp** — File:Jellyfish (113037545).jpeg
+  - Author: Serkan Yildiz
+  - Source: https://commons.wikimedia.org/wiki/File:Jellyfish_(113037545).jpeg
+  - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)
+- **images/photos/jellyfish-3.webp** — File:Yellow Jellyfish (10787831).jpeg
+  - Author: Lars Juhl Jensen
+  - Source: https://commons.wikimedia.org/wiki/File:Yellow_Jellyfish_(10787831).jpeg
+  - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)
+- **images/photos/koala-1.webp** — File:Koala in Zoo Duisburg.jpg
+  - Author: Till Niermann
+  - Source: https://commons.wikimedia.org/wiki/File:Koala_in_Zoo_Duisburg.jpg
+  - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)
+- **images/photos/koala-2.webp** — File:Koala (Phascolarctos cinereus), Sídney, Australia18.JPG
+  - Author: Diego Delso
+  - Source: https://commons.wikimedia.org/wiki/File:Koala_(Phascolarctos_cinereus),_S%C3%ADdney,_Australia18.JPG
   - Licence: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)
 
 ## CC BY 4.0
 
 - **audio/sounds/monkey.ogg** — File:Pant-hoot call made by a male chimpanzee.ogg
   - Author: Pawel Fedurek et al.
-  - Source: https://commons.wikimedia.org/wiki/File:Pant-hoot_call_made_by_a_male_chimpanzee.ogg
   - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- **images/photos/ant-1.webp** — File:Portrait of an ant, profile view.jpg
+  - Author: Retro Lenses
+  - Source: https://commons.wikimedia.org/wiki/File:Portrait_of_an_ant,_profile_view.jpg
+  - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- **images/photos/cricket-1.webp** — File:Germany Rhineland-Palatinate Trier cricket fountain Heuschreckbrunnen top.jpg
+  - Author: Virtual-Pano
+  - Source: https://commons.wikimedia.org/wiki/File:Germany_Rhineland-Palatinate_Trier_cricket_fountain_Heuschreckbrunnen_top.jpg
+  - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- **images/photos/cricket-3.webp** — File:Fall field cricket, Gryllus pennsylvanicus 2001.jpg
+  - Author: ImagePerson
+  - Source: https://commons.wikimedia.org/wiki/File:Fall_field_cricket,_Gryllus_pennsylvanicus_2001.jpg
+  - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- **images/photos/crow-2.webp** — File:Carrion crow (Corvus corone) head.jpg
+  - Author: Alexis Lours
+  - Source: https://commons.wikimedia.org/wiki/File:Carrion_crow_(Corvus_corone)_head.jpg
+  - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- **images/photos/dove-2.webp** — File:Rock dove (Columba livia) walking on place de la Bourse, Brussels, Belgium (DSCF4422).jpg
+  - Author: Trougnouf
+  - Source: https://commons.wikimedia.org/wiki/File:Rock_dove_(Columba_livia)_walking_on_place_de_la_Bourse,_Brussels,_Belgium_(DSCF4422).jpg
+  - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- **images/photos/fish-3.webp** — File:Beauty of freshwater fish.jpg
+  - Author: Tatyana Kuznecova
+  - Source: https://commons.wikimedia.org/wiki/File:Beauty_of_freshwater_fish.jpg
+  - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- **images/photos/giraffe-3.webp** — File:Giraffe (Hans Henning, Frankfurt (Oder)).jpg
+  - Author: Peter Gutlowski
+  - Source: https://commons.wikimedia.org/wiki/File:Giraffe_(Hans_Henning,_Frankfurt_(Oder)).jpg
+  - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- **images/photos/lizard-3.webp** — File:Tyrrhenian wall lizard 03.jpg
+  - Author: EliasSwagolias
+  - Source: https://commons.wikimedia.org/wiki/File:Tyrrhenian_wall_lizard_03.jpg
+  - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- **images/photos/otter-2.webp** — File:Otter - Eurasian otter - Lutra lutra.jpg
+  - Author: Bouke ten Cate
+  - Source: https://commons.wikimedia.org/wiki/File:Otter_-_Eurasian_otter_-_Lutra_lutra.jpg
+  - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- **images/photos/parrot-2.webp** — File:Kuala Lumpur Bird Park, Parrots.jpg
+  - Author: Vyacheslav Argenberg
+  - Source: https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Bird_Park,_Parrots.jpg
+  - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- **images/photos/parrot-3.webp** — File:Amazon parrot and gray parrot in Indonesia.jpg
+  - Author: Philip Nalangan
+  - Source: https://commons.wikimedia.org/wiki/File:Amazon_parrot_and_gray_parrot_in_Indonesia.jpg
+  - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- **images/photos/snail-3.webp** — File:Snail macro.jpg
+  - Author: Roger Heslop
+  - Source: https://commons.wikimedia.org/wiki/File:Snail_macro.jpg
+  - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+
+## CC BY-SA 2.0
+
+- **audio/sounds/polar_bear.ogg** — File:We Bare Bears Intro Theme (Instrumental).wav
+  - Author: https://scratch.mit.edu/users/cartoonnetwork/
+  - Source: https://commons.wikimedia.org/wiki/File:We_Bare_Bears_Intro_Theme_(Instrumental).wav
+  - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- **images/photos/alpaca-2.webp** — File:Alpaca (Vicugna pacos) (8121540484).jpg
+  - Author: AnemoneProjectors ( talk ) ( Flickr )
+  - Source: https://commons.wikimedia.org/wiki/File:Alpaca_(Vicugna_pacos)_(8121540484).jpg
+  - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- **images/photos/alpaca-3.webp** — File:Alpaca (Vicugna pacos) (8121536510).jpg
+  - Author: Peter O'Connor aka anemoneprojectors
+  - Source: https://commons.wikimedia.org/wiki/File:Alpaca_(Vicugna_pacos)_(8121536510).jpg
+  - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- **images/photos/bear-3.webp** — File:Grizzly Bear (Ursus arctos ssp.).jpg
+  - Author: Gregory "Slobirdr" Smith
+  - Source: https://commons.wikimedia.org/wiki/File:Grizzly_Bear_(Ursus_arctos_ssp.).jpg
+  - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- **images/photos/deer-2.webp** — File:Wild Deer at Bushy Park - geograph.org.uk - 4959805.jpg
+  - Author: James Emmans
+  - Source: https://commons.wikimedia.org/wiki/File:Wild_Deer_at_Bushy_Park_-_geograph.org.uk_-_4959805.jpg
+  - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- **images/photos/dolphin-2.webp** — File:Indo-Pacific Bottlenose Dolphins (Tursiops aduncus).jpg
+  - Author: Bernard DUPONT
+  - Source: https://commons.wikimedia.org/wiki/File:Indo-Pacific_Bottlenose_Dolphins_(Tursiops_aduncus).jpg
+  - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- **images/photos/octopus-3.webp** — File:Octopus (40900344810).jpg
+  - Author: Ansgar Gruber
+  - Source: https://commons.wikimedia.org/wiki/File:Octopus_(40900344810).jpg
+  - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- **images/photos/owl-3.webp** — File:Athene cunicularia 20110524 02.jpg
+  - Author: travelwayoflife
+  - Source: https://commons.wikimedia.org/wiki/File:Athene_cunicularia_20110524_02.jpg
+  - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- **images/photos/seahorse-2.webp** — File:Seahorse (32415429540).jpg
+  - Author: Susanne Nilsson
+  - Source: https://commons.wikimedia.org/wiki/File:Seahorse_(32415429540).jpg
+  - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- **images/photos/sloth-3.webp** — File:Pale-throated Sloth (Bradypus tridactylus) male (10628624664).jpg
+  - Author: Bernard DUPONT from FRANCE
+  - Source: https://commons.wikimedia.org/wiki/File:Pale-throated_Sloth_(Bradypus_tridactylus)_male_(10628624664).jpg
+  - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- **images/photos/snake-2.webp** — File:Snake Release.jpg
+  - Author: Wildlife Alliance from us
+  - Source: https://commons.wikimedia.org/wiki/File:Snake_Release.jpg
+  - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- **images/photos/toucan-2.webp** — File:Toco Toucan (Ramphastos toco) - 48153967707.jpg
+  - Author: Bernard DUPONT
+  - Source: https://commons.wikimedia.org/wiki/File:Toco_Toucan_(Ramphastos_toco)_-_48153967707.jpg
+  - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- **images/photos/whale-3.webp** — File:Mother and baby sperm whale.jpg
+  - Author: Gabriel Barathieu
+  - Source: https://commons.wikimedia.org/wiki/File:Mother_and_baby_sperm_whale.jpg
+  - Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+
+## CC BY-SA 2.5
+
+- **images/photos/crow-1.webp** — File:CrowHeadClosed1.jpg
+  - Author: Francisco M. Marzoa Alonso
+  - Source: https://commons.wikimedia.org/wiki/File:CrowHeadClosed1.jpg
+  - Licence: CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)
+- **images/photos/giraffe-2.webp** — File:Giraffe Ithala KZN South Africa Luca Galuzzi 2004.JPG
+  - Author: Luca Galuzzi ( Lucag )
+  - Source: https://commons.wikimedia.org/wiki/File:Giraffe_Ithala_KZN_South_Africa_Luca_Galuzzi_2004.JPG
+  - Licence: CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)
+- **images/photos/snail-1.webp** — File:Closeup of snail in fishtank.jpg
+  - Author: Zbigniew Twardowski
+  - Source: https://commons.wikimedia.org/wiki/File:Closeup_of_snail_in_fishtank.jpg
+  - Licence: CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)
 
 ## CC BY-SA 3.0
 
 - **audio/sounds/dog.ogg** — File:Barking of a dog.ogg
   - Author: Amada44
-  - Source: https://commons.wikimedia.org/wiki/File:Barking_of_a_dog.ogg
   - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
 - **audio/sounds/duck.ogg** — File:Anas platyrhynchos - Mallard - XC62258.ogg
   - Author: Jonathon Jongsma
-  - Source: https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_-_Mallard_-_XC62258.ogg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/ant-3.webp** — File:Ameisenhügel - ant hill - Mörfelden-Walldorf - 05.jpg
+  - Author: Norbert Nagel
+  - Source: https://commons.wikimedia.org/wiki/File:Ameisenh%C3%BCgel_-_ant_hill_-_M%C3%B6rfelden-Walldorf_-_05.jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/bee-2.webp** — File:Bee, Virginia.jpg
+  - Author: Magnolia677
+  - Source: https://commons.wikimedia.org/wiki/File:Bee,_Virginia.jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/caterpillar-2.webp** — File:Tent caterpillar original.jpg
+  - Author: Brocken Inaglory
+  - Source: https://commons.wikimedia.org/wiki/File:Tent_caterpillar_original.jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/goat-2.webp** — File:Gorge du Verdon Goat 0254.jpg
+  - Author: Dirk Beyer
+  - Source: https://commons.wikimedia.org/wiki/File:Gorge_du_Verdon_Goat_0254.jpg
+  - Licence: CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)
+- **images/photos/hamster-3.webp** — File:Baby Hamster - 2 Weeks Old.jpg
+  - Author: Augustus Binu : flickr : Instagram
+  - Source: https://commons.wikimedia.org/wiki/File:Baby_Hamster_-_2_Weeks_Old.jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/hedgehog-2.webp** — File:West European Hedgehog (Erinaceus europaeus)1.jpg
+  - Author: Hrald
+  - Source: https://commons.wikimedia.org/wiki/File:West_European_Hedgehog_(Erinaceus_europaeus)1.jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/jaguar-1.webp** — File:Jaguar head shot-edit2.jpg
+  - Author: Cburnett at English Wikipedia
+  - Source: https://commons.wikimedia.org/wiki/File:Jaguar_head_shot-edit2.jpg
+  - Licence: CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)
+- **images/photos/jaguar-2.webp** — File:Jaguar head shot.jpg
+  - Author: en:User:Cburnett
+  - Source: https://commons.wikimedia.org/wiki/File:Jaguar_head_shot.jpg
+  - Licence: CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)
+- **images/photos/kangaroo-2.webp** — File:Eastern Grey Kangaroo Feeding edited.jpg
+  - Author: Eastern_Grey_Kangaroo_Feeding.jpg : Toby Hudson derivative work: Durova ( talk )
+  - Source: https://commons.wikimedia.org/wiki/File:Eastern_Grey_Kangaroo_Feeding_edited.jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/ladybug-3.webp** — File:Ladybug larva (Coccinellidae).jpg
+  - Author: Marcel Zurreck
+  - Source: https://commons.wikimedia.org/wiki/File:Ladybug_larva_(Coccinellidae).jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/llama-1.webp** — File:Llama (Lama glama), Tierpark Hellabrunn, Múnich, Alemania, 2012-06-17, DD 01.JPG
+  - Author: Diego Delso
+  - Source: https://commons.wikimedia.org/wiki/File:Llama_(Lama_glama),_Tierpark_Hellabrunn,_M%C3%BAnich,_Alemania,_2012-06-17,_DD_01.JPG
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/llama-2.webp** — File:Llama on Machu Picchu.jpg
+  - Author: Alexandre Buisse ( Nattfodd )
+  - Source: https://commons.wikimedia.org/wiki/File:Llama_on_Machu_Picchu.jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/llama-3.webp** — File:Llama in Ecuador.jpg
+  - Author: Bernard Gagnon
+  - Source: https://commons.wikimedia.org/wiki/File:Llama_in_Ecuador.jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/meerkat-3.webp** — File:Suricata suricatta - meerkat - suracte - Erdmännchen 02.jpg
+  - Author: Norbert Nagel, Mörfelden-Walldorf, Germany
+  - Source: https://commons.wikimedia.org/wiki/File:Suricata_suricatta_-_meerkat_-_suracte_-_Erdm%C3%A4nnchen_02.jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/octopus-2.webp** — File:Octopus vulgaris 03.jpg
+  - Author: H. Zell
+  - Source: https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_03.jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/penguin-1.webp** — File:King Penguins (Youngs).jpg
+  - Author: Butterfly austral
+  - Source: https://commons.wikimedia.org/wiki/File:King_Penguins_(Youngs).jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/rhino-1.webp** — File:White rhinoceros head - Sofia zoo.jpg
+  - Author: MrPanyGoff
+  - Source: https://commons.wikimedia.org/wiki/File:White_rhinoceros_head_-_Sofia_zoo.jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/seagull-3.webp** — File:Seagull July 2014-2.jpg
+  - Author: Alvesgaspar
+  - Source: https://commons.wikimedia.org/wiki/File:Seagull_July_2014-2.jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/seal-2.webp** — File:Harbour seal breast feeding 1150144.jpg
+  - Author: Nevit Dilmen ( talk )
+  - Source: https://commons.wikimedia.org/wiki/File:Harbour_seal_breast_feeding_1150144.jpg
+  - Licence: CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)
+- **images/photos/seal-3.webp** — File:Harbor seal is nurcing at Point Lobos.jpg
+  - Author: Brocken Inaglory
+  - Source: https://commons.wikimedia.org/wiki/File:Harbor_seal_is_nurcing_at_Point_Lobos.jpg
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/spider-1.webp** — File:Spider web Luc Viatour.jpg
+  - Author: Luc Viatour
+  - Source: https://commons.wikimedia.org/wiki/File:Spider_web_Luc_Viatour.jpg
+  - Licence: CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)
+- **images/photos/spider-3.webp** — File:Araneus diadematus (Clerck, 1757).JPG
+  - Author: Michael Gäbler
+  - Source: https://commons.wikimedia.org/wiki/File:Araneus_diadematus_(Clerck,_1757).JPG
+  - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- **images/photos/squirrel-1.webp** — File:Squirrel closeup profile.gk.jpg
+  - Author: grendel | khan
+  - Source: https://commons.wikimedia.org/wiki/File:Squirrel_closeup_profile.gk.jpg
+  - Licence: CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)
+- **images/photos/turtle-2.webp** — File:Green turtle in Kona 2008.jpg
+  - Author: Brocken Inaglory
+  - Source: https://commons.wikimedia.org/wiki/File:Green_turtle_in_Kona_2008.jpg
   - Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
 
 ## CC BY-SA 4.0
 
+- **audio/sounds/badger.ogg** — File:European Badger (Meles meles) (W1CDR0001490 BD4).ogg
+  - Author: Unknown
+  - Source: https://commons.wikimedia.org/wiki/File:European_Badger_(Meles_meles)_(W1CDR0001490_BD4).ogg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
 - **audio/sounds/cow.ogg** — File:Single Cow Moo.ogg
   - Author: MichaeltheFox8621
-  - Source: https://commons.wikimedia.org/wiki/File:Single_Cow_Moo.ogg
   - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
-- **images/photos/elephant.webp** — File:African elephant (Loxodonta africana) 2.jpg
+- **audio/sounds/hoopoe.ogg** — File:Upupa africana - African Hoopoe XC601892.mp3
+  - Author: paulo kivuyo
+  - Source: https://commons.wikimedia.org/wiki/File:Upupa_africana_-_African_Hoopoe_XC601892.mp3
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/alpaca-1.webp** — File:Till Alpaca PM18-01.jpg
+  - Author: Pieter Delicaat
+  - Source: https://commons.wikimedia.org/wiki/File:Till_Alpaca_PM18-01.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/ant-2.webp** — File:Carpenter ant(Camponotus sp) 8395.jpg
+  - Author: Vengolis
+  - Source: https://commons.wikimedia.org/wiki/File:Carpenter_ant(Camponotus_sp)_8395.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/badger-1.webp** — File:European badger (Meles meles taxus) head Drenthe.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:European_badger_(Meles_meles_taxus)_head_Drenthe.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/bat-2.webp** — File:Bats Chiroptera LinNoe.jpg
+  - Author: SarKaLay စာကလေး
+  - Source: https://commons.wikimedia.org/wiki/File:Bats_Chiroptera_LinNoe.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/bat-3.webp** — File:Bats inside Puthia Rajbari 01.jpg
+  - Author: Kritzolina
+  - Source: https://commons.wikimedia.org/wiki/File:Bats_inside_Puthia_Rajbari_01.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/bear-1.webp** — File:Eurasian brown bear (Ursus arctos arctos) adult female head.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Eurasian_brown_bear_(Ursus_arctos_arctos)_adult_female_head.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/bear-2.webp** — File:Kamchatka Brown Bear near Dvuhyurtochnoe on 2015-07-23.jpg
+  - Author: Robert F. Tobler
+  - Source: https://commons.wikimedia.org/wiki/File:Kamchatka_Brown_Bear_near_Dvuhyurtochnoe_on_2015-07-23.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/bee-1.webp** — File:Bee in Loto in Botanical Garden of São Paulo.jpg
+  - Author: Wilfredor
+  - Source: https://commons.wikimedia.org/wiki/File:Bee_in_Loto_in_Botanical_Garden_of_S%C3%A3o_Paulo.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/bee-3.webp** — File:Asian green bee-eater in Baruipur January 2025 by Tisha Mukherjee 01.jpg
+  - Author: Tisha Mukherjee
+  - Source: https://commons.wikimedia.org/wiki/File:Asian_green_bee-eater_in_Baruipur_January_2025_by_Tisha_Mukherjee_01.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/camel-1.webp** — File:Bactrian camel (Camelus bactrianus) - close-up.jpg
+  - Author: AntanO
+  - Source: https://commons.wikimedia.org/wiki/File:Bactrian_camel_(Camelus_bactrianus)_-_close-up.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/camel-2.webp** — File:Decorated one-humped Camel, Camelus dromedarius, at Puri Sea Beach, Odisha, India.jpg
+  - Author: Joydeep Chakraborty
+  - Source: https://commons.wikimedia.org/wiki/File:Decorated_one-humped_Camel,_Camelus_dromedarius,_at_Puri_Sea_Beach,_Odisha,_India.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/camel-3.webp** — File:Camelus bactrianus in western Mongolia 06.jpg
+  - Author: Alexandr frolov
+  - Source: https://commons.wikimedia.org/wiki/File:Camelus_bactrianus_in_western_Mongolia_06.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/caterpillar-1.webp** — File:Pieris brassicae (caterpillar) Portrait.jpg
+  - Author: Didier Descouens
+  - Source: https://commons.wikimedia.org/wiki/File:Pieris_brassicae_(caterpillar)_Portrait.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/caterpillar-3.webp** — File:Calliteara pudibunda caterpillar - Keila1.jpg
+  - Author: Ivar Leidus
+  - Source: https://commons.wikimedia.org/wiki/File:Calliteara_pudibunda_caterpillar_-_Keila1.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/cheetah-1.webp** — File:037 Cheetah close-up in the Serengeti National Park Photo by Giles Laurent.jpg
+  - Author: Giles Laurent
+  - Source: https://commons.wikimedia.org/wiki/File:037_Cheetah_close-up_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/cheetah-3.webp** — File:Cheetah (Acinonyx jubatus) female 2.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Cheetah_(Acinonyx_jubatus)_female_2.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/chipmunk-1.webp** — File:Chipmunk with stuffed cheeks in Prospect Park (05980).jpg
+  - Author: Rhododendrites
+  - Source: https://commons.wikimedia.org/wiki/File:Chipmunk_with_stuffed_cheeks_in_Prospect_Park_(05980).jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/chipmunk-2.webp** — File:Hollister's chipmunk (Neotamias amoenus ludibundus) Mt Rainier.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Hollister%27s_chipmunk_(Neotamias_amoenus_ludibundus)_Mt_Rainier.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/chipmunk-3.webp** — File:Sonoma chipmunk at Samuel P. Taylor State Park.jpg
+  - Author: Frank Schulenburg
+  - Source: https://commons.wikimedia.org/wiki/File:Sonoma_chipmunk_at_Samuel_P._Taylor_State_Park.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/crab-1.webp** — File:Can you find the crab?.jpg
+  - Author: Kumelz
+  - Source: https://commons.wikimedia.org/wiki/File:Can_you_find_the_crab%3F.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/crab-2.webp** — File:Crab on the rocks of the groyne at Kwinana Beach, December 2023 04.jpg
+  - Author: Calistemon
+  - Source: https://commons.wikimedia.org/wiki/File:Crab_on_the_rocks_of_the_groyne_at_Kwinana_Beach,_December_2023_04.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/crab-3.webp** — File:Crab at Kamay Botany Bay National Park.jpg
+  - Author: Maksym Kozlenko
+  - Source: https://commons.wikimedia.org/wiki/File:Crab_at_Kamay_Botany_Bay_National_Park.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/cricket-2.webp** — File:Cricket near St Mewan, Cornwall, UK.jpg
+  - Author: Flappy Pigeon
+  - Source: https://commons.wikimedia.org/wiki/File:Cricket_near_St_Mewan,_Cornwall,_UK.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/crocodile-1.webp** — File:Mugger crocodile (Crocodylus palustris) head.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Mugger_crocodile_(Crocodylus_palustris)_head.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/crocodile-3.webp** — File:Saltwater crocodile in Sundarbans National Park November 2024 by Tisha Mukherjee 03.jpg
+  - Author: Tisha Mukherjee
+  - Source: https://commons.wikimedia.org/wiki/File:Saltwater_crocodile_in_Sundarbans_National_Park_November_2024_by_Tisha_Mukherjee_03.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/crow-3.webp** — File:Hooded crow – Wrona zwyczajna – Corvus corone cornix.jpg
+  - Author: Krigore
+  - Source: https://commons.wikimedia.org/wiki/File:Hooded_crow_%E2%80%93_Wrona_zwyczajna_%E2%80%93_Corvus_corone_cornix.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/deer-1.webp** — File:014 Wild Red Deer Switzerland Photo by Giles Laurent.jpg
+  - Author: Giles Laurent
+  - Source: https://commons.wikimedia.org/wiki/File:014_Wild_Red_Deer_Switzerland_Photo_by_Giles_Laurent.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/dolphin-1.webp** — File:Eilat Dolphin Reef (3).jpg
+  - Author: טל שמע
+  - Source: https://commons.wikimedia.org/wiki/File:Eilat_Dolphin_Reef_(3).jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/donkey-2.webp** — File:Equus asinus - Donkey 02.jpg
+  - Author: Zeynel Cebeci
+  - Source: https://commons.wikimedia.org/wiki/File:Equus_asinus_-_Donkey_02.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/donkey-3.webp** — File:Donkey (Equus africanus asinus) at Devín Castle (Bratislava, Slovakia) julesvernex2.jpg
+  - Author: Jules Verne Times Two
+  - Source: https://commons.wikimedia.org/wiki/File:Donkey_(Equus_africanus_asinus)_at_Dev%C3%ADn_Castle_(Bratislava,_Slovakia)_julesvernex2.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/dove-1.webp** — File:Rock doves in flight.jpg
+  - Author: Laitche
+  - Source: https://commons.wikimedia.org/wiki/File:Rock_doves_in_flight.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/dove-3.webp** — File:Rock dove (Columba livia).jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Rock_dove_(Columba_livia).jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/duck-2.webp** — File:Mallard duck (Anas platyrhynchos) male.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Mallard_duck_(Anas_platyrhynchos)_male.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/duck-3.webp** — File:Mallard duck (Anas platyrhynchos) young adult male portrait.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Mallard_duck_(Anas_platyrhynchos)_young_adult_male_portrait.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/elephant-1.webp** — File:African elephant (Loxodonta africana) 2.jpg
   - Author: Charles J. Sharp
   - Source: https://commons.wikimedia.org/wiki/File:African_elephant_(Loxodonta_africana)_2.jpg
   - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
-- **images/photos/lion.webp** — File:Lion Panthera leo 01.jpg
+- **images/photos/elephant-3.webp** — File:101 African bush elephant face close-up in Etosha National Park Photo by Giles Laurent.jpg
+  - Author: Giles Laurent
+  - Source: https://commons.wikimedia.org/wiki/File:101_African_bush_elephant_face_close-up_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/flamingo-2.webp** — File:001 Greater flamingo in flight in the Camargue Photo by Giles Laurent.jpg
+  - Author: Giles Laurent
+  - Source: https://commons.wikimedia.org/wiki/File:001_Greater_flamingo_in_flight_in_the_Camargue_Photo_by_Giles_Laurent.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/fox-1.webp** — File:Portrait of a red fox in Rautas fjällurskog.jpg
+  - Author: ClaudiaTen
+  - Source: https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/frog-2.webp** — File:Variegated golden frog (Mantella baroni) Ranomafana.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Variegated_golden_frog_(Mantella_baroni)_Ranomafana.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/frog-3.webp** — File:Odorrana hosii, Hose's frog.jpg
+  - Author: Rushenb
+  - Source: https://commons.wikimedia.org/wiki/File:Odorrana_hosii,_Hose%27s_frog.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/giraffe-1.webp** — File:Three giraffes 01.jpg
+  - Author: Byrdyak
+  - Source: https://commons.wikimedia.org/wiki/File:Three_giraffes_01.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/goose-2.webp** — File:Greylag goose (Anser anser) head.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Greylag_goose_(Anser_anser)_head.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/goose-3.webp** — File:Anser anser - Graugans - Greylag Goose - March 1st 2026 - 03.jpg
+  - Author: NorbertNagel
+  - Source: https://commons.wikimedia.org/wiki/File:Anser_anser_-_Graugans_-_Greylag_Goose_-_March_1st_2026_-_03.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/gorilla-1.webp** — File:Gorila de montaña (Gorilla beringei beringei), parque nacional de la Selva Impenetrable de Bwindi, Uganda, 2024-02-02, DD 80.jpg
+  - Author: Diego Delso
+  - Source: https://commons.wikimedia.org/wiki/File:Gorila_de_monta%C3%B1a_(Gorilla_beringei_beringei),_parque_nacional_de_la_Selva_Impenetrable_de_Bwindi,_Uganda,_2024-02-02,_DD_80.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/gorilla-2.webp** — File:Gorilla Male Global.jpg
+  - Author: Didier Descouens
+  - Source: https://commons.wikimedia.org/wiki/File:Gorilla_Male_Global.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/gorilla-3.webp** — File:Gorilla gorilla gorilla (Gorille des plaines de l'Ouest) - 458.jpg
+  - Author: Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract .
+  - Source: https://commons.wikimedia.org/wiki/File:Gorilla_gorilla_gorilla_(Gorille_des_plaines_de_l%27Ouest)_-_458.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/hippo-2.webp** — File:Hipopótamos (Hippopotamus amphibius), parque nacional de Chobe, Botsuana, 2018-07-28, DD 79.jpg
+  - Author: Diego Delso
+  - Source: https://commons.wikimedia.org/wiki/File:Hipop%C3%B3tamos_(Hippopotamus_amphibius),_parque_nacional_de_Chobe,_Botsuana,_2018-07-28,_DD_79.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/hoopoe-1.webp** — File:Eurasian hoopoe (Upupa epops) juvenile in nest box.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Eurasian_hoopoe_(Upupa_epops)_juvenile_in_nest_box.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/hoopoe-2.webp** — File:Common hoopoe - Upupa epops 05.jpg
+  - Author: Zeynel Cebeci
+  - Source: https://commons.wikimedia.org/wiki/File:Common_hoopoe_-_Upupa_epops_05.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/hoopoe-3.webp** — File:Common Hoopoe in Baruipur November 2025 by Tisha Mukherjee 02.jpg
+  - Author: Tisha Mukherjee
+  - Source: https://commons.wikimedia.org/wiki/File:Common_Hoopoe_in_Baruipur_November_2025_by_Tisha_Mukherjee_02.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/hyena-1.webp** — File:Spotted hyena (Crocuta crocuta).jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Spotted_hyena_(Crocuta_crocuta).jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/hyena-2.webp** — File:Striped hyena in Bhigwan August 2025 by Tisha Mukherjee 12.jpg
+  - Author: Tisha Mukherjee
+  - Source: https://commons.wikimedia.org/wiki/File:Striped_hyena_in_Bhigwan_August_2025_by_Tisha_Mukherjee_12.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/hyena-3.webp** — File:Striped hyena in Bhigwan August 2025 by Tisha Mukherjee 18.jpg
+  - Author: Tisha Mukherjee
+  - Source: https://commons.wikimedia.org/wiki/File:Striped_hyena_in_Bhigwan_August_2025_by_Tisha_Mukherjee_18.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/jaguar-3.webp** — File:Jaguar portrait, Tiergarten Schönbrunn.jpg
+  - Author: Alexander Leisser
+  - Source: https://commons.wikimedia.org/wiki/File:Jaguar_portrait,_Tiergarten_Sch%C3%B6nbrunn.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/jellyfish-2.webp** — File:Jellyfish in a tank.jpg
+  - Author: Mtheletter
+  - Source: https://commons.wikimedia.org/wiki/File:Jellyfish_in_a_tank.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/kangaroo-1.webp** — File:Forester kangaroo (Macropus giganteus tasmaniensis) juvenile hopping Esk Valley.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Forester_kangaroo_(Macropus_giganteus_tasmaniensis)_juvenile_hopping_Esk_Valley.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/kangaroo-3.webp** — File:Western Grey Kangaroo, Dhilba Guuranda–Innes NP 20230208.jpg
+  - Author: User:DXR
+  - Source: https://commons.wikimedia.org/wiki/File:Western_Grey_Kangaroo,_Dhilba_Guuranda%E2%80%93Innes_NP_20230208.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/koala-3.webp** — File:Koala 22.jpg
+  - Author: Misaochan2
+  - Source: https://commons.wikimedia.org/wiki/File:Koala_22.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/leopard-1.webp** — File:Leopard (Panthera pardus pardus) Kruger.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Leopard_(Panthera_pardus_pardus)_Kruger.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/leopard-2.webp** — File:Leopard Tree AdF.jpg
+  - Author: Arturo de Frias Marques
+  - Source: https://commons.wikimedia.org/wiki/File:Leopard_Tree_AdF.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/lion-1.webp** — File:Lion Panthera leo 01.jpg
   - Author: Nikhil More
   - Source: https://commons.wikimedia.org/wiki/File:Lion_Panthera_leo_01.jpg
   - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
-- **images/photos/rooster.webp** — File:Feral rooster on Kauaʻi.jpg
+- **images/photos/lion-2.webp** — File:Lion Panthera leo 02.jpg
+  - Author: Nikhil More
+  - Source: https://commons.wikimedia.org/wiki/File:Lion_Panthera_leo_02.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/lizard-1.webp** — File:Bosc's fringe-toed lizard (Acanthodactylus boskianus asper) juvenile.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Bosc%27s_fringe-toed_lizard_(Acanthodactylus_boskianus_asper)_juvenile.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/meerkat-1.webp** — File:Meerkat (Suricata suricatta).jpg
+  - Author: Hans Hillewaert
+  - Source: https://commons.wikimedia.org/wiki/File:Meerkat_(Suricata_suricatta).jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/meerkat-2.webp** — File:Meerkat (Suricata suricatta) Tswalu.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Meerkat_(Suricata_suricatta)_Tswalu.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/monkey-3.webp** — File:Green monkey (Chlorocebus sabaeus) juvenile head.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Green_monkey_(Chlorocebus_sabaeus)_juvenile_head.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/mouse-3.webp** — File:Mouse released in the wild.JPG
+  - Author: Szczureq
+  - Source: https://commons.wikimedia.org/wiki/File:Mouse_released_in_the_wild.JPG
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/octopus-1.webp** — File:Pulpo común (Octopus vulgaris), Parque natural de la Arrábida, Portugal, 2020-07-21, DD 46.jpg
+  - Author: Diego Delso
+  - Source: https://commons.wikimedia.org/wiki/File:Pulpo_com%C3%BAn_(Octopus_vulgaris),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2020-07-21,_DD_46.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/orangutan-1.webp** — File:Orangutan Kalimantan.jpg
+  - Author: Ridwan0810
+  - Source: https://commons.wikimedia.org/wiki/File:Orangutan_Kalimantan.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/orangutan-2.webp** — File:Bornean orangutan (Pongo pygmaeus), Tanjung Putting National Park 15.jpg
+  - Author: Thomas Fuhrmann
+  - Source: https://commons.wikimedia.org/wiki/File:Bornean_orangutan_(Pongo_pygmaeus),_Tanjung_Putting_National_Park_15.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/orangutan-3.webp** — File:Orangutan and infant Sumatra.jpg
+  - Author: Anton Leddin
+  - Source: https://commons.wikimedia.org/wiki/File:Orangutan_and_infant_Sumatra.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/ostrich-2.webp** — File:104 Juvenile South African ostrich in the Kalahari Desert of Namibia Photo by Giles Laurent.jpg
+  - Author: Giles Laurent
+  - Source: https://commons.wikimedia.org/wiki/File:104_Juvenile_South_African_ostrich_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/ostrich-3.webp** — File:Common ostrich (Struthio camelus australis) male running composite.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Common_ostrich_(Struthio_camelus_australis)_male_running_composite.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/otter-1.webp** — File:European otter 02.jpg
+  - Author: Alexander Leisser
+  - Source: https://commons.wikimedia.org/wiki/File:European_otter_02.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/otter-3.webp** — File:2023-08-25 Otter - Lutra lutra in Wildpark Bad Mergentheim 07.jpg
+  - Author: Triplec85
+  - Source: https://commons.wikimedia.org/wiki/File:2023-08-25_Otter_-_Lutra_lutra_in_Wildpark_Bad_Mergentheim_07.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/owl-2.webp** — File:Cuban pygmy-owl (Glaucidium siju siju).JPG
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Cuban_pygmy-owl_(Glaucidium_siju_siju).JPG
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/panda-1.webp** — File:Ailuropoda melanoleuca (Panda géant) - 445.jpg
+  - Author: Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract .
+  - Source: https://commons.wikimedia.org/wiki/File:Ailuropoda_melanoleuca_(Panda_g%C3%A9ant)_-_445.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/panda-2.webp** — File:Panda géant (Ailuropoda melanoleuca) (1).jpg
+  - Author: Gzen92
+  - Source: https://commons.wikimedia.org/wiki/File:Panda_g%C3%A9ant_(Ailuropoda_melanoleuca)_(1).jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/panda-3.webp** — File:Panda géant - tête (Ailuropoda melanoleuca) (1).jpg
+  - Author: Gzen92
+  - Source: https://commons.wikimedia.org/wiki/File:Panda_g%C3%A9ant_-_t%C3%AAte_(Ailuropoda_melanoleuca)_(1).jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/parrot-1.webp** — File:Yellow-faced parrot (Alipiopsitta xanthops) green morph.JPG
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Yellow-faced_parrot_(Alipiopsitta_xanthops)_green_morph.JPG
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/peacock-1.webp** — File:Javan Green Peafowl in Baluran National Park.jpg
+  - Author: Panji Gusti Akbar
+  - Source: https://commons.wikimedia.org/wiki/File:Javan_Green_Peafowl_in_Baluran_National_Park.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/peacock-2.webp** — File:Peafowl - İmirzeli 01.jpg
+  - Author: Zeynel Cebeci
+  - Source: https://commons.wikimedia.org/wiki/File:Peafowl_-_%C4%B0mirzeli_01.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/peacock-3.webp** — File:Indian Peafowl, Domaine de Pescheray.jpg
+  - Author: Clément Bardot
+  - Source: https://commons.wikimedia.org/wiki/File:Indian_Peafowl,_Domaine_de_Pescheray.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/penguin-3.webp** — File:Bruthöhlen Brillenpinguin.jpg
+  - Author: Olga Ernst
+  - Source: https://commons.wikimedia.org/wiki/File:Bruth%C3%B6hlen_Brillenpinguin.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/pig-3.webp** — File:Pot-bellied pigs in Lisbon Zoo 2008.jpg
+  - Author: Alvesgaspar
+  - Source: https://commons.wikimedia.org/wiki/File:Pot-bellied_pigs_in_Lisbon_Zoo_2008.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/polar_bear-2.webp** — File:Polar bear (Ursus maritimus) in the drift ice region north of Svalbard.jpg
+  - Author: Andreas Weith
+  - Source: https://commons.wikimedia.org/wiki/File:Polar_bear_(Ursus_maritimus)_in_the_drift_ice_region_north_of_Svalbard.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/polar_bear-3.webp** — File:Polar bear (Ursus) maritimus female with its cub, Svalbard (2).jpg
+  - Author: AWeith
+  - Source: https://commons.wikimedia.org/wiki/File:Polar_bear_(Ursus)_maritimus_female_with_its_cub,_Svalbard_(2).jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/rabbit-2.webp** — File:Rabbit (Oryctolagus cuniculus) Aston Upthorpe.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Rabbit_(Oryctolagus_cuniculus)_Aston_Upthorpe.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/raccoon-2.webp** — File:Raccoon in Central Park (35264).jpg
+  - Author: Rhododendrites
+  - Source: https://commons.wikimedia.org/wiki/File:Raccoon_in_Central_Park_(35264).jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/raccoon-3.webp** — File:Common raccoon (Procyon lotor) in a tree at Noboribetsu Onsen, Hokkaido, April 2023 04.jpg
+  - Author: Calistemon
+  - Source: https://commons.wikimedia.org/wiki/File:Common_raccoon_(Procyon_lotor)_in_a_tree_at_Noboribetsu_Onsen,_Hokkaido,_April_2023_04.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/rhino-3.webp** — File:075 White rhinoceros mother and her newborn baby in the Kalahari Desert of Namibia Photo by Giles Laurent.jpg
+  - Author: Giles Laurent
+  - Source: https://commons.wikimedia.org/wiki/File:075_White_rhinoceros_mother_and_her_newborn_baby_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/rooster-1.webp** — File:Feral rooster on Kauaʻi.jpg
   - Author: Frank Schulenburg
   - Source: https://commons.wikimedia.org/wiki/File:Feral_rooster_on_Kaua%CA%BBi.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/rooster-2.webp** — File:Junglefowl on tree.jpg
+  - Author: Philip Pikart
+  - Source: https://commons.wikimedia.org/wiki/File:Junglefowl_on_tree.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/rooster-3.webp** — File:Rooster portrait, France.jpg
+  - Author: Clément Bardot
+  - Source: https://commons.wikimedia.org/wiki/File:Rooster_portrait,_France.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/seahorse-3.webp** — File:The Knysna Seahorse exhibit in Two Oceans Aquarium.jpg
+  - Author: Sherwin
+  - Source: https://commons.wikimedia.org/wiki/File:The_Knysna_Seahorse_exhibit_in_Two_Oceans_Aquarium.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/shark-2.webp** — File:Oceanic Whitetip Shark (Carcharhinus longimanus) at Elphinstone Reef, Egypt.jpg
+  - Author: Polygonia c-album
+  - Source: https://commons.wikimedia.org/wiki/File:Oceanic_Whitetip_Shark_(Carcharhinus_longimanus)_at_Elphinstone_Reef,_Egypt.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/shark-3.webp** — File:Oceanic whitetip shark at Elphinstone Reef.jpg
+  - Author: Alexander Vasenin
+  - Source: https://commons.wikimedia.org/wiki/File:Oceanic_whitetip_shark_at_Elphinstone_Reef.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/sloth-2.webp** — File:Brown-throated sloth (Bradypus variegatus) female.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Brown-throated_sloth_(Bradypus_variegatus)_female.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/snail-2.webp** — File:Snail 11.jpg
+  - Author: Almostway2004
+  - Source: https://commons.wikimedia.org/wiki/File:Snail_11.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/snake-1.webp** — File:Wild Snake, Jacksonville, FL.jpg
+  - Author: Anthony Inswasty
+  - Source: https://commons.wikimedia.org/wiki/File:Wild_Snake,_Jacksonville,_FL.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/sparrow-2.webp** — File:House sparrow male in Prospect Park (53532).jpg
+  - Author: Rhododendrites
+  - Source: https://commons.wikimedia.org/wiki/File:House_sparrow_male_in_Prospect_Park_(53532).jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/sparrow-3.webp** — File:House Sparrow – wróbel zwyczajny – Passer domesticus.jpg
+  - Author: Krigore
+  - Source: https://commons.wikimedia.org/wiki/File:House_Sparrow_%E2%80%93_wr%C3%B3bel_zwyczajny_%E2%80%93_Passer_domesticus.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/spider-2.webp** — File:Raft spider (Dolomedes cf fimbriatus (Pisauridae)).jpg
+  - Author: Petar Milošević
+  - Source: https://commons.wikimedia.org/wiki/File:Raft_spider_(Dolomedes_cf_fimbriatus_(Pisauridae)).jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/squirrel-2.webp** — File:Grey squirrel (Sciurus carolinensis) 02.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Grey_squirrel_(Sciurus_carolinensis)_02.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/squirrel-3.webp** — File:Squirrel in CP (40494).jpg
+  - Author: Rhododendrites
+  - Source: https://commons.wikimedia.org/wiki/File:Squirrel_in_CP_(40494).jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/swan-1.webp** — File:Black-necked swan (Cygnus melancoryphus) head Santiago.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Black-necked_swan_(Cygnus_melancoryphus)_head_Santiago.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/swan-2.webp** — File:Mute swan (Cygnus olor) looking for food in waves, Windermere, England.jpg
+  - Author: Michal Klajban
+  - Source: https://commons.wikimedia.org/wiki/File:Mute_swan_(Cygnus_olor)_looking_for_food_in_waves,_Windermere,_England.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/swan-3.webp** — File:Mute swan cygnet pontoon in Prospect Park (80364).jpg
+  - Author: Rhododendrites
+  - Source: https://commons.wikimedia.org/wiki/File:Mute_swan_cygnet_pontoon_in_Prospect_Park_(80364).jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/tiger-3.webp** — File:Bengal tiger (Panthera tigris tigris) female 3.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/toucan-1.webp** — File:Toco toucan (Ramphastos toco) close-up.jpg
+  - Author: AntanO
+  - Source: https://commons.wikimedia.org/wiki/File:Toco_toucan_(Ramphastos_toco)_close-up.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/toucan-3.webp** — File:006 Toco toucan in Encontro das Águas State Park Photo by Giles Laurent.jpg
+  - Author: Giles Laurent
+  - Source: https://commons.wikimedia.org/wiki/File:006_Toco_toucan_in_Encontro_das_%C3%81guas_State_Park_Photo_by_Giles_Laurent.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/turtle-1.webp** — File:Balkan pond turtle (Mauremys rivulata) Butrint.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Balkan_pond_turtle_(Mauremys_rivulata)_Butrint.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/turtle-3.webp** — File:Turtle rock in Prospect Park (01717).jpg
+  - Author: Rhododendrites
+  - Source: https://commons.wikimedia.org/wiki/File:Turtle_rock_in_Prospect_Park_(01717).jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/water_buffalo-1.webp** — File:Close-up photograph of the head of a water buffalo bathing with open mouth at golden hour in Laos.jpg
+  - Author: Basile Morin
+  - Source: https://commons.wikimedia.org/wiki/File:Close-up_photograph_of_the_head_of_a_water_buffalo_bathing_with_open_mouth_at_golden_hour_in_Laos.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/water_buffalo-2.webp** — File:Water buffalo calf suckling, near Mehsana, Gujarat, India, 2.jpg
+  - Author: Yann Forget
+  - Source: https://commons.wikimedia.org/wiki/File:Water_buffalo_calf_suckling,_near_Mehsana,_Gujarat,_India,_2.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/water_buffalo-3.webp** — File:Asian water buffalo (Bubalus bubalis) Yala.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Asian_water_buffalo_(Bubalus_bubalis)_Yala.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/wolf-2.webp** — File:Iberian Wolf AdF 001.jpg
+  - Author: Arturo de Frias Marques
+  - Source: https://commons.wikimedia.org/wiki/File:Iberian_Wolf_AdF_001.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/woodpecker-1.webp** — File:Red-crowned woodpecker (Melanerpes rubricapillus rubricapillus) female.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Red-crowned_woodpecker_(Melanerpes_rubricapillus_rubricapillus)_female.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/woodpecker-2.webp** — File:Fulvous-breasted Woodpecker by Tisha Mukherjee 11.jpg
+  - Author: Tisha Mukherjee
+  - Source: https://commons.wikimedia.org/wiki/File:Fulvous-breasted_Woodpecker_by_Tisha_Mukherjee_11.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/woodpecker-3.webp** — File:Downy woodpecker (Picoides pubescens) in Durham, NC 3.jpg
+  - Author: Rhododendrites
+  - Source: https://commons.wikimedia.org/wiki/File:Downy_woodpecker_(Picoides_pubescens)_in_Durham,_NC_3.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/yak-2.webp** — File:Yak, (Bos grunniens), D35 7598 01.jpg
+  - Author: ADARSHluck
+  - Source: https://commons.wikimedia.org/wiki/File:Yak,_(Bos_grunniens),_D35_7598_01.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/yak-3.webp** — File:Yaks on Manali, Himachal Pradesh.jpg
+  - Author: Shameer Thajudeen
+  - Source: https://commons.wikimedia.org/wiki/File:Yaks_on_Manali,_Himachal_Pradesh.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/zebra-1.webp** — File:Burchell's zebra (Equus quagga burchellii) females head to tail.jpg
+  - Author: Charles J. Sharp
+  - Source: https://commons.wikimedia.org/wiki/File:Burchell%27s_zebra_(Equus_quagga_burchellii)_females_head_to_tail.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/zebra-2.webp** — File:Equus zebra hartmannae - Etosha 2015.jpg
+  - Author: Yathin S Krishnappa
+  - Source: https://commons.wikimedia.org/wiki/File:Equus_zebra_hartmannae_-_Etosha_2015.jpg
+  - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- **images/photos/zebra-3.webp** — File:Standing zebra at Nairobi National Park.jpg
+  - Author: Brihaspati
+  - Source: https://commons.wikimedia.org/wiki/File:Standing_zebra_at_Nairobi_National_Park.jpg
   - Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
 
 ## CC0
 
 - **audio/sounds/elephant.ogg** — File:Elephant voice - trumpeting.ogg
   - Author: தகவலுழவன்
-  - Source: https://commons.wikimedia.org/wiki/File:Elephant_voice_-_trumpeting.ogg
   - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
-- **images/photos/cat.webp** — File:Sunday Kitty (Unsplash).jpg
+- **images/photos/beaver-1.webp** — File:Beaver Lodge and Boardwalk in Hinton, Alberta, Canada.jpg
+  - Author: Benfwilliamson
+  - Source: https://commons.wikimedia.org/wiki/File:Beaver_Lodge_and_Boardwalk_in_Hinton,_Alberta,_Canada.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/cat-1.webp** — File:Sunday Kitty (Unsplash).jpg
   - Author: Nirzar Pangarkar nirzar
   - Source: https://commons.wikimedia.org/wiki/File:Sunday_Kitty_(Unsplash).jpg
   - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
-- **images/photos/cow.webp** — File:Countryside Cow (Unsplash).jpg
+- **images/photos/cat-2.webp** — File:Mm41a 1004 Cat (73466847).jpeg
+  - Author: Marsel Minga
+  - Source: https://commons.wikimedia.org/wiki/File:Mm41a_1004_Cat_(73466847).jpeg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/cow-1.webp** — File:Countryside Cow (Unsplash).jpg
   - Author: Biel Morro bielmb
   - Source: https://commons.wikimedia.org/wiki/File:Countryside_Cow_(Unsplash).jpg
   - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
-- **images/photos/dog.webp** — File:Portrait of a labrador retriever.jpg
+- **images/photos/cow-2.webp** — File:Cow In The Pasture (Unsplash).jpg
+  - Author: mike anderson goodvybesdaily
+  - Source: https://commons.wikimedia.org/wiki/File:Cow_In_The_Pasture_(Unsplash).jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/cow-3.webp** — File:Sun Cow (Unsplash).jpg
+  - Author: Louis Blythe louisjblythe
+  - Source: https://commons.wikimedia.org/wiki/File:Sun_Cow_(Unsplash).jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/dog-1.webp** — File:Portrait of a labrador retriever.jpg
   - Author: Dktue
   - Source: https://commons.wikimedia.org/wiki/File:Portrait_of_a_labrador_retriever.jpg
   - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
-- **images/photos/horse.webp** — File:Majestic stallion's head (Unsplash).jpg
+- **images/photos/donkey-1.webp** — File:Equus asinus (Donkey), Arnhem, the Netherlands.jpg
+  - Author: Bj.schoenmakers
+  - Source: https://commons.wikimedia.org/wiki/File:Equus_asinus_(Donkey),_Arnhem,_the_Netherlands.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/flamingo-1.webp** — File:American flamingo in Galápagos (Phoenicopterus ruber).jpg
+  - Author: E bailey
+  - Source: https://commons.wikimedia.org/wiki/File:American_flamingo_in_Gal%C3%A1pagos_(Phoenicopterus_ruber).jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/goat-3.webp** — File:Capra aegagrus hircus in isla Margarita.jpg
+  - Author: Wilfredor
+  - Source: https://commons.wikimedia.org/wiki/File:Capra_aegagrus_hircus_in_isla_Margarita.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/goose-1.webp** — File:Domesticated goose head, Chaguaramal, Venezuela.jpg
+  - Author: Wilfredor
+  - Source: https://commons.wikimedia.org/wiki/File:Domesticated_goose_head,_Chaguaramal,_Venezuela.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/hamster-1.webp** — File:Hamster in the yard.jpg
+  - Author: Lo
+  - Source: https://commons.wikimedia.org/wiki/File:Hamster_in_the_yard.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/hedgehog-1.webp** — File:Hedgehog on grass in the morning.jpg
+  - Author: byapryl
+  - Source: https://commons.wikimedia.org/wiki/File:Hedgehog_on_grass_in_the_morning.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/horse-1.webp** — File:Majestic stallion's head (Unsplash).jpg
   - Author: Violeta Pencheva viooview
   - Source: https://commons.wikimedia.org/wiki/File:Majestic_stallion%27s_head_(Unsplash).jpg
   - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
-- **images/photos/sheep.webp** — File:Sheep laying down (Unsplash).jpg
+- **images/photos/horse-2.webp** — File:Chestnut horse against a cloudy sky (Unsplash).jpg
+  - Author: Cierra Klatt cierraklatt
+  - Source: https://commons.wikimedia.org/wiki/File:Chestnut_horse_against_a_cloudy_sky_(Unsplash).jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/horse-3.webp** — File:Horse (Unsplash).jpg
+  - Author: Henry Chuy henrysca
+  - Source: https://commons.wikimedia.org/wiki/File:Horse_(Unsplash).jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/ladybug-1.webp** — File:Ladybug in our yard.jpg
+  - Author: VladimirWorkspace
+  - Source: https://commons.wikimedia.org/wiki/File:Ladybug_in_our_yard.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/mouse-1.webp** — File:Mouse in snow.jpg
+  - Author: Alex Kard
+  - Source: https://commons.wikimedia.org/wiki/File:Mouse_in_snow.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/mouse-2.webp** — File:House mouse (Mus musculus) 2808.jpg
+  - Author: Ahunt
+  - Source: https://commons.wikimedia.org/wiki/File:House_mouse_(Mus_musculus)_2808.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/ostrich-1.webp** — File:Common ostrich herd.jpg
+  - Author: Drcbrothephotographer
+  - Source: https://commons.wikimedia.org/wiki/File:Common_ostrich_herd.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/owl-1.webp** — File:Front view of a barn owl - Tyto alba - in flight.jpg
+  - Author: Dannymoore1973 Minor edits made by Subsidiary account
+  - Source: https://commons.wikimedia.org/wiki/File:Front_view_of_a_barn_owl_-_Tyto_alba_-_in_flight.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/pig-2.webp** — File:Sus scrofa domesticus, miniature pig, juvenile.jpg
+  - Author: Johan Spaedtke
+  - Source: https://commons.wikimedia.org/wiki/File:Sus_scrofa_domesticus,_miniature_pig,_juvenile.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/rabbit-1.webp** — File:Rabbit resting.jpg
+  - Author: Wilfredor
+  - Source: https://commons.wikimedia.org/wiki/File:Rabbit_resting.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/rhino-2.webp** — File:Ceratotherium simum white Rhinoceros blanc female MNHN.jpg
+  - Author: Jebulon
+  - Source: https://commons.wikimedia.org/wiki/File:Ceratotherium_simum_white_Rhinoceros_blanc_female_MNHN.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/scorpion-1.webp** — File:Scorpion found below stone.jpg
+  - Author: Yogeshsir56
+  - Source: https://commons.wikimedia.org/wiki/File:Scorpion_found_below_stone.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/scorpion-2.webp** — File:Scorpion MET 1981.459.6.jpeg
+  - Author: Unknown
+  - Source: https://commons.wikimedia.org/wiki/File:Scorpion_MET_1981.459.6.jpeg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/scorpion-3.webp** — File:FAT TAILED SCORPION (KUWAIT SALMI DESERT).jpg
+  - Author: RATHEESH POTTEPARAMBIL BALAKRISHNAN
+  - Source: https://commons.wikimedia.org/wiki/File:FAT_TAILED_SCORPION_(KUWAIT_SALMI_DESERT).jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/seal-1.webp** — File:Seal (Zénith-2012)-6.JPG
+  - Author: Armael
+  - Source: https://commons.wikimedia.org/wiki/File:Seal_(Z%C3%A9nith-2012)-6.JPG
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/shark-1.webp** — File:Shark Yekaterinburg 2023.jpg
+  - Author: MSDN.WhiteKnight
+  - Source: https://commons.wikimedia.org/wiki/File:Shark_Yekaterinburg_2023.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/sheep-1.webp** — File:Sheep laying down (Unsplash).jpg
   - Author: Michal Janek michalmichal
   - Source: https://commons.wikimedia.org/wiki/File:Sheep_laying_down_(Unsplash).jpg
   - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/sheep-2.webp** — File:Sheep head (Unsplash).jpg
+  - Author: Xavier Teo wallofxavier
+  - Source: https://commons.wikimedia.org/wiki/File:Sheep_head_(Unsplash).jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/sheep-3.webp** — File:Sheep (Unsplash).jpg
+  - Author: Andreas Weiland aweiland
+  - Source: https://commons.wikimedia.org/wiki/File:Sheep_(Unsplash).jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/sparrow-1.webp** — File:House sparrow (Passer domesticus), Amrum.jpg
+  - Author: Hobbyfotowiki
+  - Source: https://commons.wikimedia.org/wiki/File:House_sparrow_(Passer_domesticus),_Amrum.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/tiger-1.webp** — File:Siberian Tiger (38730837105).jpg
+  - Author: Mathias Appel
+  - Source: https://commons.wikimedia.org/wiki/File:Siberian_Tiger_(38730837105).jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/tiger-2.webp** — File:Siberian tiger - Seoul Zoo.jpg
+  - Author: Drcbrothephotographer
+  - Source: https://commons.wikimedia.org/wiki/File:Siberian_tiger_-_Seoul_Zoo.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/turkey-2.webp** — File:Marmaris, Turkey. Photo 2021.jpg
+  - Author: Stern1994
+  - Source: https://commons.wikimedia.org/wiki/File:Marmaris,_Turkey._Photo_2021.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/turkey-3.webp** — File:Meleagris gallopavo - November 2024 - Sarah Stierch 02.jpg
+  - Author: Missvain
+  - Source: https://commons.wikimedia.org/wiki/File:Meleagris_gallopavo_-_November_2024_-_Sarah_Stierch_02.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/whale-1.webp** — File:Unique wildlife moment showing a newborn humpback whale calf swimming beside its mother near the ocean surface.jpg
+  - Author: Stanislav Stelmakhovich
+  - Source: https://commons.wikimedia.org/wiki/File:Unique_wildlife_moment_showing_a_newborn_humpback_whale_calf_swimming_beside_its_mother_near_the_ocean_surface.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/wolf-3.webp** — File:Canis lupus lupus in Alpenzoo, Innsbruck.jpg
+  - Author: Wilfredor
+  - Source: https://commons.wikimedia.org/wiki/File:Canis_lupus_lupus_in_Alpenzoo,_Innsbruck.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- **images/photos/yak-1.webp** — File:Yak in Övörkhangai Province.jpg
+  - Author: Bernard Gagnon
+  - Source: https://commons.wikimedia.org/wiki/File:Yak_in_%C3%96v%C3%B6rkhangai_Province.jpg
+  - Licence: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
+
+## CC0 1.0
+
+- **audio/sounds/alpaca.ogg** — Camelids - Alpaca; High Moan, Take 2
+  - Author: TheKingOfGeeks360
+  - Source: https://freesound.org/people/TheKingOfGeeks360/sounds/868310/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/bat.ogg** — Bats squeak in the small cave
+  - Author: Selector
+  - Source: https://freesound.org/people/Selector/sounds/404152/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/bear.ogg** — Bear Angry Growl
+  - Author: celldroid
+  - Source: https://freesound.org/people/celldroid/sounds/763026/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/bee.ogg** — Bees buzzing
+  - Author: smand
+  - Source: https://freesound.org/people/smand/sounds/521116/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/bison.ogg** — Bovines - American Bison; Nasal Huffs, Close Perspective
+  - Author: TheKingOfGeeks360
+  - Source: https://freesound.org/people/TheKingOfGeeks360/sounds/867549/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/camel.ogg** — G12-05-Camel Grunt.wav
+  - Author: craigsmith
+  - Source: https://freesound.org/people/craigsmith/sounds/437937/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/chipmunk.ogg** — chitter chatter of chipmunks
+  - Author: Greego
+  - Source: https://freesound.org/people/Greego/sounds/351437/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/cricket.ogg** — crickets_chirping.wav
+  - Author: C-V
+  - Source: https://freesound.org/people/C-V/sounds/521129/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/crocodile.ogg** — Crocodile scream (Amazonian Rainforest)
+  - Author: felix.blume
+  - Source: https://freesound.org/people/felix.blume/sounds/403373/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/crow.ogg** — crow.wav
+  - Author: jess90
+  - Source: https://freesound.org/people/jess90/sounds/581810/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/deer.ogg** — Deer_Bark_5_s
+  - Author: ferventtorpor
+  - Source: https://freesound.org/people/ferventtorpor/sounds/696776/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/dolphin.ogg** — Amazonian Dolphins
+  - Author: felix.blume
+  - Source: https://freesound.org/people/felix.blume/sounds/408555/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/donkey.ogg** — Donkey Braying in mountain (Blumlein)
+  - Author: Sacha.Julien
+  - Source: https://freesound.org/people/Sacha.Julien/sounds/759893/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/dove.ogg** — Dove cry 1
+  - Author: 5ro4
+  - Source: https://freesound.org/people/5ro4/sounds/795719/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/eagle.ogg** — Bald Eagle Calls / Chirps
+  - Author: Kinoton
+  - Source: https://freesound.org/people/Kinoton/sounds/832476/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/flamingo.ogg** — Flamingos in the Schoenbrunn ZOO, Vienna
+  - Author: TomaszBuga
+  - Source: https://freesound.org/people/TomaszBuga/sounds/742823/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/fox.ogg** — Fox Mating Call
+  - Author: Bpianoholic
+  - Source: https://freesound.org/people/Bpianoholic/sounds/511000/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/frog.ogg** — Frog croaking sound effect
+  - Author: betterchinese
+  - Source: https://freesound.org/people/betterchinese/sounds/354132/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/goat.ogg** — mini Goat Baa
+  - Author: satoristudios3
+  - Source: https://freesound.org/people/satoristudios3/sounds/677218/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/goose.ogg** — goose honk
+  - Author: jahjahjahjah
+  - Source: https://freesound.org/people/jahjahjahjah/sounds/805297/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/gorilla.ogg** — G-Gorilla_1-2.aif
+  - Author: Ihopethisworks
+  - Source: https://freesound.org/people/Ihopethisworks/sounds/178188/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/hamster.ogg** — hamster Squeak， animal sound ，
+  - Author: lusania
+  - Source: https://freesound.org/people/lusania/sounds/815243/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/hedgehog.ogg** — Hedgehog smell and run.mp3
+  - Author: ffdown
+  - Source: https://freesound.org/people/ffdown/sounds/570301/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/hippo.ogg** — Hippopotamus Sounds
+  - Author: cmp1
+  - Source: https://freesound.org/people/cmp1/sounds/759858/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/hyena.ogg** — HyenaLaugh2.wav
+  - Author: sounagix
+  - Source: https://freesound.org/people/sounagix/sounds/680845/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/jaguar.ogg** — jaguar_growl_roar.wav
+  - Author: Vaporpup
+  - Source: https://freesound.org/people/Vaporpup/sounds/571287/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/llama.ogg** — A guanaco (kind of patagonian llama) calling his guanaco-children into the forest. (Tierra del Fuego, Argentina)
+  - Author: felix.blume
+  - Source: https://freesound.org/people/felix.blume/sounds/134348/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/moose.ogg** — Moose_Elk.mp3
+  - Author: gleith
+  - Source: https://freesound.org/people/gleith/sounds/486554/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/mouse.ogg** — Mouse Rodent Squeak Whistle
+  - Author: SecureSubset
+  - Source: https://freesound.org/people/SecureSubset/sounds/800274/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/otter.ogg** — river otter or weasel 2006-09-17.mp3
+  - Author: stackpool
+  - Source: https://freesound.org/people/stackpool/sounds/23142/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/owl.ogg** — Owl Hooting with far away dog barking
+  - Author: gfrog
+  - Source: https://freesound.org/people/gfrog/sounds/159726/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/parrot.ogg** — Parrots in tree
+  - Author: OroborosNZ
+  - Source: https://freesound.org/people/OroborosNZ/sounds/141252/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/peacock.ogg** — Peacock call
+  - Author: richwise
+  - Source: https://freesound.org/people/richwise/sounds/810711/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/penguin.ogg** — Humboldt Penguins
+  - Author: GirlWithSoundRecorder
+  - Source: https://freesound.org/people/GirlWithSoundRecorder/sounds/700949/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/pig.ogg** — 10-Piggy oinks (voice and hand)-210819_2155.wav
+  - Author: SavReese
+  - Source: https://freesound.org/people/SavReese/sounds/595481/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/rabbit.ogg** — Rabbit oinks and squeaks
+  - Author: kessir
+  - Source: https://freesound.org/people/kessir/sounds/372075/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/raccoon.ogg** — 180907 Raccoons, hiss growl sniff attack TORONTO.flac
+  - Author: TRP
+  - Source: https://freesound.org/people/TRP/sounds/571212/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/rhino.ogg** — Rhinoceros Trumpeting Angry
+  - Author: bevibeldesign
+  - Source: https://freesound.org/people/bevibeldesign/sounds/350424/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/seagull.ogg** — Lost seagull.wav
+  - Author: SiriusParsec
+  - Source: https://freesound.org/people/SiriusParsec/sounds/532092/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/seal.ogg** — G12-28-Seal Bark.wav
+  - Author: craigsmith
+  - Source: https://freesound.org/people/craigsmith/sounds/437960/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/snake.ogg** — Hissing Sound.wav
+  - Author: Yin_Yang_Jake007
+  - Source: https://freesound.org/people/Yin_Yang_Jake007/sounds/406089/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/sparrow.ogg** — White-crowned Sparrow Chirp
+  - Author: Zott820
+  - Source: https://freesound.org/people/Zott820/sounds/695297/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/squirrel.ogg** — Backyard squirrel
+  - Author: SoundsLikeYukon
+  - Source: https://freesound.org/people/SoundsLikeYukon/sounds/820322/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/swan.ogg** — Trumpeter Swans fly land splash loud calls 2pm TTP A 190401.flac
+  - Author: TRP
+  - Source: https://freesound.org/people/TRP/sounds/574430/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/tiger.ogg** — Tiger Roar
+  - Author: lauramellis
+  - Source: https://freesound.org/people/lauramellis/sounds/263115/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/toucan.ogg** — Toucans calling
+  - Author: zachrau
+  - Source: https://freesound.org/people/zachrau/sounds/812932/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/turkey.ogg** — turkey call
+  - Author: pesticideX
+  - Source: https://freesound.org/people/pesticideX/sounds/678192/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/whale.ogg** — LowWhalesong.wav
+  - Author: RebekahDay
+  - Source: https://freesound.org/people/RebekahDay/sounds/171945/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/wolf.ogg** — Howling wolves
+  - Author: Kingcornz
+  - Source: https://freesound.org/people/Kingcornz/sounds/378334/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/woodpecker.ogg** — Woodpecker calls
+  - Author: feastingfrog
+  - Source: https://freesound.org/people/feastingfrog/sounds/754225/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/yak.ogg** — Yak grunts
+  - Author: ali.g
+  - Source: https://freesound.org/people/ali.g/sounds/834331/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- **audio/sounds/zebra.ogg** — Zebras - Grant's Zebra Braying
+  - Author: TheKingOfGeeks360
+  - Source: https://freesound.org/people/TheKingOfGeeks360/sounds/850661/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Public domain
 
 - **audio/sounds/cat.ogg** — File:Meow of a pleading cat.oga
   - Author: Heismark
-  - Source: https://commons.wikimedia.org/wiki/File:Meow_of_a_pleading_cat.oga
   - Licence: Public domain
 - **audio/sounds/horse.ogg** — File:Wiehern.ogg
   - Author: Hü .
-  - Source: https://commons.wikimedia.org/wiki/File:Wiehern.ogg
   - Licence: Public domain
 - **audio/sounds/lion.ogg** — File:Lion raring-sound1TamilNadu178.ogg
   - Author: த*உழவன்
-  - Source: https://commons.wikimedia.org/wiki/File:Lion_raring-sound1TamilNadu178.ogg
+  - Licence: Public domain
+- **audio/sounds/panda.ogg** — File:Giant panda twittering.ogg
+  - Author: Myself
+  - Source: https://commons.wikimedia.org/wiki/File:Giant_panda_twittering.ogg
   - Licence: Public domain
 - **audio/sounds/rooster.ogg** — File:Small rooster crowing.ogg
   - Author: alys
-  - Source: https://commons.wikimedia.org/wiki/File:Small_rooster_crowing.ogg
   - Licence: Public domain
 - **audio/sounds/sheep.ogg** — File:Sheep bleating.ogg
   - Author: earthcalling
-  - Source: https://commons.wikimedia.org/wiki/File:Sheep_bleating.ogg
   - Licence: Public domain
-- **images/photos/monkey.webp** — File:Macaca nigra self-portrait (rotated and cropped).jpg
+- **images/photos/bat-1.webp** — File:BakemonoShiuchiHyobanki-fol07v-bat&08r-tanuki.jpg
+  - Author: Koikawa Harumachi
+  - Source: https://commons.wikimedia.org/wiki/File:BakemonoShiuchiHyobanki-fol07v-bat%2608r-tanuki.jpg
+  - Licence: Public domain
+- **images/photos/beaver-2.webp** — File:Castoroides ohioensis, Foster BHL47270269.jpg
+  - Author: Winchell, N. H.
+  - Source: https://commons.wikimedia.org/wiki/File:Castoroides_ohioensis,_Foster_BHL47270269.jpg
+  - Licence: Public domain
+- **images/photos/beaver-3.webp** — File:Beaver lodge (53068774370).jpg
+  - Author: U.S. Fish and Wildlife Service - Midwest Region
+  - Source: https://commons.wikimedia.org/wiki/File:Beaver_lodge_(53068774370).jpg
+  - Licence: Public domain
+- **images/photos/bison-1.webp** — File:American bison k5680-1.jpg
+  - Author: Jack Dykinga
+  - Source: https://commons.wikimedia.org/wiki/File:American_bison_k5680-1.jpg
+  - Licence: Public domain
+- **images/photos/bison-2.webp** — File:(Venice) Sacra Famiglia - Giuseppe Bernardino Bison - Pinacoteca Egidio Martin.jpg
+  - Author: Didier Descouens
+  - Source: https://commons.wikimedia.org/wiki/File:(Venice)_Sacra_Famiglia_-_Giuseppe_Bernardino_Bison_-_Pinacoteca_Egidio_Martin.jpg
+  - Licence: Public domain
+- **images/photos/butterfly-1.webp** — File:Morpho butterfly with wings closed, Corcovado, Costa Rica, Dec 2014.jpg
+  - Author: Kpts44
+  - Source: https://commons.wikimedia.org/wiki/File:Morpho_butterfly_with_wings_closed,_Corcovado,_Costa_Rica,_Dec_2014.jpg
+  - Licence: Public domain
+- **images/photos/cat-3.webp** — File:Domestic cat 2011 G02.jpg
+  - Author: George Chernilevsky
+  - Source: https://commons.wikimedia.org/wiki/File:Domestic_cat_2011_G02.jpg
+  - Licence: Public domain
+- **images/photos/dog-2.webp** — File:Labrador Retriever portrait.jpg
+  - Author: Herwig Kavallar
+  - Source: https://commons.wikimedia.org/wiki/File:Labrador_Retriever_portrait.jpg
+  - Licence: Public domain
+- **images/photos/dolphin-3.webp** — File:Tursiops truncatus 01.jpg
+  - Author: NASA
+  - Source: https://commons.wikimedia.org/wiki/File:Tursiops_truncatus_01.jpg
+  - Licence: Public domain
+- **images/photos/eagle-2.webp** — File:F-15EX Eagle II.jpg
+  - Author: Ethan Wagner
+  - Source: https://commons.wikimedia.org/wiki/File:F-15EX_Eagle_II.jpg
+  - Licence: Public domain
+- **images/photos/eagle-3.webp** — File:Earth, Moon and Lunar Module, AS11-44-6643.jpg
+  - Author: NASA / Apollo 11
+  - Source: https://commons.wikimedia.org/wiki/File:Earth,_Moon_and_Lunar_Module,_AS11-44-6643.jpg
+  - Licence: Public domain
+- **images/photos/elephant-2.webp** — File:Blind monks examining an elephant.jpg
+  - Author: Hanabusa Itchō
+  - Source: https://commons.wikimedia.org/wiki/File:Blind_monks_examining_an_elephant.jpg
+  - Licence: Public domain
+- **images/photos/fish-1.webp** — File:Brook trout swims in native stream underwater fish image.jpg
+  - Author: Eric Engbretson, U.S. Fish and Wildlife Service
+  - Source: https://commons.wikimedia.org/wiki/File:Brook_trout_swims_in_native_stream_underwater_fish_image.jpg
+  - Licence: Public domain
+- **images/photos/fish-2.webp** — File:Freshwater Mussels at Gavins Point National Fish Hatchery (51917444821).jpg
+  - Author: USFWS Mountain Prairie
+  - Source: https://commons.wikimedia.org/wiki/File:Freshwater_Mussels_at_Gavins_Point_National_Fish_Hatchery_(51917444821).jpg
+  - Licence: Public domain
+- **images/photos/fox-2.webp** — File:Common foxes in the snow.jpg
+  - Author: Wilhelm Kuhnert
+  - Source: https://commons.wikimedia.org/wiki/File:Common_foxes_in_the_snow.jpg
+  - Licence: Public domain
+- **images/photos/fox-3.webp** — File:Fox In The Snow - Courbet (1860).JPG
+  - Author: Gustave Courbet
+  - Source: https://commons.wikimedia.org/wiki/File:Fox_In_The_Snow_-_Courbet_(1860).JPG
+  - Licence: Public domain
+- **images/photos/frog-1.webp** — File:Red eyed tree frog edit2.jpg
+  - Author: Careyjamesbalboa (Carey James Balboa)
+  - Source: https://commons.wikimedia.org/wiki/File:Red_eyed_tree_frog_edit2.jpg
+  - Licence: Public domain
+- **images/photos/goat-1.webp** — File:Domestic goat 2016 G1.jpg
+  - Author: George Chernilevsky
+  - Source: https://commons.wikimedia.org/wiki/File:Domestic_goat_2016_G1.jpg
+  - Licence: Public domain
+- **images/photos/hamster-2.webp** — File:Hamster im Gras.jpg
+  - Author: Tux
+  - Source: https://commons.wikimedia.org/wiki/File:Hamster_im_Gras.jpg
+  - Licence: Public domain
+- **images/photos/hedgehog-3.webp** — File:Erinaceus roumanicus 2013 G5.jpg
+  - Author: George Chernilevsky
+  - Source: https://commons.wikimedia.org/wiki/File:Erinaceus_roumanicus_2013_G5.jpg
+  - Licence: Public domain
+- **images/photos/hippo-1.webp** — File:Hippopotamus @ Barcelona zoo.jpg
+  - Author: Pedroserafin
+  - Source: https://commons.wikimedia.org/wiki/File:Hippopotamus_@_Barcelona_zoo.jpg
+  - Licence: Public domain
+- **images/photos/ladybug-2.webp** — File:Monarch & Ladybug on Sunflower (23119326795).jpg
+  - Author: USFWS Mountain-Prairie
+  - Source: https://commons.wikimedia.org/wiki/File:Monarch_%26_Ladybug_on_Sunflower_(23119326795).jpg
+  - Licence: Public domain
+- **images/photos/monkey-1.webp** — File:Macaca nigra self-portrait (rotated and cropped).jpg
   - Author: Self-portrait by the depicted Macaca nigra female; rotated and cropped by David Slater. See article .
   - Source: https://commons.wikimedia.org/wiki/File:Macaca_nigra_self-portrait_(rotated_and_cropped).jpg
+  - Licence: Public domain
+- **images/photos/monkey-2.webp** — File:Macaca nigra self-portrait large.jpg
+  - Author: Self-portrait by the depicted Macaca nigra female. See article .
+  - Source: https://commons.wikimedia.org/wiki/File:Macaca_nigra_self-portrait_large.jpg
+  - Licence: Public domain
+- **images/photos/moose-1.webp** — File:Moose animal at snow alces alces.jpg
+  - Author: Laubenstein Ronald, U.S. Fish and Wildlife Service
+  - Source: https://commons.wikimedia.org/wiki/File:Moose_animal_at_snow_alces_alces.jpg
+  - Licence: Public domain
+- **images/photos/moose-2.webp** — File:Young bull moose alces alces lies in grassy area near water.jpg
+  - Author: Laubenstein Karen, U.S. Fish and Wildlife Service
+  - Source: https://commons.wikimedia.org/wiki/File:Young_bull_moose_alces_alces_lies_in_grassy_area_near_water.jpg
+  - Licence: Public domain
+- **images/photos/moose-3.webp** — File:Alces alces moose animal.jpg
+  - Author: Smith La Verne, U.S. Fish and Wildlife Service
+  - Source: https://commons.wikimedia.org/wiki/File:Alces_alces_moose_animal.jpg
+  - Licence: Public domain
+- **images/photos/pig-1.webp** — File:Sow with piglet.jpg
+  - Author: Scott Bauer, USDA
+  - Source: https://commons.wikimedia.org/wiki/File:Sow_with_piglet.jpg
+  - Licence: Public domain
+- **images/photos/polar_bear-1.webp** — File:Polar bears near north pole.jpg
+  - Author: Chief Yeoman Alphonso Braggs, US-Navy
+  - Source: https://commons.wikimedia.org/wiki/File:Polar_bears_near_north_pole.jpg
+  - Licence: Public domain
+- **images/photos/raccoon-1.webp** — File:Raccoon (Procyon lotor), portrait.jpg
+  - Author: California Department of Water Resources
+  - Source: https://commons.wikimedia.org/wiki/File:Raccoon_(Procyon_lotor),_portrait.jpg
+  - Licence: Public domain
+- **images/photos/seagull-1.webp** — File:Seagull - Larus dominicanus vetula - (Kelp Gull).jpg
+  - Author: Amada44
+  - Source: https://commons.wikimedia.org/wiki/File:Seagull_-_Larus_dominicanus_vetula_-_(Kelp_Gull).jpg
+  - Licence: Public domain
+- **images/photos/seagull-2.webp** — File:RAdm King with SOC Seagull 1936.jpg
+  - Author: Harris &amp; Ewing, photographers
+  - Source: https://commons.wikimedia.org/wiki/File:RAdm_King_with_SOC_Seagull_1936.jpg
+  - Licence: Public domain
+- **images/photos/skunk-1.webp** — File:Striped skunk mephitis mephitis omnivorous mammal.jpg
+  - Author: Henry, CJ, U.S. Fish and Wildlife Service
+  - Source: https://commons.wikimedia.org/wiki/File:Striped_skunk_mephitis_mephitis_omnivorous_mammal.jpg
+  - Licence: Public domain
+- **images/photos/skunk-2.webp** — File:Skunks fur skins.jpg
+  - Author: Kuerschner
+  - Source: https://commons.wikimedia.org/wiki/File:Skunks_fur_skins.jpg
+  - Licence: Public domain
+- **images/photos/sloth-1.webp** — File:Sloth, print by James Ensor, 1904, Prints Department, Royal Library of Belgium, S. IV 30588.jpg
+  - Author: James Ensor
+  - Source: https://commons.wikimedia.org/wiki/File:Sloth,_print_by_James_Ensor,_1904,_Prints_Department,_Royal_Library_of_Belgium,_S._IV_30588.jpg
+  - Licence: Public domain
+- **images/photos/snake-3.webp** — File:Bobcat encounters python nest Photo 1-a.jpg
+  - Author: Andrea F Currylow, Fort Collins Science Center, U.S. Geological Survey
+  - Source: https://commons.wikimedia.org/wiki/File:Bobcat_encounters_python_nest_Photo_1-a.jpg
+  - Licence: Public domain
+- **images/photos/turkey-1.webp** — File:Merriams turkey - Meleagris gallopavo merriami.jpg
+  - Author: U.S. Fish and Wildlife Service
+  - Source: https://commons.wikimedia.org/wiki/File:Merriams_turkey_-_Meleagris_gallopavo_merriami.jpg
+  - Licence: Public domain
+- **images/photos/whale-2.webp** — File:HIHWNMS upside down humpback whale (48771005683).jpg
+  - Author: National Marine Sanctuaries
+  - Source: https://commons.wikimedia.org/wiki/File:HIHWNMS_upside_down_humpback_whale_(48771005683).jpg
+  - Licence: Public domain
+- **images/photos/wolf-1.webp** — File:Mexican Wolf 2 yfb-edit 1.jpg
+  - Author: Clark, Jim (U.S. Fish and Wildlife Service)
+  - Source: https://commons.wikimedia.org/wiki/File:Mexican_Wolf_2_yfb-edit_1.jpg
   - Licence: Public domain
 
 ## Attribution requirements
