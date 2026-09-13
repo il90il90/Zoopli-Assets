@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 4,
-  "generatedAt": "2026-09-13T11:50:46+00:00",
+  "contentVersion": 5,
+  "generatedAt": "2026-09-13T12:17:07+00:00",
   "baseUrl": "https://cdn.jsdelivr.net/gh/il90il90/Zoopli-Assets@main/",
   "categories": [
     {
@@ -126,8 +126,8 @@
         "en": "Kenya"
       },
       "fact": {
-        "he": "בקניה יש סוואנה ענקית, ופעם בשנה מיליון זברות וחיות מרעה חוצות אותה יחד במסע הנדידה הגדול.",
-        "en": "Kenya has a huge savannah, and once a year a million zebras and grazing animals cross it together in the great migration."
+        "he": "בקניה יש סוואנה ענקית, ופעם בשנה יותר ממיליון חיות מרעה — ובהן עדרי זברות — חוצות אותה יחד במסע הנדידה הגדול.",
+        "en": "Kenya has a huge savannah, and once a year more than a million grazing animals — herds of zebra among them — cross it together in the great migration."
       },
       "animalIds": [
         "lion",
@@ -344,8 +344,8 @@
         "en": "New Zealand"
       },
       "fact": {
-        "he": "בניו זילנד יש יותר כבשים מאנשים, ופעם לא היו בה כלל יונקים על היבשה — רק ציפורים.",
-        "en": "New Zealand has more sheep than people, and once had no land mammals at all — only birds."
+        "he": "בניו זילנד יש יותר כבשים מאנשים, ופעם חיו בה כמעט רק ציפורים — היונקים היחידים על היבשה היו עטלפים.",
+        "en": "New Zealand has more sheep than people, and once held almost nothing but birds — the only land mammals were bats."
       },
       "animalIds": [
         "sheep",
@@ -569,8 +569,8 @@
         "en": "Norway"
       },
       "fact": {
-        "he": "בנורווגיה יש פיורדים — מפרצים עמוקים בין הרים — ובקיץ השמש שם לא שוקעת כלל.",
-        "en": "Norway has fjords, deep inlets between mountains, and in summer the sun there never sets at all."
+        "he": "בנורווגיה יש פיורדים — מפרצים עמוקים בין הרים — ובצפון שלה, בקיץ, השמש לא שוקעת כלל.",
+        "en": "Norway has fjords, deep inlets between mountains, and in its far north the summer sun never sets at all."
       },
       "animalIds": [
         "moose",
@@ -650,13 +650,13 @@
       "facts": {
         "he": [
           "לכל כלב יש טביעת אף ייחודית, כמו טביעת אצבע שלנו",
-          "כלבים מזיעים דרך הלשון וכפות הרגליים כדי להתקרר",
+          "כלבים מתקררים דרך הלשון וכפות הרגליים, כי אין להם זיעה על העור",
           "כלב מבין בערך 165 מילים — כמו ילד בן שנתיים",
           "הזנב מספר מה הוא מרגיש: גבוה ומהיר זה שמחה"
         ],
         "en": [
           "Every dog has a unique nose print, like our fingerprints",
-          "Dogs cool down through their tongue and paw pads",
+          "Dogs cool down through the tongue and paw pads, because their skin cannot sweat",
           "A dog understands about 165 words, like a two-year-old",
           "Its tail tells you the mood: high and fast means happy"
         ]
@@ -687,18 +687,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dog.ogg",
-          "sha256": "c4731520c805b8a71dd599336fa961c35e24253e53e70810ee5e10fdf61b4631",
+          "sha256": "17dc21cfd67c87c6ec3fc58649d8d14d7f4a93f3876a6a8782294b679d8e4236",
           "bytes": 17513
         },
         "nameHe": {
           "path": "audio/names/he/dog.ogg",
-          "sha256": "0052648227d226e3a6b86e64f48313b7e783dbb62995610a6f1cdfc7a7d4b916",
+          "sha256": "27388fcedc54bca1d551b6fe6a1f2beba753fe040d092abd0f30e9e460cebe2f",
           "bytes": 5722
         },
         "nameEn": {
           "path": "audio/names/en/dog.ogg",
-          "sha256": "8a79300a0cdcdf457d27234d06a33030d34d1d010c6accba45258f1030f6c796",
-          "bytes": 6045
+          "sha256": "1e7f99618e67a593840cf45ff254f176ef9957e5b9194fb75d0e65a3218b98fb",
+          "bytes": 5990
         }
       }
     },
@@ -720,12 +720,12 @@
         "en": "meows"
       },
       "description": {
-        "he": "החתול מיילל: מיאו! הוא שותה חלב, מתנקה עם הלשון שלו, וכשהוא מרוצה הוא מגרגר.",
-        "en": "The cat meows: meow! It drinks milk, cleans itself with its tongue, and when it is happy it purrs."
+        "he": "החתול מיילל: מיאו! הוא שותה מים, מתנקה עם הלשון שלו, וכשהוא מרוצה הוא מגרגר.",
+        "en": "The cat meows: meow! It drinks water, cleans itself with its tongue, and when it is happy it purrs."
       },
       "diet": {
-        "he": "שותה חלב ומים, ואוכל דגים ואוכל חתולים",
-        "en": "Drinks milk and water, and eats fish and cat food"
+        "he": "שותה מים, ואוכל דגים ואוכל חתולים",
+        "en": "Drinks water, and eats fish and cat food"
       },
       "skills": {
         "he": "קופץ גבוה מאוד, מטפס על עצים ונוחת תמיד על הרגליים",
@@ -754,13 +754,13 @@
           "חתולים ישנים כמעט שתי שלישיות מהיום",
           "השפם עוזר לחתול להרגיש אם הוא נכנס לחור צר",
           "חתול נוחת על הרגליים כי הוא מסובב את הגוף באוויר",
-          "הגרגור של החתול עוזר לעצמות שלו להתרפא"
+          "החתול מגרגר כשהוא מרוצה, וגם כשהוא מפחד או לא מרגיש טוב — זו דרך להירגע"
         ],
         "en": [
           "Cats sleep for almost two thirds of the day",
           "Whiskers tell a cat whether it fits through a gap",
           "A cat lands on its feet by twisting its body mid-air",
-          "A cat's purr helps its own bones heal"
+          "A cat purrs when content, and also when scared or unwell — it is a way of settling itself"
         ]
       },
       "colorHex": "#FCE4EC",
@@ -789,18 +789,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cat.ogg",
-          "sha256": "ea7b2bc6418fb78b852cb3da832cbef7378c1e492e77ae8046a941622530e0c7",
+          "sha256": "82a1ce31e8dd77709225ee06c1fd1bbde4b802824d32bc01e9143a4245b86b61",
           "bytes": 15987
         },
         "nameHe": {
           "path": "audio/names/he/cat.ogg",
-          "sha256": "fd0376aa2f40ecedf84449f328a4de522a04da4cdf5bf448378fcfef24b63054",
+          "sha256": "1dcb48cab508309591590d860876de50168cd50b48d07d7b8d99bcf51cc533bb",
           "bytes": 6136
         },
         "nameEn": {
           "path": "audio/names/en/cat.ogg",
-          "sha256": "8e1e274e1af309cfeb234d7e077f22f361481f0a26f2a772cf538eb621c97d0a",
-          "bytes": 6117
+          "sha256": "f4bcac0ad4d3219fcae1ab2e4cb36c3014051071eed7df21270ddaabb52e899f",
+          "bytes": 6195
         }
       }
     },
@@ -885,18 +885,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cow.ogg",
-          "sha256": "77c14e1a68ab2a8a21be5420a68b29af09f505bf4051469663eb57fcb93814cd",
+          "sha256": "9c8f634f6649b3d58e3172c6dbcea1538f400e460ffba79c3cb37e1e17a0ad69",
           "bytes": 20201
         },
         "nameHe": {
           "path": "audio/names/he/cow.ogg",
-          "sha256": "822315268bbe07e2be359b2ea0e5d35986ef7dc161ddfe056726edc4b067484b",
+          "sha256": "110495cd86752cf448db43246c743e9ef8c2a11f65326f203eb5919273769b3c",
           "bytes": 4989
         },
         "nameEn": {
           "path": "audio/names/en/cow.ogg",
-          "sha256": "4fa260cbc32385b57b1d08e9c89e22eee7927b0a55d9a3dbb965ad922bdde90f",
-          "bytes": 6252
+          "sha256": "932e203d75c14fdd59bfbf63b7060b80b3424f1924519b12d2f9e37af5033b58",
+          "bytes": 6306
         }
       }
     },
@@ -981,18 +981,18 @@
         ],
         "sound": {
           "path": "audio/sounds/sheep.ogg",
-          "sha256": "0d585af38e69b133f6db0fdb57efecd0e8cdeeba6df749939b43aa2427560e82",
+          "sha256": "2ed7e8999097809a91fa27d215fa6ac1c43e9aca33578358d8b68e50cda4358e",
           "bytes": 28433
         },
         "nameHe": {
           "path": "audio/names/he/sheep.ogg",
-          "sha256": "785e34c0046b66590ace5d907317b75b23e871089fe3619bb39371c0841be1d3",
+          "sha256": "e2858d8ec21f1e481af9f52b578a968fad771d4a488a939be5db3e24643fcdee",
           "bytes": 5431
         },
         "nameEn": {
           "path": "audio/names/en/sheep.ogg",
-          "sha256": "ad870d34fe04c05fd01494f87255263909c90b3a51f9b7ceba55073d24d64919",
-          "bytes": 6147
+          "sha256": "11b74e7341611c0fee0c867f2c955ed01c334958ee53da758ede0e0a7b733a28",
+          "bytes": 6330
         }
       }
     },
@@ -1042,13 +1042,13 @@
           "סוסים מדברים ביניהם עם האוזניים",
           "סוס תינוק יכול לרוץ כבר ביום שבו הוא נולד",
           "סוס ישן בעמידה, כי הרגליים שלו ננעלות",
-          "לסוס יש עיניים גדולות יותר מכל חיה יבשתית אחרת"
+          "לסוס יש עיניים גדולות יותר מכל יונק יבשתי אחר"
         ],
         "en": [
           "Horses talk to each other with their ears",
           "A foal can run on the day it is born",
           "Horses sleep standing up — their legs lock in place",
-          "A horse has the largest eyes of any land animal"
+          "A horse has the largest eyes of any land mammal"
         ]
       },
       "colorHex": "#FFF3E0",
@@ -1077,18 +1077,18 @@
         ],
         "sound": {
           "path": "audio/sounds/horse.ogg",
-          "sha256": "ad03b3b5618c68bf6b337cd0dfe43ab19be8bc10c8ebb5bf7282bd3265154a9c",
+          "sha256": "70e61680617fbf1c1c540f4ed71e9d56bfce34242b41a9c4fe9d79a73266016f",
           "bytes": 10897
         },
         "nameHe": {
           "path": "audio/names/he/horse.ogg",
-          "sha256": "4c229c68b5382e8009bb1fdbec5ca9ac4f645f55d9630d0eee7f78508749a4fe",
+          "sha256": "6001cee153e09a280e94502f5ab2d33a9e6b8025223d9e3fa28d1a2c479188a4",
           "bytes": 5667
         },
         "nameEn": {
           "path": "audio/names/en/horse.ogg",
-          "sha256": "2c68860be9ab902389424281138baf1a8fa4586bafbd0a3918f54096b30cf2bd",
-          "bytes": 6518
+          "sha256": "0f9a829ceaec512458917bfff04987b65c8d88fd24194142a3f797c010595984",
+          "bytes": 6504
         }
       }
     },
@@ -1177,18 +1177,18 @@
         ],
         "sound": {
           "path": "audio/sounds/duck.ogg",
-          "sha256": "4ca2e8ace41535c748d053cc9eff1e69c9d630f56e9e9d6121f758a73d0a7aed",
+          "sha256": "f1fb8c36bb8744bdf2be6be4e694472b5b354a90c027896589cb778e346e197d",
           "bytes": 21510
         },
         "nameHe": {
           "path": "audio/names/he/duck.ogg",
-          "sha256": "dbff6d4939f27e089b807754b394b94ad6c1fb9a816e589a43e566de9edfec89",
+          "sha256": "1b2c7102d56165886fb03ea940e26d6f06b6106b64352990028638d8781888bb",
           "bytes": 6227
         },
         "nameEn": {
           "path": "audio/names/en/duck.ogg",
-          "sha256": "acd5d4cb7e09a3dfda23e604cd11b4ebcd7c4a560f4d3dce81e34e17ee228873",
-          "bytes": 5856
+          "sha256": "4889da39b3b0e07dddb3bd91ecd29043c13a1a34ef64ad811354814331a5b294",
+          "bytes": 6093
         }
       }
     },
@@ -1279,18 +1279,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rooster.ogg",
-          "sha256": "779b489855ce542ed830b1d95a3e400a7dc1dacdee6b321bc078cf85bf897883",
+          "sha256": "768997a492c28188f959696cdea11fd731b2191226694c7b3d30d9f911e7babb",
           "bytes": 28588
         },
         "nameHe": {
           "path": "audio/names/he/rooster.ogg",
-          "sha256": "c35a024e1b9c8fb42e438f366f66f97627f980e4346972b8134c3d308a4c68a8",
+          "sha256": "796cb98f9fe7dffb01fa5fc31e4145bdd0834de99aa7136f707a98d4d07c27e6",
           "bytes": 6368
         },
         "nameEn": {
           "path": "audio/names/en/rooster.ogg",
-          "sha256": "41edd068df9bdbe251658c49ae55de545d8f70198eb0896256706337dfa17aee",
-          "bytes": 7244
+          "sha256": "279d291508029b1133b8b5548fdfc96f3e569627093b95bb17d5eed1fcc4e132",
+          "bytes": 7460
         }
       }
     },
@@ -1373,18 +1373,18 @@
         ],
         "sound": {
           "path": "audio/sounds/pig.ogg",
-          "sha256": "37bf75f6799b954067871fb8dc4e6c005c2bbe988d305865d9f2507f8ae433b1",
+          "sha256": "1bf0ce464f82d962f4f815cdf1f2c2081035f46165c5736ee26b756d86455d66",
           "bytes": 30025
         },
         "nameHe": {
           "path": "audio/names/he/pig.ogg",
-          "sha256": "85510bbe87541331ed3dac98aaade2b2589defbd8a45e7ae565b3aa93fb2f959",
+          "sha256": "ceae1a123cc62d57696154becd6e4ddfec4b00a9a56b9dad979305bd916b6d48",
           "bytes": 7868
         },
         "nameEn": {
           "path": "audio/names/en/pig.ogg",
-          "sha256": "cc141352ca9a8ef13c26d097847a3ea609e4e31b47fffb4626c4e7694aea5afb",
-          "bytes": 5194
+          "sha256": "189b80a1fd5a3f2b7e4a1080181f75335c4417832776846454db81c0db8d7a1d",
+          "bytes": 5270
         }
       }
     },
@@ -1467,18 +1467,18 @@
         ],
         "sound": {
           "path": "audio/sounds/goat.ogg",
-          "sha256": "d5b1bdf8a84520c5fe21424f3fb444da3935762aa7c7b1afa59829a27f3114d1",
+          "sha256": "bfc57689546a173f3fb633da2a4d1e657a4b6549e5f4512943fb8d6c1d6d012a",
           "bytes": 10841
         },
         "nameHe": {
           "path": "audio/names/he/goat.ogg",
-          "sha256": "5df7a6d239a3fb42ca8503af66e830b7cca8bf27b66f84da03bb013a74331f13",
+          "sha256": "3b8064d3aadfc74f5d7cd4ab38cca2e212eaece153f41d239ae7cd18703e95d6",
           "bytes": 4254
         },
         "nameEn": {
           "path": "audio/names/en/goat.ogg",
-          "sha256": "584347c7cf8e6625264c907cfc22de4b67d553061226e45e6fe50d352c5232b4",
-          "bytes": 5710
+          "sha256": "3c9997db6037a65e1f96ee8b19ab747a257a1a702efa3242928c672bcd2744f5",
+          "bytes": 6131
         }
       }
     },
@@ -1516,7 +1516,7 @@
         "en": "In burrows underground, in fields and in homes"
       },
       "babyName": {
-        "he": "ארנבון",
+        "he": "גור ארנבים",
         "en": "kit"
       },
       "size": {
@@ -1561,18 +1561,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rabbit.ogg",
-          "sha256": "9020381aede86d02a3002b620382a3f429138700d88a79b69565a13a66de1693",
+          "sha256": "8cba44027e0ae5b96c63bfc8be9fa24ec6799cdad99d4cd8972902670665372c",
           "bytes": 32469
         },
         "nameHe": {
           "path": "audio/names/he/rabbit.ogg",
-          "sha256": "cc563d3b75360875d5a3ee6f61307ecc7e0f4986fff9adf07cc302cedf895663",
+          "sha256": "e9fb8ff38bfa34af9758618d744414841afa7116a184b24025f560ad0f33e6dd",
           "bytes": 5893
         },
         "nameEn": {
           "path": "audio/names/en/rabbit.ogg",
-          "sha256": "e967ed21980a69dd91c2df821fb7168a313562f791c3aef0673a91063f1c1149",
-          "bytes": 6406
+          "sha256": "c21b8fa7b47515a0a20a89f6cdf452b4ab23a9fd27991f66ec0aebe49e72e97a",
+          "bytes": 6103
         }
       }
     },
@@ -1655,18 +1655,18 @@
         ],
         "sound": {
           "path": "audio/sounds/donkey.ogg",
-          "sha256": "42f01544e5573b6f9afae5c7e644bd9ec614346ce5b7b30b8c3c77461bf0dfb6",
+          "sha256": "e947a0dc19ea01bc48f8be27ecdf1d049a66ddd284fa4ce6e35bb4e1821ae1a0",
           "bytes": 31181
         },
         "nameHe": {
           "path": "audio/names/he/donkey.ogg",
-          "sha256": "e64fddc07c42ff30a5504d1bc53de4deb696362cf1e659b07c93e6cee32769f9",
+          "sha256": "8cce22d14b02c5dfe429d4d8ac7192bb1cc532dbb8c0760098c057648c29bf92",
           "bytes": 6584
         },
         "nameEn": {
           "path": "audio/names/en/donkey.ogg",
-          "sha256": "290755ee1ce925e8a708f4142a3a1b5dbb88f9d36455630a45251a7db3e9e234",
-          "bytes": 6526
+          "sha256": "4a82faea5a22926d6953544a17afbdaf4acac0601d40818a2fa2c0366d101a61",
+          "bytes": 6774
         }
       }
     },
@@ -1754,18 +1754,18 @@
         ],
         "sound": {
           "path": "audio/sounds/turkey.ogg",
-          "sha256": "f12b368c9070e6e02f7796b7c27944fdabd24e01086adbc6f34a3463b0f86650",
+          "sha256": "6db9d9c25ca3d875d30dcaffdbb7eaadb135325d735aa2645445df6376efdbb7",
           "bytes": 10940
         },
         "nameHe": {
           "path": "audio/names/he/turkey.ogg",
-          "sha256": "c4bfd91b089400727e709d784dbc4b87f31cfb904423801b7c1bfa2582a47f31",
+          "sha256": "665d8411a0acf170a80d5621e6bbe990e240bc0f25cab91d22b223b1decc6d40",
           "bytes": 8347
         },
         "nameEn": {
           "path": "audio/names/en/turkey.ogg",
-          "sha256": "a26b1f6b5269df03c6649762b78e898a56f686db71e25881f0c4c67c9f9f4da6",
-          "bytes": 6841
+          "sha256": "4d3683785083873d7af5ab1f4485397e1e4d8e789c5e57aa30158e8bb5d0bf20",
+          "bytes": 6832
         }
       }
     },
@@ -1851,18 +1851,18 @@
         ],
         "sound": {
           "path": "audio/sounds/goose.ogg",
-          "sha256": "0bfe20afd533f1f60f4e1677e28c957bbdf005609da4ce965fdfca4f59572b12",
+          "sha256": "3cdc487ae85830ac31ba937da45ae45317916ae38d96846012965e3a7afdabfb",
           "bytes": 6173
         },
         "nameHe": {
           "path": "audio/names/he/goose.ogg",
-          "sha256": "ccc441b697ef96c0846d116a27185f1bff8952ced8ad1701b297f58f3c21876a",
+          "sha256": "7485a8a8124ee5b0fdaa381378265ad76fb69345f8a45afc441c9826766db58e",
           "bytes": 4807
         },
         "nameEn": {
           "path": "audio/names/en/goose.ogg",
-          "sha256": "5d9d60cf08ccbaa0667c006d49b9023bc6c17f060369a1d44785e1e510fb0b88",
-          "bytes": 6725
+          "sha256": "728206e4bc56af27b7fed13eee74bc9c8f166bd67f7b57fd86e3f3d01c2bc581",
+          "bytes": 6668
         }
       }
     },
@@ -1945,18 +1945,18 @@
         ],
         "sound": {
           "path": "audio/sounds/mouse.ogg",
-          "sha256": "4d007f64930c37d7e6654e3e0121da972c6266b521553e73193d953f47a6079e",
+          "sha256": "d82f4a991c4fe0f0a817a0e3042c849423a14b070cf7d34fe9bbc57431748f5c",
           "bytes": 4594
         },
         "nameHe": {
           "path": "audio/names/he/mouse.ogg",
-          "sha256": "fc292ed89e7b0b68ddd550ed1b7bad6c99599d24983cf05b94efeba88be7281b",
+          "sha256": "7313784e609ba0696d07bd545b11f0fc5cf3f820d2032f25734f5acddf9efcf8",
           "bytes": 5706
         },
         "nameEn": {
           "path": "audio/names/en/mouse.ogg",
-          "sha256": "d5133871b1a9e4ac928b54701429d0ea31fe3a5a823032228eaa80600a9807db",
-          "bytes": 6731
+          "sha256": "753ce02252ab11a6fc3b1a1f2aeb4f2ae87810e1d6af761e6260256105675193",
+          "bytes": 7151
         }
       }
     },
@@ -2039,18 +2039,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hamster.ogg",
-          "sha256": "68727e513f865897c6d70149373f8e271dbc568a06bcce4506659226926d5d04",
+          "sha256": "4b3d6a0ff47200cbba3280ebbd3652e7eb9713d47e25d76c521fb0d755469bdd",
           "bytes": 23125
         },
         "nameHe": {
           "path": "audio/names/he/hamster.ogg",
-          "sha256": "d08bab7d8128558d741bb3d441803cb29350e8c28bfcbc87635e7bba246ac196",
+          "sha256": "43c1bb717919fb3cb459ba911b58c07c48e8d16205da56ae2b04f11d83917098",
           "bytes": 5584
         },
         "nameEn": {
           "path": "audio/names/en/hamster.ogg",
-          "sha256": "3a80c125cd29f3aadd02a5922ec51af3fd669fc59b3e6c353f05db49df0a704c",
-          "bytes": 7294
+          "sha256": "72b9372aaa357dca267cadc1f78ab7048a60fc4ded628533919fb930531525eb",
+          "bytes": 7202
         }
       }
     },
@@ -2080,8 +2080,8 @@
         "en": "Meat — the lion is a predator"
       },
       "skills": {
-        "he": "השאגה שלו נשמעת למרחק של חמישה קילומטרים",
-        "en": "His roar can be heard five kilometres away"
+        "he": "הלביאות צדות יחד כצוות, וכל אחת יודעת מאיזה צד לחסום",
+        "en": "The lionesses hunt together as a team, each knowing which side to close off"
       },
       "habitat": {
         "he": "בסוואנה באפריקה",
@@ -2141,18 +2141,18 @@
         ],
         "sound": {
           "path": "audio/sounds/lion.ogg",
-          "sha256": "d40b0f775d74b172918969f5f319371fd35d97b92896e9e34165070aca5ab8af",
+          "sha256": "87095b263608e83b38ea0aaa072abffb6a21d8db66040c0b433ab75566c03563",
           "bytes": 28203
         },
         "nameHe": {
           "path": "audio/names/he/lion.ogg",
-          "sha256": "6c44ae0b8253012e39ebcfb1c09c6d0126843742b37a7951b0409c2b252a153b",
+          "sha256": "b1e3640a175da17df804fc3580955128535d865f7088b9ae74a6f969df1c4818",
           "bytes": 5864
         },
         "nameEn": {
           "path": "audio/names/en/lion.ogg",
-          "sha256": "199aae427510c70bb6b64b72b7719e9247e3a91ec9f92a6470a5cd58aae5678d",
-          "bytes": 6268
+          "sha256": "ec3293af1d8653e2d61c186950b5e4ccecc4546ded3d609e8ad428f9677d724a",
+          "bytes": 6582
         }
       }
     },
@@ -2237,18 +2237,18 @@
         ],
         "sound": {
           "path": "audio/sounds/elephant.ogg",
-          "sha256": "453b92f7a57548e205f77ecac5f7086293534325d78951e465feb2bdbe084253",
+          "sha256": "6d452ff675fa1659e97504ecdb603a3d239601fec1d299c5a4a62d2ceb55f3f3",
           "bytes": 10638
         },
         "nameHe": {
           "path": "audio/names/he/elephant.ogg",
-          "sha256": "8bf5653b63973cfad92ffe3d6794bee73e58385ce66dc47bca28934ac62ecd16",
+          "sha256": "e218609f6ad5769a85a1c599f2dc01fd0130c9a257a6b52ade55d9b3b714615f",
           "bytes": 6666
         },
         "nameEn": {
           "path": "audio/names/en/elephant.ogg",
-          "sha256": "2ef1d2deba3bfdec25e3c92b073d5de4f1665cd5f6037c13910754f4a7bc2b13",
-          "bytes": 7205
+          "sha256": "b2a25bffb61072551bf4b1cf04dea469a133281464693814e308f53de5884035",
+          "bytes": 7215
         }
       }
     },
@@ -2331,13 +2331,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/giraffe.ogg",
-          "sha256": "dee8ca6186ecdef3ef37479a8b76a9b5b1ed29ec969789fa7b52a2f3dfee13ed",
+          "sha256": "7e2affcf6a51127a23327ab7c6a89700c99094d8f7526edd57603503913fec96",
           "bytes": 7008
         },
         "nameEn": {
           "path": "audio/names/en/giraffe.ogg",
-          "sha256": "59cf2f497e5aed5f0cea1107d36f8eb3b82e3e975af0e6bbea297ed251748a8b",
-          "bytes": 7094
+          "sha256": "40cb9ee130b4f81e14d48e3486538a77dab135366d8dbdeef45083257ada2130",
+          "bytes": 7430
         }
       }
     },
@@ -2420,18 +2420,18 @@
         ],
         "sound": {
           "path": "audio/sounds/zebra.ogg",
-          "sha256": "b148fa88325c65bbae8924a60a6b693be5c46df0c8201146120fa674536708a8",
+          "sha256": "5e607cf204d6cee2dbc3e3c45bba2dfbd82f9c5af0a4fecf639408f811647c99",
           "bytes": 16734
         },
         "nameHe": {
           "path": "audio/names/he/zebra.ogg",
-          "sha256": "f69a0be475debf224ba83576416ff96c31841163898041ff604c96da0c580ee4",
+          "sha256": "199766782391e7abb40c4b9e5116f96c9e911a30dfef5e3bc45ebed9bf57dda4",
           "bytes": 5514
         },
         "nameEn": {
           "path": "audio/names/en/zebra.ogg",
-          "sha256": "4637721a734346d7d46cf50e828a564fd2a56b97598f8c33a4916aadc51ec497",
-          "bytes": 7494
+          "sha256": "bb321f415e67420a12a6db96e577506dbe29d6a149e648813ce6b7c674bc3e08",
+          "bytes": 7546
         }
       }
     },
@@ -2453,8 +2453,8 @@
         "en": "snorts"
       },
       "description": {
-        "he": "הקרנף נוחר: חרררר! הוא כבד כמו מכונית, והקרן על האף שלו עשויה מאותו חומר שממנו עשויות הציפורניים שלנו.",
-        "en": "The rhino snorts: hrrrr! It weighs as much as a car, and the horn on its nose is made of the same stuff as our fingernails."
+        "he": "הקרנף נוחר: חרררר! הוא כבד כמו שתי מכוניות, ולמרות זאת הוא רץ מהר, והעור העבה שלו נראה כמו שריון.",
+        "en": "The rhino snorts: hrrrr! It is as heavy as two cars, yet it runs fast, and its thick skin looks like armour."
       },
       "diet": {
         "he": "אוכל עשב, ענפים ועלים",
@@ -2514,18 +2514,18 @@
         ],
         "sound": {
           "path": "audio/sounds/rhino.ogg",
-          "sha256": "731b3cfe302d73a2c8a06401d90836f96d7c156d9a566dcc86170e15dc6694bc",
+          "sha256": "7532e5eb78c7d7695087dae6ade36c01265a8da69e473814085f461fdf750d0d",
           "bytes": 26328
         },
         "nameHe": {
           "path": "audio/names/he/rhino.ogg",
-          "sha256": "4ba0cabe9c3c27ab7341dca600af45c5e25703c30c99a624a8477f780dbdace2",
+          "sha256": "3f007e88c6659d9880db31f2e7df447807e668d4de587816ffe3d1291d8b1a6d",
           "bytes": 6108
         },
         "nameEn": {
           "path": "audio/names/en/rhino.ogg",
-          "sha256": "b06c95c9ffcc8441abe310f72333f69c0bf111fd04ab975f2d985c02409eb276",
-          "bytes": 9585
+          "sha256": "4fddd898516a1519e2879ef9798088e41b4dfabef7775cf95060c8cd2d1225bc",
+          "bytes": 9507
         }
       }
     },
@@ -2608,18 +2608,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hippo.ogg",
-          "sha256": "64cc67c2d1d68ad816c24972287f35576d52193670093590d3ca393519ca8d87",
+          "sha256": "9ecc31c5cbec22009b76327c2859ef797e3df4b97c31d7ee7d330f8cfdedff7c",
           "bytes": 19039
         },
         "nameHe": {
           "path": "audio/names/he/hippo.ogg",
-          "sha256": "ef9e27d052744951734195393cfda0fe0e48979dde316d02e212fb4302695673",
+          "sha256": "7de3540b8593bcc25c0e7e2862d0f14924b69f85e424de9e7cf63a06b8ea7a6e",
           "bytes": 8145
         },
         "nameEn": {
           "path": "audio/names/en/hippo.ogg",
-          "sha256": "1de4b8b8e78b7c9fcb9f1d3acbc513187aecdb88eaa36cff684c5220494443f8",
-          "bytes": 9956
+          "sha256": "7f02ac9ee6f39c6cbeabe532d64125cd5e2a835660a3dfedd8c36e6cbd54478c",
+          "bytes": 9890
         }
       }
     },
@@ -2641,8 +2641,8 @@
         "en": "chirps"
       },
       "description": {
-        "he": "הברדלס לא שואג — הוא מצייץ: צי צי, כמו ציפור! הוא החיה המהירה בעולם, ומגיע למהירות של מכונית בכביש.",
-        "en": "The cheetah does not roar — it chirps: chirp chirp, like a bird! It is the fastest animal in the world, as fast as a car on the road."
+        "he": "הברדלס לא שואג — הוא מצייץ: צי צי, כמו ציפור! הוא החיה המהירה ביבשה, ומגיע למהירות של מכונית בכביש.",
+        "en": "The cheetah does not roar — it chirps: chirp chirp, like a bird! It is the fastest animal on land, as fast as a car on the road."
       },
       "diet": {
         "he": "אוכל צבאים ובעלי חיים מהירים אחרים",
@@ -2707,13 +2707,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/cheetah.ogg",
-          "sha256": "286e486e07448a17b941258ebc90ac288cd574814b2c6eedcfc8742f317861c0",
+          "sha256": "e1a3038f247110de84dbc2ddc6ed48e87d9f08b95056eef70c002df62ad91c47",
           "bytes": 6679
         },
         "nameEn": {
           "path": "audio/names/en/cheetah.ogg",
-          "sha256": "b1fbb8b5df645fcf299816013752daf78648834126e5a8dfe3d5f9dc9a769c25",
-          "bytes": 7095
+          "sha256": "2908fd6ef53799324579c3138778eb10ead58b51ac32c79f76b2983d9bef00f0",
+          "bytes": 7489
         }
       }
     },
@@ -2801,18 +2801,18 @@
         ],
         "sound": {
           "path": "audio/sounds/leopard.ogg",
-          "sha256": "002833343eb7b47ca02c5abe39f0f5a8c8b4dae7051eef90dc95273ab7310347",
+          "sha256": "a6606ec7b809a24fee9d80a0a25c1963f45396406e60b49d8c0daca3d533ea7b",
           "bytes": 6123
         },
         "nameHe": {
           "path": "audio/names/he/leopard.ogg",
-          "sha256": "4ce26f209e261a8802f684c5e6c415cbe1a3d668d4eb041cbbdd60160a33ecf1",
+          "sha256": "4cf25a4c4cdb872aac7a0d53e9a2af652960e44316015ab06d2dfd602ceaea31",
           "bytes": 5314
         },
         "nameEn": {
           "path": "audio/names/en/leopard.ogg",
-          "sha256": "d466d4d1a44494d3db9d8530772a4bbdd5f9907f684b9035d339e19c056be35b",
-          "bytes": 6744
+          "sha256": "3f83b8feb65f3962cd96a7e7b5fc264215104cc4498d023d8bf056d4769fbad9",
+          "bytes": 6779
         }
       }
     },
@@ -2895,18 +2895,18 @@
         ],
         "sound": {
           "path": "audio/sounds/gorilla.ogg",
-          "sha256": "7951928a136163f131fb2baca3f34deddb55fd732bb99e0336baf1c079a96169",
+          "sha256": "2c3f2572704df78385e1d2a8b86b7a44910dc0681a8685731378e9edbcc15bfb",
           "bytes": 26021
         },
         "nameHe": {
           "path": "audio/names/he/gorilla.ogg",
-          "sha256": "f258826476cc39883f920bc073a0298d3e8012741113f9b9f95649974d79b1df",
+          "sha256": "da3bb41e7baeb5b83006f64d1378d55661d7b1fc28dfe31e364d1d5b3a2d8317",
           "bytes": 7268
         },
         "nameEn": {
           "path": "audio/names/en/gorilla.ogg",
-          "sha256": "2ffc230fac9ce366f499837bf6ec891825ab49f43dbaa811b56f4dd4a2bdc8b8",
-          "bytes": 7227
+          "sha256": "44deab487aff95fa4545c41662432047e6d797e2637f42a78e313dfe1a4ef351",
+          "bytes": 7024
         }
       }
     },
@@ -2958,7 +2958,7 @@
       "facts": {
         "he": [
           "הצבוע הוא קרוב משפחה של החתול, ולא של הכלב",
-          "העדר של הצבועים מנוהל על ידי הנקבות",
+          "הלהקה של הצבועים מנוהלת על ידי הנקבות",
           "הצחוק שלו הוא שפה שלמה, וכל צבוע מזהה בה מי מדבר"
         ],
         "en": [
@@ -2993,18 +2993,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hyena.ogg",
-          "sha256": "64bf1ea5811c6e6f30c992a1a284b43d14fab0c5d2fc6acdddd4c6d5e47d694c",
+          "sha256": "b73c5503dbbdfcb2b54d0156db86454a21207ed0ff95fad4471e3c8303e7be5f",
           "bytes": 8439
         },
         "nameHe": {
           "path": "audio/names/he/hyena.ogg",
-          "sha256": "1c43cab91cc532ddc315b3713d91a55bf8e6c116459c88df96d5dc318a450004",
+          "sha256": "11b8b4907607d0e3107ff3fe63cf69f7509d5f43bb0a8464a6e5210ebe95c4cb",
           "bytes": 5703
         },
         "nameEn": {
           "path": "audio/names/en/hyena.ogg",
-          "sha256": "c3140a0ad4ddb1c46def2a1f86f6ec5e741cbebb3d01bd41157762532e145375",
-          "bytes": 7738
+          "sha256": "7210e1ae0dec92e7e1f8bbe0ad0bc27c9de48b32697aba32b8a59908e5a8118d",
+          "bytes": 7644
         }
       }
     },
@@ -3092,13 +3092,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/meerkat.ogg",
-          "sha256": "e77a9f687f030bd09d7f3aedc420556f4b8ecde79cc435135f3c95da2749f061",
+          "sha256": "d6dd528d3054c57479ed11e4fab05c0b89f869954c0ccb974a557b2811e4e019",
           "bytes": 7822
         },
         "nameEn": {
           "path": "audio/names/en/meerkat.ogg",
-          "sha256": "adae4967d4a08375bbc62d046d95e700096e0cf3d04337d2520dce955130b97c",
-          "bytes": 7868
+          "sha256": "ef0fa5e67d8dcc3fb0b58933c57149650041c921df0cc169c0d4790806b26bc3",
+          "bytes": 7750
         }
       }
     },
@@ -3187,18 +3187,18 @@
         ],
         "sound": {
           "path": "audio/sounds/crocodile.ogg",
-          "sha256": "817ba3c17295da27ea22944d0a00bb83ac6cf706e1d08e2e3f81575b2b38e43b",
+          "sha256": "247c2a5b2a81dd263520e6d05b7fdfb103f8107f066b9b9a82d92e1e274d5c05",
           "bytes": 30114
         },
         "nameHe": {
           "path": "audio/names/he/crocodile.ogg",
-          "sha256": "2ea73af45a2ee36a386ce2f14bd905d7759b4c4e7fdc202662e867ee0708c22a",
+          "sha256": "2e9f0b24a9bf3979b5e0867424fad06d447954b2d808e23cbfbffb4c2de9c61d",
           "bytes": 6618
         },
         "nameEn": {
           "path": "audio/names/en/crocodile.ogg",
-          "sha256": "24340fd9c36f8f2ed300540c5628553bfb05cf93b21853c334f0b760d5ea5328",
-          "bytes": 7675
+          "sha256": "1ee32c7199e5513b0bf268ce8e67f257695585479be3ce2a9b8caef935bc033e",
+          "bytes": 8287
         }
       }
     },
@@ -3284,18 +3284,18 @@
         ],
         "sound": {
           "path": "audio/sounds/flamingo.ogg",
-          "sha256": "6b67728ca7b315f875345b4cd24b096d875234779bb23d4c005372171542c62b",
+          "sha256": "b58eba3fc04925a82dc7df9448592c61019f13eba81b095784cd7119a8fef810",
           "bytes": 30805
         },
         "nameHe": {
           "path": "audio/names/he/flamingo.ogg",
-          "sha256": "cc87f8622c33ccd9de83ee489d74a4665f5b5e14f46d007ce3e5d637e052ad1c",
+          "sha256": "30275701bfab1c1ae55b6570b08b8480ea5081b87e478bab5eb1abbb226a8f1c",
           "bytes": 8049
         },
         "nameEn": {
           "path": "audio/names/en/flamingo.ogg",
-          "sha256": "ba50c3debc5ad9aeeb18e3a7c4f49b9d8c41719761607acd56ca9766674b15f9",
-          "bytes": 7683
+          "sha256": "e0594de169887c1ec8dcd90baa01071ffe3bda6d2a5f1ae1f14ddb18300692c4",
+          "bytes": 7831
         }
       }
     },
@@ -3382,13 +3382,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ostrich.ogg",
-          "sha256": "c4e086008a6ccf202c4bf74bb112f78bf6b9192f229090c42760166584e1677a",
+          "sha256": "38df0b360ede274fee85311bb04134e98d4ed85997369e63bca4a23345076a1d",
           "bytes": 5041
         },
         "nameEn": {
           "path": "audio/names/en/ostrich.ogg",
-          "sha256": "905bb154ec433733e79cb20db134cf13eb5835538a5ef722abdda0027b2ee6b9",
-          "bytes": 7883
+          "sha256": "143fdde93ba8d1cb910e84ff34aef5511a7669ba5d5fc047fe9e0a372027f4cc",
+          "bytes": 8076
         }
       }
     },
@@ -3471,18 +3471,18 @@
         ],
         "sound": {
           "path": "audio/sounds/camel.ogg",
-          "sha256": "17b88b98cb7ae8321da8d64361751843a035112798b474cb7800dadea022f7f8",
+          "sha256": "63741fee76bf1b6df4837aefd30c8a7731c43d423e6fa967db1629f5256291d3",
           "bytes": 30608
         },
         "nameHe": {
           "path": "audio/names/he/camel.ogg",
-          "sha256": "d7da9677f15f10045c380f39accf4c3086a82b19b1ee99004a11bdd5e0fa63bd",
+          "sha256": "cbfa109eb24f9d7e0896041a2ccdca153286049c736ac671bc68b4216353aec8",
           "bytes": 4901
         },
         "nameEn": {
           "path": "audio/names/en/camel.ogg",
-          "sha256": "294329ac0f840cc1da15f35633992c431a0c998ed50ee74be8e9f0384e0a7d0e",
-          "bytes": 6531
+          "sha256": "d07656892d1d536fb52248c0d497b182d1a64ef0a8c65bae5510e4d4117d88e5",
+          "bytes": 6554
         }
       }
     },
@@ -3571,18 +3571,18 @@
         ],
         "sound": {
           "path": "audio/sounds/tiger.ogg",
-          "sha256": "35cc7e7a79f54aea14005319ad6b746c92fb0a4d6b40cbe30cb12328b82339ff",
+          "sha256": "0f72733761069a742b9e887d7413498e4a2377e2ab0841ae781b04c2b80c2377",
           "bytes": 27607
         },
         "nameHe": {
           "path": "audio/names/he/tiger.ogg",
-          "sha256": "ff5d0919dae4767e76467db2d0c040d981278f4086e68c40b4742d477512a3f3",
+          "sha256": "6d7e0ffc04e136180efef4da4aee32587646a9de4e34856f84142cd13ad1ae1f",
           "bytes": 8929
         },
         "nameEn": {
           "path": "audio/names/en/tiger.ogg",
-          "sha256": "1d79b9b33afb7135ac942056086e22d9b8a7f55ee216c88664ef482a3240c8c7",
-          "bytes": 6882
+          "sha256": "7eab89230a27fcdf5d1370acf7765ee71a6646b97cf3393bd9b3538c7818a339",
+          "bytes": 6941
         }
       }
     },
@@ -3665,18 +3665,18 @@
         ],
         "sound": {
           "path": "audio/sounds/panda.ogg",
-          "sha256": "53c76ec8781757d3d34fa9f360cce2fd45bed9706b1a6c82fd72d98318888fa1",
+          "sha256": "58719f9d7ba5c6c358e5286e6c5ea1ee647b0a95f5e24c4bd62f9d13df8c5cee",
           "bytes": 13234
         },
         "nameHe": {
           "path": "audio/names/he/panda.ogg",
-          "sha256": "08dfd9d49c3ca36da515a14abd8e2d9559228d54c1580c2536eef7bd161f03c2",
+          "sha256": "bc7d1ee0fde3b047f1f2f7faaf6cc7d3c0a3890aafc3d54e441352bb3ce7eb2c",
           "bytes": 5173
         },
         "nameEn": {
           "path": "audio/names/en/panda.ogg",
-          "sha256": "4c81f0ea6d4cc4692b6fd140972563a2c18362afcdb632bcc3edd6b2d04f9b3c",
-          "bytes": 7161
+          "sha256": "f166da3867b5d4ab3a21707be8d1f63c7c00f68910e41b7a3c39869815f667b3",
+          "bytes": 7139
         }
       }
     },
@@ -3706,8 +3706,8 @@
         "en": "Fruit — especially bananas — plus leaves and seeds"
       },
       "skills": {
-        "he": "מטפס מצוין, ויודע להשתמש באבנים ובמקלות כמו בכלים",
-        "en": "An excellent climber, and it uses stones and sticks as tools"
+        "he": "מטפס מצוין, ותופס ענפים ביד, ברגל ולפעמים גם בזנב",
+        "en": "An excellent climber, gripping branches with hands, feet and sometimes its tail"
       },
       "habitat": {
         "he": "ביער הגשם ועל העצים",
@@ -3764,18 +3764,18 @@
         ],
         "sound": {
           "path": "audio/sounds/monkey.ogg",
-          "sha256": "6ec192aa1af4a9cf112fc3b4d5601f0f90f961dc6613338e3d520722427af857",
+          "sha256": "63964fdd43605bb6e8384b6cdd6e3484d06674297ee36a04f882d08fe19248ed",
           "bytes": 14883
         },
         "nameHe": {
           "path": "audio/names/he/monkey.ogg",
-          "sha256": "43d6a5bddcb9d8d80cd59d561776e948ea1c0a9a5fc604bf61e0ae799e9fae21",
+          "sha256": "9e55dcaa256f11b3fb9536401fd9bb9a3894aa31b021818b32021dfe6fef93ef",
           "bytes": 5133
         },
         "nameEn": {
           "path": "audio/names/en/monkey.ogg",
-          "sha256": "f241fab4a315c12418ee31538fc49dc0ebd240e134ba71bb751d119983a18917",
-          "bytes": 6286
+          "sha256": "e1d00f012f3b925718b418d14120812d61d8d2c656611ebe23bd340dfe957c03",
+          "bytes": 6445
         }
       }
     },
@@ -3858,13 +3858,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/orangutan.ogg",
-          "sha256": "050193bab0c7a5e7b5636a030923159a577faa28f82468e5db9c37649aafb9d1",
+          "sha256": "1d96353cf34f993920ce71dee81658b2ce134db913cc6e1da54a134ba42f04ea",
           "bytes": 7718
         },
         "nameEn": {
           "path": "audio/names/en/orangutan.ogg",
-          "sha256": "53abccd578efe5a59843fd014d033c5267615f422306577de55765261db15f4d",
-          "bytes": 8760
+          "sha256": "2979f6976a57eea2aace73dfbfb1f3da861414bce85a25fda11bacd04ac7b3ca",
+          "bytes": 8643
         }
       }
     },
@@ -3883,7 +3883,7 @@
       },
       "soundVerb": {
         "he": "צווח",
-        "en": "calls"
+        "en": "screeches"
       },
       "description": {
         "he": "הטווס צווח: איו איו! כשהוא רוצה להרשים הוא פורש את הזנב לכתר ענק של נוצות עם עיניים כחולות־ירוקות.",
@@ -3953,18 +3953,18 @@
         ],
         "sound": {
           "path": "audio/sounds/peacock.ogg",
-          "sha256": "f0058c68e4cec02c3805b2940a50d35cd4657250a62d0ef06c2d24215cccb731",
+          "sha256": "e59fc1441a2c865e3627587d5ffb685a5b3574cd91ed31ba47913d77779ea3ed",
           "bytes": 28487
         },
         "nameHe": {
           "path": "audio/names/he/peacock.ogg",
-          "sha256": "0bf81ce9b94e63a0050b72eb4ae52d2a523313c578f038b7809f661a04b308c7",
+          "sha256": "397e039124c366875b4f961934a4cdaf5915e020d77764c7ca67f9997f39e8f4",
           "bytes": 5405
         },
         "nameEn": {
           "path": "audio/names/en/peacock.ogg",
-          "sha256": "45d5203211173acd1df2f96d73c2ee0818b14f7e6ffaab9e9a3bac9ac04556ea",
-          "bytes": 7539
+          "sha256": "b4889eca24738b90bdb7237ce8b4a467bc17bf9588ea57f5b391d9ad00b1024e",
+          "bytes": 7453
         }
       }
     },
@@ -4053,18 +4053,18 @@
         ],
         "sound": {
           "path": "audio/sounds/snake.ogg",
-          "sha256": "9a24caab4f49d4b4a69d2a665785a19f4ae4c6e8ab87cc1c2b71aba64aa01419",
+          "sha256": "28c0b5a84e4f1e8ffc805ec1af09fee89523406edb565b1b5ad2ee7217bde9f6",
           "bytes": 28601
         },
         "nameHe": {
           "path": "audio/names/he/snake.ogg",
-          "sha256": "48ba90c9df8a28286136c5bca927368efb906f58e58dcba00417824c637859eb",
+          "sha256": "36307dfe006e747cf8a03abbcf9717bcd803c7b6fedca6c8364b571205d5db34",
           "bytes": 5520
         },
         "nameEn": {
           "path": "audio/names/en/snake.ogg",
-          "sha256": "6d282088df8e330f0a97fe45575374cef4f4298abd0b3c466c1a135c6f9b76ac",
-          "bytes": 7395
+          "sha256": "3be723aa83340b2d0a9cb275722beef44ac55924d65e08045a32532e503d08ce",
+          "bytes": 6987
         }
       }
     },
@@ -4147,13 +4147,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/water_buffalo.ogg",
-          "sha256": "902330639dca5bb1d94b5fb322480b0fac267a2c87451ae2d551273f4c83d300",
+          "sha256": "fe20c9135d1a6bd305bfd6caea3d27d46217d97adc6e8efd384f88bd5d062760",
           "bytes": 4889
         },
         "nameEn": {
           "path": "audio/names/en/water_buffalo.ogg",
-          "sha256": "6b47f609a7b47718c62f6c8681fde94956b703351663281696ffd58e278e1f88",
-          "bytes": 9566
+          "sha256": "69d89c5e4539c0ed1f01f16a0ccf6a51ef8447c41b8c1d27bc2d7b6c5c30672d",
+          "bytes": 9700
         }
       }
     },
@@ -4202,12 +4202,12 @@
         "he": [
           "היאק חי גבוה יותר מכל חיית משק אחרת בעולם",
           "הפרווה שלו כל כך חמה, שהוא סובל דווקא מחום ולא מקור",
-          "הכינוי שלו הוא 'נוהם' — כי במקום לגעות הוא נוהם"
+          "השם המדעי שלו פירושו \"שור נוהם\", כי במקום לגעות הוא נוהם"
         ],
         "en": [
           "A yak lives higher up than any other farm animal in the world",
           "Its coat is so warm that heat, not cold, is what bothers it",
-          "Its scientific name means 'grunting ox', because it grunts instead of mooing"
+          "Its scientific name means \"grunting ox\", because it grunts instead of mooing"
         ]
       },
       "colorHex": "#ECEFF1",
@@ -4236,18 +4236,18 @@
         ],
         "sound": {
           "path": "audio/sounds/yak.ogg",
-          "sha256": "1feea621643d3631f5f849a5cb342f9d2320c5c1dec554ed75d44101ac9c7b9d",
+          "sha256": "d6c98075a1740f1604673bc0183b9d5f5e61e2ec986d26e0d883c746c5696c6f",
           "bytes": 28373
         },
         "nameHe": {
           "path": "audio/names/he/yak.ogg",
-          "sha256": "5ac6cee49a796efc905e9b763575c0897a8d5da34a53b6846d03c7e8b474200a",
+          "sha256": "4339a3983724f71b02fbb75f938c84a827d2c1374366d9fcd21ab740c5396c14",
           "bytes": 4660
         },
         "nameEn": {
           "path": "audio/names/en/yak.ogg",
-          "sha256": "c9c97019bf4af510b37b924ea686e7a1b82b0465140dbbfa1870dc6c91b2f531",
-          "bytes": 6228
+          "sha256": "526617ff8569866c7dcbb62b3d5e4a8b7e534ac2030f6b5a62c7694ad09fb860",
+          "bytes": 6607
         }
       }
     },
@@ -4336,18 +4336,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bear.ogg",
-          "sha256": "c99ca1f35af41fbdb493186539ac18be74226dab1d2fe0433e1f8d2c7fc81c6e",
+          "sha256": "dd3e9f791e725a06485ae69d6a472b8b907e85d82daaa300a645c4955b29d11a",
           "bytes": 28793
         },
         "nameHe": {
           "path": "audio/names/he/bear.ogg",
-          "sha256": "2316381c0474eef6e878e9855a1cc4de7f8a94fd5d913937f50f91da239e8c03",
+          "sha256": "abcdbe05eb70009f4303734c269a505606c5270cfd6c1e95f616082e2b085ecf",
           "bytes": 4937
         },
         "nameEn": {
           "path": "audio/names/en/bear.ogg",
-          "sha256": "c54cb2b82bd1a63af32d30f50dd17e8258cb1edf0e1d7be3125093ea3c2d4138",
-          "bytes": 5476
+          "sha256": "efcaa50898eca7bce383b59f69c89040ac8b767dc3cadf56d200bc4214daa02b",
+          "bytes": 5197
         }
       }
     },
@@ -4385,12 +4385,12 @@
         "en": "On the ice of the Arctic"
       },
       "babyName": {
-        "he": "גור דובים",
+        "he": "גור דובי קוטב",
         "en": "cub"
       },
       "size": {
-        "he": "הדוב הגדול בעולם, כבד כמו מכונית",
-        "en": "The biggest bear there is, as heavy as a car"
+        "he": "הדוב הגדול בעולם, כבד כמעט כמו מכונית",
+        "en": "The biggest bear there is, almost as heavy as a car"
       },
       "eatsIds": [
         "seal",
@@ -4434,18 +4434,18 @@
         ],
         "sound": {
           "path": "audio/sounds/polar_bear.ogg",
-          "sha256": "762fdad3da78870d20fac1a3223b0fed2ab0ba8ed4c0d5ef6763516b6da4b890",
+          "sha256": "c462e55d66ba42584a245371dabae24673b28aab22c2f816876c6bbe29f390a1",
           "bytes": 30543
         },
         "nameHe": {
           "path": "audio/names/he/polar_bear.ogg",
-          "sha256": "76bccd6f444cc268219cfd257810cd806bbb876d82d235a5409970db327bc0c2",
+          "sha256": "16895d0d4954aa26677cdcc0d133950c8960bec859a5ad88f790ed23082bf1eb",
           "bytes": 7226
         },
         "nameEn": {
           "path": "audio/names/en/polar_bear.ogg",
-          "sha256": "c7e7eab3edefdf6694aac2050511de9ac98cbd2b8539a7ec589d4fba1c88cc46",
-          "bytes": 8995
+          "sha256": "807727e77e412fdf0224a8c32f13ade0d18e28a94fecfe1dab2b5cd1b9ff14a6",
+          "bytes": 8902
         }
       }
     },
@@ -4534,18 +4534,18 @@
         ],
         "sound": {
           "path": "audio/sounds/wolf.ogg",
-          "sha256": "420e140d7957114496aee58a0998ca1792806aadb7b4d42bddaf027f2cc234c8",
+          "sha256": "41b3b4ca13b9109237c258630a7dd46c26540752f057af3ab2f1698f277d8bbe",
           "bytes": 21311
         },
         "nameHe": {
           "path": "audio/names/he/wolf.ogg",
-          "sha256": "ab4806a96379f7db5ff9d4f81fe5b58fee7b3e2fc4bcf27abd3b77d320e793c9",
+          "sha256": "35232a9566c9e8fde83ec7e6d15f00b677c0f9026e5307dc689ed94c0e8fa3f9",
           "bytes": 5014
         },
         "nameEn": {
           "path": "audio/names/en/wolf.ogg",
-          "sha256": "eca461b183f1c1cd0232da0ecf159af29ea3670fbbb15fd25b55b3223bba55d9",
-          "bytes": 5168
+          "sha256": "7db7401db6a4769aac41a990d69446abede1fc71f6b857817fab0b13e097fa14",
+          "bytes": 5227
         }
       }
     },
@@ -4575,8 +4575,8 @@
         "en": "Rodents, birds, insects and fruit"
       },
       "skills": {
-        "he": "שומע עכבר מתחת לשלג, וקופץ עליו בקפיצה מדויקת",
-        "en": "Hears a mouse under the snow, and pounces on it with perfect aim"
+        "he": "מתקרב בלי רעש, ומחביא אוכל שנשאר לו לימים רעבים",
+        "en": "Approaches without a sound, and buries leftover food for hungry days"
       },
       "habitat": {
         "he": "בשדות, ביערות, במדבר ולפעמים בקצה העיר",
@@ -4634,18 +4634,18 @@
         ],
         "sound": {
           "path": "audio/sounds/fox.ogg",
-          "sha256": "62709624345e616bec177534d93d6325fd36270ccf404de124991f75e16d67c3",
+          "sha256": "60c83263eb9765cf1a972cd74ec871962e43042faf8e075597af1daa31c742b7",
           "bytes": 30219
         },
         "nameHe": {
           "path": "audio/names/he/fox.ogg",
-          "sha256": "56ca4967552fc324b39cee31e7952c292de0f08c682e398827db75db29e0c805",
+          "sha256": "fe0bcc86808fca74480d2ff66185010f19458940495325b1ff1c3331baa7db71",
           "bytes": 5376
         },
         "nameEn": {
           "path": "audio/names/en/fox.ogg",
-          "sha256": "dbbc8d0ed236bce99e07d8b8264445c61aa9e7c5871470e26b88f9d7e09e59f2",
-          "bytes": 7015
+          "sha256": "4bcaeae48ace0016a605e6b4e99da7d83b44558ae96afc5521ae8602b8d5558d",
+          "bytes": 7107
         }
       }
     },
@@ -4728,18 +4728,18 @@
         ],
         "sound": {
           "path": "audio/sounds/deer.ogg",
-          "sha256": "29e3b0c57d084cf9a8ac051802ca61d00d2d3b1dab14ec6fccf978bf8e3094fd",
+          "sha256": "dfa83bc96fa514fa9be35e918b8bf28a0a320748aaee26db2d8e3f60741d3be3",
           "bytes": 8308
         },
         "nameHe": {
           "path": "audio/names/he/deer.ogg",
-          "sha256": "c282962f80efbc8254b06f18257721d09e683eadb2ec58d908321606b90a58e0",
+          "sha256": "19204d49ad3f4777e5616be9f588b77de1c1bdce00602965f84866ee1a44b50c",
           "bytes": 6098
         },
         "nameEn": {
           "path": "audio/names/en/deer.ogg",
-          "sha256": "56f49f929347a5ab26af55e6db49d5dd4125ccdf5bc2f65343f001604713af36",
-          "bytes": 6536
+          "sha256": "3b45260ce81bf3e3ad4ce180be66b14eb932523335b85c2083c53149c87bfd8b",
+          "bytes": 6317
         }
       }
     },
@@ -4822,18 +4822,18 @@
         ],
         "sound": {
           "path": "audio/sounds/moose.ogg",
-          "sha256": "761f0cd81588ee7071476bb4e7607a37c335bdfc870288156fb5f05c21e09ae2",
+          "sha256": "21300f72cecce9f68d2bbf33f39b1e92fa48ffcab23b077dfe5a959fef913cb3",
           "bytes": 28003
         },
         "nameHe": {
           "path": "audio/names/he/moose.ogg",
-          "sha256": "08d7fec574949eb49d1cf0fac35babe6946b0d1636c35e25dc97005fd171a69c",
+          "sha256": "87fe9261d4bc333cc4024f2aa31e4026adf388ea558323c08e75fcdcc71139b7",
           "bytes": 5226
         },
         "nameEn": {
           "path": "audio/names/en/moose.ogg",
-          "sha256": "f9be98c73291398b409929911ee33cab9019b67efa5fdcc4544c9b7276df5185",
-          "bytes": 6547
+          "sha256": "a9d97fc7067e097b79c872e5f6302d49cb6a3a9fd323411aa8c79ef419577385",
+          "bytes": 6495
         }
       }
     },
@@ -4923,18 +4923,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hedgehog.ogg",
-          "sha256": "c84ed99375dff0fa933eb20d423a907107f72e7155cb0dbf395984d792071934",
+          "sha256": "b1fd04c67bc590d2c8d297da7f43caa4f9b3b2f8e987069a1f2996fcde9fe6e5",
           "bytes": 32536
         },
         "nameHe": {
           "path": "audio/names/he/hedgehog.ogg",
-          "sha256": "5a7586c619e44c805685a82496b509b815a08c56adb859e9601f39f215844e2d",
+          "sha256": "00b263245b8738e7fcae5a81f954a3965b9104bc4e3fbfcc8f84d2c47cd65e57",
           "bytes": 6966
         },
         "nameEn": {
           "path": "audio/names/en/hedgehog.ogg",
-          "sha256": "48a639d4c227180a7df95c95f672d0f7afb0c00fb1e5c2abf913b54fa895b59f",
-          "bytes": 7110
+          "sha256": "867dcc14ee0fed635fd07cfdb52e774cc1ce17f09acd24ecf6d7353ed994f1fa",
+          "bytes": 7298
         }
       }
     },
@@ -5017,18 +5017,18 @@
         ],
         "sound": {
           "path": "audio/sounds/squirrel.ogg",
-          "sha256": "9bb5743d1b64bd4e7bc444209659adeacfcda7222d998fdfb98973193efc3655",
+          "sha256": "a1bbceef1b80f2a8501d72b6ad5bd2359b24854bb5bf8cc712d97eb168825fcf",
           "bytes": 31608
         },
         "nameHe": {
           "path": "audio/names/he/squirrel.ogg",
-          "sha256": "9a402c46298ba4ecdb595839e4e1e4cb54c4b5e3d71a7b4087fedbfb81c2d6b7",
+          "sha256": "95603f9c9612f0e5f6cc7d15c6de5ad522b7c3e90986c837cffea3f3fa175e31",
           "bytes": 6516
         },
         "nameEn": {
           "path": "audio/names/en/squirrel.ogg",
-          "sha256": "2dd03e4d24039e5327028005e5278a58bb8346b23592b69f64be501d592fad72",
-          "bytes": 7742
+          "sha256": "4f24453025a5ee05715356a86abce81a70d70f5744964e098de8e0ce394af546",
+          "bytes": 7244
         }
       }
     },
@@ -5115,18 +5115,18 @@
         ],
         "sound": {
           "path": "audio/sounds/badger.ogg",
-          "sha256": "b37e36fbf7a1e386cbe866a0bdeffbdea4b9fe163e62e9ddf023522d97b9f0d1",
+          "sha256": "662b06543106dfe135f2c38c49736e3f2e8e438d104ecd33433908ef550e8795",
           "bytes": 30422
         },
         "nameHe": {
           "path": "audio/names/he/badger.ogg",
-          "sha256": "4280897119a906d9a627f0797ab632e654296ec56345766d6af80f3a5b66d570",
+          "sha256": "904aaa984575bc5342c4525db6131a6aaecc6b47407198223269ed41248ec1ab",
           "bytes": 7315
         },
         "nameEn": {
           "path": "audio/names/en/badger.ogg",
-          "sha256": "95d9975fa63aad7bfae15d8b4db6bfd4661d3edcb7a210a27542f662105345cb",
-          "bytes": 6990
+          "sha256": "3883a8e1a327731b17e391a506b2c239b3ff3a495f13bd38116c7312343b8b2c",
+          "bytes": 6849
         }
       }
     },
@@ -5174,12 +5174,12 @@
       "facts": {
         "he": [
           "השיניים של הבונה כתומות וחזקות, והן ממשיכות לגדול כל החיים",
-          "הוא נושם מתחת למים עד חמש עשרה דקות",
+          "הוא עוצר נשימה מתחת למים עד חמש עשרה דקות",
           "הכניסה לבית שלו נמצאת מתחת למים, כדי שאף אחד לא ייכנס"
         ],
         "en": [
           "A beaver's teeth are orange and strong, and never stop growing",
-          "It can stay under water for fifteen minutes",
+          "It holds its breath under water for up to fifteen minutes",
           "The door to its lodge is under water, so nobody else can get in"
         ]
       },
@@ -5209,13 +5209,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/beaver.ogg",
-          "sha256": "9713c12160945847c45dfebfecfbd8074ee6b444e0417d0a4c0d7b2fa9d36d11",
+          "sha256": "a04d705b3e6f163d841deeeb398113b20bbdfb586f5fe7b627dbccc9899316db",
           "bytes": 5581
         },
         "nameEn": {
           "path": "audio/names/en/beaver.ogg",
-          "sha256": "6656691acebf3e15d35065ff92531efdd53a643c305d7c6f6fa1a6b175918ba3",
-          "bytes": 6309
+          "sha256": "edea2b2f2edf45a526fb18220ee7b12e183e372656ee92083fd901501008d34a",
+          "bytes": 6460
         }
       }
     },
@@ -5269,12 +5269,12 @@
         "he": [
           "לוטרות ים אוחזות ידיים בשינה, כדי לא להיסחף זו מזו",
           "לפרווה שלה מיליון שערות בכל סנטימטר, והיא שומרת עליה חמה ויבשה",
-          "היא שומרת אבן אהובה בכיס עור מתחת לזרוע"
+          "לוטרת ים שומרת אבן אהובה בכיס עור מתחת לזרוע, ומשתמשת בה שוב ושוב"
         ],
         "en": [
           "Sea otters hold hands while they sleep, so they do not drift apart",
           "Its fur has a million hairs per square centimetre, keeping it warm and dry",
-          "It keeps a favourite stone in a pouch of skin under its arm"
+          "A sea otter keeps a favourite stone in a pouch of skin under its arm, and uses it again and again"
         ]
       },
       "colorHex": "#E1F5FE",
@@ -5303,18 +5303,18 @@
         ],
         "sound": {
           "path": "audio/sounds/otter.ogg",
-          "sha256": "3c403d3a5764bf583d001d5f1ed0f08c78b841a5ef0c2da2ce7a1782bf084e72",
+          "sha256": "ff863cdf4500e21c7dfc4852152dfe39fd9dc1dee711589ada5034fa327dc394",
           "bytes": 29325
         },
         "nameHe": {
           "path": "audio/names/he/otter.ogg",
-          "sha256": "62b6abdc7deeefd3094c1d1abb2b4e3c90327c8fa036076cbc4eaf599a03aff7",
+          "sha256": "77af5987eddbb07456205993f8d5b50e883ad4ecd7b81ec285bf245c8f59bad2",
           "bytes": 5975
         },
         "nameEn": {
           "path": "audio/names/en/otter.ogg",
-          "sha256": "e88c44bb2d518cfda65ab531bbd7a8f6e65e9f9c5b4c845d27789ad8ba8cc467",
-          "bytes": 5615
+          "sha256": "ff5a466b53d5606371ae0e3cc3460bd8a922d22ce3b7337830655ba6b8f511ea",
+          "bytes": 5849
         }
       }
     },
@@ -5403,18 +5403,18 @@
         ],
         "sound": {
           "path": "audio/sounds/owl.ogg",
-          "sha256": "7d22c307cb3a19ef0f463b68737c16b0bb5f3fdc44418148941c6679b6197228",
+          "sha256": "32f8cb6b0e1c246ee78b5121c16f1255b67bfe6a89ed1d517e59f13defcaef8f",
           "bytes": 28347
         },
         "nameHe": {
           "path": "audio/names/he/owl.ogg",
-          "sha256": "e0ceab1a1321782fd3f2e98215a59a32cd6eb1aa16dec9b940fb4e45ad64c9af",
+          "sha256": "ade2d2d58766dd240d8b491e44b4880a1f1733485ba42561c3949c0cb1e26636",
           "bytes": 6793
         },
         "nameEn": {
           "path": "audio/names/en/owl.ogg",
-          "sha256": "be5b01ab84f5b415bdb6dbe3b58b7c43b1fb724332896302ad9ecf1f89d55564",
-          "bytes": 6168
+          "sha256": "50ba391e019c777f6bf3817c222f01aec62de1652bd0c40171ce5ff2a5c4c64c",
+          "bytes": 5892
         }
       }
     },
@@ -5503,18 +5503,18 @@
         ],
         "sound": {
           "path": "audio/sounds/eagle.ogg",
-          "sha256": "11347f06d93d3e6aaddbd017cb924b2d8d88438a7820180bc16aa55cdadf4ef2",
+          "sha256": "9364b84f326bc02917cc377adec85ea9fe98d24bf8d2524d02186ef37108ae96",
           "bytes": 27962
         },
         "nameHe": {
           "path": "audio/names/he/eagle.ogg",
-          "sha256": "4655327534263d8ba7b6e78864f45d54c11b2938fec0db980b4e8a545ca80590",
+          "sha256": "da9cf5d3be75c2e22269528897bc83eea3f36583a2a7fb12c2d0ccee3db547bd",
           "bytes": 5433
         },
         "nameEn": {
           "path": "audio/names/en/eagle.ogg",
-          "sha256": "2f1ada6adbcc0c670ccb7b749c2e344d5c1a49afb1c782cfdb671cc8d4d0adb2",
-          "bytes": 6445
+          "sha256": "f3f43d6f332915899fdbe79118fac91fca775664bb46c907d5ccacfe7b20226f",
+          "bytes": 6415
         }
       }
     },
@@ -5536,8 +5536,8 @@
         "en": "chitters"
       },
       "description": {
-        "he": "הדביבון מצקצק: צ'ר צ'ר! יש לו מסכה שחורה סביב העיניים, והוא שוטף את האוכל שלו במים לפני שהוא אוכל.",
-        "en": "The raccoon chitters: chrr chrr! It wears a black mask around its eyes, and it dips its food in water before eating."
+        "he": "הדביבון מצקצק: צ'ר צ'ר! יש לו מסכה שחורה סביב העיניים, והוא מגלגל את האוכל שלו במים — לא כדי לנקות אותו, אלא כדי להרגיש אותו טוב יותר.",
+        "en": "The raccoon chitters: chrr chrr! It wears a black mask around its eyes, and it turns its food over in water — not to clean it, but to feel it better."
       },
       "diet": {
         "he": "אוכל פירות, ביצים, דגים, חרקים ושאריות",
@@ -5603,18 +5603,18 @@
         ],
         "sound": {
           "path": "audio/sounds/raccoon.ogg",
-          "sha256": "19d78c5e83a3757f763013a7a62046002bbe6e3ae3f5da3be6c41cdc9e4ebf90",
+          "sha256": "3bcffa244b6a36790f54241b21eea9c33089e4badb3d71fe1fa5e1b4cf99f7ad",
           "bytes": 28870
         },
         "nameHe": {
           "path": "audio/names/he/raccoon.ogg",
-          "sha256": "3b269b6ef2b423ab4ef559ba41d98a069cd4288f05e3d270d48ffafc5ad6a202",
+          "sha256": "1fc6b3b3add8e3b33c86a5b3a71957b427ee3a92bb843be6ba18dc31d8def894",
           "bytes": 8428
         },
         "nameEn": {
           "path": "audio/names/en/raccoon.ogg",
-          "sha256": "eb33d5158fcdabeb623984fe77c8ffff039650bd188510970dbbf5e449e2711d",
-          "bytes": 7423
+          "sha256": "9a3dc6f02a07eb8f2e6a0565388ffce84ce53865a2a753af781e77c917bcb9a5",
+          "bytes": 7664
         }
       }
     },
@@ -5697,18 +5697,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bison.ogg",
-          "sha256": "a64c8caf3e025395539b2e55e757e1c7b9b3778287bf8ab34676422b14fbb1e9",
+          "sha256": "78d56a4eb9ee3e8fa0ff8e6dae1ddca415bff700cbba6067073bd200ac321cbe",
           "bytes": 21738
         },
         "nameHe": {
           "path": "audio/names/he/bison.ogg",
-          "sha256": "603428fffd1b3de826204b7479ce08e4c340222134b3268c5e1b843d5cab22e9",
+          "sha256": "0a612014e4131cb138e5c322d481329018ecee0fb285c8f690519b873aa51cfe",
           "bytes": 8456
         },
         "nameEn": {
           "path": "audio/names/en/bison.ogg",
-          "sha256": "a3bb5a0af970f271c6539854958d1909dfd83db90e0dd3ba7d59c5e997cf8b65",
-          "bytes": 6870
+          "sha256": "26a5262daadfb2dadd773d24f9e8fb6d91e1deae70273e8fd40afc6530168f94",
+          "bytes": 6533
         }
       }
     },
@@ -5797,13 +5797,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/skunk.ogg",
-          "sha256": "84847ff69c14f8c1cfcdf10fc0cd1edad11830a0abc6afa7df21ca3df11249b0",
+          "sha256": "3d65cbb0425a854d4d906ab811de5c3d1c451c6cdd4cf7547b9bb20404eff112",
           "bytes": 6058
         },
         "nameEn": {
           "path": "audio/names/en/skunk.ogg",
-          "sha256": "ddcedbc8541ebd40eb6d2ec9f5cdbe2ddd94f4f15cf5b48af89572c40a94399e",
-          "bytes": 7309
+          "sha256": "1689601300b8304d684240ce5db1d2ec50d91784a7ded9ee764fff12cad5d468",
+          "bytes": 7058
         }
       }
     },
@@ -5886,13 +5886,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/kangaroo.ogg",
-          "sha256": "55d1bbdf0cd4b43cd319eea1bdbda54e81475e2dc1b20aa084f7a4c720e25db0",
+          "sha256": "ecb4db426a9cf94626ee6d94a253e8dc8dcb4b69af300698b8f56de120ba966b",
           "bytes": 6390
         },
         "nameEn": {
           "path": "audio/names/en/kangaroo.ogg",
-          "sha256": "547d9f1c9d3a18dd86d5e590940f3cf53e0d10a53f5f922baad4110869cb6f1d",
-          "bytes": 7549
+          "sha256": "1d9199285014fc6bd32b103af4eb85ca00a8f79ef34640ccab25450d0c393400",
+          "bytes": 7533
         }
       }
     },
@@ -5975,13 +5975,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/koala.ogg",
-          "sha256": "96d74fee40926f0de2eaa0ef5a781441a812b153f220eeb0e5d957a213ce1062",
+          "sha256": "8f52d693d3de4c96742a954d7d025ee1ced92adef28f84136a955439cdb12cc5",
           "bytes": 4939
         },
         "nameEn": {
           "path": "audio/names/en/koala.ogg",
-          "sha256": "dede14596a67b2c6c9f09cdfea1d6a8880db7501c37d10e1c9d839e77d27bca6",
-          "bytes": 7700
+          "sha256": "cab8a87728af5489c0f82b79b0c4bcea45b43ec2bbaa1a633bd214ed9b30ae73",
+          "bytes": 7173
         }
       }
     },
@@ -6064,13 +6064,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/sloth.ogg",
-          "sha256": "4f51be636cd0102c0d6bc3f4255974a58198a9b12e5d03c86307140026d0ce95",
+          "sha256": "c939090a59b46183ce02e2d74427271c60c308c3aa8db40bc75b34e2a519a184",
           "bytes": 5683
         },
         "nameEn": {
           "path": "audio/names/en/sloth.ogg",
-          "sha256": "68a4dadf0d7b0af06545a223a9a3ef8f41bde979fe78f54afdac79ec33d878d3",
-          "bytes": 6746
+          "sha256": "7524e3898b63e65630a33fce4a40beb657326bf7073265f3ea48ffdc3612c5ad",
+          "bytes": 6966
         }
       }
     },
@@ -6153,18 +6153,18 @@
         ],
         "sound": {
           "path": "audio/sounds/llama.ogg",
-          "sha256": "d04355350f033b4960a8d296ece9a5de2f0549b1ea5d10b5daf741bead1c24f2",
+          "sha256": "c31e5a9a05fe818fdd6d985367ad68ef1c0f5f16491bb99f51681e6fd2fc740a",
           "bytes": 30591
         },
         "nameHe": {
           "path": "audio/names/he/llama.ogg",
-          "sha256": "266f998354afe2c45f5e72e373a7d00a5bc7bcd14f77971315c141d1943fefe5",
+          "sha256": "2e80f7930addeb985a23d1ac12772eacad41f56b88ef02ce0678ee68970ac018",
           "bytes": 6974
         },
         "nameEn": {
           "path": "audio/names/en/llama.ogg",
-          "sha256": "711631d325c1e543b2fd4b910ba80152be2236af069b7f1d4a96648f0ebeb31e",
-          "bytes": 6336
+          "sha256": "1b37ce23a6bb380dc8f5fc12f98b99ad7a2223787b6940421c16331893dca088",
+          "bytes": 6429
         }
       }
     },
@@ -6247,18 +6247,18 @@
         ],
         "sound": {
           "path": "audio/sounds/alpaca.ogg",
-          "sha256": "886af40242fc6df0497cf0327f42b839ba7ce2b5953762dc6dd8f3c64c7f46df",
+          "sha256": "7b8c7053ad74bd0afce5a1147d0a415f1e941a88ef11c35bdd50a8abaf2d6328",
           "bytes": 7025
         },
         "nameHe": {
           "path": "audio/names/he/alpaca.ogg",
-          "sha256": "a257907094d750cb61d117fc5a318ed5adf63f56ac5e4d84c37bdb68f8f3f292",
+          "sha256": "88077077d393ddfef9fddc8192ea8e185ca059c3482294baf1be8f5594901148",
           "bytes": 5359
         },
         "nameEn": {
           "path": "audio/names/en/alpaca.ogg",
-          "sha256": "752a579d3f98e3eae3f0b560df167507698e298d9c1eb8b3f3175d08736ad441",
-          "bytes": 8437
+          "sha256": "753f32bf359177835ecdc4ab66075f5ba67c9eae57833d88c3fe6fe6fc4684cb",
+          "bytes": 8315
         }
       }
     },
@@ -6280,7 +6280,7 @@
         "en": "croaks"
       },
       "description": {
-        "he": "הטוקן קורא: קרא קרא, קצת כמו צפרדע! יש לו מקור ענק וצבעוני, וגם שהוא נראה כבד — הוא קל כמו ספוג.",
+        "he": "הטוקן קורא: קרא קרא, קצת כמו צפרדע! יש לו מקור ענק וצבעוני, ואף שהוא נראה כבד — הוא קל כמו ספוג.",
         "en": "The toucan croaks: croak croak, a little like a frog! It has a huge, colourful beak, and although it looks heavy it is as light as a sponge."
       },
       "diet": {
@@ -6341,18 +6341,18 @@
         ],
         "sound": {
           "path": "audio/sounds/toucan.ogg",
-          "sha256": "3e579e392b0a04b16086777c41a57280f01b3d0cb4e94ee59d90ffdcb0d929a9",
+          "sha256": "384e774a70c6780bc020584f7d7ed84f5e23089de1a4dfb316572797cd1a865f",
           "bytes": 31266
         },
         "nameHe": {
           "path": "audio/names/he/toucan.ogg",
-          "sha256": "13cbd3f279452840ea63107b239cc218f85a6d02ac215e725f7b30679d0fa002",
+          "sha256": "95f1802a8a0dc6512ce73823ab2f275d33acf9d5d0867e224df3f4cf839e8cda",
           "bytes": 5508
         },
         "nameEn": {
           "path": "audio/names/en/toucan.ogg",
-          "sha256": "869dde91311eb1e09e461636a804ce01c422c56b5b1d602398b27917ff5cdb17",
-          "bytes": 7021
+          "sha256": "633cc0a5b0b71211c6af8cdb4c2eba8d27402d44075fe547421313a912a7220a",
+          "bytes": 7032
         }
       }
     },
@@ -6435,18 +6435,18 @@
         ],
         "sound": {
           "path": "audio/sounds/parrot.ogg",
-          "sha256": "2840d7984fd2a09084b308ab4e07f3716ee92b851c7cdb4d028a73e13e6d7ab7",
+          "sha256": "2331bd02babb7ceda672b61d54f3ec01e14cad0ab3d8497ac09791036f76a249",
           "bytes": 30597
         },
         "nameHe": {
           "path": "audio/names/he/parrot.ogg",
-          "sha256": "1e743567d0177fad90d38c0f0a9c2c34e4d96537ea60eaad29316a6719273ba5",
+          "sha256": "30aa4e537c6da81a5c78d72883686a9119b27323d273873559013d5a204ee5b6",
           "bytes": 7214
         },
         "nameEn": {
           "path": "audio/names/en/parrot.ogg",
-          "sha256": "2615926556a29585290a51d1114c6840886dd65d283c194ad59cb4cce1137b85",
-          "bytes": 7034
+          "sha256": "3314552f4cb6d640704003ff58c73ce8c7a45d733607b36659df3930ecb232f5",
+          "bytes": 7066
         }
       }
     },
@@ -6468,16 +6468,16 @@
         "en": "roars"
       },
       "description": {
-        "he": "היגואר שואג: רררר! הוא החתול הגדול של אמריקה, אוהב מים, ושוחה בנהרות ביער הגשם.",
-        "en": "The jaguar roars: rrroar! It is the big cat of the Americas, it loves water, and it swims in the rainforest rivers."
+        "he": "היגואר שואג: רררר! הוא אוהב מים, שוחה בנהרות ביער הגשם, ולפעמים אורב לטרף מתוך המים.",
+        "en": "The jaguar roars: rrroar! It loves water, swims in the rainforest rivers, and sometimes waits for prey from the water."
       },
       "diet": {
         "he": "אוכל דגים, צבים, קפיברות וחיות נהר",
         "en": "Fish, turtles, capybaras and river animals"
       },
       "skills": {
-        "he": "הנשיכה החזקה מכל החתולים, ושחייה מצוינת",
-        "en": "The strongest bite of any cat, and an excellent swimmer"
+        "he": "ביחס לגודלו הנשיכה החזקה מכל החתולים, ושחייה מצוינת",
+        "en": "Pound for pound the strongest bite of any cat, and an excellent swimmer"
       },
       "habitat": {
         "he": "ביערות הגשם ובביצות של דרום אמריקה",
@@ -6534,18 +6534,18 @@
         ],
         "sound": {
           "path": "audio/sounds/jaguar.ogg",
-          "sha256": "5297d2e8c55aafac8490208aaf0526d3dc4cf1fb1951274c51434ce119598108",
+          "sha256": "e2e4b00683feb327614508e5b2f918120ef8c869d32234b37d0b17f57750e4bc",
           "bytes": 17682
         },
         "nameHe": {
           "path": "audio/names/he/jaguar.ogg",
-          "sha256": "c17aa9deb2f637ea6b670f1fe59b0da6f1a02b181c248572e335a7ab396ca8ee",
+          "sha256": "7afbfba27bb6901e92f606f2d51d57741a16349028ac1c81f9c43d75b30073d2",
           "bytes": 6403
         },
         "nameEn": {
           "path": "audio/names/en/jaguar.ogg",
-          "sha256": "96209ec2df4025c8a1aa9ead736cef9a17b0c4d478fc3bd39f1ca705da16ef8d",
-          "bytes": 7157
+          "sha256": "e7375be2972efb785cc153c73e64a4985d250f58a45e3fb9ce7ff186dea5af60",
+          "bytes": 6927
         }
       }
     },
@@ -6632,18 +6632,18 @@
         ],
         "sound": {
           "path": "audio/sounds/penguin.ogg",
-          "sha256": "b1c3ec8208bc5e14403a06f58a309d0d6deefb2b2514fa6c070ec9fbe3bfc2b6",
+          "sha256": "bc2f6e89a8aabd492f4cd8c9ba4415236ed1add7a1ba6240bccc5f5ed47c6f7b",
           "bytes": 29992
         },
         "nameHe": {
           "path": "audio/names/he/penguin.ogg",
-          "sha256": "15bc435de4420511de4752f005810181d019d2760a6546475d43a773597b527a",
+          "sha256": "4ae46c3f59f7ab106eda348a877968d68ab9fff0628ed85d953588babdba5f21",
           "bytes": 8199
         },
         "nameEn": {
           "path": "audio/names/en/penguin.ogg",
-          "sha256": "e0dc32b41ee23996a9aa3d641e3b4aa44279febaef693a8af45e0137b0056f3c",
-          "bytes": 7259
+          "sha256": "d2c972ff8c122e14786ab3db111f0e8a80a878cce56b9ae46339835cda800f92",
+          "bytes": 6871
         }
       }
     },
@@ -6726,18 +6726,18 @@
         ],
         "sound": {
           "path": "audio/sounds/chipmunk.ogg",
-          "sha256": "022ccb6cddcd5c74f11419a6b2af1029b9898da57eaeecab122a23613f155fe8",
+          "sha256": "085a0834d7ee949d015de3ba427aab269907298e59b43ae889c9e0369e248a42",
           "bytes": 22695
         },
         "nameHe": {
           "path": "audio/names/he/chipmunk.ogg",
-          "sha256": "7ec707bfa606178cb54dc9814146bc06ab02599d7d252328d6cc55402714428e",
+          "sha256": "2932f563e022dd4f91094544526e4299ec81d99cd1673bac025f1251f8d9f320",
           "bytes": 8336
         },
         "nameEn": {
           "path": "audio/names/en/chipmunk.ogg",
-          "sha256": "e364cf38b083d8fe44ae8587e16e4843f89386ba8604483a45a4061edfacc5a1",
-          "bytes": 7175
+          "sha256": "1c8c69546fca16dd0efdefb33783608ecccf58a599a03fdfedd11ae2064aede5",
+          "bytes": 7215
         }
       }
     },
@@ -6825,18 +6825,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dolphin.ogg",
-          "sha256": "9e33d9a75c8ff4aa687e54b3e9bfffab2c3490504416e634f3cf2041496320af",
+          "sha256": "8abcbf9f84e5793cbbb789fdda90e0817e92c0f1aed321cbc761df931fa0f93a",
           "bytes": 32704
         },
         "nameHe": {
           "path": "audio/names/he/dolphin.ogg",
-          "sha256": "a71027a34e70b3bc7cc6aadcef611b2fbcc04093e80d69f162da449da1d60ad0",
+          "sha256": "968658c2016d371f1592ca05ffe3318b845e56b0ae1d786ad0378cc8280efbd9",
           "bytes": 7483
         },
         "nameEn": {
           "path": "audio/names/en/dolphin.ogg",
-          "sha256": "856c790b7b0007a49de651508d9a88851db8f0abc0daa2d705781f836e7caa6c",
-          "bytes": 6815
+          "sha256": "063293ce0c9fba9a1270c268b247364a49ba4f4244c56e74da3cccab800f0c1b",
+          "bytes": 7012
         }
       }
     },
@@ -6886,12 +6886,12 @@
       ],
       "facts": {
         "he": [
-          "הלב של לווייתן כחול גדול כמו מכונית קטנה",
+          "הלב של לווייתן כחול כבד כמו אופנוע, והפעימה שלו נשמעת ממרחק",
           "הוא נושם דרך חור בראש, ומתיז ממנו סילון אוויר ומים",
           "שיר של לווייתן יכול להימשך חצי שעה, ואז להתחיל מהתחלה"
         ],
         "en": [
-          "A blue whale's heart is as big as a small car",
+          "A blue whale's heart weighs as much as a motorbike, and its beat can be heard from far off",
           "It breathes through a hole on its head, and blows a jet of air and water out of it",
           "A whale's song can last half an hour, and then start again from the beginning"
         ]
@@ -6922,18 +6922,18 @@
         ],
         "sound": {
           "path": "audio/sounds/whale.ogg",
-          "sha256": "647a89f665864b88c6b604be86d1e90f751c49398a1de0577ebe7226c2e64239",
+          "sha256": "0d557b4654527d7886d675334ec5e63f163eb1af91a4aa5430414adba5412001",
           "bytes": 28235
         },
         "nameHe": {
           "path": "audio/names/he/whale.ogg",
-          "sha256": "614646e46e55c5259a8670ec20ea30ba68f9fc036f0758c9b80aa79ecc78cdd7",
+          "sha256": "c6c8124f45f24536a9f54191c30664f96ba7a6505fcddc3b161d2fa2c8086e1a",
           "bytes": 6399
         },
         "nameEn": {
           "path": "audio/names/en/whale.ogg",
-          "sha256": "0626d563fbb3dbbbc59db7fa4a319fc33698a4c51869d52b9fcab07cba40a0a2",
-          "bytes": 5626
+          "sha256": "b4fc8d945843c7edb75185447557697d58d90b9820c1bc23eec593a2d62e0d52",
+          "bytes": 5580
         }
       }
     },
@@ -6988,12 +6988,12 @@
         "he": [
           "לכריש אין עצמות — השלד שלו עשוי סחוס, כמו האוזניים שלנו",
           "הוא מאבד שיניים וצומחות לו חדשות — אלפי שיניים בחיים אחדים",
-          "כרישים חיים בים מאה מיליון שנה לפני הדינוזאורים"
+          "כרישים חיים בים יותר ממאתיים מיליון שנה לפני הדינוזאורים"
         ],
         "en": [
           "A shark has no bones — its skeleton is cartilage, like our ears",
           "It loses teeth and grows new ones — thousands in a lifetime",
-          "Sharks were in the sea a hundred million years before the dinosaurs"
+          "Sharks were in the sea more than two hundred million years before the dinosaurs"
         ]
       },
       "colorHex": "#ECEFF1",
@@ -7022,13 +7022,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/shark.ogg",
-          "sha256": "aabd2f3964aa5b3fc3679dc5a06ea39a4b1e7ea8b1890989cd51169b6ea711da",
+          "sha256": "c89bec11ef2f7052a0b41b73f8b01849fa6c0cd1cc0b095677fe2675429366c1",
           "bytes": 7603
         },
         "nameEn": {
           "path": "audio/names/en/shark.ogg",
-          "sha256": "c9c70000c6ce6924f2f47914dcc4a58e20d897dc47b9c3fc6c3eef1a604e5dc7",
-          "bytes": 7430
+          "sha256": "1de93751e1f3a5d2928bf73ecf6e046bf2577cbe868d675959758df2e0e89afb",
+          "bytes": 7445
         }
       }
     },
@@ -7111,13 +7111,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/fish.ogg",
-          "sha256": "279d56e15ac9227b4c28091ccd704788cb1df8fd171967b4a7be5001334a0fd4",
+          "sha256": "7ef7283bdca62dd88fe6cb82cfcf4e9df4434a3367d4d6e34db5313061edab2a",
           "bytes": 4332
         },
         "nameEn": {
           "path": "audio/names/en/fish.ogg",
-          "sha256": "934a6824d5aa4dcd6c110bd1d8117af9ed7583cca133f3b448868191a30c8d68",
-          "bytes": 4805
+          "sha256": "a5c031a76d6997927714b65972e04c81eaa9a00e928b6618c1a260d483a4b18e",
+          "bytes": 4822
         }
       }
     },
@@ -7204,13 +7204,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/octopus.ogg",
-          "sha256": "33fc39012bbc3514091fc13a6656edaa59d02c35dea3df756546a7b6625f6ff1",
+          "sha256": "d35e63b114582e6f1e8284b9e44516aa0b2e93673eca026445efb18c7434d6fa",
           "bytes": 6736
         },
         "nameEn": {
           "path": "audio/names/en/octopus.ogg",
-          "sha256": "15fa8636e388773e140c7ea2bc1e600ffb76407566abc4fd62eb086657d4bfc4",
-          "bytes": 8576
+          "sha256": "8d8240b232cf885a5651f7f086d216bd36c91cf27897967f7be4809940ab1c19",
+          "bytes": 8716
         }
       }
     },
@@ -7297,13 +7297,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/crab.ogg",
-          "sha256": "113920de46c7d7340516dfe3c32818e0b0f0e23251d057766f6777f37a1695dc",
+          "sha256": "32e0719a2d5f09be205d3e1a7a1f0a3e79e8402d712eba0d6f01305f70027734",
           "bytes": 6060
         },
         "nameEn": {
           "path": "audio/names/en/crab.ogg",
-          "sha256": "e38c9c859b6c970c1fb06e42b84763af16cb5ee6ab1a081bddeadfe7e5e5400d",
-          "bytes": 6529
+          "sha256": "b5d34658a6b48ea5f1232f4bed1aca749f71df70bf2279baec3ea992cb2e1f5d",
+          "bytes": 6580
         }
       }
     },
@@ -7391,18 +7391,18 @@
         ],
         "sound": {
           "path": "audio/sounds/seal.ogg",
-          "sha256": "bebae72e2892288fd7191863a75d90928e3450607d6273a37471e7f0292c6ef2",
+          "sha256": "aec32e6659920cb6c67cdc4947c4e960b342d4bbca9f0a2f6e56508b787f441b",
           "bytes": 30709
         },
         "nameHe": {
           "path": "audio/names/he/seal.ogg",
-          "sha256": "9ba9f4c69af5a3730e3d9c3fd9bef985a275238df7408cfb02c549677e8ed12c",
+          "sha256": "a0ae85996f51f5c158fd62cf541906c3711bb1620adb3ef312238c43ee279c98",
           "bytes": 6845
         },
         "nameEn": {
           "path": "audio/names/en/seal.ogg",
-          "sha256": "7e63335b0aec91659114ce2106774740c46499d12877e2d407613b6296a4599e",
-          "bytes": 6370
+          "sha256": "28938a8d9f4a5bed3b6df878993cd6ee509c34d845e80c5b6027d5fb6a780b0e",
+          "bytes": 6139
         }
       }
     },
@@ -7490,13 +7490,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/turtle.ogg",
-          "sha256": "f2c859c8b1494913eefbaa1c49dbc2efb63919d6207a7aff28d75efcfa7551d4",
+          "sha256": "0624687773cd1642ff73c296ff8371f571ec1564e1ea86f80aae12131582dcca",
           "bytes": 5126
         },
         "nameEn": {
           "path": "audio/names/en/turtle.ogg",
-          "sha256": "629d823c376ec859aec661fe3a3531548ab0f67a245723e0a2c7a860a911f85d",
-          "bytes": 6662
+          "sha256": "e742968573ab7da3048ad0e64b5063d2b6a54e2cd3547dcc80431d0633444351",
+          "bytes": 6612
         }
       }
     },
@@ -7582,13 +7582,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/jellyfish.ogg",
-          "sha256": "656a4cb3cd36f7cc2dfd90166e7853ba4ac3ac0251b2ab848ffd1a6e5d010ba2",
+          "sha256": "aa7af5ef6c7dec58c1570b0192b7d9c4ef3258cbcc4b26f82c64833bb5ece0ed",
           "bytes": 5471
         },
         "nameEn": {
           "path": "audio/names/en/jellyfish.ogg",
-          "sha256": "0963be115f07da2a24b8dbe77a689a2e90ad5c5672ce07d2d2ae4cd6e3bf26bd",
-          "bytes": 8430
+          "sha256": "7e99a9244f4675095deb477d4300da27e3fc87ac203c9a633dde1c3b8b1f3757",
+          "bytes": 8316
         }
       }
     },
@@ -7671,13 +7671,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/seahorse.ogg",
-          "sha256": "fedec49c6aa22515c05ed8ab0b502692bc0ea4537833c920b9f944ed3f467803",
+          "sha256": "137efc581de50be4edc4e7e67df0b1c7c73476225330d1cbfe6174d801be0745",
           "bytes": 7975
         },
         "nameEn": {
           "path": "audio/names/en/seahorse.ogg",
-          "sha256": "6f4a3a5baf5070f11c01ae93ff8d063765a8d472990cc384753a16f27d536bdf",
-          "bytes": 8171
+          "sha256": "b740b18ffdd9499ae3164c6008f36107bfac4cca3a6097afd25c8acd9bb3ac67",
+          "bytes": 8404
         }
       }
     },
@@ -7763,18 +7763,18 @@
         ],
         "sound": {
           "path": "audio/sounds/swan.ogg",
-          "sha256": "8a4cc63a10ea899fcf6b43519d3d6d1af320ead32fbbd19d27ef82883001615a",
+          "sha256": "3e593b412280f9d15a486aaa0baa2fa80234c7edad9a3022ff2234d842dac850",
           "bytes": 32317
         },
         "nameHe": {
           "path": "audio/names/he/swan.ogg",
-          "sha256": "ffa85aedf9a06aa284390dd60b75dc0a12ccc31346a840819df558d4a8479b0e",
+          "sha256": "996789acbb060eed2ddd207abbc05f377b2709b73ad819de231aaa309ad148bb",
           "bytes": 6605
         },
         "nameEn": {
           "path": "audio/names/en/swan.ogg",
-          "sha256": "925eb7f10df01575d5599a10606980d2f0f3a36a97b641b0c7ba03d0472d73f9",
-          "bytes": 7108
+          "sha256": "46c12588185260a795a16c646c6e9f0fc256e7b626c6b85f242c0407f8ad5f65",
+          "bytes": 6987
         }
       }
     },
@@ -7857,18 +7857,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dove.ogg",
-          "sha256": "c3b59a33c089acf2dea3316732ae03a97f91da8e02d6794164b0d4c848e8cef4",
+          "sha256": "0ea0abfca0d4507a571299cf27efb6871ccff4edbebc248a5c16c470e8aa8a9b",
           "bytes": 21486
         },
         "nameHe": {
           "path": "audio/names/he/dove.ogg",
-          "sha256": "72c3e82ead2bd92f9abdd2c5cb4e4cfa107bc5d413d19385a17cf278dcef82de",
+          "sha256": "c1e643cd190617b706514afaed21818597157d63d64cdf9c7dcf84c080b39406",
           "bytes": 5530
         },
         "nameEn": {
           "path": "audio/names/en/dove.ogg",
-          "sha256": "7873d370f91ae04e07f5e5176caa77bdec9d4b327d18ccf3b9f5a3c2be346f5f",
-          "bytes": 5666
+          "sha256": "24361937b7b1abc26c7d482c0a6a4b0fbf61efb931e5ec24353ce5e2a32ffce3",
+          "bytes": 5869
         }
       }
     },
@@ -7955,18 +7955,18 @@
         ],
         "sound": {
           "path": "audio/sounds/crow.ogg",
-          "sha256": "5ed9aeb2ea1204d19e29d085a3336ae9b4c11d4abde5e4a943a683afa564ce2d",
+          "sha256": "f8dd62c46e705b1fe67d7452e9afe3142d4215ffb4d63762916992b24716d1e9",
           "bytes": 20475
         },
         "nameHe": {
           "path": "audio/names/he/crow.ogg",
-          "sha256": "bda1d832b57d9de52602a935c17255239bec2ef1a6a1eef60b9befb90c18b4eb",
+          "sha256": "21e36d04f8a8924ea7b19ec8ef1ca6d836a9fadcc3a61a7b0801110a9d2d2d10",
           "bytes": 5362
         },
         "nameEn": {
           "path": "audio/names/en/crow.ogg",
-          "sha256": "bf5d61b1fab33ea1d8c405daf9626c4ec6ea243b57ac72587e0664824306284d",
-          "bytes": 6301
+          "sha256": "d5758b199109cc224c91d94accd4118b11e976d0b9a44a22b08ca7bb2feaca7e",
+          "bytes": 6477
         }
       }
     },
@@ -8053,18 +8053,18 @@
         ],
         "sound": {
           "path": "audio/sounds/seagull.ogg",
-          "sha256": "1c81182f9f86fd42d628bfec4a5b6541e6b2ba2c4f9340a23babcd4eb7ff9401",
+          "sha256": "14818767fb8d21dca3606d64521fabc87d15066f523f04a7fa95d10aadc4f68d",
           "bytes": 29201
         },
         "nameHe": {
           "path": "audio/names/he/seagull.ogg",
-          "sha256": "1be86de76f96c5e7b7f28dbb6c0dc0b15f3e902d426ba4d7abdd077ee1a9f670",
+          "sha256": "c24a5ac319d131f08db13341dda78bcf6b108cb067fbfdb2d3b9db326c57131e",
           "bytes": 6034
         },
         "nameEn": {
           "path": "audio/names/en/seagull.ogg",
-          "sha256": "316ebc2b75789fcb52275b4fe6041d81409bb601e3025d42e301f43557df1fae",
-          "bytes": 8259
+          "sha256": "bb5e62bcd81d1db55d95ae8583bfc94df8e02a884b79f416d7ee74c1a919d9eb",
+          "bytes": 8196
         }
       }
     },
@@ -8117,13 +8117,13 @@
       "facts": {
         "he": [
           "הלשון של הנקר ארוכה כל כך שהיא מתפתלת סביב הגולגולת שלו",
-          "הגולגולת שלו בנויה כמו קסדה, וסופגת את כל המכות",
-          "הוא מקיש עד עשרים אלף פעם ביום"
+          "המוח שלו קטן וצמוד לגולגולת, ולכן המכות לא מזיזות אותו",
+          "הוא מקיש עד שנים־עשר אלף פעם ביום"
         ],
         "en": [
           "A woodpecker's tongue is so long it wraps around its skull",
-          "Its skull is built like a helmet and soaks up every blow",
-          "It hammers up to twenty thousand times a day"
+          "Its brain is small and held tight against the skull, so the blows do not shake it",
+          "It hammers up to twelve thousand times a day"
         ]
       },
       "colorHex": "#FFEBEE",
@@ -8152,18 +8152,18 @@
         ],
         "sound": {
           "path": "audio/sounds/woodpecker.ogg",
-          "sha256": "9b871aa1e2cc568d477c1c87ec94cb39c0977c2598eb0720fff1c39f54368b5a",
+          "sha256": "71fb8704ca755f74a90ebb989c9fd908b7c31241e910f59ebbfe117f83bccf52",
           "bytes": 30531
         },
         "nameHe": {
           "path": "audio/names/he/woodpecker.ogg",
-          "sha256": "93f8d19ead2aa06ec23bbc28967fc61947ee079ec903b36004cfd102ecc15cee",
+          "sha256": "c884d494fc2e8e885f634297d69f4de7e60c88e486073f2d1138957d43e26313",
           "bytes": 4960
         },
         "nameEn": {
           "path": "audio/names/en/woodpecker.ogg",
-          "sha256": "77f4cae3d378971f5b602c09b9d481aa41ac580d01d1dbe165702d51f1a238e6",
-          "bytes": 7677
+          "sha256": "93de53fa781104cd2aeffaa0a4bd828f1d7b138c02a3a13ed3f236ef11be5b79",
+          "bytes": 7353
         }
       }
     },
@@ -8252,18 +8252,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hoopoe.ogg",
-          "sha256": "146a0bb4b1e83f1b269edabf822638ff5917005f401958a33ffd84d22a802aa1",
+          "sha256": "a45c910c1dfdbe34d2ee537985835f904a6e20450bd65e9937be76e025f4476b",
           "bytes": 28042
         },
         "nameHe": {
           "path": "audio/names/he/hoopoe.ogg",
-          "sha256": "fc67450c6ad31c0c4b95e61d187d4894894e2e74dffbafb0b3302528d57b03cf",
+          "sha256": "c48da9ce8d6c911d005ae4b54073cb2de2429ab954170bb20077daa365aa9b01",
           "bytes": 7692
         },
         "nameEn": {
           "path": "audio/names/en/hoopoe.ogg",
-          "sha256": "b3d62e628d25bcd48f3852029769c19a0ff2282e477076fd126388751196d693",
-          "bytes": 7172
+          "sha256": "f08dd82f7aad4a0718f44045469ed7c9f48bb668a1fb458a95efec3856e399fc",
+          "bytes": 7450
         }
       }
     },
@@ -8350,18 +8350,18 @@
         ],
         "sound": {
           "path": "audio/sounds/sparrow.ogg",
-          "sha256": "a791fbaa370d1f2d0bf92d7d05cf5e210861db70cf37252987fcc073060b471d",
+          "sha256": "19063a6563e8e6fb8f143f6cda7fd30c1c7fba4f468df7f2f430e6c697d0830d",
           "bytes": 14001
         },
         "nameHe": {
           "path": "audio/names/he/sparrow.ogg",
-          "sha256": "3b99892854cf85c8c0e30a92cb96194e78bbabf45d2c05ad8d23a8e1595ace65",
+          "sha256": "47444a14d2fa4d1cb01b25c5514567bf3683d066922029ab4f51132bbece6a2d",
           "bytes": 5646
         },
         "nameEn": {
           "path": "audio/names/en/sparrow.ogg",
-          "sha256": "ed63938b00ca543614ba64e8aba74b84047fef39b424de1d7f9180414928aafe",
-          "bytes": 7867
+          "sha256": "d90994d908512ed55b5c7d1c36fcbf7f274bac4bdf122f0356a50f322506a484",
+          "bytes": 7995
         }
       }
     },
@@ -8451,18 +8451,18 @@
         ],
         "sound": {
           "path": "audio/sounds/frog.ogg",
-          "sha256": "ee3fee6c446cff611e9dc47d85dd25f0badab92928104152a8e7e1525ee2e5c4",
+          "sha256": "fd0ba43abb18448d3d3a45ca668e201c9042408f4a1a3845a1c651cfe1d30e4d",
           "bytes": 8034
         },
         "nameHe": {
           "path": "audio/names/he/frog.ogg",
-          "sha256": "37feafc354fdd4ba45da27e8cee120ea4e540dc15248eb25d48fdece8704061f",
+          "sha256": "8d706fe9656c23ffccf8e156848d2feec34b77cfcdb2496c2c87c6c99bc7ed72",
           "bytes": 6372
         },
         "nameEn": {
           "path": "audio/names/en/frog.ogg",
-          "sha256": "5fafd16aaab65b2784b3940819f35a98c90e7296a8aa0366041f6c637b197e8b",
-          "bytes": 6447
+          "sha256": "e30a863ddc64827cf9e8a4781e7ef6d7701c81c21761aef174334fdb04e169f7",
+          "bytes": 6348
         }
       }
     },
@@ -8492,8 +8492,8 @@
         "en": "Nectar and pollen from flowers"
       },
       "skills": {
-        "he": "מוצאת את הדרך חזרה לכוורת, ומספרת לאחרות איפה הפרחים בעזרת ריקוד",
-        "en": "Finds its way back to the hive, and tells the others where the flowers are by dancing"
+        "he": "עפה לשדה ובחזרה בלי ללכת לאיבוד, ומבקרת מאות פרחים ביום אחד",
+        "en": "Flies out to the field and back without getting lost, visiting hundreds of flowers in a day"
       },
       "habitat": {
         "he": "בכוורת, בשדות פרחים ובגנים",
@@ -8510,12 +8510,12 @@
       "facts": {
         "he": [
           "הדבורה מרקדת ריקוד מיוחד, וכך היא מספרת לחברות איפה נמצאים הפרחים",
-          "דבורה אחת מייצרת בכל חייה כפית דבש קטנה",
+          "דבורה אחת מייצרת בכל חייה רק טיפה קטנה של דבש",
           "כנפי הדבורה מכות מאתיים פעמים בשנייה, ומכאן הזמזום"
         ],
         "en": [
           "A bee dances a special dance to tell the others where the flowers are",
-          "One bee makes about a small spoonful of honey in its whole life",
+          "One bee makes only a small drop of honey in its whole life",
           "A bee's wings beat two hundred times a second — that is the buzz"
         ]
       },
@@ -8545,18 +8545,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bee.ogg",
-          "sha256": "ad33651a1f910fd847af678c06df964c0c3e1ccafff4c4a8f11cec5bb3b21805",
+          "sha256": "148d212defcb029c10ce5a05a9e7a9a61032910453e5b546edb72272dba35817",
           "bytes": 28788
         },
         "nameHe": {
           "path": "audio/names/he/bee.ogg",
-          "sha256": "30417765f149e7dfe3dfbc68777886418872300751e0ec5acc2167da2051bfcf",
+          "sha256": "d6164fca381bebbcba21b53f3d741e2143ead27ac202e9215b1c08ba32f05885",
           "bytes": 5633
         },
         "nameEn": {
           "path": "audio/names/en/bee.ogg",
-          "sha256": "23d8cfc35f89eef1d1d1e417d1e42c213471e4efa88171b13e9b037fde935faf",
-          "bytes": 5094
+          "sha256": "c58a44e91c064cb3115f84dc94e3d28f03795b72ad321362e8f02a50a32c15aa",
+          "bytes": 5409
         }
       }
     },
@@ -8586,8 +8586,8 @@
         "en": "Sips nectar from flowers through a long tube"
       },
       "skills": {
-        "he": "טועם עם הרגליים, ועף אלפי קילומטרים בנדידה",
-        "en": "Tastes with its feet, and migrates thousands of kilometres"
+        "he": "מוצץ צוף דרך חדק שמתגלגל כמו קפיץ, ועף אלפי קילומטרים בנדידה",
+        "en": "Sips nectar through a tongue that coils up like a spring, and migrates thousands of kilometres"
       },
       "habitat": {
         "he": "בגנים, בשדות פרחים וביערות",
@@ -8639,13 +8639,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/butterfly.ogg",
-          "sha256": "26bcf4974d1996eaeb6128e54e28c4e2a08349f7949b9d3d75430f5fe87e9b41",
+          "sha256": "30bc82c7f87b8683184d47b76949cddd1e76b8a30a1c03dbf88f77f4eb95044d",
           "bytes": 6353
         },
         "nameEn": {
           "path": "audio/names/en/butterfly.ogg",
-          "sha256": "90e82249f5525f459392eb3d22de722264d196d125f3affda8a841a641f37ce5",
-          "bytes": 8157
+          "sha256": "5b6e16d6debb05d51c74ecc4ad37f12e1dea26996b752011a65ac8c34e686ba8",
+          "bytes": 7900
         }
       }
     },
@@ -8675,8 +8675,8 @@
         "en": "Seeds, crumbs, sugar and small insects"
       },
       "skills": {
-        "he": "נושאת פי חמישים ממשקלה, ועובדת יחד עם אלפי נמלים כמו עיר אחת",
-        "en": "Carries fifty times its own weight, and works with thousands of others like one city"
+        "he": "עובדת יחד עם אלפי נמלים כמו עיר אחת, ומוצאת את הדרך חזרה לפי ריח",
+        "en": "Works with thousands of others like one city, and finds its way home by scent"
       },
       "habitat": {
         "he": "בקן מתחת לאדמה, בגינה ובשדה",
@@ -8731,13 +8731,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ant.ogg",
-          "sha256": "2ceeaf2ebb1b6ce0acd92536426fb2d7fd132765573d3a6302a45d8983362f0d",
+          "sha256": "737d5a65e0443e27ebb733d999ac436a2d4fceab05bb201dea90300c9b01fdba",
           "bytes": 4601
         },
         "nameEn": {
           "path": "audio/names/en/ant.ogg",
-          "sha256": "0f1b7d2c27ecdd81585827e1819cdd9f99a778f50a0d70496c313975d6c05002",
-          "bytes": 6151
+          "sha256": "b07603d4aa04972625dc80a463ecce93b2eaf0ac8fd0dd8c780ca1120781f21c",
+          "bytes": 5778
         }
       }
     },
@@ -8820,13 +8820,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/snail.ogg",
-          "sha256": "1c0b3a1392bebe2dbbe6a907efca055d97ff6fc37d0c7c158e01d36293b67850",
+          "sha256": "413226191fb800718e6231d3809ca4c17f1baa41ef4343bb15dba8f3de367bdd",
           "bytes": 8601
         },
         "nameEn": {
           "path": "audio/names/en/snail.ogg",
-          "sha256": "2b4938efadf03253efa3a2bbc59e22aaf94751a708affbe8234e4ddc9503ad47",
-          "bytes": 7611
+          "sha256": "072a332a441125131a1550acc887d7dda2b40a43651f43bdd390ce795f7710db",
+          "bytes": 7523
         }
       }
     },
@@ -8856,8 +8856,8 @@
         "en": "Aphids and tiny insects that harm plants"
       },
       "skills": {
-        "he": "אוכלת מאות כנימות, ולכן חקלאים משחררים אותה בשדות",
-        "en": "Eats hundreds of aphids, which is why farmers set it loose in their fields"
+        "he": "אוכלת אלפי כנימות במשך חייה, ולכן חקלאים משחררים אותה בשדות",
+        "en": "Eats thousands of aphids in its life, which is why farmers set it loose in their fields"
       },
       "habitat": {
         "he": "בגינות, בשדות ועל עלים ירוקים",
@@ -8909,13 +8909,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ladybug.ogg",
-          "sha256": "ed0e9977f743fa914fd0367ea8b66a037b88ecbde3ef8ea28eff7341ad2178e9",
+          "sha256": "f261f9e4a905af9b6084e1c7f9faeafe7135da8fc625239b98d3ccbfc6d46955",
           "bytes": 9189
         },
         "nameEn": {
           "path": "audio/names/en/ladybug.ogg",
-          "sha256": "98904441b50290b5c52b276227408a11a3997959515416d8a0dd0d7ab80d81b9",
-          "bytes": 8223
+          "sha256": "5f5dcdf158491bf75ea4368db659ec90103ee6ebe2c0960cc50c79f2cfa82f20",
+          "bytes": 8322
         }
       }
     },
@@ -8945,8 +8945,8 @@
         "en": "Flies, mosquitoes and insects"
       },
       "skills": {
-        "he": "טווה רשת חזקה במיוחד, ומרגיש דרכה כל רעידה",
-        "en": "Weaves an extraordinarily strong web, and feels every tremor through it"
+        "he": "טווה חוט דק מהשיער וחזק מאוד, ועוטף בו את מה שנתפס",
+        "en": "Spins a thread thinner than hair and very strong, and wraps whatever it catches"
       },
       "habitat": {
         "he": "בפינות, בגינה, בין ענפים ובבתים",
@@ -9004,13 +9004,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/spider.ogg",
-          "sha256": "8bed1fc1fc2ffd5771de4eb4a83e8e802c68fde6375cc72d701841109eb1634d",
+          "sha256": "214485f8f63a2e7996c23b83a1237eda41ba22f94cd01ceb5675fadcb41dcb80",
           "bytes": 7606
         },
         "nameEn": {
           "path": "audio/names/en/spider.ogg",
-          "sha256": "a4d85326d290512a7b009f92e2557f2b84c0ed243f065fb2cfedac5616631863",
-          "bytes": 7216
+          "sha256": "beeb4d750e1daeab82e8475bdeaacaed12629905d643a1b2343978183132ba62",
+          "bytes": 7504
         }
       }
     },
@@ -9040,8 +9040,8 @@
         "en": "Leaves, seeds and bits of plants"
       },
       "skills": {
-        "he": "משמיע קול חזק בשפשוף כנפיים, ושומע דרך הרגליים",
-        "en": "Makes a loud sound by rubbing its wings, and hears through its legs"
+        "he": "משפשף כנף בכנף וכך משמיע קול, ומזנק רחוק על הרגליים האחוריות",
+        "en": "Rubs one wing on the other to make its sound, and springs a long way on its back legs"
       },
       "habitat": {
         "he": "בשדות, בגינות ומתחת לאבנים",
@@ -9093,18 +9093,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cricket.ogg",
-          "sha256": "1bc17c4b5cf7f54b811845bbd4c717b370eed4a003071ab00d35a9bda2169123",
+          "sha256": "f47a12fdaa9c6668c84b2314112641c4b400c658cca16f50d0581180900a9836",
           "bytes": 28060
         },
         "nameHe": {
           "path": "audio/names/he/cricket.ogg",
-          "sha256": "97db06c44a96a274bcf298ae525a0dc868b986b65ec8de2a09a71a6d4e487172",
+          "sha256": "ae4b06f1d38876e106ca30ad3f8e3e7816425335d534fdd4d419939eb722bbc6",
           "bytes": 6976
         },
         "nameEn": {
           "path": "audio/names/en/cricket.ogg",
-          "sha256": "9f22118bda312a0c9d2b1092e0ed74ecba564daaf8de00d967d75c8e2c631530",
-          "bytes": 6781
+          "sha256": "4fbf577da53caca92e84c86789ddc7f95002d1f25bb81748f4176f4331334223",
+          "bytes": 6613
         }
       }
     },
@@ -9193,13 +9193,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/lizard.ogg",
-          "sha256": "3a8c560893bf74894ea4f7765b08385dd83c1d9f658b6f6da70dde2adffbd134",
+          "sha256": "d3eb4acce24c43f412818cff0eac7258e5a53e36a08e1d50c572635eda8b9297",
           "bytes": 4643
         },
         "nameEn": {
           "path": "audio/names/en/lizard.ogg",
-          "sha256": "077b6e50ac527440c4d656b8c3f5563c9f62cafce0808f75a8704c282b180db5",
-          "bytes": 7052
+          "sha256": "69787628002302237f1f4f63d289f87a64e47462141d955c3b48569addfb8207",
+          "bytes": 6966
         }
       }
     },
@@ -9287,18 +9287,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bat.ogg",
-          "sha256": "8931c745ac4a5f4f97a7bd26b6fa1e524ded9c2a8622640567528e3301ef6bb3",
+          "sha256": "3d9b65fd246b1537484b0ad7bcc2f56935aec73f128db75ec912225e4372eaca",
           "bytes": 29975
         },
         "nameHe": {
           "path": "audio/names/he/bat.ogg",
-          "sha256": "8d3077d086031bfe5d5da3fa0d040817761392cf856416f886b15fc216a21c68",
+          "sha256": "a6a315b73ea9dae5b6b80f2bbc081161bf6ef4322027879d59ee3d487dadaa3d",
           "bytes": 5250
         },
         "nameEn": {
           "path": "audio/names/en/bat.ogg",
-          "sha256": "b6710f3a707f80b9011254cfc3e2bdce9f2b34d5eb3ca40bbd7891880252bbb3",
-          "bytes": 5791
+          "sha256": "ddb841900892034ab547a71eac3cc0e97c14e730b8db6600590732c01c2818a3",
+          "bytes": 5980
         }
       }
     },
@@ -9386,13 +9386,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/scorpion.ogg",
-          "sha256": "43a9d154a16c7ecc5a1ee6b640e898fdacc9f73b6f3db75fb31b0f5fa796e6f1",
+          "sha256": "ad3a7ecba922cbcea41591d229ee83e791a46edd3c360c07a610b667d9d68b7d",
           "bytes": 4943
         },
         "nameEn": {
           "path": "audio/names/en/scorpion.ogg",
-          "sha256": "24fc8ead4eca8b7cebeb57c5650db9bc9eab7daf8ba64d0aea4f15e212fb5b0b",
-          "bytes": 8262
+          "sha256": "530d71625acba8be66a8c67a577fbc3e19abe63e8c8bb2f5a3978461158aa39b",
+          "bytes": 8324
         }
       }
     },
@@ -9422,8 +9422,8 @@
         "en": "Leaves, and more leaves"
       },
       "skills": {
-        "he": "גדל פי אלף ומחליף עור כמה פעמים, עד שהוא הופך לפרפר",
-        "en": "Grows a thousandfold and sheds its skin several times, until it becomes a butterfly"
+        "he": "נאחז בעלה ברגליים דמויות כריות, ואוכל יום ולילה בלי לעצור",
+        "en": "Grips the leaf with its cushion-like feet, and eats day and night without stopping"
       },
       "habitat": {
         "he": "על עלים ירוקים בגינה ובשדה",
@@ -9471,13 +9471,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/caterpillar.ogg",
-          "sha256": "75b4d354c4bfea2617ca5bd294d62479abb2945f512b23439d62322409bf1edb",
+          "sha256": "188a95cfbc21a1f474472e864b4cf9e01310c954a12ec1cc86c07d14df4cf3f4",
           "bytes": 5578
         },
         "nameEn": {
           "path": "audio/names/en/caterpillar.ogg",
-          "sha256": "b1be6acf084a5a892664090c5c4a190a87ea94d0e939d0ee0f5ae17120c3ee2a",
-          "bytes": 8367
+          "sha256": "ca23b62f483cffdf819fa48306c1f694948733d0918e2e5cc943a048b21c7ce8",
+          "bytes": 8775
         }
       }
     }
