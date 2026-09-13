@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 7,
-  "generatedAt": "2026-09-13T13:14:56+00:00",
+  "contentVersion": 9,
+  "generatedAt": "2026-09-13T17:00:06+00:00",
   "baseUrl": "https://cdn.jsdelivr.net/gh/il90il90/Zoopli-Assets@main/",
   "categories": [
     {
@@ -1843,9 +1843,17 @@
         "en": "puppy"
       },
       "size": {
-        "he": "בערך בגובה הברכיים שלכם",
-        "en": "About as tall as your knees"
+        "he": "10–30 ק״ג ובגובה הברכיים, אבל תלוי בגזע: מצ'יוואווה של 2 ק״ג ועד דני ענק של 70",
+        "en": "10–30 kg and knee-high, but it depends on the breed: from a 2 kg chihuahua to a 70 kg great dane"
       },
+      "speed": {
+        "he": "עד 30 קמ״ש, וכלב מירוץ מגיע ל-70",
+        "en": "Up to 30 km/h; a racing greyhound reaches 70"
+      },
+      "eatsIds": [
+        "mouse",
+        "rabbit"
+      ],
       "facts": {
         "he": [
           "לכל כלב יש טביעת אף ייחודית, כמו טביעת אצבע שלנו",
@@ -1886,18 +1894,18 @@
         ],
         "sound": {
           "path": "audio/sounds/dog.ogg",
-          "sha256": "72fb9a6d603c914bfd01a73f266357437834f1f3c9fde3af88ea69c085ac2153",
+          "sha256": "e5f97f9eeb8dd44aa6ac412b6d2e1f7aa4b9c2932fe981828894cf10a7052af5",
           "bytes": 17513
         },
         "nameHe": {
           "path": "audio/names/he/dog.ogg",
-          "sha256": "1d641706e5117d65634ba34b6742826fe1b9d8245b21e77f3ba5898d7a1c63b7",
+          "sha256": "fe1f05f0274eeded82786ef45dfac0ac45412d04900a865c8737e4ba5deba4c3",
           "bytes": 5722
         },
         "nameEn": {
           "path": "audio/names/en/dog.ogg",
-          "sha256": "780019b28c3450d0f0021b1b118251d046a66ca9e7a687b3cf8bc129c9cad632",
-          "bytes": 6200
+          "sha256": "145e48a9628652fb76f76895e13ba46aade06680109a0f655a77fafe3872b1a8",
+          "bytes": 6165
         }
       }
     },
@@ -1939,14 +1947,19 @@
         "en": "kitten"
       },
       "size": {
-        "he": "קטן — נכנס לתוך ארגז נעליים",
-        "en": "Small — fits inside a shoebox"
+        "he": "4–5 ק״ג, וחצי מטר אורך בלי הזנב",
+        "en": "4–5 kg, and half a metre long without the tail"
+      },
+      "speed": {
+        "he": "עד 48 קמ״ש בריצה קצרה",
+        "en": "Up to 48 km/h in a short dash"
       },
       "eatsIds": [
         "mouse",
         "sparrow",
         "lizard",
-        "butterfly"
+        "butterfly",
+        "dove"
       ],
       "facts": {
         "he": [
@@ -1988,18 +2001,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cat.ogg",
-          "sha256": "b3dcf28d6c8071b4fd230d8adc3273a4c034d5260f96bd61d66a2debe77b9d1f",
+          "sha256": "bae1f7b82f2fcdba3020b22e43f4852e16e270bb6979ebb6effb20eba33d2085",
           "bytes": 15987
         },
         "nameHe": {
           "path": "audio/names/he/cat.ogg",
-          "sha256": "13e842525f2ada43fc619c75452ad9a59ff7ed2ba7cb68719c530a0864aea89b",
+          "sha256": "6f5920fcb30f955fe58e5d97ddd4f0de65bd27bba49ff7e4812184fc2650612a",
           "bytes": 6136
         },
         "nameEn": {
           "path": "audio/names/en/cat.ogg",
-          "sha256": "2aaf8cf38a691bbf3535c70135e66e6bbb6908a3ef695a5cef4d44bf7a4168e1",
-          "bytes": 6188
+          "sha256": "0727f8cd6505d71673cbb478df6e4fccc9e0b238846512169b6ccabab1df5d7e",
+          "bytes": 6037
         }
       }
     },
@@ -2041,8 +2054,12 @@
         "en": "calf"
       },
       "size": {
-        "he": "כבדה כמו מכונית קטנה",
-        "en": "As heavy as a small car"
+        "he": "600–750 ק״ג, ומטר וחצי גובה עד הכתף",
+        "en": "600–750 kg, and a metre and a half to the shoulder"
+      },
+      "speed": {
+        "he": "עד 40 קמ״ש — מהר יותר משנדמה",
+        "en": "Up to 40 km/h — faster than you would think"
       },
       "facts": {
         "he": [
@@ -2084,18 +2101,18 @@
         ],
         "sound": {
           "path": "audio/sounds/cow.ogg",
-          "sha256": "1f31929aaad8e6cef2c2bf924c898fb068020d797b85c5b5acb723b4e7bf6647",
+          "sha256": "5ca482e3c318e6fedefc84626c57299b1f26a69c57fb31f501150bbc040a3dec",
           "bytes": 20201
         },
         "nameHe": {
           "path": "audio/names/he/cow.ogg",
-          "sha256": "5cfbc3c54679ea0f5f5b20af2473ae5b3c0f04d416927bbea5aa521484a4c1fe",
+          "sha256": "d02ea53e59f208d56b328f82675686dee018b2bc4146569d8a8a9151ebcec0de",
           "bytes": 4989
         },
         "nameEn": {
           "path": "audio/names/en/cow.ogg",
-          "sha256": "c1f2fe08c691a39129f486ea808d3b48bef64ae5bdc4785bb104bddc5cce04b4",
-          "bytes": 6331
+          "sha256": "ef67c9d699a355f490a291326103bced47ff2c2c519c24303dd72edfb7717835",
+          "bytes": 6361
         }
       }
     },
@@ -2137,8 +2154,12 @@
         "en": "lamb"
       },
       "size": {
-        "he": "בערך בגודל של כלב גדול",
-        "en": "About the size of a big dog"
+        "he": "45–100 ק״ג, ומטר וחצי אורך",
+        "en": "45–100 kg, and a metre and a half long"
+      },
+      "speed": {
+        "he": "עד 40 קמ״ש",
+        "en": "Up to 40 km/h"
       },
       "facts": {
         "he": [
@@ -2180,18 +2201,18 @@
         ],
         "sound": {
           "path": "audio/sounds/sheep.ogg",
-          "sha256": "84b7cbbc70f4e836f405355aa4e57acbee0ade5fd4d978f0f41f5531a9a7c1f4",
+          "sha256": "25ac0efb9f0695f18f18ea0d2046f828fe0ee5d3efb0e4d8a7915f5925eb43bc",
           "bytes": 28433
         },
         "nameHe": {
           "path": "audio/names/he/sheep.ogg",
-          "sha256": "34da6589bf1539b583fe75124c6e1b946e5884e4b763fc920787fd3cd1b035d0",
+          "sha256": "61333db5d75de5df31cba1315b7aad7a23a6a8545b2931b985aa4fec15c6855b",
           "bytes": 5431
         },
         "nameEn": {
           "path": "audio/names/en/sheep.ogg",
-          "sha256": "d50699b59c20126d14d2555f332ba06a452c7d548b5d276ebd374b095568f42a",
-          "bytes": 6243
+          "sha256": "152560cd519b2e8b6ec14ab07107a3d6a9699897b74d519ee77d084772fd142a",
+          "bytes": 5777
         }
       }
     },
@@ -2233,8 +2254,12 @@
         "en": "foal"
       },
       "size": {
-        "he": "גבוה יותר מאבא",
-        "en": "Taller than a grown-up"
+        "he": "450–550 ק״ג, וגובה 1.5–1.7 מטר עד הכתף",
+        "en": "450–550 kg, and 1.5–1.7 m to the shoulder"
+      },
+      "speed": {
+        "he": "עד 55 קמ״ש בדהרה, וסוס מירוץ מגיע ל-70",
+        "en": "Up to 55 km/h at a gallop; a racehorse reaches 70"
       },
       "facts": {
         "he": [
@@ -2276,18 +2301,18 @@
         ],
         "sound": {
           "path": "audio/sounds/horse.ogg",
-          "sha256": "1ed512e08ba5ca596547076364fa8a915b5be390811cc4b747b229022de6ae1d",
+          "sha256": "22bab31bba2b0cbafd6113fe696b2ee6f6c4853e5eead92990c32a2d70eedd62",
           "bytes": 10897
         },
         "nameHe": {
           "path": "audio/names/he/horse.ogg",
-          "sha256": "642bc34f045137ae3b42b1b7c60d2465b51b33788e2ee6217f0934d2bff188ed",
+          "sha256": "d9d30baa773ea585c382d7059c995401aea8036e132e5d7d662cb3ef1421a635",
           "bytes": 5667
         },
         "nameEn": {
           "path": "audio/names/en/horse.ogg",
-          "sha256": "132991c836e8ec6b3965dae44dd0a2796c8ab7e192971f1714af4d328f6e04a2",
-          "bytes": 6376
+          "sha256": "849eeb4acad5ca222e2f16f4432a79f8cab595654622ce58bb4e01ea4ec3c553",
+          "bytes": 6319
         }
       }
     },
@@ -2329,8 +2354,12 @@
         "en": "duckling"
       },
       "size": {
-        "he": "בערך בגודל של כדורגל",
-        "en": "About the size of a football"
+        "he": "1–1.5 ק״ג, ובאורך חצי מטר",
+        "en": "1–1.5 kg, and half a metre long"
+      },
+      "speed": {
+        "he": "עד 90 קמ״ש בתעופה",
+        "en": "Up to 90 km/h in flight"
       },
       "eatsIds": [
         "snail",
@@ -2376,18 +2405,18 @@
         ],
         "sound": {
           "path": "audio/sounds/duck.ogg",
-          "sha256": "e76676b30b312adaecb32a8958733314732b611328dc1b19e1c98c807aaf88cd",
+          "sha256": "e7bb7fe82ed44ea9fb2ac1cb703028c674c99a593e887162df98268b6b398a1f",
           "bytes": 21510
         },
         "nameHe": {
           "path": "audio/names/he/duck.ogg",
-          "sha256": "1a10087d122419b8d0b58fc6b19dee971c87c7906504f5f1388a05c43e628b29",
+          "sha256": "262dd53029eb67a6d3b58f511c4aa6aeb0a30393ea9616010fb8492061960243",
           "bytes": 6227
         },
         "nameEn": {
           "path": "audio/names/en/duck.ogg",
-          "sha256": "2304627171c00564f3a8463708a5db1ca282384998bc1348c46c14e1db6a3007",
-          "bytes": 5757
+          "sha256": "b918ff42c5a2958ab4c73c552870485284628208fa3750d5b5def0066667dcf0",
+          "bytes": 5735
         }
       }
     },
@@ -2429,8 +2458,12 @@
         "en": "chick"
       },
       "size": {
-        "he": "מגיע עד הברכיים שלכם",
-        "en": "Comes up to your knees"
+        "he": "2.5–3.5 ק״ג, ובגובה 45 ס״מ",
+        "en": "2.5–3.5 kg, and 45 cm tall"
+      },
+      "speed": {
+        "he": "עד 14 קמ״ש, ועף רק כמה מטרים",
+        "en": "Up to 14 km/h, and it flies only a few metres"
       },
       "eatsIds": [
         "ant",
@@ -2472,24 +2505,24 @@
           },
           {
             "path": "images/photos/rooster-3.webp",
-            "sha256": "2bcd21e07d714b5f7ea1a395b5340d9fee3513e8d1ef30fabd1e3bd5f31a9830",
-            "bytes": 82878
+            "sha256": "12cd461dc7bff97a92e7a6e0c05fc1ba83d3a3e4025d094953fa80f5a0d6c6f0",
+            "bytes": 131388
           }
         ],
         "sound": {
           "path": "audio/sounds/rooster.ogg",
-          "sha256": "626e485c2f5fbc24f4a4710fbf6959bd4b01ceddda8b5b2d1f06abc99494e0ae",
+          "sha256": "45871e7ca4667681bc1a4f36217d642275b1f8f7d08eb4ef4d4d347725daba04",
           "bytes": 28588
         },
         "nameHe": {
           "path": "audio/names/he/rooster.ogg",
-          "sha256": "a5eb0562638514e86dd2af12dfbf46b15781665de74f51f12de87b59c05d1f1d",
+          "sha256": "621749633eac70ea8489ff7146b3d022db2cca1e150deee01f40c3fbc30de3c5",
           "bytes": 6368
         },
         "nameEn": {
           "path": "audio/names/en/rooster.ogg",
-          "sha256": "b6f373e28c41e59e907feb906d0093ab75de7730de75881330dc8d3ffee78ce6",
-          "bytes": 7111
+          "sha256": "7f97a4ab8caddc41d2b3714723fc89f4dc15963826cafc35649aee424569111e",
+          "bytes": 7341
         }
       }
     },
@@ -2531,8 +2564,12 @@
         "en": "piglet"
       },
       "size": {
-        "he": "כבד כמו שלושה ילדים",
-        "en": "As heavy as three children"
+        "he": "100–150 ק״ג, ובאורך מטר וחצי",
+        "en": "100–150 kg, and a metre and a half long"
+      },
+      "speed": {
+        "he": "עד 17 קמ״ש",
+        "en": "Up to 17 km/h"
       },
       "facts": {
         "he": [
@@ -2566,24 +2603,24 @@
           },
           {
             "path": "images/photos/pig-3.webp",
-            "sha256": "12264bd2a88e9a172ecabe84957bb07d9e97a240c4ff7f8ee847a8ffddd1ddb9",
-            "bytes": 180238
+            "sha256": "025fe3420860bd0980df333e0836f747e66362fd7aff49a9af4a0fc5b472775d",
+            "bytes": 199418
           }
         ],
         "sound": {
           "path": "audio/sounds/pig.ogg",
-          "sha256": "0f905ca2831186aa732c605692d42876749a6f9a2b9ed561f39362cbe99243ba",
+          "sha256": "f4f264a27f79ea1b91d5bc1c50126f0e9fbac282f9769ec86ae35ae88622795d",
           "bytes": 30025
         },
         "nameHe": {
           "path": "audio/names/he/pig.ogg",
-          "sha256": "b1ee901fe4919711cfbd46b5a41a7c86fdc8f1cf15797c734db1465dcf969b13",
+          "sha256": "90e47797b0b83d83699bfd1aa8f2e7f9b27fc769306ed4d9a165b59b0668f88b",
           "bytes": 7868
         },
         "nameEn": {
           "path": "audio/names/en/pig.ogg",
-          "sha256": "087568a9fae084df7b6bb0843cd7b098cc1f235983f32532f40d7a66991599cd",
-          "bytes": 5101
+          "sha256": "a8666c2466b6f118cfd22490f161f5b1492710c4127247bc30a13c514da90951",
+          "bytes": 5595
         }
       }
     },
@@ -2625,8 +2662,12 @@
         "en": "kid"
       },
       "size": {
-        "he": "בערך בגובה של ילד בן שלוש",
-        "en": "About as tall as a three-year-old"
+        "he": "45–70 ק״ג, ובגובה 70 ס״מ עד הכתף",
+        "en": "45–70 kg, and 70 cm to the shoulder"
+      },
+      "speed": {
+        "he": "עד 26 קמ״ש, ומטפסת מהר יותר משהיא רצה",
+        "en": "Up to 26 km/h — and it climbs faster than it runs"
       },
       "facts": {
         "he": [
@@ -2666,18 +2707,18 @@
         ],
         "sound": {
           "path": "audio/sounds/goat.ogg",
-          "sha256": "eb0d92523d26d25e935329059eaef2f66eb946efe680b97166686cd91a0266cd",
+          "sha256": "8c48bc3feac0c4c80d0b0c89cf3cf2bad30576e7e859392cbdef5769058bfec8",
           "bytes": 10841
         },
         "nameHe": {
           "path": "audio/names/he/goat.ogg",
-          "sha256": "7cbde867f1457fb0e99b2eef479abc16759b1a02511232a0aa6c5f53d584fd9e",
+          "sha256": "06b8c60c20cb6c003233c4971480a1e9d9ab01576efebd2eab38b9c0c451ddc7",
           "bytes": 4254
         },
         "nameEn": {
           "path": "audio/names/en/goat.ogg",
-          "sha256": "843dd6bfa77f83dc63b4fb28ed59c9543ebb39f0f19806d8a0c6ac9b8949ad7d",
-          "bytes": 5958
+          "sha256": "e1ed111aae67f3d06e8944b4f03781063efb63f82991c4d6acbd8f38dd6bcde3",
+          "bytes": 5897
         }
       }
     },
@@ -2719,8 +2760,12 @@
         "en": "kit"
       },
       "size": {
-        "he": "נכנס בין שתי כפות ידיים",
-        "en": "Fits between two hands"
+        "he": "1.5–2.5 ק״ג, ובאורך 40 ס״מ",
+        "en": "1.5–2.5 kg, and 40 cm long"
+      },
+      "speed": {
+        "he": "עד 45 קמ״ש, בזיגזג כדי לא להיתפס",
+        "en": "Up to 45 km/h, zigzagging so it is not caught"
       },
       "facts": {
         "he": [
@@ -2744,34 +2789,34 @@
         "photos": [
           {
             "path": "images/photos/rabbit-1.webp",
-            "sha256": "7117a92244ccabda77683f1ea0af000ab96ad78be1945572743748678ea5ee6e",
-            "bytes": 81492
-          },
-          {
-            "path": "images/photos/rabbit-2.webp",
             "sha256": "3d7c6af01cbab47ba3e25ac78eefe8e8d850a347572b892214b24aee94a38411",
             "bytes": 232896
           },
           {
-            "path": "images/photos/rabbit-3.webp",
+            "path": "images/photos/rabbit-2.webp",
             "sha256": "0e5e0bdc247dad8cf3c231c6b35bdf0ba2b6952a0f05fe3fa05f501a835215a0",
             "bytes": 99596
+          },
+          {
+            "path": "images/photos/rabbit-3.webp",
+            "sha256": "1cc4cb1930a9894b99805e9ea20963bbe002b9b7119d28a1b7503843a74990d0",
+            "bytes": 139280
           }
         ],
         "sound": {
           "path": "audio/sounds/rabbit.ogg",
-          "sha256": "d455dcd9c2fee581f9aaec7b3e846799cec4500fed8dc3fd45428a416ab28b82",
+          "sha256": "e5bdfe1b89b1e074a767da92abdd27cc2ec1a1d6b0d917549b3144259366f35c",
           "bytes": 32469
         },
         "nameHe": {
           "path": "audio/names/he/rabbit.ogg",
-          "sha256": "b91b65827db3147611cabf811f9594f58fcaba18d6cee4d04369ac71ff85e940",
+          "sha256": "a025f9383e59e9a25d0eaf95c2809ecfadca0d04919255f1c484895867191e55",
           "bytes": 5893
         },
         "nameEn": {
           "path": "audio/names/en/rabbit.ogg",
-          "sha256": "d029f3d249b7acdf4c0670e8747d0eecf35ded328177043c490d67838b3d49f8",
-          "bytes": 6707
+          "sha256": "f3a0f903e861343eaab3222677009ad67840ade03338312db07446cdca5a4e6d",
+          "bytes": 6205
         }
       }
     },
@@ -2813,8 +2858,12 @@
         "en": "foal"
       },
       "size": {
-        "he": "קצת נמוך מסוס",
-        "en": "A little shorter than a horse"
+        "he": "180–250 ק״ג, ובגובה 1.2 מטר — נמוך מסוס",
+        "en": "180–250 kg, and 1.2 m tall — shorter than a horse"
+      },
+      "speed": {
+        "he": "עד 40 קמ״ש",
+        "en": "Up to 40 km/h"
       },
       "facts": {
         "he": [
@@ -2854,18 +2903,18 @@
         ],
         "sound": {
           "path": "audio/sounds/donkey.ogg",
-          "sha256": "5b6f38e2f96c2ab99f95c58e2422d353eb1ee41394cf24301a96351dd0e21480",
+          "sha256": "5aeac3d4b662050d85ace75c5eca754977a5cf1d22463664a49e611efb1ed90f",
           "bytes": 31181
         },
         "nameHe": {
           "path": "audio/names/he/donkey.ogg",
-          "sha256": "9f6be2342d5793afd7d47ba9b3159367d2b7bcf6f9850cbe4356237f1809c06d",
+          "sha256": "bf910d6f2c2c9fc363ca98d0c5a615a14e87db4692446d8ad874bb0d169f313a",
           "bytes": 6584
         },
         "nameEn": {
           "path": "audio/names/en/donkey.ogg",
-          "sha256": "8385a1e3f892723ed12249548d12ab8a59b4fb2923ffbebffcd5739ccd08756a",
-          "bytes": 6864
+          "sha256": "ecdb19e5a091c8be692c29129824b59cf78a67466e8c23be263f3e438bf59009",
+          "bytes": 6588
         }
       }
     },
@@ -2907,8 +2956,12 @@
         "en": "poult"
       },
       "size": {
-        "he": "מגיע עד הברכיים, ורחב מאוד",
-        "en": "Knee-high, and very wide"
+        "he": "5–11 ק״ג בטבע, ובגובה 75 ס״מ",
+        "en": "5–11 kg in the wild, and 75 cm tall"
+      },
+      "speed": {
+        "he": "40 קמ״ש בריצה, ועד 88 קמ״ש בתעופה קצרה",
+        "en": "40 km/h running, and up to 88 km/h in a short flight"
       },
       "eatsIds": [
         "ant",
@@ -2942,29 +2995,29 @@
           },
           {
             "path": "images/photos/turkey-2.webp",
-            "sha256": "eb1421a8838d7a7eb429030c13d7d52f8acff997b87f147a8a2fd84be0776c51",
-            "bytes": 134664
+            "sha256": "07a4c88c2b591561b3ea9ea7113bf339d0b05e653f4b47b7f4b2c617cccd81ab",
+            "bytes": 254842
           },
           {
             "path": "images/photos/turkey-3.webp",
-            "sha256": "07a4c88c2b591561b3ea9ea7113bf339d0b05e653f4b47b7f4b2c617cccd81ab",
-            "bytes": 254842
+            "sha256": "adfc12704e95f5af47d3e93afe1bd2d540d83e896bc11737d1ddd6d8250a9c96",
+            "bytes": 55564
           }
         ],
         "sound": {
           "path": "audio/sounds/turkey.ogg",
-          "sha256": "bc25ef4773e40bd4f36703ad33f57aefbcde4214c8eadce6267034757a1801f9",
+          "sha256": "a3eac2a62d9216f3e563727bc9fcd9c5840d25db48c41563f4382e6204f95696",
           "bytes": 10940
         },
         "nameHe": {
           "path": "audio/names/he/turkey.ogg",
-          "sha256": "5cb3a761940eb6268d974be4c819cce3b8f8163365b6c01bfdeef5932af23a3d",
+          "sha256": "95b660487536facfe9a70201a937eaa929fed4e3b56ba33e33336e86f034453c",
           "bytes": 8347
         },
         "nameEn": {
           "path": "audio/names/en/turkey.ogg",
-          "sha256": "ea18eafc0bc7894b6f4f54c954c562b1f7637bc9eff0383194b76a0063fcbffb",
-          "bytes": 6602
+          "sha256": "ec0043219d4b591d8ed81ff8d00d9fab4e6627561dd65404c3a90faeb4b768d3",
+          "bytes": 6896
         }
       }
     },
@@ -3006,8 +3059,12 @@
         "en": "gosling"
       },
       "size": {
-        "he": "בערך בגודל של תרמיל גב",
-        "en": "About the size of a backpack"
+        "he": "3–6 ק״ג, ומוטת כנפיים של 1.5 מטר",
+        "en": "3–6 kg, with a wingspan of 1.5 m"
+      },
+      "speed": {
+        "he": "עד 90 קמ״ש בנדידה",
+        "en": "Up to 90 km/h on migration"
       },
       "eatsIds": [
         "snail"
@@ -3050,18 +3107,18 @@
         ],
         "sound": {
           "path": "audio/sounds/goose.ogg",
-          "sha256": "fa629808c17a914e8322b171b21b301d22c9a876d3d0f9d1192ee82156d54f9b",
+          "sha256": "089840c5fbf47d1732387aa34f5f45e9f22e3b0f4d376702bad83c6813bcabb1",
           "bytes": 6173
         },
         "nameHe": {
           "path": "audio/names/he/goose.ogg",
-          "sha256": "e0e8a0c5207dca687e8e53784cea6c8b5654d588aba65178cfe30f63fef38e70",
+          "sha256": "100f79e0923591d0f62ffe7f3945342485c8f6dff9eee3c9b60f2e117607b2cc",
           "bytes": 4807
         },
         "nameEn": {
           "path": "audio/names/en/goose.ogg",
-          "sha256": "8959cd65ddea347952acc1212f355cbd3dca670e7e38e5b3399d967b9e1fbd15",
-          "bytes": 6365
+          "sha256": "99ebebf7a45c86b042c0c3f932e9f8fc8b0d0022ab2da271bba79bb299e4c23e",
+          "bytes": 6630
         }
       }
     },
@@ -3103,8 +3160,12 @@
         "en": "pup"
       },
       "size": {
-        "he": "קטן כמו כף יד של ילד",
-        "en": "As small as a child's palm"
+        "he": "20–30 גרם, ובאורך 8 ס״מ בלי הזנב",
+        "en": "20–30 g, and 8 cm long without the tail"
+      },
+      "speed": {
+        "he": "עד 13 קמ״ש — מהיר מאוד לגודלו",
+        "en": "Up to 13 km/h — very fast for its size"
       },
       "facts": {
         "he": [
@@ -3128,34 +3189,34 @@
         "photos": [
           {
             "path": "images/photos/mouse-1.webp",
-            "sha256": "41a04dd82a2cb627e9247c4d3b184ef01994211e822e81be8dd15b06649c2767",
-            "bytes": 43136
-          },
-          {
-            "path": "images/photos/mouse-2.webp",
             "sha256": "8da9963b2d8bb274eef4fd0e61912d636cb68334cee6e5725fba6bb6d5748df7",
             "bytes": 69274
           },
           {
-            "path": "images/photos/mouse-3.webp",
+            "path": "images/photos/mouse-2.webp",
             "sha256": "cfc0dc5e13a41c644cd82db282d7c35024a42a0011d25232db4e132f65afa9de",
             "bytes": 92874
+          },
+          {
+            "path": "images/photos/mouse-3.webp",
+            "sha256": "d6a0f2af0fd88ff699236e25fa515790c28dbb95f1019e52db1e197cca2aebe0",
+            "bytes": 167290
           }
         ],
         "sound": {
           "path": "audio/sounds/mouse.ogg",
-          "sha256": "c7c519fccdfb556bb4b6c6ae4c69156bd32a9e43812f754ff80e7c4c5fe39886",
+          "sha256": "78cfbd06ecb00e1dc7b16f488dace41cae1bcce5c325f1b3a4c76c1a415f8a50",
           "bytes": 4594
         },
         "nameHe": {
           "path": "audio/names/he/mouse.ogg",
-          "sha256": "83107c0137f19d183f47deb8bb436647074026e51679988c4b3bce8fb1f70d0e",
+          "sha256": "a27a5299da54724fb1bcfa9e9075244d4541e5ccfce0c56667b33b7c3ef2071c",
           "bytes": 5706
         },
         "nameEn": {
           "path": "audio/names/en/mouse.ogg",
-          "sha256": "429e57a605887699e08a597c614573fd886d83608717960c7fc304ef91c6a6d4",
-          "bytes": 6935
+          "sha256": "83ef43df15ea8aebf037ce5054e90a198da702db90f730181ce17cc79bea1202",
+          "bytes": 6506
         }
       }
     },
@@ -3197,8 +3258,12 @@
         "en": "pup"
       },
       "size": {
-        "he": "נכנס לכף יד אחת",
-        "en": "Fits in one hand"
+        "he": "100–150 גרם, ובאורך 15 ס״מ",
+        "en": "100–150 g, and 15 cm long"
+      },
+      "speed": {
+        "he": "עד 6 קמ״ש, ורץ כמה קילומטרים בגלגל כל לילה",
+        "en": "Up to 6 km/h, and it runs kilometres in its wheel every night"
       },
       "facts": {
         "he": [
@@ -3222,34 +3287,34 @@
         "photos": [
           {
             "path": "images/photos/hamster-1.webp",
-            "sha256": "037b28350b736fba01214b693c029e6d530b4ac9d45c4eb1fca5083b74216d7c",
-            "bytes": 98018
-          },
-          {
-            "path": "images/photos/hamster-2.webp",
             "sha256": "b0c9414d8f565faa40380aba9a4adaec5e76358854219389dd65102d46b3b082",
             "bytes": 91084
           },
           {
-            "path": "images/photos/hamster-3.webp",
+            "path": "images/photos/hamster-2.webp",
             "sha256": "3c7894a6cee7635d2cc72114172bcd234b77ee859778351fb14fe8214bbcf009",
             "bytes": 22358
+          },
+          {
+            "path": "images/photos/hamster-3.webp",
+            "sha256": "a27ca277a2a83c25be1b8f060b7915acd6afdc9983ab579cc5cf6a1a98361d13",
+            "bytes": 8858
           }
         ],
         "sound": {
           "path": "audio/sounds/hamster.ogg",
-          "sha256": "f5304f798f0b459a55a6793df717b4ff06d5a7e5c81a72d0f2215e3ab8db2350",
+          "sha256": "3e813481a6c83ffb92bec5a0edee24d424b16d6c93dceb3fb465757d8ef825c2",
           "bytes": 23125
         },
         "nameHe": {
           "path": "audio/names/he/hamster.ogg",
-          "sha256": "13ab2b6d1097299f11fcb7244e0a113271c082354954e7eaf0d8e982d4e22b9e",
+          "sha256": "7bd4e98d2f0fcdfddeeaed686f74d16b24b77e82eb150fddefc3018575f80bad",
           "bytes": 5584
         },
         "nameEn": {
           "path": "audio/names/en/hamster.ogg",
-          "sha256": "cc4224c72dabaa9cb48177f4fabe33571c53f4b48f7813f2fb3a0222c38e4981",
-          "bytes": 7366
+          "sha256": "b59bafff823b71d2e46f5950f777b919a0524864567cfb20e20047a8df97ab02",
+          "bytes": 7586
         }
       }
     },
@@ -3291,8 +3356,12 @@
         "en": "cub"
       },
       "size": {
-        "he": "ארוך כמו ספה",
-        "en": "As long as a sofa"
+        "he": "190 ק״ג הזכר ו-130 הלביאה, ובאורך 2.5 מטר",
+        "en": "190 kg for the male and 130 for the lioness, and 2.5 m long"
+      },
+      "speed": {
+        "he": "עד 80 קמ״ש, אבל רק למאה מטר",
+        "en": "Up to 80 km/h, but only for a hundred metres"
       },
       "eatsIds": [
         "zebra",
@@ -3340,18 +3409,18 @@
         ],
         "sound": {
           "path": "audio/sounds/lion.ogg",
-          "sha256": "a961d20a5a652de467fb055f3cf5c722914279cd18186ca2b0508ce50a97f92a",
+          "sha256": "85be1f078e2259befeb296ba48ba80475c1626f5d04cd870fb3b0dd5f35f2e9b",
           "bytes": 28203
         },
         "nameHe": {
           "path": "audio/names/he/lion.ogg",
-          "sha256": "e8c719a9575ee562a2e97e6febf0e3363b5169f91cb6a216d7e12926d0a1f64d",
+          "sha256": "cba52d320fb426cc469b516efaca19ef535d258c7d82540f1cfe90fdb9a4f6b9",
           "bytes": 5864
         },
         "nameEn": {
           "path": "audio/names/en/lion.ogg",
-          "sha256": "31ce8630951499d2a2aef88732b2f70d7c52c58b01ae2526de52fc10708dc4b4",
-          "bytes": 6208
+          "sha256": "04b3174a471e6fb8b9f661a95d56a6309e531362f209cc90bb8303a02a8aa56e",
+          "bytes": 6286
         }
       }
     },
@@ -3393,8 +3462,12 @@
         "en": "calf"
       },
       "size": {
-        "he": "גבוה משתי דלתות, וכבד כמו ארבע מכוניות",
-        "en": "Taller than two doors, heavier than four cars"
+        "he": "4–6 טון ו-3.5 מטר גובה — החיה הגדולה ביבשה",
+        "en": "4–6 tonnes and 3.5 m tall — the largest animal on land"
+      },
+      "speed": {
+        "he": "עד 40 קמ״ש, והוא אף פעם לא באמת קופץ",
+        "en": "Up to 40 km/h — and it never truly jumps"
       },
       "facts": {
         "he": [
@@ -3425,29 +3498,29 @@
           },
           {
             "path": "images/photos/elephant-2.webp",
-            "sha256": "63b8015365137b396ec1bae5d54d9dac6c611fd8741654996c284208afe63e31",
-            "bytes": 136650
+            "sha256": "a611d2cf86a52b256e0958b063e4ab6d2df2381d4d3db788f76ffafadde57bd6",
+            "bytes": 209394
           },
           {
             "path": "images/photos/elephant-3.webp",
-            "sha256": "a611d2cf86a52b256e0958b063e4ab6d2df2381d4d3db788f76ffafadde57bd6",
-            "bytes": 209394
+            "sha256": "6530c63e5e54a434447a822768015d156cf4720ce685edc555e572fbfaf0927a",
+            "bytes": 185236
           }
         ],
         "sound": {
           "path": "audio/sounds/elephant.ogg",
-          "sha256": "33888ddc9887ae248c48370c7a134c5b67d599304be8e723c36dc320e8446dee",
+          "sha256": "d63952c441e83fff3a14394743a2cc4c5a779584e0ac10adccc7ddc9411f8064",
           "bytes": 10638
         },
         "nameHe": {
           "path": "audio/names/he/elephant.ogg",
-          "sha256": "4985932bca1564a2b184097526c8e9928bdda86ae511826591c5ca00fe62297a",
+          "sha256": "b6214b45c0a6d4528de255afe46706f2de240ee0aeaaf8b1ff238c63fff10459",
           "bytes": 6666
         },
         "nameEn": {
           "path": "audio/names/en/elephant.ogg",
-          "sha256": "61d1595ec7c8919a3d185dca8aacf568655057e72172d68ccb257ad5d4954557",
-          "bytes": 7259
+          "sha256": "713271c4b24fa358db85208f5c2005546a9758470a6d10a88617d95eb890e62d",
+          "bytes": 7189
         }
       }
     },
@@ -3489,8 +3562,12 @@
         "en": "calf"
       },
       "size": {
-        "he": "הכי גבוהה בעולם — כמו בית בן שתי קומות",
-        "en": "The tallest in the world — like a two-storey house"
+        "he": "800–1,200 ק״ג, ובגובה 5–5.5 מטר — הגבוהה בעולם",
+        "en": "800–1,200 kg, and 5–5.5 m tall — the tallest in the world"
+      },
+      "speed": {
+        "he": "עד 60 קמ״ש, בצעדים של ארבעה מטרים",
+        "en": "Up to 60 km/h, in four-metre strides"
       },
       "facts": {
         "he": [
@@ -3524,19 +3601,19 @@
           },
           {
             "path": "images/photos/giraffe-3.webp",
-            "sha256": "99039d0a3fb97ccd18700aa1ebb65c031df165d93f50f25a528a6e305ca5caa6",
-            "bytes": 180818
+            "sha256": "668fb3cc74450e330673f93a8795049bfd6a5c0a6bba1032f3d28f17d4434c5d",
+            "bytes": 153752
           }
         ],
         "nameHe": {
           "path": "audio/names/he/giraffe.ogg",
-          "sha256": "de3ba117f635972de4f97d557d8b542bf847853d8b4c96ece3920e4b00bdbc67",
+          "sha256": "20331f2f16cf1cce770dbc53ff3c29ba22b9ada1e863d3620b3724d6342f293c",
           "bytes": 7008
         },
         "nameEn": {
           "path": "audio/names/en/giraffe.ogg",
-          "sha256": "b8e6d55b7e5980df4853055820dd89d33bea9311c0dd774d4a3a7d92935eb56d",
-          "bytes": 7274
+          "sha256": "0425770f8304a2b4c7c8e2b8605b4425b2c02e5a601f58f862d73be2fc3f6fc8",
+          "bytes": 7256
         }
       }
     },
@@ -3578,8 +3655,12 @@
         "en": "foal"
       },
       "size": {
-        "he": "בערך בגודל של סוס קטן",
-        "en": "About the size of a small horse"
+        "he": "300–400 ק״ג, ובגובה 1.4 מטר עד הכתף",
+        "en": "300–400 kg, and 1.4 m to the shoulder"
+      },
+      "speed": {
+        "he": "עד 65 קמ״ש",
+        "en": "Up to 65 km/h"
       },
       "facts": {
         "he": [
@@ -3619,18 +3700,18 @@
         ],
         "sound": {
           "path": "audio/sounds/zebra.ogg",
-          "sha256": "2a1cc54df1e210e9c01c8d82ed572e72cac592a79f3e96c68574017605bdcb67",
+          "sha256": "5f0bb062aa775018c91c4abed01179b1fb618989943eb43557c1f5f1261ee59d",
           "bytes": 16734
         },
         "nameHe": {
           "path": "audio/names/he/zebra.ogg",
-          "sha256": "ad81049a986e73c0704865b8befeb99abc2b1f9a93bfad8cc004a97d861c973f",
+          "sha256": "b5abb2f8775f0af575dcff179c90f181116c2c1d9d2ad70a2c372d3895d09617",
           "bytes": 5514
         },
         "nameEn": {
           "path": "audio/names/en/zebra.ogg",
-          "sha256": "51e94f2041a53d0fbc7a9709c61fcd344df991048251e4ec69081587a7a61811",
-          "bytes": 7528
+          "sha256": "eff54125539b754b767c42780c7b79aefcd186273c928bd1b462e039a259d1e2",
+          "bytes": 7865
         }
       }
     },
@@ -3672,8 +3753,12 @@
         "en": "calf"
       },
       "size": {
-        "he": "כבד כמו שתי מכוניות",
-        "en": "As heavy as two cars"
+        "he": "2,000–2,300 ק״ג ובגובה 1.8 מטר, והקרן באורך חצי מטר",
+        "en": "2,000–2,300 kg and 1.8 m tall, with a horn half a metre long"
+      },
+      "speed": {
+        "he": "עד 50 קמ״ש, למרות שהוא כבד כמו שתי מכוניות",
+        "en": "Up to 50 km/h, despite weighing as much as two cars"
       },
       "facts": {
         "he": [
@@ -3702,29 +3787,29 @@
           },
           {
             "path": "images/photos/rhino-2.webp",
-            "sha256": "45ddec81fec37827c2812a38b8e4f1c7faddd216a32e91795b057ace962a14ae",
-            "bytes": 31172
+            "sha256": "5d1d91d1f90add026e7606f8f8cc772f975d338f4929efc2e30d1f4f781d61e1",
+            "bytes": 178048
           },
           {
             "path": "images/photos/rhino-3.webp",
-            "sha256": "5d1d91d1f90add026e7606f8f8cc772f975d338f4929efc2e30d1f4f781d61e1",
-            "bytes": 178048
+            "sha256": "eb2e9e78177a9a86cc7d894505690cf6e4c3cd4fef26f48dad25dad43eeca451",
+            "bytes": 140676
           }
         ],
         "sound": {
           "path": "audio/sounds/rhino.ogg",
-          "sha256": "03f427488e9eb999d367b4e41e701d26ae09b0ec4c63396a14aea94c2021b558",
+          "sha256": "aa6dac5f8d19335eb089458d1da7552c8a2c724420ef224afff36a11dba5f08d",
           "bytes": 26328
         },
         "nameHe": {
           "path": "audio/names/he/rhino.ogg",
-          "sha256": "711d9600259294d52319cd4014bd037f5d611b2715c3773ce31f0df11f02a28d",
+          "sha256": "5c8725f0973fb610179c69c2fd570f4c9c91d6136f86567c93b2358dc98f90de",
           "bytes": 6108
         },
         "nameEn": {
           "path": "audio/names/en/rhino.ogg",
-          "sha256": "5a821377fec5a148c7539f70bdaf103913526a3ecc9731dd6be00734e6880d84",
-          "bytes": 9690
+          "sha256": "f5dbe0ae3d12d9add50e50dc1e69f852d24d9c592024e8f623203f6f30bf05d3",
+          "bytes": 9509
         }
       }
     },
@@ -3766,8 +3851,12 @@
         "en": "calf"
       },
       "size": {
-        "he": "כבד כמו שלוש מכוניות",
-        "en": "As heavy as three cars"
+        "he": "1,500–3,000 ק״ג ובאורך 3.5 מטר",
+        "en": "1,500–3,000 kg and 3.5 m long"
+      },
+      "speed": {
+        "he": "עד 30 קמ״ש על היבשה — מהר יותר מאדם",
+        "en": "Up to 30 km/h on land — faster than a person"
       },
       "facts": {
         "he": [
@@ -3807,18 +3896,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hippo.ogg",
-          "sha256": "fc47bb504499fbe491fad3ce1c40761714eb142b52a0185bf8331d6c67d286f9",
+          "sha256": "fa808dfdeec5e9a606f4859cb5eacef6aaec162ba9be7d3eb60ac2afa9da59b2",
           "bytes": 19039
         },
         "nameHe": {
           "path": "audio/names/he/hippo.ogg",
-          "sha256": "c0d5f7c90e393bb5f2cca4294b03f100c2bc2b7ae6280108b04e27e9881c6fd8",
+          "sha256": "0645150d95fadbd196b35737ecc7229097700a69cbe229b916e21a7593ca9b28",
           "bytes": 8145
         },
         "nameEn": {
           "path": "audio/names/en/hippo.ogg",
-          "sha256": "7b4f052902c87559792f2228d5075d43fb2462869dd908949b141ef0fe289d4e",
-          "bytes": 9810
+          "sha256": "4ddcd4cc97ac7f4207070065c710cb6ebf8ea3a5bfd562029c51b38599167840",
+          "bytes": 10097
         }
       }
     },
@@ -3860,8 +3949,12 @@
         "en": "cub"
       },
       "size": {
-        "he": "דק וארוך, בערך כמו ספה",
-        "en": "Slim and long, about sofa-sized"
+        "he": "40–60 ק״ג ובגובה 80 ס״מ — דק וקל בשביל המהירות",
+        "en": "40–60 kg and 80 cm tall — slim and light, built for speed"
+      },
+      "speed": {
+        "he": "עד 110 קמ״ש — המהיר בעולם ביבשה, אבל רק לחצי דקה",
+        "en": "Up to 110 km/h — the fastest on land, but only for half a minute"
       },
       "eatsIds": [
         "deer",
@@ -3906,13 +3999,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/cheetah.ogg",
-          "sha256": "35b1e940f207d092512982cc9a6c3e832a05150e8ada4e1e0a45fee419a235b5",
+          "sha256": "f55c937ff7276d9ae615ae6ea1c944401af16bba4f2fa67248f9b4d176929462",
           "bytes": 6679
         },
         "nameEn": {
           "path": "audio/names/en/cheetah.ogg",
-          "sha256": "a6941b5e6239cbbaa796850a9cc6034a77ec4961e639585b329ecae713580bb1",
-          "bytes": 7220
+          "sha256": "5f8ce55a1322085223fcf5036d7e1ca559569d1ca5be063f32634a4c5af7254f",
+          "bytes": 7380
         }
       }
     },
@@ -3954,8 +4047,12 @@
         "en": "cub"
       },
       "size": {
-        "he": "בערך בגודל של כלב גדול מאוד",
-        "en": "About the size of a very large dog"
+        "he": "50–70 ק״ג ובאורך 1.9 מטר",
+        "en": "50–70 kg and 1.9 m long"
+      },
+      "speed": {
+        "he": "עד 58 קמ״ש, וגורר טרף כבד ממנו אל ראש העץ",
+        "en": "Up to 58 km/h, and it hauls prey heavier than itself up a tree"
       },
       "eatsIds": [
         "monkey",
@@ -4000,18 +4097,18 @@
         ],
         "sound": {
           "path": "audio/sounds/leopard.ogg",
-          "sha256": "eb837f0eaf61f7d572e1ac24288f2d394bafc614953cc35817b935ea80929857",
+          "sha256": "a63e883c2a95f5f0284974a4973234d663d0169ec139fdaaf263c0144e3c79c2",
           "bytes": 6123
         },
         "nameHe": {
           "path": "audio/names/he/leopard.ogg",
-          "sha256": "33f8c444072674769db5159f8d8509a7bda0814543c301b1e4046f931b0f7f8f",
+          "sha256": "e0357bdc5099724ffd8f6c81aa9bb196492cc3b9b4350bcbf008b23d8374d37c",
           "bytes": 5314
         },
         "nameEn": {
           "path": "audio/names/en/leopard.ogg",
-          "sha256": "c7eba7cd30780ea0c3ea0eed4adeba52f9101b86a0a4dfb416b47f32a1ef8b50",
-          "bytes": 6880
+          "sha256": "7ac8bb126c6eb183c6923339864aab2c2318d1d89480f429308614f89074a570",
+          "bytes": 6619
         }
       }
     },
@@ -4053,8 +4150,12 @@
         "en": "infant"
       },
       "size": {
-        "he": "גבוהה כמו אבא, ורחבה הרבה יותר",
-        "en": "As tall as a grown-up, and much broader"
+        "he": "160 ק״ג הזכר, ובגובה 1.7 מטר כשהוא עומד",
+        "en": "160 kg for the male, and 1.7 m standing"
+      },
+      "speed": {
+        "he": "עד 40 קמ״ש, בדרך כלל על ארבע",
+        "en": "Up to 40 km/h, usually on all fours"
       },
       "facts": {
         "he": [
@@ -4083,29 +4184,29 @@
           },
           {
             "path": "images/photos/gorilla-2.webp",
-            "sha256": "ec2e815983e6035ba02b9e3aa186cc893c7a9c0838c19b0bc857269bd4cd373a",
-            "bytes": 40060
+            "sha256": "cb356f237452c4a8b2297fbcc70ec141956fe6adf601e90d94755086acccf88d",
+            "bytes": 181336
           },
           {
             "path": "images/photos/gorilla-3.webp",
-            "sha256": "cb356f237452c4a8b2297fbcc70ec141956fe6adf601e90d94755086acccf88d",
-            "bytes": 181336
+            "sha256": "b8fd632d9b3398ee4edf8dc7756ebab71360d74ada348f2ecc6386f8d93bfb6b",
+            "bytes": 95460
           }
         ],
         "sound": {
           "path": "audio/sounds/gorilla.ogg",
-          "sha256": "c012bde7172ede1f973fd0f76c7352d0a23f1bf357fd10c531a5d3380f27d7dc",
+          "sha256": "0934619a2cf7ed44df9d83b3f61da8767f2533f29cbfb2176ff769a9049ae032",
           "bytes": 26021
         },
         "nameHe": {
           "path": "audio/names/he/gorilla.ogg",
-          "sha256": "ed05939182e4fe946d0d3faa5d00d18b9f358327600a6f2e08ff9b51c1680de7",
+          "sha256": "c51136948b8b4c759bed509e54e70a9fdc05b0dba65c67fc4e3fa49cf769df02",
           "bytes": 7268
         },
         "nameEn": {
           "path": "audio/names/en/gorilla.ogg",
-          "sha256": "4898990efa7e2bcb6b9cda4793a5f02cc5c0eaa2d4ae47a743496880b821a9e5",
-          "bytes": 7089
+          "sha256": "91797850ea1d34c4bcc4813b580a372a6a6ae42618adf3d019d736fde280df09",
+          "bytes": 7073
         }
       }
     },
@@ -4147,8 +4248,12 @@
         "en": "cub"
       },
       "size": {
-        "he": "בערך בגודל של רועה גרמני",
-        "en": "About the size of a German shepherd"
+        "he": "50–70 ק״ג ובגובה 85 ס״מ",
+        "en": "50–70 kg and 85 cm tall"
+      },
+      "speed": {
+        "he": "עד 60 קמ״ש, ורודף אחרי טרף קילומטרים שלמים",
+        "en": "Up to 60 km/h, and it will chase prey for kilometres"
       },
       "eatsIds": [
         "zebra",
@@ -4192,18 +4297,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hyena.ogg",
-          "sha256": "3eb688d8716b4777d05daf33ca910ea0a2bbe4dee31d4475c06d48c44ede9f4a",
+          "sha256": "2e2740dba13de476b824ba7fd2eb9dae401fcaa3736a87ef7da487104cd0e78f",
           "bytes": 8439
         },
         "nameHe": {
           "path": "audio/names/he/hyena.ogg",
-          "sha256": "19c1543c889a783291157983fd7683d85ca71030fed41246286c73e6fe4905eb",
+          "sha256": "392956d516579dfa433288e521ba943e281ba1ed521e6d63a178109b89927a02",
           "bytes": 5703
         },
         "nameEn": {
           "path": "audio/names/en/hyena.ogg",
-          "sha256": "0b757ccf64f200d738c3470cf97d2a6517c45537d6bceaead5d7e1a51b7b88c2",
-          "bytes": 7762
+          "sha256": "7ecfd1360bd724c538b54b5f5cecb9f00e6731ac23e74cf6e9330bbcc15600d0",
+          "bytes": 7451
         }
       }
     },
@@ -4245,8 +4350,12 @@
         "en": "pup"
       },
       "size": {
-        "he": "בגובה של בקבוק מים",
-        "en": "As tall as a water bottle"
+        "he": "700–800 גרם, ובגובה 30 ס״מ כשהיא עומדת זקופה",
+        "en": "700–800 g, and 30 cm when it stands upright"
+      },
+      "speed": {
+        "he": "עד 30 קמ״ש, ישר אל תוך המחילה",
+        "en": "Up to 30 km/h, straight down the burrow"
       },
       "eatsIds": [
         "scorpion",
@@ -4291,13 +4400,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/meerkat.ogg",
-          "sha256": "8c530add0396f9c1bfc1756b071be03841b1b39f20989863debfcdc831534a06",
+          "sha256": "dfd88817ff0409db44151bf55339f9b13d8a1b6470e69d9bd25e2c5fd4cf977f",
           "bytes": 7822
         },
         "nameEn": {
           "path": "audio/names/en/meerkat.ogg",
-          "sha256": "353f91f24c70c81d877487a38cc314085258f60e8867f95cbf92e7f683e94ed4",
-          "bytes": 7865
+          "sha256": "364cf8d513f2e9d8f0e35cd2b2f24c8de48293a5b55196f3326b6d444f69aa3d",
+          "bytes": 7545
         }
       }
     },
@@ -4339,8 +4448,12 @@
         "en": "hatchling"
       },
       "size": {
-        "he": "ארוך כמו מכונית",
-        "en": "As long as a car"
+        "he": "400–700 ק״ג ובאורך 4–5 מטר",
+        "en": "400–700 kg and 4–5 m long"
+      },
+      "speed": {
+        "he": "30 קמ״ש בשחייה, ועל היבשה רק 14 — אבל בזינוק אחד",
+        "en": "30 km/h swimming, and only 14 on land — but in a single lunge"
       },
       "eatsIds": [
         "fish",
@@ -4386,18 +4499,18 @@
         ],
         "sound": {
           "path": "audio/sounds/crocodile.ogg",
-          "sha256": "7bde51aed59d1d299deea6e861058670372e0e8dc6ff145a1e772d0d3c2bce3f",
+          "sha256": "e020e8f814df5a5dedeeadf9302473c5e621bb3507dc8b6ae118e970d38d1f7f",
           "bytes": 30114
         },
         "nameHe": {
           "path": "audio/names/he/crocodile.ogg",
-          "sha256": "42447c83fbc43ae57ffdfd4edd4f97b97d91909cde238a7014953dea1c031562",
+          "sha256": "b94f4de7d8c1f569a3d1680dbbb34e5386bca2044b01d132a06a115bfaa41e36",
           "bytes": 6618
         },
         "nameEn": {
           "path": "audio/names/en/crocodile.ogg",
-          "sha256": "6ba8c6cb5c17c70babc263ea1b3dcc2341a8d392f620665ae9812b4a3b3d8a49",
-          "bytes": 7971
+          "sha256": "0075af4429bd288f808dea00541e4310b628ac3323ead871049eb5ed3b034e93",
+          "bytes": 8088
         }
       }
     },
@@ -4439,8 +4552,12 @@
         "en": "chick"
       },
       "size": {
-        "he": "גבוה כמעט כמוכם",
-        "en": "Almost as tall as you"
+        "he": "2.5–3.5 ק״ג, ובגובה 1.2–1.4 מטר",
+        "en": "2.5–3.5 kg, and 1.2–1.4 m tall"
+      },
+      "speed": {
+        "he": "עד 60 קמ״ש בתעופה, בלהקה",
+        "en": "Up to 60 km/h in flight, in a flock"
       },
       "eatsIds": [
         "crab"
@@ -4483,18 +4600,18 @@
         ],
         "sound": {
           "path": "audio/sounds/flamingo.ogg",
-          "sha256": "62050cf4830e32c3c3ab76bb73a0fe87ff50414933a166807c148c7c3e8df1f9",
+          "sha256": "82c084a8a6021ddb9d3cc4c2a7d35cebc876a6b1ccfc0b5d977890c5d91b5681",
           "bytes": 30805
         },
         "nameHe": {
           "path": "audio/names/he/flamingo.ogg",
-          "sha256": "2c2caf672cd5237f8c7a22929c68f3de6a9ccefecf5dbda636ff2bf0b1e12aa5",
+          "sha256": "ffb4c77d35feaa6aa9a2846843a9922d889627269fbade23e1ffef8cb4a94882",
           "bytes": 8049
         },
         "nameEn": {
           "path": "audio/names/en/flamingo.ogg",
-          "sha256": "b71894578572685b41fc2d28d1076401e0f38daa3fc20c5c1ed1228e6997f1c2",
-          "bytes": 7759
+          "sha256": "7eb8165d7bb38b723bc775c11297f4793902d647e7c042f38782782bea18885e",
+          "bytes": 7581
         }
       }
     },
@@ -4536,8 +4653,12 @@
         "en": "chick"
       },
       "size": {
-        "he": "גבוה יותר מאבא — הציפור הגדולה בעולם",
-        "en": "Taller than a grown-up — the biggest bird there is"
+        "he": "100–150 ק״ג ובגובה 2.5 מטר — הציפור הגדולה בעולם",
+        "en": "100–150 kg and 2.5 m tall — the biggest bird in the world"
+      },
+      "speed": {
+        "he": "עד 70 קמ״ש — המהיר בעולם על שתי רגליים",
+        "en": "Up to 70 km/h — the fastest thing in the world on two legs"
       },
       "eatsIds": [
         "cricket",
@@ -4581,13 +4702,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/ostrich.ogg",
-          "sha256": "fe04c14d9180f0b4ae0ab43fd8f16defa1d2490b214a5c51231657f27f9bbb3b",
+          "sha256": "b904202a86c2775d0a93ed517116f535987d55c93681cde894a444f4315685be",
           "bytes": 5041
         },
         "nameEn": {
           "path": "audio/names/en/ostrich.ogg",
-          "sha256": "32c017296c5c4c6ac7031cd9d55c82129c7fb5b7138cdabe36320ae8ce1fb0e6",
-          "bytes": 8083
+          "sha256": "ea45e2fffac3a14ee03eac42c031208ac42ff5979618e6992dc8f92efdd6a8e1",
+          "bytes": 8072
         }
       }
     },
@@ -4629,8 +4750,12 @@
         "en": "calf"
       },
       "size": {
-        "he": "גבוה משני ילדים זה על זה",
-        "en": "Taller than two children standing on each other"
+        "he": "500–700 ק״ג ובגובה 1.9 מטר עד הדבשת",
+        "en": "500–700 kg and 1.9 m to the hump"
+      },
+      "speed": {
+        "he": "40 קמ״ש ברגיל, ועד 65 בזינוק",
+        "en": "40 km/h normally, and up to 65 in a sprint"
       },
       "facts": {
         "he": [
@@ -4670,18 +4795,18 @@
         ],
         "sound": {
           "path": "audio/sounds/camel.ogg",
-          "sha256": "c401e0a589c5fce2f1c10aa32eb1216c478033ef75091bc08f4269a93cf8087c",
+          "sha256": "e2ee1d4699215a14465843a20b223c84c1922e0624d4059f96ad98b4dd8b6529",
           "bytes": 30608
         },
         "nameHe": {
           "path": "audio/names/he/camel.ogg",
-          "sha256": "c6188cd472a2b9cc04af34bf14f365193d3bc5eb517ddc6e9a8943bde5694ac7",
+          "sha256": "63019db14c9c403a3c0c9a34cea19645df9f185dec6e701cfca0b2963880d5c4",
           "bytes": 4901
         },
         "nameEn": {
           "path": "audio/names/en/camel.ogg",
-          "sha256": "a1a483b797ed6ab05d3168622b24c205386d2dfbe06cf017f2f1ca1e75db24bb",
-          "bytes": 6580
+          "sha256": "7b9146146557b8a3e989dbd8c14aa7fdfac37de356595013edc1fde082f24e02",
+          "bytes": 6703
         }
       }
     },
@@ -4723,8 +4848,12 @@
         "en": "cub"
       },
       "size": {
-        "he": "ארוך כמו מיטה",
-        "en": "As long as a bed"
+        "he": "200–260 ק״ג ובאורך 3 מטר עם הזנב — החתול הגדול בעולם",
+        "en": "200–260 kg and 3 m long with the tail — the biggest cat in the world"
+      },
+      "speed": {
+        "he": "עד 65 קמ״ש, וקופץ שישה מטרים",
+        "en": "Up to 65 km/h, and it leaps six metres"
       },
       "eatsIds": [
         "deer",
@@ -4770,18 +4899,18 @@
         ],
         "sound": {
           "path": "audio/sounds/tiger.ogg",
-          "sha256": "225b0e78f479703f4ac0726684ec1f7c181917d4492b8b09311a381ee2ee118a",
+          "sha256": "848700500ab23c3981094343961bc6f5a4a424b5ffd76becb9a4a166638c26a1",
           "bytes": 27607
         },
         "nameHe": {
           "path": "audio/names/he/tiger.ogg",
-          "sha256": "6a6fe526a3deb6c7f39a800a9b428a09a132738df8cc0bc621482d58b07e1802",
+          "sha256": "326eeab42e32209c7c7e506fdbeafcd1dd81a9be8ec8ddad6c09c3dd3d835aac",
           "bytes": 8929
         },
         "nameEn": {
           "path": "audio/names/en/tiger.ogg",
-          "sha256": "57fc16e1bd334463104883a5134822b1a97193f40da35cc4ab4af193f8012685",
-          "bytes": 6749
+          "sha256": "d697c6d86b4e2475467fa5ea6780b6e0dc7f0648774535e2565f1dbd1881ddfe",
+          "bytes": 7059
         }
       }
     },
@@ -4823,8 +4952,12 @@
         "en": "cub"
       },
       "size": {
-        "he": "בערך בגודל של ילד גדול",
-        "en": "About the size of a big child"
+        "he": "100–115 ק״ג ובאורך 1.5 מטר",
+        "en": "100–115 kg and 1.5 m long"
+      },
+      "speed": {
+        "he": "עד 32 קמ״ש, כשהיא בכלל טורחת",
+        "en": "Up to 32 km/h, when it bothers at all"
       },
       "facts": {
         "he": [
@@ -4864,18 +4997,18 @@
         ],
         "sound": {
           "path": "audio/sounds/panda.ogg",
-          "sha256": "d5c3551b14a815c794ea62a5b271ce16c72d4926892688809b75f1537592fc3b",
+          "sha256": "c28c3c71bbed0a63f0ac824eb22cf29c68b0df7cf7edd05e9f283c1f07f51b23",
           "bytes": 13234
         },
         "nameHe": {
           "path": "audio/names/he/panda.ogg",
-          "sha256": "3ba877e6675029200a6a3ca478a85bc4f8b34afc6aaff18fa8cf4dc3957ec761",
+          "sha256": "c62ec8abf2c3083a482668ef45be9ac7c4a2f29e7ed102fb86c29ce66cdfdd11",
           "bytes": 5173
         },
         "nameEn": {
           "path": "audio/names/en/panda.ogg",
-          "sha256": "be3344caad90c312ee02da80928032be582bb384022efaac7d4f64ec3ce4c2c2",
-          "bytes": 6977
+          "sha256": "b96e90cbf6b12052c3606309720f43144cf9128037353bcb1dfde6d917c10c81",
+          "bytes": 6935
         }
       }
     },
@@ -4917,8 +5050,12 @@
         "en": "infant"
       },
       "size": {
-        "he": "בערך בגודל של חתול גדול",
-        "en": "About the size of a large cat"
+        "he": "5–10 ק״ג ברוב המינים, ובאורך חצי מטר בלי הזנב",
+        "en": "5–10 kg for most kinds, and half a metre without the tail"
+      },
+      "speed": {
+        "he": "עד 35 קמ״ש, ובעצים מהר יותר מאשר על הקרקע",
+        "en": "Up to 35 km/h, and quicker in the trees than on the ground"
       },
       "eatsIds": [
         "ant"
@@ -4963,18 +5100,18 @@
         ],
         "sound": {
           "path": "audio/sounds/monkey.ogg",
-          "sha256": "9f6241bfb3d225e9fe66deff6926feeb5f7f6af4b36508c09635591475b39215",
+          "sha256": "1f8caef2bf22d582c932b3252ca56cc2ff92313e225e3b0f4968962ef1f89067",
           "bytes": 14883
         },
         "nameHe": {
           "path": "audio/names/he/monkey.ogg",
-          "sha256": "4f8866a180d37489dfbce4029ab82caa147c7cd09ec218fdd5425d0ea717b6ff",
+          "sha256": "251bf0091679bf16d8ebe31ee0763186cd95b2386d783c28fddfb92b5d8a9975",
           "bytes": 5133
         },
         "nameEn": {
           "path": "audio/names/en/monkey.ogg",
-          "sha256": "67b5e1d2fe5a9ab69d3ca85753a9b2912fd9b9949734d0debbe7a511508d9a45",
-          "bytes": 6473
+          "sha256": "b263e827adedd39fa7c742985ad08b27ce13d4dc0f8e95d6b43c9c0490ff48bd",
+          "bytes": 6274
         }
       }
     },
@@ -5016,8 +5153,12 @@
         "en": "infant"
       },
       "size": {
-        "he": "בגובה של ילד, עם ידיים ארוכות מאוד",
-        "en": "Child-height, with very long arms"
+        "he": "75 ק״ג הזכר, ומוטת ידיים של שני מטרים",
+        "en": "75 kg for the male, with a two-metre arm span"
+      },
+      "speed": {
+        "he": "איטי מאוד — כ-4 קמ״ש, כי הוא כמעט לא יורד מהעץ",
+        "en": "Very slow — about 4 km/h, because it hardly ever comes down"
       },
       "facts": {
         "he": [
@@ -5057,13 +5198,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/orangutan.ogg",
-          "sha256": "eda1852a95c94df2c5b0adf1a6371ddad6c20ddfd7f51f1f9818c2cd5825682d",
+          "sha256": "c9b825e95d3d63351e5a554991a15f98f113ee178ec00fd07e27a3f127537790",
           "bytes": 7718
         },
         "nameEn": {
           "path": "audio/names/en/orangutan.ogg",
-          "sha256": "18798ed736ab5e92f9e8b273fa5addca890734a7cc52ebfbf27bfcef68e0fe58",
-          "bytes": 8440
+          "sha256": "7a1ca83f5741980805e80b4f76646f9755507a40161fdb5ebce4d7c3598e5fd1",
+          "bytes": 8421
         }
       }
     },
@@ -5105,8 +5246,12 @@
         "en": "chick"
       },
       "size": {
-        "he": "עם הזנב פרוש — רחב כמו דלת",
-        "en": "With its tail open — as wide as a door"
+        "he": "4–6 ק״ג, והזנב הפרוש ברוחב מטר וחצי",
+        "en": "4–6 kg, with a train a metre and a half wide"
+      },
+      "speed": {
+        "he": "16 קמ״ש בריצה, ועף רק מעץ לעץ",
+        "en": "16 km/h running, and it flies only from tree to tree"
       },
       "eatsIds": [
         "snake",
@@ -5136,34 +5281,34 @@
         "photos": [
           {
             "path": "images/photos/peacock-1.webp",
-            "sha256": "a563531a1b43e8de801becd23c49d163bd7689391cf79d5ec48e142a7b3c9ec2",
-            "bytes": 244606
+            "sha256": "03730c2735014663f231eaa546f0ebf16fd84686b40fc621eeb3e0fa1c35dd09",
+            "bytes": 198584
           },
           {
             "path": "images/photos/peacock-2.webp",
-            "sha256": "ece9a73eccd9565058f5ce98e1cb22f2edef18dc685e95534137557bba6b15cf",
-            "bytes": 213082
+            "sha256": "52aa0582f85e3489fb21eaa90ff397fa48b3b3a9320ad4f03c191bfda35b9757",
+            "bytes": 265392
           },
           {
             "path": "images/photos/peacock-3.webp",
-            "sha256": "03730c2735014663f231eaa546f0ebf16fd84686b40fc621eeb3e0fa1c35dd09",
-            "bytes": 198584
+            "sha256": "39b5a2b4d41eb98d09d1f1472422b02fb46d020338f287b0607a56fc6161d9f5",
+            "bytes": 94876
           }
         ],
         "sound": {
           "path": "audio/sounds/peacock.ogg",
-          "sha256": "b3aec5c84bf25ff19dfb05c3b439cfbe03d67a4ae0d75f4c40d362221d02c672",
+          "sha256": "1ff7c1564f25e108bee1f32e12ade0967ce2b4d12c1edae1dfb4be153f00501e",
           "bytes": 28487
         },
         "nameHe": {
           "path": "audio/names/he/peacock.ogg",
-          "sha256": "337c1a660ff03ae278dc8a67892cf0bbba863d373375cce67280ad24699638cf",
+          "sha256": "8ce0069df945adc532a0955b1e05ed624db4f500e9c751bbfa73149c6de37e54",
           "bytes": 5405
         },
         "nameEn": {
           "path": "audio/names/en/peacock.ogg",
-          "sha256": "b23f77a7a4ac7f86bfed0d356f9fb78f1d868bb09089e65c1fb4e34ba1593b16",
-          "bytes": 7601
+          "sha256": "5afbf2638896a383f5c408be89defc7b5c5f9717f4336b9d26e1bf61c32d4c05",
+          "bytes": 7662
         }
       }
     },
@@ -5205,8 +5350,12 @@
         "en": "hatchling"
       },
       "size": {
-        "he": "יש קטנים כמו עיפרון וארוכים כמו אוטובוס",
-        "en": "Some as small as a pencil, some as long as a bus"
+        "he": "מ-10 ס״מ ועד 6 מטר, תלוי במין",
+        "en": "From 10 cm to 6 m, depending on the kind"
+      },
+      "speed": {
+        "he": "רוב הנחשים 5 קמ״ש, והממבה השחורה מגיעה ל-20",
+        "en": "Most snakes manage 5 km/h; a black mamba reaches 20"
       },
       "eatsIds": [
         "mouse",
@@ -5236,34 +5385,34 @@
         "photos": [
           {
             "path": "images/photos/snake-1.webp",
-            "sha256": "e0db0054c5b47893f228fb3bef057e65bb3f807ab19448e9c64dda04cae137ba",
-            "bytes": 200004
+            "sha256": "98bf92bdd54dd88292c4742d76dffc181e55d53797c4620bc36ab9576bcdbe89",
+            "bytes": 132594
           },
           {
             "path": "images/photos/snake-2.webp",
-            "sha256": "5d189390b83fa04a9ae6cca2d0f8a227f29bb22d29a76d7527c9a464686a6ff9",
-            "bytes": 87138
+            "sha256": "10b7f7ad135bac904b235c5d45b6526047090272f281cbfbdc6da1ac877ef8c8",
+            "bytes": 95730
           },
           {
             "path": "images/photos/snake-3.webp",
-            "sha256": "937b1b0e142234ff8ff78d0c6e5c9588a97c5445c67f5ebb6edd5b6013069e53",
-            "bytes": 195858
+            "sha256": "fab64d264519014687be347e23ea985354b29f31ef98a26d297202e8cd6a0528",
+            "bytes": 59040
           }
         ],
         "sound": {
           "path": "audio/sounds/snake.ogg",
-          "sha256": "5efec32e594c188e6e9ec743880ff4cd81c4e63102cc339db8f5e5af92f32742",
+          "sha256": "7977207868b5f6b3d0b5102e130c73b218fcb6cfc41f93a13dc4a19af32ebb2e",
           "bytes": 28601
         },
         "nameHe": {
           "path": "audio/names/he/snake.ogg",
-          "sha256": "64a66b2b930d9a37a394a2f9977df5f58eb59d8622d64a7f456d2d9e0faaa14f",
+          "sha256": "3ff729182c70b1daa45fcecb36f20ea97572d99fb5497a4526565fc74be0515c",
           "bytes": 5520
         },
         "nameEn": {
           "path": "audio/names/en/snake.ogg",
-          "sha256": "e5ed2118673f115e558c2e120d174e487f516edc02537b504e4df524a0023abb",
-          "bytes": 7152
+          "sha256": "a736faecfc4234acf3bcef7b425fc0bfa5f5dda6dc861578fdd19e2a1307a03f",
+          "bytes": 6867
         }
       }
     },
@@ -5305,8 +5454,12 @@
         "en": "calf"
       },
       "size": {
-        "he": "כבד כמו מכונית גדולה",
-        "en": "As heavy as a big car"
+        "he": "700–1,200 ק״ג ובגובה 1.7 מטר",
+        "en": "700–1,200 kg and 1.7 m tall"
+      },
+      "speed": {
+        "he": "עד 48 קמ״ש",
+        "en": "Up to 48 km/h"
       },
       "facts": {
         "he": [
@@ -5330,29 +5483,29 @@
         "photos": [
           {
             "path": "images/photos/water_buffalo-1.webp",
-            "sha256": "51e47b25b4f258c05d8a594aa6c62dfc07e8d4f6cf3db3cf2e6564caa8474ad0",
-            "bytes": 94412
-          },
-          {
-            "path": "images/photos/water_buffalo-2.webp",
             "sha256": "ba9c80fe282a37b819c470f6a396d7409b343ef081ca6e93e9a885479dd2ac06",
             "bytes": 141882
           },
           {
-            "path": "images/photos/water_buffalo-3.webp",
+            "path": "images/photos/water_buffalo-2.webp",
             "sha256": "a9e0fec2996d4de6200aaad1ac486853c2febcfd56de0dab0eb916ef1a393f11",
             "bytes": 112974
+          },
+          {
+            "path": "images/photos/water_buffalo-3.webp",
+            "sha256": "934f599548198d466dfa6c6053c79a70cf96a24c94eab240fe898b13808c5ba8",
+            "bytes": 77568
           }
         ],
         "nameHe": {
           "path": "audio/names/he/water_buffalo.ogg",
-          "sha256": "682fe2068c0c7c32d4626002830ec9fafb27be53c03a4871beeea45c75c5b4b7",
+          "sha256": "dd94627175fea05d5a01c149865775f6c1358e703970eb015f96b394ae79eeeb",
           "bytes": 4889
         },
         "nameEn": {
           "path": "audio/names/en/water_buffalo.ogg",
-          "sha256": "3b064046ed8010140bec99973e1f1f1aacab19fa4678f3c4d0b7cb72f070f4cc",
-          "bytes": 9649
+          "sha256": "a48e5824692ae4fbb247ac5d56d721b19666892f6ea0a59ca8bc35941e76a710",
+          "bytes": 9626
         }
       }
     },
@@ -5394,8 +5547,12 @@
         "en": "calf"
       },
       "size": {
-        "he": "כבד כמו מכונית, ומכוסה פרווה ארוכה",
-        "en": "Car-heavy, under a long shaggy coat"
+        "he": "500–1,000 ק״ג ובגובה 1.8 מטר",
+        "en": "500–1,000 kg and 1.8 m tall"
+      },
+      "speed": {
+        "he": "עד 40 קמ״ש, בגובה שבו לאדם קשה לנשום",
+        "en": "Up to 40 km/h, at an altitude where a person struggles to breathe"
       },
       "facts": {
         "he": [
@@ -5419,34 +5576,34 @@
         "photos": [
           {
             "path": "images/photos/yak-1.webp",
-            "sha256": "4ed39fd7e1de042a25cc4091744ef1b12d1b20ad77399245a19a69cb3307d30c",
-            "bytes": 124268
-          },
-          {
-            "path": "images/photos/yak-2.webp",
             "sha256": "70dcfdd4ce3aa1fd8d27e90215f49be8e33679bda3bc2ddf6a50e1a4ac97ed72",
             "bytes": 167900
           },
           {
-            "path": "images/photos/yak-3.webp",
+            "path": "images/photos/yak-2.webp",
             "sha256": "d464281533ac012c46c5480dd8f3ad01b9229d46dc3dbdd2d15beebd942ab110",
             "bytes": 101874
+          },
+          {
+            "path": "images/photos/yak-3.webp",
+            "sha256": "7174f48c0456007bb42b83d459e156c0998c16c94c0c27410c4964366a3ae46c",
+            "bytes": 89234
           }
         ],
         "sound": {
           "path": "audio/sounds/yak.ogg",
-          "sha256": "37a3f0bda2dea2eaa710dbef9e1491ffaf8f75cc45f814a3f06a897b6a2319bc",
+          "sha256": "3ee8ca363b8fca058a5c85ebf6d402745eedcac8e1b6a4627f7a458a58d7ff62",
           "bytes": 28373
         },
         "nameHe": {
           "path": "audio/names/he/yak.ogg",
-          "sha256": "5e6ed6b31690f21d1ff6cbe5dd25863a252e2f2668df19657a1dbc031032371a",
+          "sha256": "dd476b40bf62771fdeb8eba5fce2bebba9532f6cb967482259794b26d35f959f",
           "bytes": 4660
         },
         "nameEn": {
           "path": "audio/names/en/yak.ogg",
-          "sha256": "fd16395b86c55ee43129c8c7622ef8aee8d43cf205c1a52aa3f6af83a80c1956",
-          "bytes": 6277
+          "sha256": "7c67aae689fc325bec6b94177879d3773321ec20ebda30df2b8a6b1e9127314a",
+          "bytes": 6478
         }
       }
     },
@@ -5488,8 +5645,12 @@
         "en": "cub"
       },
       "size": {
-        "he": "כשהוא עומד — גבוה משתי דלתות",
-        "en": "Standing up — taller than two doors"
+        "he": "300–600 ק״ג, ו-2.5 מטר כשהוא עומד על הרגליים האחוריות",
+        "en": "300–600 kg, and 2.5 m standing on its hind legs"
+      },
+      "speed": {
+        "he": "עד 56 קמ״ש — מהר יותר מכל אדם",
+        "en": "Up to 56 km/h — faster than any person"
       },
       "eatsIds": [
         "fish",
@@ -5535,18 +5696,18 @@
         ],
         "sound": {
           "path": "audio/sounds/bear.ogg",
-          "sha256": "72dc459b7fbd9e5b3145b8a2fd0f19714f501b47dc11d9b82d0de00d77870f13",
+          "sha256": "c3662888da7447d9703df013801da5eede8e0592248a777d0db1824f231e798b",
           "bytes": 28793
         },
         "nameHe": {
           "path": "audio/names/he/bear.ogg",
-          "sha256": "20db97d0f826215cfcda3ea794e491c4ad4b275af54a806ef39ac720ed188225",
+          "sha256": "0449bdab571d3e3c6f3dc50b2cd1bc5080a25e2ada5d51feef2e43f24a090d1b",
           "bytes": 4937
         },
         "nameEn": {
           "path": "audio/names/en/bear.ogg",
-          "sha256": "6a79689781c5f37e039a73277b81c3925f14077633bc899413b2e35ac1cddd3f",
-          "bytes": 5389
+          "sha256": "8519e8baa10fe8a54ca3c53ca3bc9886cbd8d6606578bea516bf77766430f276",
+          "bytes": 5513
         }
       }
     },
@@ -5588,8 +5749,12 @@
         "en": "cub"
       },
       "size": {
-        "he": "הדוב הגדול בעולם, כבד כמעט כמו מכונית",
-        "en": "The biggest bear there is, almost as heavy as a car"
+        "he": "400–700 ק״ג ו-2.5 מטר — הדוב הגדול בעולם",
+        "en": "400–700 kg and 2.5 m — the biggest bear there is"
+      },
+      "speed": {
+        "he": "40 קמ״ש על הקרח, ו-10 קמ״ש בשחייה שנמשכת ימים",
+        "en": "40 km/h on the ice, and 10 km/h swimming for days on end"
       },
       "eatsIds": [
         "seal",
@@ -5633,18 +5798,18 @@
         ],
         "sound": {
           "path": "audio/sounds/polar_bear.ogg",
-          "sha256": "2fc813d5658479b3d4cac445d4da7c05fd95b18c27b09b1a06285d37f1a7d525",
+          "sha256": "a5c9458c66248564f2f95f701cfd9d7f90c83231ad12d530ba82d15aa0677c21",
           "bytes": 30543
         },
         "nameHe": {
           "path": "audio/names/he/polar_bear.ogg",
-          "sha256": "20901c103dd7c13e2a045ea0d4fe8a38e923221c7148d2d4f9da0147dde996e9",
+          "sha256": "75f1d97eec17bd9af39e160c9186439cd3210474799cc55689c8708cb592b4ce",
           "bytes": 7226
         },
         "nameEn": {
           "path": "audio/names/en/polar_bear.ogg",
-          "sha256": "b9fed5149d9bea24c13bee1ebd33c3583a5ee00abd9150801aa9d242f8b99048",
-          "bytes": 8783
+          "sha256": "cbab68c839d660b20d73150f7473315b907dbaff10e3be171f001308aff2a5cf",
+          "bytes": 8734
         }
       }
     },
@@ -5686,14 +5851,22 @@
         "en": "pup"
       },
       "size": {
-        "he": "בערך בגודל של כלב רועים גדול",
-        "en": "About the size of a large shepherd dog"
+        "he": "35–50 ק״ג ובגובה 80 ס״מ",
+        "en": "35–50 kg and 80 cm tall"
+      },
+      "speed": {
+        "he": "עד 60 קמ״ש, ובקצב נוח הוא עושה 60 ק״מ ביום",
+        "en": "Up to 60 km/h, and at an easy pace it covers 60 km in a day"
       },
       "eatsIds": [
         "deer",
         "moose",
         "rabbit",
-        "mouse"
+        "mouse",
+        "sheep",
+        "goat",
+        "beaver",
+        "bison"
       ],
       "facts": {
         "he": [
@@ -5733,18 +5906,18 @@
         ],
         "sound": {
           "path": "audio/sounds/wolf.ogg",
-          "sha256": "e09e907c50e0f51cb68da194aac58f86dac31d30358a0b16c9774f170e03cb50",
+          "sha256": "5cf1a42609517b9041878571156270013931420dc39fa8950af2218f9913f2b5",
           "bytes": 21311
         },
         "nameHe": {
           "path": "audio/names/he/wolf.ogg",
-          "sha256": "8ad79d72fa616ac37e46c53611389350363606d5f000893f25049ad591f94f78",
+          "sha256": "753433ae4657c7f9a154be7373f773ead66a0b79a865bab0e0cca772fe15c981",
           "bytes": 5014
         },
         "nameEn": {
           "path": "audio/names/en/wolf.ogg",
-          "sha256": "d8ce590233302f3619a1215fe403f81ab7f43955c97e1495e1f4ad7d3559b4a1",
-          "bytes": 5181
+          "sha256": "d2ecf00fda6cbc97770c40308f6891d779acca6a44aa073cd5ef79b7fe56eb3a",
+          "bytes": 5117
         }
       }
     },
@@ -5786,14 +5959,22 @@
         "en": "kit"
       },
       "size": {
-        "he": "קטן מכלב — בערך בגודל של חתול גדול",
-        "en": "Smaller than a dog — about a big cat"
+        "he": "6–7 ק״ג ובאורך 70 ס״מ בלי הזנב",
+        "en": "6–7 kg and 70 cm without the tail"
+      },
+      "speed": {
+        "he": "עד 50 קמ״ש",
+        "en": "Up to 50 km/h"
       },
       "eatsIds": [
         "mouse",
         "rabbit",
         "sparrow",
-        "frog"
+        "frog",
+        "squirrel",
+        "chipmunk",
+        "hamster",
+        "dove"
       ],
       "facts": {
         "he": [
@@ -5827,24 +6008,24 @@
           },
           {
             "path": "images/photos/fox-3.webp",
-            "sha256": "80be18aae809ef8623f4dde91a4785fa2cfc39ccf5ce428e328507c0d2a0befa",
-            "bytes": 128112
+            "sha256": "8a61331fabf21e88d9cc3270108367e4ba3474a2eb609b83f5ef842867b98161",
+            "bytes": 97164
           }
         ],
         "sound": {
           "path": "audio/sounds/fox.ogg",
-          "sha256": "eb64fad49dadac8247e82ffcc78d197498f3e21b1ee799a1918b0028e9cc9171",
+          "sha256": "10e5b8bf01ce9429e8511ca4fff21b1bf190db8772077ad93cf48e3ca0570496",
           "bytes": 30219
         },
         "nameHe": {
           "path": "audio/names/he/fox.ogg",
-          "sha256": "424efd2c0aa233c9e91a6b2cb1d65efb5abd1591d7c86039ad7b23d323bdac87",
+          "sha256": "0670a96401b895a5d6524a0e5aa5025cffe48ed810e45d44734c1cc659509b27",
           "bytes": 5376
         },
         "nameEn": {
           "path": "audio/names/en/fox.ogg",
-          "sha256": "f0c3ef8b5f6ae3c5a7f17aa6d3f37157feb96011ef2b1f4bb17ad0814a12331d",
-          "bytes": 6922
+          "sha256": "4177a3dd62790909e8a4cbffb728685edd219a810f067670b51d2a7de08645c0",
+          "bytes": 6896
         }
       }
     },
@@ -5886,8 +6067,12 @@
         "en": "fawn"
       },
       "size": {
-        "he": "מגיע עד החזה של אבא",
-        "en": "Comes up to a grown-up's chest"
+        "he": "100–200 ק״ג, ובגובה 1.2 מטר עד הכתף",
+        "en": "100–200 kg, and 1.2 m to the shoulder"
+      },
+      "speed": {
+        "he": "עד 70 קמ״ש, וקופץ מעל גדר של שני מטרים",
+        "en": "Up to 70 km/h, and it clears a two-metre fence"
       },
       "facts": {
         "he": [
@@ -5921,24 +6106,24 @@
           },
           {
             "path": "images/photos/deer-3.webp",
-            "sha256": "96df62f598a6dfdaa678f0d3f8c9086eaca2ca8bbf0f2ee04d25b6a781dac20d",
-            "bytes": 163216
+            "sha256": "760d9c53aef83ac8bc0936a7916759052d7542db1f2dd2831a3de571563c4bf1",
+            "bytes": 115356
           }
         ],
         "sound": {
           "path": "audio/sounds/deer.ogg",
-          "sha256": "21a4716781e8cabb015eb16609f2fd62b6f5e225ad905a294c36e4942711539a",
+          "sha256": "aebda0fcd456938a0a118dedfe0b5851ac6f716c5071b9bf7c7f057e23f10c6a",
           "bytes": 8308
         },
         "nameHe": {
           "path": "audio/names/he/deer.ogg",
-          "sha256": "1f9c2ec5ed739b6d23900a0f67ce53831d5e0403f5d2259ec5d51878d79c2b7b",
+          "sha256": "683c51364524c9fec8e5cbb71b876a07c0355fe41983637e107218079f94620f",
           "bytes": 6098
         },
         "nameEn": {
           "path": "audio/names/en/deer.ogg",
-          "sha256": "6cde4a385f1718885d966f3471d57fd7d813467f3506069798a65131655898a8",
-          "bytes": 6457
+          "sha256": "71d4b5118214d6f25c3ffd8fe5f6d277dd49720ae36e4e5911a5f0aa14760338",
+          "bytes": 6215
         }
       }
     },
@@ -5980,8 +6165,12 @@
         "en": "calf"
       },
       "size": {
-        "he": "הכי גדול במשפחת האיילים — גבוה ממכונית",
-        "en": "The biggest deer of all — taller than a car"
+        "he": "400–700 ק״ג ובגובה שני מטרים — הגדול במשפחת האיילים",
+        "en": "400–700 kg and two metres tall — the biggest of all the deer"
+      },
+      "speed": {
+        "he": "עד 56 קמ״ש, גם בשלג עמוק",
+        "en": "Up to 56 km/h, even through deep snow"
       },
       "facts": {
         "he": [
@@ -6021,18 +6210,18 @@
         ],
         "sound": {
           "path": "audio/sounds/moose.ogg",
-          "sha256": "bd50ab3c4a41fd98bb9205da9d3a1154a019d6ef4a7aa4d35888ef0b77de0edd",
+          "sha256": "2b5612bf687a258bd634d313afc90a2344cfd9ec390c3963085a1cb2a2e616cf",
           "bytes": 28003
         },
         "nameHe": {
           "path": "audio/names/he/moose.ogg",
-          "sha256": "186b0f61c40efd201f8be7567c65df2f6339b78f6c0f80dd26952646d16fa893",
+          "sha256": "783c7a0a340d55249635cdc65b825a41632e926c20e958b08e023472d6144264",
           "bytes": 5226
         },
         "nameEn": {
           "path": "audio/names/en/moose.ogg",
-          "sha256": "c0e7cb489e0f6852f14012803cc847ade25e92eb24358fd447d21146f98b3a82",
-          "bytes": 6533
+          "sha256": "e6b61227d7adebf7882034354827629aafa055efb6eee9cf39372ea36eab2c44",
+          "bytes": 6737
         }
       }
     },
@@ -6074,8 +6263,12 @@
         "en": "hoglet"
       },
       "size": {
-        "he": "נכנס בתוך כף יד",
-        "en": "Fits in the palm of a hand"
+        "he": "600–1,000 גרם ובאורך 25 ס״מ",
+        "en": "600–1,000 g and 25 cm long"
+      },
+      "speed": {
+        "he": "עד 6 קמ״ש, והולך שני קילומטרים בלילה אחד",
+        "en": "Up to 6 km/h, and it walks two kilometres in a night"
       },
       "eatsIds": [
         "snail",
@@ -6106,34 +6299,34 @@
         "photos": [
           {
             "path": "images/photos/hedgehog-1.webp",
-            "sha256": "d75b306bbdd48dfdb8aedea2fac10f022cc75b162914761d6df8310d339c7fb7",
-            "bytes": 99560
-          },
-          {
-            "path": "images/photos/hedgehog-2.webp",
             "sha256": "34e5d9ef6c9994c40954a999331e8edf803fff0085ad2c5c79b17b104082cd02",
             "bytes": 88000
           },
           {
+            "path": "images/photos/hedgehog-2.webp",
+            "sha256": "185ba6a1b79e6822b0e54367df4c76733500cb176d64ce0385b470c61c810c95",
+            "bytes": 137710
+          },
+          {
             "path": "images/photos/hedgehog-3.webp",
-            "sha256": "eca20cc47d8d392d374a52663f4a21d0fcd538c0aada43220bb2b8025e4b7623",
-            "bytes": 222484
+            "sha256": "b9e0005501e6e9dce63c76c83f1cd2a245caa788d7ecd0fa062e0cf697aff3d0",
+            "bytes": 93318
           }
         ],
         "sound": {
           "path": "audio/sounds/hedgehog.ogg",
-          "sha256": "9d3994b726182c2da115b9379ed165f377efbba40d8bc61d228496d7c0dbaccb",
+          "sha256": "318421f70c48d4d70d0e92bda428a6871724a92bc9c38f26e047318740eb5537",
           "bytes": 32536
         },
         "nameHe": {
           "path": "audio/names/he/hedgehog.ogg",
-          "sha256": "78af128203c6cd04e4ec315b59e6617938de19eba6cf4149677bcfa6279d0017",
+          "sha256": "256e2b0a182805e21fdba421739d4b6e4c026a079115adbf95fdfbb4c23ee4f2",
           "bytes": 6966
         },
         "nameEn": {
           "path": "audio/names/en/hedgehog.ogg",
-          "sha256": "efb8f85d12a63b7b3de1584646da7a6e253217b6c5ac407bd17482e68796cb0f",
-          "bytes": 7029
+          "sha256": "64c7d25bb843d1146e1c033978b2b3c441b9015c487502dfdb495fbc8b354d89",
+          "bytes": 7222
         }
       }
     },
@@ -6175,8 +6368,12 @@
         "en": "kit"
       },
       "size": {
-        "he": "בערך בגודל של בקבוק קטן",
-        "en": "About the size of a small bottle"
+        "he": "300–600 גרם ובאורך 25 ס״מ בלי הזנב",
+        "en": "300–600 g and 25 cm without the tail"
+      },
+      "speed": {
+        "he": "עד 20 קמ״ש, וקופץ שישה מטרים בין ענפים",
+        "en": "Up to 20 km/h, and it leaps six metres between branches"
       },
       "facts": {
         "he": [
@@ -6216,18 +6413,18 @@
         ],
         "sound": {
           "path": "audio/sounds/squirrel.ogg",
-          "sha256": "e30d4fbd6148d1bac9f9d0bbd2202282116da7ce683bff38a1c6a4521ae8213a",
+          "sha256": "d8af21fbad2ab2b719489f795c76ab8402a1265d7815edb49e3f6c0b19f7515a",
           "bytes": 31608
         },
         "nameHe": {
           "path": "audio/names/he/squirrel.ogg",
-          "sha256": "71b0d4d42b35eb82701e7fe23029c7bdfca5021c0b226681d5b3f0dadc2051b7",
+          "sha256": "5afe14c049de214892276694b10491fe77f4c9cd9eaf01f2514be7edee902abe",
           "bytes": 6516
         },
         "nameEn": {
           "path": "audio/names/en/squirrel.ogg",
-          "sha256": "8ebc4270cbea2ad8bfe573109f12e95b8639f19ed20d0ce838e17ae5470f6d5c",
-          "bytes": 7556
+          "sha256": "7a20344395f01652a6cff37e971e48a4845ebee044e5e48704570fd8f90187d8",
+          "bytes": 7687
         }
       }
     },
@@ -6269,8 +6466,12 @@
         "en": "cub"
       },
       "size": {
-        "he": "בערך בגודל של כלב קטן ושמן",
-        "en": "About the size of a short, stout dog"
+        "he": "10–12 ק״ג ובאורך 80 ס״מ",
+        "en": "10–12 kg and 80 cm long"
+      },
+      "speed": {
+        "he": "עד 30 קמ״ש, אבל היא בעיקר חופרת",
+        "en": "Up to 30 km/h, but mostly it digs"
       },
       "eatsIds": [
         "mouse",
@@ -6314,18 +6515,18 @@
         ],
         "sound": {
           "path": "audio/sounds/badger.ogg",
-          "sha256": "644a7d1381c0c6077e3961a17a12386304fc61a2af1b306b646814fd34630c18",
+          "sha256": "2721bd620d41a8f2dcd60fc99449bc53e2cf1f65f0e704264872b18c8cbb08ad",
           "bytes": 30422
         },
         "nameHe": {
           "path": "audio/names/he/badger.ogg",
-          "sha256": "7a4e3d799fbfe6b56ce790efa6713940ead6f895245c56dfca0fb0faab945a28",
+          "sha256": "afe18f9fd4e88813f5a51179b993c618aaaf25a9bb8ab260f99b6768a1046e1c",
           "bytes": 7315
         },
         "nameEn": {
           "path": "audio/names/en/badger.ogg",
-          "sha256": "2b57d24f0a95f62ca7f2660b630131ff72469bc45a89ad2f1e17087f06b7f0ce",
-          "bytes": 6987
+          "sha256": "107a99fb604e74e5a73f6fda7e1d50afc000370615896b8287d089845ee47756",
+          "bytes": 6886
         }
       }
     },
@@ -6367,8 +6568,12 @@
         "en": "kit"
       },
       "size": {
-        "he": "בערך בגודל של חתול שמן מאוד",
-        "en": "About the size of a very plump cat"
+        "he": "18–25 ק״ג ובאורך מטר עם הזנב — המכרסם השני בגודלו בעולם",
+        "en": "18–25 kg and a metre long with the tail — the second largest rodent in the world"
+      },
+      "speed": {
+        "he": "8 קמ״ש על היבשה ו-10 במים, שם הוא בבית",
+        "en": "8 km/h on land and 10 in the water, where it belongs"
       },
       "facts": {
         "he": [
@@ -6392,29 +6597,29 @@
         "photos": [
           {
             "path": "images/photos/beaver-1.webp",
-            "sha256": "f9a82dd28a2a08970531894a94e52b55dd49106939aa57ca29e56568b353dd4d",
-            "bytes": 154460
+            "sha256": "1130e2cc6254c37348070c3e33d5129d28e70205e9559f49f6e796a857edb0ec",
+            "bytes": 26190
           },
           {
             "path": "images/photos/beaver-2.webp",
-            "sha256": "a8bb024ccd9e83a94551426af1b929502c02ad749e5dc84f412be0918df519aa",
-            "bytes": 93528
+            "sha256": "75247ecdf1a2bceec7285b73ac2bc4a39e985dcc32f0ed7220cda56a7ea2bf27",
+            "bytes": 86968
           },
           {
             "path": "images/photos/beaver-3.webp",
-            "sha256": "c29c193a6998f422735aa76edb7088ed7195830528409ba2b22cc3fec0cb08e1",
-            "bytes": 140752
+            "sha256": "e78366eaf57b67934444968f703eec0d13db8cd9658f081a4a8b71acabaf03bd",
+            "bytes": 142924
           }
         ],
         "nameHe": {
           "path": "audio/names/he/beaver.ogg",
-          "sha256": "813f5eedba6ec270435e4eb91f8670d80b39dba975ac8ed9d3aafc661b6484a6",
+          "sha256": "5af826f9a32d080b574685372fbae58d3dbfb4020e781826223d2a2b71a67734",
           "bytes": 5581
         },
         "nameEn": {
           "path": "audio/names/en/beaver.ogg",
-          "sha256": "4d7b9d4b27930d8bed0ecb40580f9d7e161a61c216396b1c3e8ed0be3fed3ade",
-          "bytes": 6462
+          "sha256": "1913de489472bc56363f6f1e8a103b3a18b6b4eee4acba01b6e998f5f31cb9f9",
+          "bytes": 6159
         }
       }
     },
@@ -6456,8 +6661,12 @@
         "en": "pup"
       },
       "size": {
-        "he": "ארוכה כמו זרוע של אבא",
-        "en": "As long as a grown-up's arm"
+        "he": "7–12 ק״ג ובאורך מטר עם הזנב",
+        "en": "7–12 kg and a metre long with the tail"
+      },
+      "speed": {
+        "he": "11 קמ״ש בשחייה",
+        "en": "11 km/h swimming"
       },
       "eatsIds": [
         "fish",
@@ -6502,18 +6711,18 @@
         ],
         "sound": {
           "path": "audio/sounds/otter.ogg",
-          "sha256": "0982445abf5fd80f9e5b7a742d205695ccdd3a8d665546dc5fd99e3a756e4a3c",
+          "sha256": "c6b2385aaa35edc898bc5b757c819d26591f44208eb22ce74e3ff8af933afd36",
           "bytes": 29325
         },
         "nameHe": {
           "path": "audio/names/he/otter.ogg",
-          "sha256": "9bfe7732805cd511914f2337634b0cbfce8694b75fc7669e68ccf371d0440e56",
+          "sha256": "e3fc69aa4beeac1ffa5b5c3156f6d2b53d5602592051038adcdbba1c1f223968",
           "bytes": 5975
         },
         "nameEn": {
           "path": "audio/names/en/otter.ogg",
-          "sha256": "729e96c441da3f8347ddee247f81d8ad131cbb582d97071ebabb3cf7cda15573",
-          "bytes": 5230
+          "sha256": "f9a700ce4cac0929fe39b3f9c562ead8c23cb4437569b663b70faefc11144cec",
+          "bytes": 5467
         }
       }
     },
@@ -6555,14 +6764,21 @@
         "en": "owlet"
       },
       "size": {
-        "he": "יש קטנים ככוס ויש בגודל של חתול",
-        "en": "Some cup-sized, some as big as a cat"
+        "he": "300–600 גרם, ומוטת כנפיים של מטר",
+        "en": "300–600 g, with a one-metre wingspan"
+      },
+      "speed": {
+        "he": "עד 60 קמ״ש — ובלי שום רעש",
+        "en": "Up to 60 km/h — and without a sound"
       },
       "eatsIds": [
         "mouse",
         "bat",
         "sparrow",
-        "frog"
+        "frog",
+        "squirrel",
+        "chipmunk",
+        "hamster"
       ],
       "facts": {
         "he": [
@@ -6591,29 +6807,29 @@
           },
           {
             "path": "images/photos/owl-2.webp",
-            "sha256": "1a2c884880ea8432b4e6158b342af7dea494cf74a71d4e26bb1c6cb4d134cea1",
-            "bytes": 40098
+            "sha256": "bc788d689f5400cb92dd097d941ad9add923e6b055b2fb785ba0bd9c8e0a4e32",
+            "bytes": 95924
           },
           {
             "path": "images/photos/owl-3.webp",
-            "sha256": "400520ab0b5e9bb4f2fa67afcddefda62b5d75b4a91cd7bec826c3d3c995723d",
-            "bytes": 57932
+            "sha256": "d112cb2c61d7a043c8c0153c7b159bee78ca5ee50e60ded5a4785813ef8a2fed",
+            "bytes": 43398
           }
         ],
         "sound": {
           "path": "audio/sounds/owl.ogg",
-          "sha256": "8f02908498602b1c038893576ec15f368ab434683d7f8d765c609d2225ad005b",
+          "sha256": "e2dfaada4c3edf88c0b323610703ebc89c6e3088ca5ec17e909c7890139a7d58",
           "bytes": 28347
         },
         "nameHe": {
           "path": "audio/names/he/owl.ogg",
-          "sha256": "98079a83ca7dc5da8e3dcf416159924f3a4f2bae7c82ea5b6358ff52b11fcdcb",
+          "sha256": "f32d0fe30b6a3157b5c6b0663945cfa7c5da845f3acda0e84d524a0841863506",
           "bytes": 6793
         },
         "nameEn": {
           "path": "audio/names/en/owl.ogg",
-          "sha256": "c1a9826ba24c1c70efbdd5722d473aea1ef45945e0e5ffe682390ec80381cf66",
-          "bytes": 5723
+          "sha256": "bb56b5db13b5bd67611cf7805ecc0de1accaf75b96e735432b829cfedff4f961",
+          "bytes": 5765
         }
       }
     },
@@ -6655,14 +6871,20 @@
         "en": "eaglet"
       },
       "size": {
-        "he": "כשהוא פורש כנפיים — רחב כמו מיטה",
-        "en": "Wings open — as wide as a bed"
+        "he": "4–6 ק״ג, ומוטת כנפיים של 2.2 מטר",
+        "en": "4–6 kg, with a 2.2 m wingspan"
+      },
+      "speed": {
+        "he": "50 קמ״ש בדאייה, ובצלילה על טרף עד 240 קמ״ש",
+        "en": "50 km/h soaring, and up to 240 km/h in a dive"
       },
       "eatsIds": [
         "fish",
         "rabbit",
         "snake",
-        "mouse"
+        "mouse",
+        "squirrel",
+        "dove"
       ],
       "facts": {
         "he": [
@@ -6691,29 +6913,29 @@
           },
           {
             "path": "images/photos/eagle-2.webp",
-            "sha256": "b7b03e255ff13792ec39d2fae5254e16ba854295a7bf4f28ed4c620837d80499",
-            "bytes": 26296
+            "sha256": "e02380bfc2c710ed863ff85a2b268a1c23b47b5c4cfecc69e69079ebc132cac0",
+            "bytes": 49914
           },
           {
             "path": "images/photos/eagle-3.webp",
-            "sha256": "133ff6ff15969d0a73546d9239cdfaa25fc561623216afb6393008aa20b3e294",
-            "bytes": 23572
+            "sha256": "1c4b04516eee3a93f1327dacf1475eb9d12a12c0eb3622802d36e864f86921e5",
+            "bytes": 83296
           }
         ],
         "sound": {
           "path": "audio/sounds/eagle.ogg",
-          "sha256": "9a3c5fbb4aabe2a15df6e42711e810cef918c53cdabc8395e7ce47a880ef74df",
+          "sha256": "397e0fc0f5f471c389494fe1b544f2992d7b5375d7d27c80aabba7e0427c6ad9",
           "bytes": 27962
         },
         "nameHe": {
           "path": "audio/names/he/eagle.ogg",
-          "sha256": "37ed9c3560e1fdbcf2c10682f350a23453e256c38d0fa3451d6e3b85cf4e0a77",
+          "sha256": "7e94efe28522cee0868690c1d0c93e9d9f096103159e9605dba91a98473e9b5c",
           "bytes": 5433
         },
         "nameEn": {
           "path": "audio/names/en/eagle.ogg",
-          "sha256": "ad75b4dea148ca5a38205689fb55c013b8ce78400c764c0ddd63ad8bb5fd3746",
-          "bytes": 6357
+          "sha256": "7e857e72f3c72025806db3e0b094ca79cfc5850ff9f457118303e6d8c4be8021",
+          "bytes": 6301
         }
       }
     },
@@ -6755,8 +6977,12 @@
         "en": "kit"
       },
       "size": {
-        "he": "בערך בגודל של חתול גדול",
-        "en": "About the size of a large cat"
+        "he": "5–10 ק״ג ובאורך 60 ס״מ",
+        "en": "5–10 kg and 60 cm long"
+      },
+      "speed": {
+        "he": "עד 24 קמ״ש, ומטפס מהר יותר משהוא רץ",
+        "en": "Up to 24 km/h, and it climbs faster than it runs"
       },
       "eatsIds": [
         "fish",
@@ -6791,29 +7017,29 @@
           },
           {
             "path": "images/photos/raccoon-2.webp",
-            "sha256": "032f6e062a3a7bb23f51f915ccca1cada3957aba83ea4392f4d244fb05143562",
-            "bytes": 131080
+            "sha256": "2f770fbc6b526bd1e957f7cd8db9cc007823b2d74d03fba93a6dc8dafa499284",
+            "bytes": 96500
           },
           {
             "path": "images/photos/raccoon-3.webp",
-            "sha256": "2f770fbc6b526bd1e957f7cd8db9cc007823b2d74d03fba93a6dc8dafa499284",
-            "bytes": 96500
+            "sha256": "177b5fea090e5de77f0957c77f38d6bd5d33b0c2a4473c40b7733df41dd44833",
+            "bytes": 157078
           }
         ],
         "sound": {
           "path": "audio/sounds/raccoon.ogg",
-          "sha256": "507b0f0d084efc1b5f1c26380ba270ba6038ddd937aabf8bcf65aa3162c26a7c",
+          "sha256": "fb99821516c88463865894222b77256cb04a6d66f96ecb9e9cd8263f8121af52",
           "bytes": 28870
         },
         "nameHe": {
           "path": "audio/names/he/raccoon.ogg",
-          "sha256": "316a14af426403e36f32202d05a84eee207e826b020a9cd1187536980b47ac54",
+          "sha256": "2eed777ec37e47fe177f4fc6c59946e8cac885e6afc9671b4220a40fbd005c06",
           "bytes": 8428
         },
         "nameEn": {
           "path": "audio/names/en/raccoon.ogg",
-          "sha256": "a1b0a8500215c9a94a453f65991761821c50ee3735580378696c03c905ecbde2",
-          "bytes": 7713
+          "sha256": "4e713a428f528a315fc541cee9e70e076e782f6dd60db9b9642ba88b9eaa7949",
+          "bytes": 7602
         }
       }
     },
@@ -6855,8 +7081,12 @@
         "en": "calf"
       },
       "size": {
-        "he": "כבד כמו מכונית, עם ראש ענק",
-        "en": "Car-heavy, with an enormous head"
+        "he": "900–1,000 ק״ג ובגובה 1.9 מטר — הכבד ביבשת אמריקה",
+        "en": "900–1,000 kg and 1.9 m tall — the heaviest in the Americas"
+      },
+      "speed": {
+        "he": "עד 55 קמ״ש, וקופץ גבוה ממטר וחצי",
+        "en": "Up to 55 km/h, and it clears a metre and a half"
       },
       "facts": {
         "he": [
@@ -6885,29 +7115,29 @@
           },
           {
             "path": "images/photos/bison-2.webp",
-            "sha256": "64d3c3c8f60914345698fd6432e7ec29460ac1f89805687c04d16b2b24728fd1",
-            "bytes": 119906
+            "sha256": "b706fd5a581086097b324698ec026a8f3de05784934a6053d0846f632aaabd98",
+            "bytes": 196026
           },
           {
             "path": "images/photos/bison-3.webp",
-            "sha256": "b706fd5a581086097b324698ec026a8f3de05784934a6053d0846f632aaabd98",
-            "bytes": 196026
+            "sha256": "d43b6e7b47c411a654b4dca9abe4638671028c107f3e87ba296cbfaedfa1cc8e",
+            "bytes": 160914
           }
         ],
         "sound": {
           "path": "audio/sounds/bison.ogg",
-          "sha256": "5b9111532f47790ba6e1e367649b4ca0541895caac5aeabb8545ba991762cf69",
+          "sha256": "d3a4d08ade0bd229ee5e2f3fbb129f4ad7a99786ad095a96abee6d5461483ba3",
           "bytes": 21738
         },
         "nameHe": {
           "path": "audio/names/he/bison.ogg",
-          "sha256": "652437f20a39003a4159d6ac898d79c47e31850db56cded5d4770628e447a28a",
+          "sha256": "2299b320f17317a1eca2f50e2962713ae0cad5fe34479499a62c873056b1b130",
           "bytes": 8456
         },
         "nameEn": {
           "path": "audio/names/en/bison.ogg",
-          "sha256": "403d681ff4b6cc8b99306361c7c16ec7d57c6d6abee30e20e926fa2da5046974",
-          "bytes": 6767
+          "sha256": "9b6944265fa9f8332ca818f462c5b8f34d9329567f8172c39955060aafb16632",
+          "bytes": 6618
         }
       }
     },
@@ -6949,8 +7179,12 @@
         "en": "kit"
       },
       "size": {
-        "he": "בערך בגודל של חתול",
-        "en": "About the size of a cat"
+        "he": "3–5 ק״ג ובאורך 60 ס״מ",
+        "en": "3–5 kg and 60 cm long"
+      },
+      "speed": {
+        "he": "עד 16 קמ״ש — הוא לא צריך לברוח מהר",
+        "en": "Up to 16 km/h — it has no need to run away fast"
       },
       "eatsIds": [
         "bee",
@@ -6985,24 +7219,24 @@
           },
           {
             "path": "images/photos/skunk-2.webp",
-            "sha256": "2e392af478a6cfccac93440d2dfcec005aa7d7bd033157d0946ac25b9966ac5a",
-            "bytes": 151724
+            "sha256": "174c3a682f37a418f2532c3dbcc4711c7659975a1e902d8757b1407525ad3664",
+            "bytes": 59258
           },
           {
             "path": "images/photos/skunk-3.webp",
-            "sha256": "174c3a682f37a418f2532c3dbcc4711c7659975a1e902d8757b1407525ad3664",
-            "bytes": 59258
+            "sha256": "563db23bbcf32b3cf7cc5c37a8b30be8a26b0982c3845c16c0bfddaa88b4aa90",
+            "bytes": 96290
           }
         ],
         "nameHe": {
           "path": "audio/names/he/skunk.ogg",
-          "sha256": "b7895c5a70d2c26ab9d5cd758f699f8219982460cb6b93c8c7edc0d16f6fbd23",
+          "sha256": "ba334d7308add867fddd48450e1ab06548bc58faa068a77a11b60ea3dcdb9360",
           "bytes": 6058
         },
         "nameEn": {
           "path": "audio/names/en/skunk.ogg",
-          "sha256": "17ead8a9cfdae0afa05fbf7c61849c544555d9f8877bcecbf1540a5236d44943",
-          "bytes": 7056
+          "sha256": "c4ca1b9de3340050280ad8f2c9090aa04ef2c9eaf9b8c153b9712ad118248ad2",
+          "bytes": 7325
         }
       }
     },
@@ -7044,8 +7278,12 @@
         "en": "joey"
       },
       "size": {
-        "he": "כשהוא עומד — גבוה כמו אבא",
-        "en": "Standing up — as tall as a grown-up"
+        "he": "60–90 ק״ג ובגובה 1.6 מטר כשהוא עומד",
+        "en": "60–90 kg and 1.6 m standing"
+      },
+      "speed": {
+        "he": "עד 70 קמ״ש, בקפיצות של תשעה מטרים",
+        "en": "Up to 70 km/h, in nine-metre bounds"
       },
       "facts": {
         "he": [
@@ -7085,13 +7323,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/kangaroo.ogg",
-          "sha256": "3d23b3adf21a3e39a1a5238c60a6032ae26238fb996c81dc5d3e572ea058d162",
+          "sha256": "689015fee38ff8bda05ce82e8fc09683073f0f7871c4c506aadb4d6209f6ed4c",
           "bytes": 6390
         },
         "nameEn": {
           "path": "audio/names/en/kangaroo.ogg",
-          "sha256": "004b5a6b67dc480b34cee2cc904ec786804d3154cc876034e6dffba8ea229344",
-          "bytes": 7534
+          "sha256": "4c38a974567a66ff0cd2c940fc2a00dee540bad7f7e93733a41674a94c494dfc",
+          "bytes": 7120
         }
       }
     },
@@ -7133,8 +7371,12 @@
         "en": "joey"
       },
       "size": {
-        "he": "בערך בגודל של כרית גדולה",
-        "en": "About the size of a big cushion"
+        "he": "8–14 ק״ג ובאורך 75 ס״מ",
+        "en": "8–14 kg and 75 cm long"
+      },
+      "speed": {
+        "he": "עד 30 קמ״ש לרגע אחד, ואז חזרה לישון",
+        "en": "Up to 30 km/h for one moment, then back to sleep"
       },
       "facts": {
         "he": [
@@ -7174,13 +7416,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/koala.ogg",
-          "sha256": "8d2041a7aa82995b66b5ad50e45817ad40b2240ec224b940e507a65ea320204d",
+          "sha256": "1d56663d559a80487b1dc92e7c35e2ebf5cab6545914776da58add32204be609",
           "bytes": 4939
         },
         "nameEn": {
           "path": "audio/names/en/koala.ogg",
-          "sha256": "42bdf4e34e8363e5d98e44db181b59fec59695e300da009e4638cf50413573c1",
-          "bytes": 7438
+          "sha256": "7f9acd67173f1dbb44f6cc9b9b9ccfb87cd9bf3b2c1b422515b0991dc0e6c6ab",
+          "bytes": 7565
         }
       }
     },
@@ -7222,8 +7464,12 @@
         "en": "pup"
       },
       "size": {
-        "he": "בערך בגודל של חתול, ותלוי הפוך",
-        "en": "Cat-sized, and upside down"
+        "he": "4–8 ק״ג ובאורך 60 ס״מ",
+        "en": "4–8 kg and 60 cm long"
+      },
+      "speed": {
+        "he": "רבע קילומטר בשעה — כארבעה מטרים בדקה, האיטי בעולם",
+        "en": "A quarter of a kilometre an hour — about four metres a minute, the slowest there is"
       },
       "facts": {
         "he": [
@@ -7247,29 +7493,29 @@
         "photos": [
           {
             "path": "images/photos/sloth-1.webp",
-            "sha256": "0a16a65f423bdaa20d2e6695c1fb3a45f2f76ae0a43d95ea0dd06f8971a00224",
-            "bytes": 98240
-          },
-          {
-            "path": "images/photos/sloth-2.webp",
             "sha256": "922852e9e3364f4d64905b41736750caae425117c66261509057433d22a90169",
             "bytes": 159502
           },
           {
-            "path": "images/photos/sloth-3.webp",
+            "path": "images/photos/sloth-2.webp",
             "sha256": "7d582fee1769efa12f526feb8d917a151df3ddc9c651af0f1d064855c4c8c97a",
             "bytes": 193558
+          },
+          {
+            "path": "images/photos/sloth-3.webp",
+            "sha256": "c8da4c88ba52cbe7709ab584e8867fde84d45eb0632ab44ce788f22a370f8e26",
+            "bytes": 196526
           }
         ],
         "nameHe": {
           "path": "audio/names/he/sloth.ogg",
-          "sha256": "d93a4c4401f775765c7b2c7213cd313c7d02ceffce2a9debf0794c3a3fbc62c8",
+          "sha256": "8b4d5d65bcec65aad8883ed80ed606fe3ca7fe1375206b6563de7c1eeb5557ff",
           "bytes": 5683
         },
         "nameEn": {
           "path": "audio/names/en/sloth.ogg",
-          "sha256": "b84e7d4ed7a91f10d04b439317b885596c0c5c4b1b81d91ea8059d6fe115238c",
-          "bytes": 6663
+          "sha256": "4975aa1fb81605b378da972f0b3e9f73b3d45fcce67c89909a0e499617cc2004",
+          "bytes": 6813
         }
       }
     },
@@ -7311,8 +7557,12 @@
         "en": "cria"
       },
       "size": {
-        "he": "גבוהה כמעט כמו אבא",
-        "en": "Almost as tall as a grown-up"
+        "he": "130–200 ק״ג ובגובה 1.8 מטר עד הראש",
+        "en": "130–200 kg and 1.8 m to the head"
+      },
+      "speed": {
+        "he": "עד 45 קמ״ש, עם משא על הגב",
+        "en": "Up to 45 km/h, with a load on its back"
       },
       "facts": {
         "he": [
@@ -7352,18 +7602,18 @@
         ],
         "sound": {
           "path": "audio/sounds/llama.ogg",
-          "sha256": "3c5965910bf2ad858afe1cc6aee9dbc55449876695dea45f990216fc20e6ba99",
+          "sha256": "3d62688cad8d14cc84ffc345cdf048fe50a2b6bb4b9ab5a5236edbb3d82f9fa6",
           "bytes": 30591
         },
         "nameHe": {
           "path": "audio/names/he/llama.ogg",
-          "sha256": "e9eb41bf68cdf98bc741a45e9af460ad9fa1648384856ed685a3398238b22ed6",
+          "sha256": "4f478021619fbee8635c84f4513e97a11359f103c9a32074457724f969ee18d2",
           "bytes": 6974
         },
         "nameEn": {
           "path": "audio/names/en/llama.ogg",
-          "sha256": "7f45ca87bef954fa0598df92de8f4d1b9c2d18368ed3afe332f87d7d29d498c9",
-          "bytes": 6414
+          "sha256": "9adbe07e2b7bf3da5f814727977e1fce1468da4f5db31a11ef03ea744712fb67",
+          "bytes": 6089
         }
       }
     },
@@ -7405,8 +7655,12 @@
         "en": "cria"
       },
       "size": {
-        "he": "קצת נמוכה מלמה",
-        "en": "A little shorter than a llama"
+        "he": "55–85 ק״ג ובגובה 90 ס״מ עד הכתף",
+        "en": "55–85 kg and 90 cm to the shoulder"
+      },
+      "speed": {
+        "he": "עד 40 קמ״ש",
+        "en": "Up to 40 km/h"
       },
       "facts": {
         "he": [
@@ -7446,18 +7700,18 @@
         ],
         "sound": {
           "path": "audio/sounds/alpaca.ogg",
-          "sha256": "d0e8ffe76f96e864018841d6c605fecda90fc9a7adc932021e559330c07e2ae2",
+          "sha256": "e2da4166e733bbc97fc25f726c519dd09e1fb26751130ddac2ffc81abb90c77d",
           "bytes": 7025
         },
         "nameHe": {
           "path": "audio/names/he/alpaca.ogg",
-          "sha256": "1576d219d00a54f4cbd3a5aa539b0160566de54e89d99a01738eb51745fced94",
+          "sha256": "75fbb93aa605ef5688ed5b5b34b0a54188de8d3ddac631a6aa1dfad4c7653e7f",
           "bytes": 5359
         },
         "nameEn": {
           "path": "audio/names/en/alpaca.ogg",
-          "sha256": "926ecf849549bfb9c02bfa324ef54e77243d88059fd0d2cdf3e3eef5de7563d9",
-          "bytes": 7951
+          "sha256": "6ac7d8f80d9cdbed1e611345e5abe7ee2589ee82d709fd3553c3b8ff302ec8fe",
+          "bytes": 8200
         }
       }
     },
@@ -7499,8 +7753,12 @@
         "en": "chick"
       },
       "size": {
-        "he": "בערך בגודל של חתול קטן, חצי מזה מקור",
-        "en": "About the size of a small cat, half of it beak"
+        "he": "500–700 גרם, והמקור לבדו באורך 20 ס״מ",
+        "en": "500–700 g, with a beak 20 cm long on its own"
+      },
+      "speed": {
+        "he": "עד 40 קמ״ש, והוא עף בקפיצות קצרות",
+        "en": "Up to 40 km/h, and it flies in short hops"
       },
       "facts": {
         "he": [
@@ -7540,18 +7798,18 @@
         ],
         "sound": {
           "path": "audio/sounds/toucan.ogg",
-          "sha256": "eb979e9e69b1a75621102bcb3868db7c3b2abdedbbad3108875a813e5bc06ad4",
+          "sha256": "e0197456adcbab8c5cb8e303efbfa2c192597af3bf933edc7328347d66c42e4b",
           "bytes": 31266
         },
         "nameHe": {
           "path": "audio/names/he/toucan.ogg",
-          "sha256": "65fecd03a2f822959fbf37bda30a7b0e8efad46f8ba107ccf33d80c18560fbf9",
+          "sha256": "03bbfcafe7ee31999ab3049e625f1cfc18fb1ddefbb0cf28e8f63082ed75fa42",
           "bytes": 5508
         },
         "nameEn": {
           "path": "audio/names/en/toucan.ogg",
-          "sha256": "134fd314a2333b013a95bb444422f67b36826740536d2412191d85f79a6a223d",
-          "bytes": 7175
+          "sha256": "aa14138f164506b5cde87c956d618ad98d419930554a6ad4444cb0829352f7dd",
+          "bytes": 7173
         }
       }
     },
@@ -7593,8 +7851,12 @@
         "en": "chick"
       },
       "size": {
-        "he": "יש קטנים כמו יד ויש בגודל של חתול",
-        "en": "Some hand-sized, some as big as a cat"
+        "he": "מ-50 גרם ועד קילו, תלוי במין",
+        "en": "From 50 g to a kilo, depending on the kind"
+      },
+      "speed": {
+        "he": "עד 56 קמ״ש",
+        "en": "Up to 56 km/h"
       },
       "facts": {
         "he": [
@@ -7618,34 +7880,34 @@
         "photos": [
           {
             "path": "images/photos/parrot-1.webp",
-            "sha256": "f1a75870b23bf2f510e17091cf4cce0bb8a1ab8d6cc554b010566eabd514e3e2",
-            "bytes": 27938
+            "sha256": "76992d23510aea247a48d8840696b8e3f487f4424486e4ab72669a6f47ce531f",
+            "bytes": 94774
           },
           {
             "path": "images/photos/parrot-2.webp",
-            "sha256": "181c27db9318b0f9c27c235b8fb13b5f6e090fa0fd381ef8a22e31b26f2e707f",
-            "bytes": 38484
+            "sha256": "2e845bc1c598ffce4f8890f4403ac551d49471ff081b531e1b64cc9cecf8890a",
+            "bytes": 61970
           },
           {
             "path": "images/photos/parrot-3.webp",
-            "sha256": "76992d23510aea247a48d8840696b8e3f487f4424486e4ab72669a6f47ce531f",
-            "bytes": 94774
+            "sha256": "a072d5d572280ef74d6ee2cbecba208483cd472741ff297791e9f1247a3dc5e6",
+            "bytes": 12888
           }
         ],
         "sound": {
           "path": "audio/sounds/parrot.ogg",
-          "sha256": "51d5d44ebfc002739a23214c3b9754a3c09a6c105ed1c35332eec9c9ecc2d43a",
+          "sha256": "975b40a7de3da189a39e7e255fbfa7482e1a9cc22cce852cb285e5e86326fad9",
           "bytes": 30597
         },
         "nameHe": {
           "path": "audio/names/he/parrot.ogg",
-          "sha256": "459bd6f8487f99a6db0dbb203b95047185a9bae69baff2ea946a5811ae0489df",
+          "sha256": "16d55a38f53589054365c60a77afca474bad8e7b6179f9513b7be987621e09ef",
           "bytes": 7214
         },
         "nameEn": {
           "path": "audio/names/en/parrot.ogg",
-          "sha256": "824286b116bf2454a6facfdd186d030edc63d8ff312bc7eca2889aafee64638d",
-          "bytes": 7222
+          "sha256": "c3e488a9ed1cb1dea7ff94af49fb663bb1111bc5ff4a822d14f0fb4a303ad05f",
+          "bytes": 7306
         }
       }
     },
@@ -7687,13 +7949,18 @@
         "en": "cub"
       },
       "size": {
-        "he": "החתול הגדול של אמריקה — ארוך כמו ספה",
-        "en": "The Americas' big cat — as long as a sofa"
+        "he": "90–120 ק״ג ובאורך 1.8 מטר",
+        "en": "90–120 kg and 1.8 m long"
+      },
+      "speed": {
+        "he": "עד 80 קמ״ש",
+        "en": "Up to 80 km/h"
       },
       "eatsIds": [
         "turtle",
         "fish",
-        "crocodile"
+        "crocodile",
+        "sloth"
       ],
       "facts": {
         "he": [
@@ -7717,34 +7984,34 @@
         "photos": [
           {
             "path": "images/photos/jaguar-1.webp",
-            "sha256": "05781043e3cedf8df35f3e1a2fe2a190ac096f9208ecdd3817448281d3b34467",
-            "bytes": 130404
-          },
-          {
-            "path": "images/photos/jaguar-2.webp",
             "sha256": "8c30d1a7170397c1dc65a8dc75f0af37cd7aae15cbe826fd7318b09daf221652",
             "bytes": 117132
           },
           {
-            "path": "images/photos/jaguar-3.webp",
+            "path": "images/photos/jaguar-2.webp",
             "sha256": "00b090bd1018a5cba7d90e92d4451cad805a2f47e014fd6e9b291cde5fc709ce",
             "bytes": 80248
+          },
+          {
+            "path": "images/photos/jaguar-3.webp",
+            "sha256": "54e03be3cb2409b59d4d2ea306a5a831ec497be9f78579de5aa656e144736d93",
+            "bytes": 214898
           }
         ],
         "sound": {
           "path": "audio/sounds/jaguar.ogg",
-          "sha256": "aa4ae232eca4785cb6d7c3b7ce7363b4083295e9a3609acc6645e1cb1e1188c3",
+          "sha256": "25df1206fc8d9cb603df7dac382a76d59465f3646de8c549af49803ec45b5e8d",
           "bytes": 17682
         },
         "nameHe": {
           "path": "audio/names/he/jaguar.ogg",
-          "sha256": "362d914c4991de5b0488e0f2584a16f94480506899d6af33cd473409c5c23f05",
+          "sha256": "7b69a9078d1388bc52beddd0aaab2eaeb94760562516406483285f78028fcb0b",
           "bytes": 6403
         },
         "nameEn": {
           "path": "audio/names/en/jaguar.ogg",
-          "sha256": "2bbb0f4ffe8ddee490319f77a6d33013721f1c0f4a2f1beffe7975fb507af080",
-          "bytes": 7079
+          "sha256": "aeca7cecb5d20ca5bb04fee3afb271762309cafa00ecfb25897de549d00a552e",
+          "bytes": 6933
         }
       }
     },
@@ -7786,8 +8053,12 @@
         "en": "chick"
       },
       "size": {
-        "he": "יש בגובה הברכיים ויש בגובה ילד",
-        "en": "Some knee-high, some child-height"
+        "he": "25–40 ק״ג ובגובה 1.2 מטר אצל הקיסרי",
+        "en": "25–40 kg and 1.2 m tall for the emperor"
+      },
+      "speed": {
+        "he": "10 קמ״ש בשחייה רגילה, ופינגווין ג'נטו מגיע ל-36",
+        "en": "10 km/h swimming normally; a gentoo reaches 36"
       },
       "eatsIds": [
         "fish",
@@ -7831,18 +8102,18 @@
         ],
         "sound": {
           "path": "audio/sounds/penguin.ogg",
-          "sha256": "fb58443c74e97a74257f055dd9ae14699b47676757077d46601d596049f8f473",
+          "sha256": "345d66403b4fe9b14851333fc71c67bcd46c01e4f4bb8edd4ab1985014675b36",
           "bytes": 29992
         },
         "nameHe": {
           "path": "audio/names/he/penguin.ogg",
-          "sha256": "8324c59d77e12962ad95c7d9e836132b45cce3f2b388e0543c07499b7b078e62",
+          "sha256": "e0310577c40b9bd85b4f888cde083b6d3f285a83eabd2aaf7e3f1a37f186f64d",
           "bytes": 8199
         },
         "nameEn": {
           "path": "audio/names/en/penguin.ogg",
-          "sha256": "ad7ac582fc47b218ce987daf59e1cfc405c2b0a2be3672221d653f35cbf6b079",
-          "bytes": 7044
+          "sha256": "9d1c8e321f66bfba88cf6c333f907dd85bf3c98f7b9d130049378313a39cc8b4",
+          "bytes": 7162
         }
       }
     },
@@ -7884,8 +8155,12 @@
         "en": "pup"
       },
       "size": {
-        "he": "נכנס בכף יד",
-        "en": "Fits in a palm"
+        "he": "80–120 גרם ובאורך 15 ס״מ בלי הזנב",
+        "en": "80–120 g and 15 cm without the tail"
+      },
+      "speed": {
+        "he": "עד 33 קמ״ש",
+        "en": "Up to 33 km/h"
       },
       "facts": {
         "he": [
@@ -7925,18 +8200,18 @@
         ],
         "sound": {
           "path": "audio/sounds/chipmunk.ogg",
-          "sha256": "eec32a28e5a36cdd1c792ad2f789b031a2280c735ace4ad807e9c63c5b3bb845",
+          "sha256": "378f4324f02225de3b7c545a1cc4143546d6d953462a9ae90dfad84dd76e91f1",
           "bytes": 22695
         },
         "nameHe": {
           "path": "audio/names/he/chipmunk.ogg",
-          "sha256": "7251d2f163b80e059f8c8136ab43fddee0edfb831dce51c8ea1a2bf5e3cf62f7",
+          "sha256": "51d53cbb0c8734cba950509d3c18839c07cb4c2fcbdb10f34a7d86ce7fd39d94",
           "bytes": 8336
         },
         "nameEn": {
           "path": "audio/names/en/chipmunk.ogg",
-          "sha256": "06648f8f2a48ceb79b3cf5ea18727afb9b8ed7bbc7bb9f27d81dd30e240b0f00",
-          "bytes": 7220
+          "sha256": "462a731e9d3d84955f6d13e51e1d652559fa64addfa79be2852aa910fc0a1d3d",
+          "bytes": 7280
         }
       }
     },
@@ -7978,8 +8253,12 @@
         "en": "calf"
       },
       "size": {
-        "he": "ארוך כמו מכונית",
-        "en": "As long as a car"
+        "he": "200–300 ק״ג ובאורך 2.5–4 מטר",
+        "en": "200–300 kg and 2.5–4 m long"
+      },
+      "speed": {
+        "he": "עד 40 קמ״ש, וקופץ חמישה מטרים מעל המים",
+        "en": "Up to 40 km/h, and it leaps five metres out of the water"
       },
       "eatsIds": [
         "fish",
@@ -8008,34 +8287,34 @@
         "photos": [
           {
             "path": "images/photos/dolphin-1.webp",
-            "sha256": "08518f82789dab85e42e963a3214c4d300d36348982fab4a44d83a3cf6521c56",
-            "bytes": 22970
+            "sha256": "e427cf237d8ee77dd640f0594bcab2da3865b62693bbc9986ced18c7794aa49f",
+            "bytes": 152798
           },
           {
             "path": "images/photos/dolphin-2.webp",
-            "sha256": "aba635acbde43f2461d78b45df3f59838038cf4ac83f8eea79c9ad4b271ffcfa",
-            "bytes": 138186
+            "sha256": "8cc5b7b3c9967c71a329c9fa0d5322dd61c72f1865bd3dea5a40c267733791df",
+            "bytes": 92898
           },
           {
             "path": "images/photos/dolphin-3.webp",
-            "sha256": "e427cf237d8ee77dd640f0594bcab2da3865b62693bbc9986ced18c7794aa49f",
-            "bytes": 152798
+            "sha256": "48ca80145645efa115e55673207447be5a7569e3fa34477ee6b60d6308df53ca",
+            "bytes": 92036
           }
         ],
         "sound": {
           "path": "audio/sounds/dolphin.ogg",
-          "sha256": "c778ded278eadd9887d469b635cc439e0e8ad50dbc26ccbe23c07ee5cfd439ac",
+          "sha256": "185b64c8dcad8d77fa05ef6422ec31c19f600465ef7d60b7fbebd51329dc7e2c",
           "bytes": 32704
         },
         "nameHe": {
           "path": "audio/names/he/dolphin.ogg",
-          "sha256": "9ee264445de70b7f29e57c9dd347a2bf76c8e28ece0a7b7483fede9a417f18e6",
+          "sha256": "28a0a1d5a8cd9b39c4ef097aa7cf28b9699a0b537b979c7b57dd85e92d428ac6",
           "bytes": 7483
         },
         "nameEn": {
           "path": "audio/names/en/dolphin.ogg",
-          "sha256": "232e2864cffcb5450ea702fad3f994fb2f3f07b64e7e7cf384a16a78e2998315",
-          "bytes": 6708
+          "sha256": "da8f89256fc413aec973c1f823f9bba63a5c443680131234dc1556971305eab5",
+          "bytes": 7477
         }
       }
     },
@@ -8077,8 +8356,12 @@
         "en": "calf"
       },
       "size": {
-        "he": "החיה הגדולה בעולם — ארוך כמו שלושה אוטובוסים",
-        "en": "The biggest animal on Earth — as long as three buses"
+        "he": "לווייתן כחול שוקל עד 150 טון ומגיע ל-30 מטר — הגדול בעולם",
+        "en": "A blue whale weighs up to 150 tonnes and reaches 30 m — the largest on Earth"
+      },
+      "speed": {
+        "he": "עד 30 קמ״ש, למרות הגודל",
+        "en": "Up to 30 km/h, for all its size"
       },
       "eatsIds": [
         "fish"
@@ -8105,34 +8388,34 @@
         "photos": [
           {
             "path": "images/photos/whale-1.webp",
-            "sha256": "8e2bd95e858d5c6edb86785efce3f60a0ff53e83292e33306bd553f2f3916cf8",
-            "bytes": 161438
-          },
-          {
-            "path": "images/photos/whale-2.webp",
             "sha256": "6201bb38d2f0e97338badfd22cfb9807407a274b29ed6b2a4e51ecb2b4850b32",
             "bytes": 66524
           },
           {
+            "path": "images/photos/whale-2.webp",
+            "sha256": "260818abe28eccaa40515053f6acfe546d50335fbf1ef4525f98a2e4d2cfc5fb",
+            "bytes": 54270
+          },
+          {
             "path": "images/photos/whale-3.webp",
-            "sha256": "eca159351ddc8727e733dbb7bac699f068ecd1e17bbfb1769b7e1b36cbc5bbce",
-            "bytes": 30208
+            "sha256": "fcd416a2dc6b329f9372c49e729a3f1888f152c784bc6bd02478e1276ff27e3a",
+            "bytes": 47504
           }
         ],
         "sound": {
           "path": "audio/sounds/whale.ogg",
-          "sha256": "fe39f07482a39ae28e0204b27217ed9345ef0e02b10076a73e8a66f57652d32a",
+          "sha256": "d359a3153d53037fd7630b792241d36487fb2c901a93a165085c9c6aa8bfd1a6",
           "bytes": 28235
         },
         "nameHe": {
           "path": "audio/names/he/whale.ogg",
-          "sha256": "f74f9da53d0cd995aacbcfa8bc91cbfe0e9236f9a9d23643f280d506d97d84c0",
+          "sha256": "6a39e3dd2f7abd7e7510be2e0d54b9b419c5c4e83777f2d1daf64d24e294dad9",
           "bytes": 6399
         },
         "nameEn": {
           "path": "audio/names/en/whale.ogg",
-          "sha256": "4fb7959958bab63f9e1bc0a0ea2390319399ed20ca79b055c31f0ba9d01e256a",
-          "bytes": 5789
+          "sha256": "fac45dd5ea237f30caa1e6e33b4c8f4475c8c5bd3023e215d96aa3647f35702c",
+          "bytes": 5676
         }
       }
     },
@@ -8174,8 +8457,12 @@
         "en": "pup"
       },
       "size": {
-        "he": "יש קטנים כמו חתול ויש ארוכים כמו אוטובוס",
-        "en": "Some cat-sized, some as long as a bus"
+        "he": "כריש לבן שוקל טון ומגיע ל-6 מטר",
+        "en": "A great white weighs a tonne and reaches 6 m"
+      },
+      "speed": {
+        "he": "40 קמ״ש, וכריש המאקו מגיע ל-70 — המהיר בים",
+        "en": "40 km/h; a mako reaches 70 — the fastest in the sea"
       },
       "eatsIds": [
         "seal",
@@ -8205,29 +8492,29 @@
         "photos": [
           {
             "path": "images/photos/shark-1.webp",
-            "sha256": "66a3db4706e7b121bcc2cb032d1294e3e20f1a85f62ef5d5d5f1571ba8679d6e",
-            "bytes": 16398
-          },
-          {
-            "path": "images/photos/shark-2.webp",
             "sha256": "9f6b808a25177269aae2a8d07aaa26353b6281cd6534b60338fc89ac83b1606f",
             "bytes": 72430
           },
           {
-            "path": "images/photos/shark-3.webp",
+            "path": "images/photos/shark-2.webp",
             "sha256": "fc999d9b63d3aa74986a17c5ff1c7039d53da208a550a28d16411613219d9763",
             "bytes": 125644
+          },
+          {
+            "path": "images/photos/shark-3.webp",
+            "sha256": "5d1f8bff204d91766eb1bf9e584028b262634bb3315323ffc045b708f7eb41ad",
+            "bytes": 13848
           }
         ],
         "nameHe": {
           "path": "audio/names/he/shark.ogg",
-          "sha256": "0fc2cb68b40f5086311d5031e3389bbb35023003230c07a140514d0a569e7711",
+          "sha256": "ae3ee825ab73c01ec87453af5779e03d0b877084a5787cbfff6662a26e7623be",
           "bytes": 7603
         },
         "nameEn": {
           "path": "audio/names/en/shark.ogg",
-          "sha256": "97958d3a6e0042b5e6e31e8b7dd5a992e45d8cde7174f0352956f6c76ca4ed02",
-          "bytes": 7109
+          "sha256": "851cd084321dea1e0d8f574c26febf335c28a6835e8e37d9c75882fd23df9f23",
+          "bytes": 7274
         }
       }
     },
@@ -8269,8 +8556,12 @@
         "en": "fry"
       },
       "size": {
-        "he": "מקטן כמו ציפורן ועד גדול כמו ילד",
-        "en": "From fingernail-small to child-sized"
+        "he": "מסנטימטר אחד ועד כמה מטרים, תלוי במין",
+        "en": "From one centimetre to several metres, depending on the kind"
+      },
+      "speed": {
+        "he": "רוב הדגים 8–15 קמ״ש, והמרלין מגיע ל-100",
+        "en": "Most fish manage 8–15 km/h; a marlin reaches 100"
       },
       "facts": {
         "he": [
@@ -8294,29 +8585,29 @@
         "photos": [
           {
             "path": "images/photos/fish-1.webp",
-            "sha256": "25ac39c18dd682b4eae23607c5cba1cea41b312a7aa0540387318011e8f4618c",
-            "bytes": 73528
+            "sha256": "f30082ac32309f45d12d7dd45280c5cf8823d5760b25f07c8d209d0c62a2dac7",
+            "bytes": 40882
           },
           {
             "path": "images/photos/fish-2.webp",
-            "sha256": "68b35eb34b9835e2bcf02cf8a104bc3df78980addadcd87dc2393de9eb3fdd59",
-            "bytes": 49270
+            "sha256": "6cf42b253a1ff46b0dcbdb7b9ae598ee5990c15f469c94479917a1819ca88dd4",
+            "bytes": 140254
           },
           {
             "path": "images/photos/fish-3.webp",
-            "sha256": "de30333b7cd448985ef3155dd7be85c624527343f5d6bc18e3e3e766900d4f44",
-            "bytes": 24932
+            "sha256": "8c1654f38b73b9f3a9f3e811d7452e9b29167732d819f937353fb9cf9289cc92",
+            "bytes": 47312
           }
         ],
         "nameHe": {
           "path": "audio/names/he/fish.ogg",
-          "sha256": "4939061158cd3cc0c2941b047f3d25acd04a0284ba777062ff89d2fe3ab81608",
+          "sha256": "f3d6db497c34ea0d2553cfd36f559fde237fc7ab36bab84ba644df8fc2db2707",
           "bytes": 4332
         },
         "nameEn": {
           "path": "audio/names/en/fish.ogg",
-          "sha256": "417677aa1a73e67a2fbd2a89106ba6510ed5bf229e3e742bb3a049198aa975ef",
-          "bytes": 4643
+          "sha256": "c03ffa3a61555f482955f6f71dadf8157f78d001654ce29ad352a7ff6d334387",
+          "bytes": 4884
         }
       }
     },
@@ -8358,8 +8649,12 @@
         "en": "hatchling"
       },
       "size": {
-        "he": "הזרועות שלו ארוכות כמו הידיים שלכם",
-        "en": "Its arms are as long as your arms"
+        "he": "3–10 ק״ג, והזרועות באורך מטר",
+        "en": "3–10 kg, with arms a metre long"
+      },
+      "speed": {
+        "he": "עד 25 קמ״ש כשהוא בורח בסילון מים",
+        "en": "Up to 25 km/h when it escapes on a jet of water"
       },
       "eatsIds": [
         "crab",
@@ -8403,13 +8698,13 @@
         ],
         "nameHe": {
           "path": "audio/names/he/octopus.ogg",
-          "sha256": "2c743db103f4c222b93a615de787cc4a04d67be0da36094f42e98cede43b6fdc",
+          "sha256": "832cf9d8e86f7917ace4dbc70db1993f5b6e4c3812b167197bf5c7828e3b8c0f",
           "bytes": 6736
         },
         "nameEn": {
           "path": "audio/names/en/octopus.ogg",
-          "sha256": "f5d9594457148e1b97727da4351df23f43e1dccdfa210947cce19ad7705386b0",
-          "bytes": 8546
+          "sha256": "1cc574faf2d063487fadaf59e46f761e73b5cf86b7cdae04cb4d39be7da59080",
+          "bytes": 8504
         }
       }
     },
@@ -8451,12 +8746,17 @@
         "en": "larva"
       },
       "size": {
-        "he": "מקטן כמו מטבע ועד רחב כמו צלחת",
-        "en": "From coin-small to plate-wide"
+        "he": "ממטבע ועד 20 ס״מ רוחב ברוב המינים",
+        "en": "From coin-sized to 20 cm across for most kinds"
+      },
+      "speed": {
+        "he": "עד 4 קמ״ש — וסרטן החוף רץ הצידה מהר מאוד",
+        "en": "Up to 4 km/h — and a ghost crab runs sideways very fast indeed"
       },
       "eatsIds": [
         "fish",
-        "snail"
+        "snail",
+        "seahorse"
       ],
       "facts": {
         "he": [
@@ -8480,29 +8780,29 @@
         "photos": [
           {
             "path": "images/photos/crab-1.webp",
-            "sha256": "5acacbb5fdd37aa7bc76b769fd0ba86aeb14a2a7ed8ecacca90d71845c5ca265",
-            "bytes": 176718
+            "sha256": "a44f0a98cd7fee2f1a284236ae32f5b9de5689a2dc05889c3fda5ae305027d11",
+            "bytes": 41006
           },
           {
             "path": "images/photos/crab-2.webp",
-            "sha256": "7a840c92136933b97e3bc5a7497e44b49fc3ab6c17b93d53f4b893ac78e4e419",
-            "bytes": 148756
+            "sha256": "1807cb095ccf27d35417a6eb0e51df25fad9e227da5be667811400cd535d8b54",
+            "bytes": 133520
           },
           {
             "path": "images/photos/crab-3.webp",
-            "sha256": "bc30a09274cdbb2710383242e5ab1abb1597b724532b17af8a31fd9eddbe3495",
-            "bytes": 96530
+            "sha256": "ab0d66e7818aeaba2c1445c22f4f59c201d691043808090e1a0548e0df58770c",
+            "bytes": 190656
           }
         ],
         "nameHe": {
           "path": "audio/names/he/crab.ogg",
-          "sha256": "ec9b45b4a08a0fbcefe8efbe6b64baf961e7e3b37acf0ca77584d6c426640af0",
+          "sha256": "aec337a9caeac5583398c260e89a9b10fd721c9a3112c3baddf58292b186b16b",
           "bytes": 6060
         },
         "nameEn": {
           "path": "audio/names/en/crab.ogg",
-          "sha256": "a0e094d583afbefe7b929e02f7dda7d19e2ae6c68a06416e4c39caf0d4283c78",
-          "bytes": 6280
+          "sha256": "3ccb1609f99f997a616bf70bb6b42a11af3b8d31b54956d75f35d9cbc5dce540",
+          "bytes": 6046
         }
       }
     },
@@ -8544,8 +8844,12 @@
         "en": "pup"
       },
       "size": {
-        "he": "ארוך כמו מיטה של ילד",
-        "en": "As long as a child's bed"
+        "he": "80–150 ק״ג ובאורך 1.8 מטר",
+        "en": "80–150 kg and 1.8 m long"
+      },
+      "speed": {
+        "he": "30 קמ״ש במים, ועל היבשה כמעט כלום",
+        "en": "30 km/h in the water, and almost nothing on land"
       },
       "eatsIds": [
         "fish",
@@ -8574,34 +8878,34 @@
         "photos": [
           {
             "path": "images/photos/seal-1.webp",
-            "sha256": "302af425844ba2152bd4a59fc24581f72fd8d2879930eca1187d9f3b9cb53c94",
-            "bytes": 62998
-          },
-          {
-            "path": "images/photos/seal-2.webp",
             "sha256": "21e73312b58f4a3ca520887224b9b7fb20625f67e8cbb32b3cecc899e96f7c7e",
             "bytes": 159896
           },
           {
-            "path": "images/photos/seal-3.webp",
+            "path": "images/photos/seal-2.webp",
             "sha256": "de0823fff540a7e70010b110130115b23bbd70c1ca18c64550f6b245a7b42b6d",
             "bytes": 149796
+          },
+          {
+            "path": "images/photos/seal-3.webp",
+            "sha256": "11b8fde73569fff9eaba4e807ce527e2b09d3a5accc1edca5b70b9fbf91e00c6",
+            "bytes": 96610
           }
         ],
         "sound": {
           "path": "audio/sounds/seal.ogg",
-          "sha256": "d22c77b95ed81510ade2be0dcf3f224c9b858762cef7e3c17c2e36a72b417cc8",
+          "sha256": "d015e7eb9ab218f7c43a60bb3c3dde7dd50441dad3ee02591bf11543034e1ddd",
           "bytes": 30709
         },
         "nameHe": {
           "path": "audio/names/he/seal.ogg",
-          "sha256": "cfd261c29bfd508b52c7805122eeca1e2050e87601fbe275494dce6ab6d9a290",
+          "sha256": "7df39bb54e503eb43ad9f662118d93b5d96781dafedee030c5a103e54f02e9ad",
           "bytes": 6845
         },
         "nameEn": {
           "path": "audio/names/en/seal.ogg",
-          "sha256": "54bbe4e79c4365b0222bec67bf178d6b5f69fe974f72f2e820996613aeb836ed",
-          "bytes": 6349
+          "sha256": "2651c10dac344be3cc981db22ffaf3596ddd08d9e9f42d45841bda5b6e2d32e3",
+          "bytes": 6232
         }
       }
     },
@@ -8643,8 +8947,12 @@
         "en": "hatchling"
       },
       "size": {
-        "he": "יש בגודל כף יד ויש בגודל שולחן",
-        "en": "Some palm-sized, some table-sized"
+        "he": "צב ים ירוק שוקל 130 ק״ג, וצב יבשה רק כמה קילו",
+        "en": "A green sea turtle weighs 130 kg; a tortoise only a few kilos"
+      },
+      "speed": {
+        "he": "צב ים שוחה ב-35 קמ״ש, וצב יבשה הולך בחצי קמ״ש",
+        "en": "A sea turtle swims at 35 km/h; a tortoise walks at half a km/h"
       },
       "eatsIds": [
         "jellyfish",
@@ -8673,29 +8981,29 @@
         "photos": [
           {
             "path": "images/photos/turtle-1.webp",
-            "sha256": "8707b48f30504b35288cd900ef16def8be88d2c1ee1a9e7ebbf2cb8ddce26cc9",
-            "bytes": 126934
-          },
-          {
-            "path": "images/photos/turtle-2.webp",
             "sha256": "d538b7918c77ed59af98b4bb9ab20216f4684ba462b66766c1d520f2d70ae12b",
             "bytes": 88800
           },
           {
+            "path": "images/photos/turtle-2.webp",
+            "sha256": "e92f5f60e4beba11af36df8a57d72157c31e1bbb004cdae32ec1697b7b2bbb8d",
+            "bytes": 143370
+          },
+          {
             "path": "images/photos/turtle-3.webp",
-            "sha256": "ac14303aa9a84c43c716b265a8d9ff4b32d39666517bb95ce859bc1237893865",
-            "bytes": 190362
+            "sha256": "350551fde5809dfe571d84eee600ecbfc25daed495743f012fa13ce25fb76c42",
+            "bytes": 65208
           }
         ],
         "nameHe": {
           "path": "audio/names/he/turtle.ogg",
-          "sha256": "0eb03ea0d5af951c647a5a661efb36731a467e7c0cc621ed9ce742ef913c7f52",
+          "sha256": "5cfd8007fb167ed57a4aba6a606fa8bf34fa3a9209ff5d04c29fb2d4d60235da",
           "bytes": 5126
         },
         "nameEn": {
           "path": "audio/names/en/turtle.ogg",
-          "sha256": "9fb79ccbf7442a6935c34bb0b29ef665570d6ca80908f130194f94d126472efb",
-          "bytes": 6482
+          "sha256": "ace7dc83aa7c11c8e414cb2770cb1c064dcd0a779a1346cdeb0f5e6562bf1a06",
+          "bytes": 6366
         }
       }
     },
@@ -8737,8 +9045,12 @@
         "en": "polyp"
       },
       "size": {
-        "he": "יש קטנות כמו כפתור ויש רחבות כמו מטרייה",
-        "en": "Some button-small, some umbrella-wide"
+        "he": "מכפתור ועד שני מטרים קוטר, תלוי במין",
+        "en": "From button-sized to two metres across, depending on the kind"
+      },
+      "speed": {
+        "he": "עד 8 קמ״ש, אבל רובן פשוט נסחפות עם הזרם",
+        "en": "Up to 8 km/h, though most simply drift with the current"
       },
       "eatsIds": [
         "fish"
@@ -8765,29 +9077,29 @@
         "photos": [
           {
             "path": "images/photos/jellyfish-1.webp",
-            "sha256": "67fd57544e999237594b78a5dda55efc2dbe97408f5794b267667f2bbe2e74f8",
-            "bytes": 8752
+            "sha256": "6e3076e89f47dc610318a7b0b42e8ba8d2735c3c9a5117660ee478e2df5ea1fe",
+            "bytes": 18870
           },
           {
             "path": "images/photos/jellyfish-2.webp",
-            "sha256": "0d6aca8c8750efe7ecdbfc3e144967685f1af2f3d51105a0b264c479d751efa5",
-            "bytes": 28542
+            "sha256": "50496c01575b6be1bb4dfe6a410a095802aac45b8f80bdca6698f1f3d539a45b",
+            "bytes": 15258
           },
           {
             "path": "images/photos/jellyfish-3.webp",
-            "sha256": "763b5e7587078b08b7a025c9ab4e0bcd97ae764a32b499f28928e289748335c8",
-            "bytes": 43864
+            "sha256": "194d2b3aef2b5f2ddb83fb59a36b54b7b6f8346dee4ea8306794cc8b8deccd16",
+            "bytes": 190208
           }
         ],
         "nameHe": {
           "path": "audio/names/he/jellyfish.ogg",
-          "sha256": "96f79941c1b25925beb3e6476e45ea37ce2939ee2e39dce92ed85aed34f5f3fc",
+          "sha256": "05fd8c08122180f764af0ffb636cde9eb6263161909d68455c5ce5a165cb5e68",
           "bytes": 5471
         },
         "nameEn": {
           "path": "audio/names/en/jellyfish.ogg",
-          "sha256": "b9f1f1ce7f321d9a7b132e104e0a0ba51b04142b1b7ea77d2ab189b66977b35c",
-          "bytes": 8299
+          "sha256": "278475012a268a424aa054a651c383fa11c791a725b2f2f25388825c0478e650",
+          "bytes": 8345
         }
       }
     },
@@ -8829,8 +9141,12 @@
         "en": "fry"
       },
       "size": {
-        "he": "קטן כמו אצבע",
-        "en": "As small as a finger"
+        "he": "2–35 ס״מ, ורק כמה גרמים",
+        "en": "2–35 cm, and only a few grams"
+      },
+      "speed": {
+        "he": "מטר וחצי בשעה — הדג האיטי בעולם",
+        "en": "A metre and a half an hour — the slowest fish in the world"
       },
       "facts": {
         "he": [
@@ -8854,29 +9170,29 @@
         "photos": [
           {
             "path": "images/photos/seahorse-1.webp",
-            "sha256": "9712bc4be97ae2012dd1e1a9d7a3ebf4c57dc8003466a402e7d99250f4e9eb00",
-            "bytes": 68308
+            "sha256": "02981372fd1d8e85b825698924619b804d7e32c648fb5fd3aa89bc5a216cb525",
+            "bytes": 77710
           },
           {
             "path": "images/photos/seahorse-2.webp",
-            "sha256": "98e9941ab993115ea487216a1e57f40f19845ae2d5ee809e8bb510cd75601d41",
-            "bytes": 37812
+            "sha256": "b464b2256ca5f38325d55fd091ba0d1e59dbcee06edaa6386f8d9ca657da8546",
+            "bytes": 90498
           },
           {
             "path": "images/photos/seahorse-3.webp",
-            "sha256": "01d73eae84cb397a0053c8af5ee636e8971144e536b8076e3485dc537b4917ce",
-            "bytes": 93394
+            "sha256": "61bf4986c194b9885dad522139bc28fcf51480904457661d4ed997d400007689",
+            "bytes": 66712
           }
         ],
         "nameHe": {
           "path": "audio/names/he/seahorse.ogg",
-          "sha256": "419c529226b5f3814349730d37fc75912200d7d8b6a303f9d4568ff1553c32b3",
+          "sha256": "ff6e27fc0e609d9133ffa6d633c47a82ef0971c975659d0f4ca14e6fdf293e47",
           "bytes": 7975
         },
         "nameEn": {
           "path": "audio/names/en/seahorse.ogg",
-          "sha256": "69516f152436075fa352867157d6b1bd25fe8e93e174662024f61cfa4e3b9a34",
-          "bytes": 8165
+          "sha256": "dd98176d2b20da33839338d4f23f0af735672825878a14a28046d182d08cbcf9",
+          "bytes": 7933
         }
       }
     },
@@ -8918,8 +9234,12 @@
         "en": "cygnet"
       },
       "size": {
-        "he": "עם צוואר זקוף — כמעט בגובה שלכם",
-        "en": "Neck up — almost as tall as you"
+        "he": "10–12 ק״ג, ומוטת כנפיים של 2.4 מטר",
+        "en": "10–12 kg, with a 2.4 m wingspan"
+      },
+      "speed": {
+        "he": "עד 90 קמ״ש בתעופה",
+        "en": "Up to 90 km/h in flight"
       },
       "eatsIds": [
         "fish"
@@ -8946,34 +9266,34 @@
         "photos": [
           {
             "path": "images/photos/swan-1.webp",
-            "sha256": "58ab9536da5f8c2a9896a761edeb72deed7b697687b5c1a157eb0555f2aeda21",
-            "bytes": 46022
-          },
-          {
-            "path": "images/photos/swan-2.webp",
             "sha256": "1620cbb29adb1a3a02129d28d8ea6668fd522660cbe31e42b20f2ca7c21e8342",
             "bytes": 94090
           },
           {
-            "path": "images/photos/swan-3.webp",
+            "path": "images/photos/swan-2.webp",
             "sha256": "a09e7cd7ed22721d1c9aaabdb0f38e51b18aaf5add0e12f1fe870eeaac152a12",
             "bytes": 106042
+          },
+          {
+            "path": "images/photos/swan-3.webp",
+            "sha256": "8952f0e0bf1008441d0a814bfce665ac56b8e75a17baeb1fc437e48b82b538b1",
+            "bytes": 45886
           }
         ],
         "sound": {
           "path": "audio/sounds/swan.ogg",
-          "sha256": "7b79d0110bd6007ae7de53094e7f10cbd0c13fa2d9471f0bfe378a1cf433205c",
+          "sha256": "e4c8c83ac79defddcb83638842b4afee3c0de4bf2af7919747d1ec9467b9aba3",
           "bytes": 32317
         },
         "nameHe": {
           "path": "audio/names/he/swan.ogg",
-          "sha256": "394d197d8147df2eb714e4b0ebb43c204f88b74e77990de826cbdfbc64d616fe",
+          "sha256": "cd6da8a4e2935f046fea38fdf03e018303f4aea83b53f7c4af6109474af0d598",
           "bytes": 6605
         },
         "nameEn": {
           "path": "audio/names/en/swan.ogg",
-          "sha256": "09c1d3368ea887177b4d4d0843dc5ae6dd89664356baeb8045f33333cf882850",
-          "bytes": 7096
+          "sha256": "7f1a4ec875e8dd17ef021fd72cc94849f262599d15d7130f8fde0455af40fefa",
+          "bytes": 7142
         }
       }
     },
@@ -9015,8 +9335,12 @@
         "en": "squab"
       },
       "size": {
-        "he": "נכנסת בשתי כפות ידיים",
-        "en": "Fits in two hands"
+        "he": "300–500 גרם ובאורך 30 ס״מ",
+        "en": "300–500 g and 30 cm long"
+      },
+      "speed": {
+        "he": "עד 100 קמ״ש — יוני דואר עשו כך מאות קילומטרים",
+        "en": "Up to 100 km/h — homing pigeons covered hundreds of kilometres that way"
       },
       "facts": {
         "he": [
@@ -9040,34 +9364,34 @@
         "photos": [
           {
             "path": "images/photos/dove-1.webp",
-            "sha256": "06ede911351905d444b7acdf17f34c7bbd7af05c7bdebead3101112bc4bacfcc",
-            "bytes": 23342
-          },
-          {
-            "path": "images/photos/dove-2.webp",
             "sha256": "50149c6dc2342d2f475d459f0ab11ee84ea42f3c4b64537d52b9d81042de95fc",
             "bytes": 69536
           },
           {
-            "path": "images/photos/dove-3.webp",
+            "path": "images/photos/dove-2.webp",
             "sha256": "9865f5af550bfb14e9cd04d29542627263dace16f9dc1a89fdb14b66e5586db9",
             "bytes": 81672
+          },
+          {
+            "path": "images/photos/dove-3.webp",
+            "sha256": "65642707e8e1bb2e4ba3b38d782faebefa719a350ec9946c7cfc3ece68a713b8",
+            "bytes": 49610
           }
         ],
         "sound": {
           "path": "audio/sounds/dove.ogg",
-          "sha256": "bb13fae94e9ef4af9cb3a3826b73bcebc3c2949a1116624980618ae0eae7dbe7",
+          "sha256": "48f69046ecb85b31330fe76e313fa905de2673f0c21b98d81128f56f1b045ef3",
           "bytes": 21486
         },
         "nameHe": {
           "path": "audio/names/he/dove.ogg",
-          "sha256": "23aaacdb5b66ba427bd000ee507b02043c593f98482a05829aa65ff4a512d48d",
+          "sha256": "a04968d18355f719544954fa635a50db30effeae1d5994b57d8a35746163309a",
           "bytes": 5530
         },
         "nameEn": {
           "path": "audio/names/en/dove.ogg",
-          "sha256": "5386fe01a08a54b20d6667b6f0bcfa1669c7a7301ea94e289b1bb8db355670bd",
-          "bytes": 5608
+          "sha256": "52d3aa14a2af6140d604152006c655f1b08ee4a723d3577781a14f0dee4d2139",
+          "bytes": 6059
         }
       }
     },
@@ -9109,8 +9433,12 @@
         "en": "chick"
       },
       "size": {
-        "he": "בערך בגודל של חתול קטן",
-        "en": "About the size of a small cat"
+        "he": "400–600 גרם, ומוטת כנפיים של מטר",
+        "en": "400–600 g, with a one-metre wingspan"
+      },
+      "speed": {
+        "he": "עד 50 קמ״ש",
+        "en": "Up to 50 km/h"
       },
       "eatsIds": [
         "mouse",
@@ -9148,24 +9476,24 @@
           },
           {
             "path": "images/photos/crow-3.webp",
-            "sha256": "9571e66c8e2472018eaaaa4c030280c3045da4f290074bfd617ad74fe517ad8e",
-            "bytes": 159652
+            "sha256": "cc1ba725df6169140dcd81aacc55028403a34116076931ca69b1a03bc0bb989e",
+            "bytes": 85658
           }
         ],
         "sound": {
           "path": "audio/sounds/crow.ogg",
-          "sha256": "491e6465dacc026490316c22644b47552f783ce5cd8ac2e9b75886a3126601c9",
+          "sha256": "a5bf6f3025ebef46c10d629f7d319e3d1ba163c46ef18d3fd94aea692257a986",
           "bytes": 20475
         },
         "nameHe": {
           "path": "audio/names/he/crow.ogg",
-          "sha256": "c196f1fd27defbc2c10bcc4c97635563657e008b8abeedbfca31fb8c3a0b6b1a",
+          "sha256": "f2f527b1a366f8b731740f608cb2cb1f311db44e2f99ef64d87d35a78ffd9f35",
           "bytes": 5362
         },
         "nameEn": {
           "path": "audio/names/en/crow.ogg",
-          "sha256": "6c38c25ff355cd659d3dd98d3fb32f83f1256d81653266343c1d3ef2e52a5405",
-          "bytes": 6332
+          "sha256": "6347e2435400a2189e1056c063439d22d639902745a3823215c4143555894e75",
+          "bytes": 6247
         }
       }
     },
@@ -9207,8 +9535,12 @@
         "en": "chick"
       },
       "size": {
-        "he": "כשהוא פורש כנפיים — רחב כמו ידיים פרושות",
-        "en": "Wings open — as wide as your outstretched arms"
+        "he": "800–1,200 גרם, ומוטת כנפיים של 1.4 מטר",
+        "en": "800–1,200 g, with a 1.4 m wingspan"
+      },
+      "speed": {
+        "he": "עד 40 קמ״ש, ודואה שעות בלי להניע כנף",
+        "en": "Up to 40 km/h, soaring for hours without a wingbeat"
       },
       "eatsIds": [
         "fish",
@@ -9241,29 +9573,29 @@
           },
           {
             "path": "images/photos/seagull-2.webp",
-            "sha256": "c5e54dc8e34031d3dd328dbe2cb8ae5760586a1029df24e2358582da07d9960d",
-            "bytes": 34364
+            "sha256": "b455bfd0783aa66288e26808c7d4dc1d7e8e6c677998ffe77c37228a9e66a102",
+            "bytes": 48060
           },
           {
             "path": "images/photos/seagull-3.webp",
-            "sha256": "b455bfd0783aa66288e26808c7d4dc1d7e8e6c677998ffe77c37228a9e66a102",
-            "bytes": 48060
+            "sha256": "3d910d167374a1f1c1e23aef0222bf1a6a993b52468042695507391a8466c44b",
+            "bytes": 26544
           }
         ],
         "sound": {
           "path": "audio/sounds/seagull.ogg",
-          "sha256": "584e034a6813539d8e24c8d9787c8b46ee44b0388966212dc5b206b36368d1e2",
+          "sha256": "b0b7e122b9a67f58287c92e37f10a9b01c74cdd8e1d7bab9049a5d72b6180059",
           "bytes": 29201
         },
         "nameHe": {
           "path": "audio/names/he/seagull.ogg",
-          "sha256": "4642bb5c7a39b752f2ecc76f6b184565fb3e700fe28c2da35a904fd2b9dc336e",
+          "sha256": "0fd915e547894c6afc73d8f3a8090eab4cef54cd43e6eb83c87794379835fb6b",
           "bytes": 6034
         },
         "nameEn": {
           "path": "audio/names/en/seagull.ogg",
-          "sha256": "decf99fc5ea60097610f2f5d7c793cb84871f8b749071cc1fd370370dcd814ae",
-          "bytes": 8225
+          "sha256": "befa31df2cacf1770c476517dc0b1fd0e7bb3c18dfb0e729151dffcc5b3e415f",
+          "bytes": 8242
         }
       }
     },
@@ -9305,8 +9637,12 @@
         "en": "chick"
       },
       "size": {
-        "he": "בערך בגודל של יד",
-        "en": "About the size of a hand"
+        "he": "80–100 גרם ובאורך 23 ס״מ",
+        "en": "80–100 g and 23 cm long"
+      },
+      "speed": {
+        "he": "עד 40 קמ״ש, והמקור מקיש 20 פעם בשנייה",
+        "en": "Up to 40 km/h, and the beak strikes twenty times a second"
       },
       "eatsIds": [
         "ant",
@@ -9335,34 +9671,34 @@
         "photos": [
           {
             "path": "images/photos/woodpecker-1.webp",
-            "sha256": "3740f6d0d3e0dcf1d0d48162bb7538a60206a43712e42c5a3528de48113ff485",
-            "bytes": 77132
+            "sha256": "7e04332e73a29ad326ae354f184e0b425ff761f9d4bc239593d165c3cc82b2ba",
+            "bytes": 122464
           },
           {
             "path": "images/photos/woodpecker-2.webp",
-            "sha256": "592015c22d2b85c308b0e2c59081d45504fa630140d17dd97a71aebb9df002d9",
-            "bytes": 65958
+            "sha256": "dd6964ad19addb77909e50e32ba484865cac3b8645c439d1b27e4a1e8c106683",
+            "bytes": 34038
           },
           {
             "path": "images/photos/woodpecker-3.webp",
-            "sha256": "07c2ce7cb2ebea2fc78db05722a2da8e0968e5eb4573258f3422ea4eff5d5e18",
-            "bytes": 68112
+            "sha256": "7175cf99f732a2230e4dc75914f4c3f98edaba7d57b16fab2aac61f027024816",
+            "bytes": 34872
           }
         ],
         "sound": {
           "path": "audio/sounds/woodpecker.ogg",
-          "sha256": "a8c80aee8717691a40af6d4de1e0900c8f045627a66df34908f8ae5868a7f863",
+          "sha256": "0275f63284fb39c4e31c1f4292994c92d857e53ad72f73ee5b506b95c61d09c9",
           "bytes": 30531
         },
         "nameHe": {
           "path": "audio/names/he/woodpecker.ogg",
-          "sha256": "3f3a0382bddb6f36c92d8db4a42d90f839894e8507aacf1e1a54180dda654663",
+          "sha256": "918bc585d381f4439bf37b88fa7cf27b7b65f769169454b1f43af97d03f46cd6",
           "bytes": 4960
         },
         "nameEn": {
           "path": "audio/names/en/woodpecker.ogg",
-          "sha256": "6afa3962b1529a0c2f3dccaf6cf58b2e89904371fabf796dae5dea3641b68c7a",
-          "bytes": 7900
+          "sha256": "4e84e324a0c3bc7a3f9e8f4eef6158eca5a2b0df4bc0571049b3e9fda3434a1a",
+          "bytes": 7497
         }
       }
     },
@@ -9404,8 +9740,12 @@
         "en": "chick"
       },
       "size": {
-        "he": "בערך בגודל של יונה",
-        "en": "About the size of a dove"
+        "he": "50–80 גרם ובאורך 28 ס״מ",
+        "en": "50–80 g and 28 cm long"
+      },
+      "speed": {
+        "he": "עד 40 קמ״ש, בתעופה מתנפנפת כמו פרפר",
+        "en": "Up to 40 km/h, in a fluttering, butterfly-like flight"
       },
       "eatsIds": [
         "ant",
@@ -9451,18 +9791,18 @@
         ],
         "sound": {
           "path": "audio/sounds/hoopoe.ogg",
-          "sha256": "9dc0d4090a180b3b4389fa9c6734baca67fbc8206e6638696cd119e5feb14dd0",
+          "sha256": "52ec9425667e2b221d8f25c6e8b66c985ffa9a2ea92dfa0564dd1d5142b0604f",
           "bytes": 28042
         },
         "nameHe": {
           "path": "audio/names/he/hoopoe.ogg",
-          "sha256": "bfc963811cde045cd5240a76acef50f321c0102c283947f53f4516e62637967d",
+          "sha256": "065004f4ef5e88a21c196bf8aa7b0029835186054e68f6aa9f4f7297f25f24e1",
           "bytes": 7692
         },
         "nameEn": {
           "path": "audio/names/en/hoopoe.ogg",
-          "sha256": "3503ea84c255e881f931ac487bcc1aae3715678a165b57317a12c54a28b2e578",
-          "bytes": 7054
+          "sha256": "f3b75b13fe8cf49c922ceff636c9da292bcf6e6328839e298d5654e9f022e41b",
+          "bytes": 6946
         }
       }
     },
@@ -9504,12 +9844,17 @@
         "en": "chick"
       },
       "size": {
-        "he": "קטן כמו כף יד",
-        "en": "As small as a palm"
+        "he": "25–35 גרם ובאורך 15 ס״מ",
+        "en": "25–35 g and 15 cm long"
+      },
+      "speed": {
+        "he": "עד 45 קמ״ש",
+        "en": "Up to 45 km/h"
       },
       "eatsIds": [
         "ant",
-        "caterpillar"
+        "caterpillar",
+        "ladybug"
       ],
       "facts": {
         "he": [
@@ -9549,18 +9894,18 @@
         ],
         "sound": {
           "path": "audio/sounds/sparrow.ogg",
-          "sha256": "65cd444f0b868cdd6e092c5c3419f5ffc7f5a866b1f6d7053ab28c24d3344da9",
+          "sha256": "8aa21590166e5eccf3062704c577066752b8988239be0b8b4e01069ab1f8ea0d",
           "bytes": 14001
         },
         "nameHe": {
           "path": "audio/names/he/sparrow.ogg",
-          "sha256": "b887e7b18c87a130394875a764e6de5496510f7bb31f0834af5015f9990ec623",
+          "sha256": "0c9cf9ac8198662202b960b05ae55899d6b7e7a6c8473ff46aeb6fa5378decee",
           "bytes": 5646
         },
         "nameEn": {
           "path": "audio/names/en/sparrow.ogg",
-          "sha256": "d6552a2887d7ef0a448931ec71dcb7807bb802d89498149aa506f37c26467fbe",
-          "bytes": 7889
+          "sha256": "d0eb48a2b8ab2f124b25f970a5b96a41a6b04582740337415f8c7e7bee3ba89f",
+          "bytes": 7888
         }
       }
     },
@@ -9602,8 +9947,12 @@
         "en": "tadpole"
       },
       "size": {
-        "he": "בדרך כלל נכנסת בכף יד",
-        "en": "Usually fits in a palm"
+        "he": "20–80 גרם ובאורך 8 ס״מ",
+        "en": "20–80 g and 8 cm long"
+      },
+      "speed": {
+        "he": "8 קמ״ש, אבל קופצת פי עשרים מאורך גופה",
+        "en": "8 km/h, but it jumps twenty times its own length"
       },
       "eatsIds": [
         "bee",
@@ -9634,34 +9983,34 @@
         "photos": [
           {
             "path": "images/photos/frog-1.webp",
-            "sha256": "67d2a99d643d54e994c3a1a23af1a53a703437fb74a5bda041a5092a4eeace7c",
-            "bytes": 55660
+            "sha256": "569883edffcb979294671fa9386ba9bc70c1cf986821f496aa1c68b2547585dc",
+            "bytes": 62698
           },
           {
             "path": "images/photos/frog-2.webp",
-            "sha256": "9c5f63813e3582e9ca561dd5d84ab653f14f6779fd7a0c39d2915972c6e184eb",
-            "bytes": 60022
+            "sha256": "6c31a9e1390eadf38002f779562f8630f9ab0d6a57e051cc113d90af159df339",
+            "bytes": 109122
           },
           {
             "path": "images/photos/frog-3.webp",
-            "sha256": "09506238a9a66d355f148e4cbb10c9e91a4ca976ee0e65b6a66bcdd8445000b5",
-            "bytes": 69588
+            "sha256": "44a1331bd43ec3905cde3348bb7f393945d94df3cd511aa0faf5232e2917f687",
+            "bytes": 98120
           }
         ],
         "sound": {
           "path": "audio/sounds/frog.ogg",
-          "sha256": "15f0e8df635cefdf839008b977e326f93f9d47dd343330eb451b8c16f7a44343",
+          "sha256": "ea35c7d15bb956053e1748e95c6afad26be95553f0b0b23412b800984bd4a31b",
           "bytes": 8034
         },
         "nameHe": {
           "path": "audio/names/he/frog.ogg",
-          "sha256": "06f184a8ffc308b8ac0da2d0b309d8f9f86154b12dec5845e5f45b2e2df8248c",
+          "sha256": "20dc2941e84d16791bbbb0e3b2bb2c760bbe25dbd75d3b4f31d736728787bed9",
           "bytes": 6372
         },
         "nameEn": {
           "path": "audio/names/en/frog.ogg",
-          "sha256": "adbc71c1c117b34b6795346addac8ab26a9eff80ea244c739d6a2e592a73845c",
-          "bytes": 6290
+          "sha256": "32992711b8b4d725bb9a5f2297634065cb88b17c496e1dd9e33739637627ec86",
+          "bytes": 6481
         }
       }
     },
@@ -9703,8 +10052,12 @@
         "en": "larva"
       },
       "size": {
-        "he": "קטנה כמו ציפורן",
-        "en": "As small as a fingernail"
+        "he": "עשירית הגרם ובאורך 1.5 ס״מ",
+        "en": "A tenth of a gram and 1.5 cm long"
+      },
+      "speed": {
+        "he": "25 קמ״ש, והכנפיים מכות 200 פעם בשנייה",
+        "en": "25 km/h, with wings beating two hundred times a second"
       },
       "facts": {
         "he": [
@@ -9733,29 +10086,29 @@
           },
           {
             "path": "images/photos/bee-2.webp",
-            "sha256": "6817e96d1b19a6234d3118ddc48a3b9d7c0c7a7497be5a006563fb74cd82b877",
-            "bytes": 157070
+            "sha256": "c331e92f61601c9909bdbd42e7ec589ec7e48dbd2876fb9ff1a43106bc4c9b76",
+            "bytes": 40060
           },
           {
             "path": "images/photos/bee-3.webp",
-            "sha256": "a631d86798a4d95bcb36dfdb1398435bea620a5c161d033dc6997fc5415665af",
-            "bytes": 59982
+            "sha256": "394e24aacde4c2efa98d101dad280dfcb7ca1411b1fcfb20c31f579d1bfb47d1",
+            "bytes": 46790
           }
         ],
         "sound": {
           "path": "audio/sounds/bee.ogg",
-          "sha256": "19ddc966c067ededa7f1f77f924f50cf9cad20f6d14067188fc5317bc8a5c01d",
+          "sha256": "ee85084da5f82dbf5b7463107bed64ef09323ff20423365186fc7b6b0702beb0",
           "bytes": 28788
         },
         "nameHe": {
           "path": "audio/names/he/bee.ogg",
-          "sha256": "a8f0b2d6684ae6db26b6a72d2505c07d592f4bc83bbbd297c909ff1cf8db6700",
+          "sha256": "ea59ad10e8bb306d50bb08432db5013b735544748d0695da6b59b19d53ec492e",
           "bytes": 5633
         },
         "nameEn": {
           "path": "audio/names/en/bee.ogg",
-          "sha256": "92f334434929a77eab7b72f5b0b7ad0c5069b24f9dcc8a3b53f3b3f5635694b2",
-          "bytes": 5612
+          "sha256": "471d5be70933250cfae4649750d268f860c07b06416fee762338e9a924b0c120",
+          "bytes": 5033
         }
       }
     },
@@ -9797,8 +10150,12 @@
         "en": "caterpillar"
       },
       "size": {
-        "he": "הכנפיים פרושות ברוחב של כף יד",
-        "en": "Its open wings span a palm"
+        "he": "חצי גרם, ומוטת כנפיים של 10 ס״מ",
+        "en": "Half a gram, with a 10 cm wingspan"
+      },
+      "speed": {
+        "he": "20 קמ״ש, ומונרך עושה כך 5,000 ק״מ",
+        "en": "20 km/h — and a monarch covers 5,000 km that way"
       },
       "facts": {
         "he": [
@@ -9822,29 +10179,29 @@
         "photos": [
           {
             "path": "images/photos/butterfly-1.webp",
-            "sha256": "8d02bb1453154e17bb690eb19f705787321a6b30356ef2b70be1519d6484967e",
-            "bytes": 67018
+            "sha256": "cf013877808cc2a695200fe889e576520ac8a0f2b9bca63d716f0d026c427421",
+            "bytes": 92196
           },
           {
             "path": "images/photos/butterfly-2.webp",
-            "sha256": "b21da22bdd549afead4d2c2f0a5697dc690c84cfc0fcba14339e344e0d62874c",
-            "bytes": 59710
+            "sha256": "072f775e3d522a9e52878db389644af3326740fea6b88fba170b61135547d8e5",
+            "bytes": 66436
           },
           {
             "path": "images/photos/butterfly-3.webp",
-            "sha256": "9bd23e18a89805d6ccef4366111209ac54c4e7ac74d64231e54133e9e3ecbea0",
-            "bytes": 40016
+            "sha256": "1fb50e27fadea31069d70402e0f1b4af34500f26e8e38c5b36b96fa20760c4aa",
+            "bytes": 49402
           }
         ],
         "nameHe": {
           "path": "audio/names/he/butterfly.ogg",
-          "sha256": "7dc3b0cb25d33eea8aeafbbbd0c1ead335274e26fcac3e52f2618b9ad4b125c3",
+          "sha256": "e2e57b37780e7880d1db2f5dbaf898817721037c93c18058d0bfd8d997fff65b",
           "bytes": 6353
         },
         "nameEn": {
           "path": "audio/names/en/butterfly.ogg",
-          "sha256": "97b75fea66a62c3ae5ef4b99a2df57641e8b71949f58c12ecef26c180fa5fe28",
-          "bytes": 7865
+          "sha256": "7c8676e96088b6bbbb32dc7d3188e81e0357722527c9a501983d74e03f9991a5",
+          "bytes": 7947
         }
       }
     },
@@ -9886,8 +10243,12 @@
         "en": "larva"
       },
       "size": {
-        "he": "קטנה כמו גרגר אורז",
-        "en": "As small as a grain of rice"
+        "he": "5 מיליגרם ובאורך חצי ס״מ",
+        "en": "5 milligrams and half a centimetre long"
+      },
+      "speed": {
+        "he": "300 מטר בשעה — לגודל שלה זה כמו שאנחנו נרוץ 50 קמ״ש",
+        "en": "300 metres an hour — for its size, like us running at 50 km/h"
       },
       "eatsIds": [
         "caterpillar"
@@ -9914,28 +10275,28 @@
         "photos": [
           {
             "path": "images/photos/ant-1.webp",
-            "sha256": "06bcc939ef33269b3b1615da602e8117bbadfaadf93d1e738792a7e6af3fb33f",
-            "bytes": 116634
-          },
-          {
-            "path": "images/photos/ant-2.webp",
             "sha256": "29e672eec4955a81247ce162966149615056ea9703b0d12522d5189bbc54a824",
             "bytes": 133468
           },
           {
+            "path": "images/photos/ant-2.webp",
+            "sha256": "1921b1904698c445cd45379cd3fc4015d6f0271ced84d33b45a4867e264e0528",
+            "bytes": 73544
+          },
+          {
             "path": "images/photos/ant-3.webp",
-            "sha256": "62eaa40b34ae037761d99e85e3be091d9f943488ac6cf379921837940b433a5f",
-            "bytes": 251800
+            "sha256": "7e4110da945f009e30010f4bc1f9b3388c4ef9623059c44206d5ffacd7c29f7e",
+            "bytes": 72594
           }
         ],
         "nameHe": {
           "path": "audio/names/he/ant.ogg",
-          "sha256": "b593ea5a9657a903981cea9fb26c5de10f1eed091f951534e5c108012389d20a",
+          "sha256": "b452be6a7373b66f15bdc0655d3974fa7d7ff255ba63cd1e09de181a7fbd02ec",
           "bytes": 4601
         },
         "nameEn": {
           "path": "audio/names/en/ant.ogg",
-          "sha256": "37e2a57280b95cff527a606eb91c8660eb8ee2d32701bd03a72700121722c44e",
+          "sha256": "31363131a2d7c80a52b60e97f2a18cbca439fac8a6489da8c6da71077529528b",
           "bytes": 5929
         }
       }
@@ -9978,8 +10339,12 @@
         "en": "hatchling"
       },
       "size": {
-        "he": "הבית שלו בגודל של מטבע",
-        "en": "Its house is the size of a coin"
+        "he": "10–20 גרם, והקונכייה בגודל מטבע",
+        "en": "10–20 g, with a shell the size of a coin"
+      },
+      "speed": {
+        "he": "ארבעה מטרים בשעה — אחד האיטיים בעולם",
+        "en": "Four metres an hour — one of the slowest things alive"
       },
       "facts": {
         "he": [
@@ -10008,24 +10373,24 @@
           },
           {
             "path": "images/photos/snail-2.webp",
-            "sha256": "bc91de9349b330379c85e9e0db5038e5f850b4a1732e3f96c123c2df1a80a6ba",
-            "bytes": 196602
+            "sha256": "7e50e821a4943951329da2e8dcbc60013e5c4c6a2db52c841bd57a09965bd6be",
+            "bytes": 98290
           },
           {
             "path": "images/photos/snail-3.webp",
-            "sha256": "d7a7a051fbde7ed36a2e463f9af8e668ef1a7cc3e46dd364574fab91a3fc74de",
-            "bytes": 81028
+            "sha256": "8d6a358893ddaeeb04f084d17fecea9e67d477a81c38a6225af4d54e55d6ee99",
+            "bytes": 66926
           }
         ],
         "nameHe": {
           "path": "audio/names/he/snail.ogg",
-          "sha256": "ca9fdac957afe245ae82635c1270c3fc6092752636a681bdebbd76b8ccd05fde",
+          "sha256": "fd79d3bbd8cda14af20ed0ccb083397e7d074faf66a949c54a882d3500f67281",
           "bytes": 8601
         },
         "nameEn": {
           "path": "audio/names/en/snail.ogg",
-          "sha256": "12a0fd96bba4ee570a9a463e98d6f4321dd71ae49ec8c9030ff246c1a7854320",
-          "bytes": 7789
+          "sha256": "b0c21e8bd360fad60bf7e6df12b4c4844f571ba5500294d68413f167aee1788a",
+          "bytes": 7616
         }
       }
     },
@@ -10067,8 +10432,12 @@
         "en": "larva"
       },
       "size": {
-        "he": "קטנה כמו ציפורן של תינוק",
-        "en": "As small as a baby's fingernail"
+        "he": "2 מיליגרם ובאורך 6 מ״מ",
+        "en": "2 milligrams and 6 mm long"
+      },
+      "speed": {
+        "he": "עד 25 קמ״ש בתעופה — מפתיע לגודל כזה",
+        "en": "Up to 25 km/h in flight — surprising for something so small"
       },
       "facts": {
         "he": [
@@ -10097,24 +10466,24 @@
           },
           {
             "path": "images/photos/ladybug-2.webp",
-            "sha256": "9000b52858e77dca58a3210d256f9f2e4ef414b9b6c9def01d65a6e820c01f9d",
-            "bytes": 43326
+            "sha256": "feb7d3c57f5e4f584e9741481984b97d0e95949e6f95b0d5d13711a84645fd77",
+            "bytes": 34042
           },
           {
             "path": "images/photos/ladybug-3.webp",
-            "sha256": "87c2d1015a521f0662de2aff73c87a2e332454b3f5a079c2a5013022ba77a7d4",
-            "bytes": 37992
+            "sha256": "98f5255a5e9eadfc233fb40f6aeac05bc5fd0da27cc3036b70d80a20e2d6dedc",
+            "bytes": 86158
           }
         ],
         "nameHe": {
           "path": "audio/names/he/ladybug.ogg",
-          "sha256": "3ce3c2d69c5b40cfd2a14138eb6978be7a8730efd8df07e3f768680bee8b7925",
+          "sha256": "4bcf68f02aef82cff76d30a823be183c392b0b7f51ab12c784e1b4cf4e31dae4",
           "bytes": 9189
         },
         "nameEn": {
           "path": "audio/names/en/ladybug.ogg",
-          "sha256": "fd0900a059a4b12b9c9ed7ab37ec032682fa62b0bbcfd4ff6295d18d7b50aaa3",
-          "bytes": 8210
+          "sha256": "baca50160bf587dfbfcb3acff8c8fe51ba6ee21db0798e3b4b46d8114675ff92",
+          "bytes": 8570
         }
       }
     },
@@ -10156,14 +10525,19 @@
         "en": "spiderling"
       },
       "size": {
-        "he": "רובם קטנים כמו מטבע",
-        "en": "Most are as small as a coin"
+        "he": "רובם פחות מגרם ובאורך 1–2 ס״מ",
+        "en": "Most weigh under a gram and are 1–2 cm long"
+      },
+      "speed": {
+        "he": "כ-2 קמ״ש, וחלקם מזנקים על הטרף",
+        "en": "About 2 km/h, and some pounce on their prey"
       },
       "eatsIds": [
         "bee",
         "butterfly",
         "ant",
-        "cricket"
+        "cricket",
+        "ladybug"
       ],
       "facts": {
         "he": [
@@ -10187,29 +10561,29 @@
         "photos": [
           {
             "path": "images/photos/spider-1.webp",
-            "sha256": "6d1d398d8ffe1387e0c4904fe4e247aa00ef1d45f3f47fa50351f630e91c050c",
-            "bytes": 38260
+            "sha256": "f2c3f6288a8834f8a3b699b7bae16c54d1ec35978f6e9df536e086124045141b",
+            "bytes": 55522
           },
           {
             "path": "images/photos/spider-2.webp",
-            "sha256": "807f7f7001da787bfea75b549fffab079276d9846043a5c62b293be080ed57ad",
-            "bytes": 74384
+            "sha256": "0fefd127c4f8909f4792a49e2837a1b6e8e8749a731771a7910934dee3329d3f",
+            "bytes": 126590
           },
           {
             "path": "images/photos/spider-3.webp",
-            "sha256": "f2c3f6288a8834f8a3b699b7bae16c54d1ec35978f6e9df536e086124045141b",
-            "bytes": 55522
+            "sha256": "11302d717a61d922bab9413f8e18203cf2745a0480fae388b798eed791f0977d",
+            "bytes": 71782
           }
         ],
         "nameHe": {
           "path": "audio/names/he/spider.ogg",
-          "sha256": "2e931ce95ac43bbb1912a04ef4cb9f8d1ee33a1ad3b9475a8129ff3e4252396e",
+          "sha256": "8547df00527e8fdc8586b91f731bedaccd5c0c3d8d6d8ff66a2c3c4820040a78",
           "bytes": 7606
         },
         "nameEn": {
           "path": "audio/names/en/spider.ogg",
-          "sha256": "73bf74ceb7a562aa4189f786c8ff06800afda15921451f5da8926259248e5a00",
-          "bytes": 7403
+          "sha256": "1311b5173d7aa14b62b4b64cb5d99bafdf5c163577c8d4f0ba7ee79a211a2f0f",
+          "bytes": 7283
         }
       }
     },
@@ -10251,8 +10625,12 @@
         "en": "nymph"
       },
       "size": {
-        "he": "בערך בגודל של אצבע",
-        "en": "About the size of a finger"
+        "he": "חצי גרם ובאורך 2–3 ס״מ",
+        "en": "Half a gram and 2–3 cm long"
+      },
+      "speed": {
+        "he": "5 קמ״ש, וקופץ פי עשרים מאורכו",
+        "en": "5 km/h, and it jumps twenty times its own length"
       },
       "facts": {
         "he": [
@@ -10276,34 +10654,34 @@
         "photos": [
           {
             "path": "images/photos/cricket-1.webp",
-            "sha256": "b03f03316056b46dc589868a3351d657c3e47411b094fd1b09b829d76575bce7",
-            "bytes": 91370
-          },
-          {
-            "path": "images/photos/cricket-2.webp",
             "sha256": "077f091d042fee7cdfbef82f25f40bb25b4fd6499edd5975f024296e928c2368",
             "bytes": 71394
           },
           {
+            "path": "images/photos/cricket-2.webp",
+            "sha256": "ccbc1a97f171f55cc905a656904d1bd99a7dc41b1ec269a93026b51668fdb679",
+            "bytes": 201038
+          },
+          {
             "path": "images/photos/cricket-3.webp",
-            "sha256": "dd62b1a2d9dcee1d766e45e5d2ef709f0485adae392b1f7d5aba54cfafae6988",
-            "bytes": 40646
+            "sha256": "fa11cde17139860f79ae79af34d74e05900f1092b4bb98a4ec4a1f1c2a82fc5a",
+            "bytes": 98884
           }
         ],
         "sound": {
           "path": "audio/sounds/cricket.ogg",
-          "sha256": "da30c4657ab02c9ef9de96e13a28831329d13d5a7300fee023323acba1ab6c85",
+          "sha256": "dc0fb5863e44f6bbd7dfee8a7277234b2687f9c752a59dc2da59fb9c293467c4",
           "bytes": 28060
         },
         "nameHe": {
           "path": "audio/names/he/cricket.ogg",
-          "sha256": "d8bb018b3f6606bc0ac3ab2cb20ca23ee3184b9dc3a8d7dc21005792c335b87f",
+          "sha256": "0d6ba814293e11e72b9278b38974eecc27d3391586357d611332898d29da5ad2",
           "bytes": 6976
         },
         "nameEn": {
           "path": "audio/names/en/cricket.ogg",
-          "sha256": "5d832d0676611c00ebcc5f5d2310f02f7075e7315383433a5f490541b58e7883",
-          "bytes": 6705
+          "sha256": "ae973e5f5ae734f0846b682efdaf3d6efd22bcd7d927975577e45ebb2f0fce2e",
+          "bytes": 6697
         }
       }
     },
@@ -10345,8 +10723,12 @@
         "en": "hatchling"
       },
       "size": {
-        "he": "בדרך כלל באורך של כף יד",
-        "en": "Usually as long as a hand"
+        "he": "רוב הלטאות 20–30 ס״מ וכמה עשרות גרמים",
+        "en": "Most lizards are 20–30 cm and a few dozen grams"
+      },
+      "speed": {
+        "he": "עד 25 קמ״ש, ויש לטאה שרצה כך על פני המים",
+        "en": "Up to 25 km/h — and one lizard runs across water at that speed"
       },
       "eatsIds": [
         "ant",
@@ -10376,29 +10758,29 @@
         "photos": [
           {
             "path": "images/photos/lizard-1.webp",
-            "sha256": "5f03445958f5e05d790d44b5576f4e3a26c07d8f02f9c3ca72e5436584e980fb",
-            "bytes": 144642
+            "sha256": "2d539e8ebadf3433db0175ec9255606a3ab268c656186ec14bb3ddd6951e16e7",
+            "bytes": 46234
           },
           {
             "path": "images/photos/lizard-2.webp",
-            "sha256": "056dcbfdaf9745b966a211dfbb1548c666a56976522772d2ab2b7dac9b5fd458",
-            "bytes": 162868
+            "sha256": "5070c0c79eef0b867d12392f5bc4b1c036b984d73370680179b56bf750daf07c",
+            "bytes": 257146
           },
           {
             "path": "images/photos/lizard-3.webp",
-            "sha256": "2d539e8ebadf3433db0175ec9255606a3ab268c656186ec14bb3ddd6951e16e7",
-            "bytes": 46234
+            "sha256": "09df6c069fd0fbc9f3da3b020edd25b0c429f82b720da93032591de345b9af39",
+            "bytes": 109718
           }
         ],
         "nameHe": {
           "path": "audio/names/he/lizard.ogg",
-          "sha256": "8aa358757ad6baf9b4db38ea90757b80f50e5596e15005aca0b5b7ed512ad395",
+          "sha256": "160238efc64ce557c97ee7fccc456e0b32996fd613e6cb04fc84a5fbb3f6cc06",
           "bytes": 4643
         },
         "nameEn": {
           "path": "audio/names/en/lizard.ogg",
-          "sha256": "e97b59f461aeb7299502573eca29f25de507036a4b5a8377c22e0248af9ec608",
-          "bytes": 7020
+          "sha256": "4f6176645e08716fc2243c41fcb521758524b309fe200a3440d7e9001c9452a8",
+          "bytes": 6752
         }
       }
     },
@@ -10440,8 +10822,12 @@
         "en": "pup"
       },
       "size": {
-        "he": "רובם נכנסים בכף יד",
-        "en": "Most fit in a palm"
+        "he": "20–30 גרם, ומוטת כנפיים של 25 ס״מ",
+        "en": "20–30 g, with a 25 cm wingspan"
+      },
+      "speed": {
+        "he": "40 קמ״ש, ועטלף זנב־חופשי מגיע ל-160 — המהיר בעולם",
+        "en": "40 km/h; a free-tailed bat reaches 160 — the fastest of any animal"
       },
       "eatsIds": [
         "cricket",
@@ -10470,34 +10856,34 @@
         "photos": [
           {
             "path": "images/photos/bat-1.webp",
-            "sha256": "2d3f0f5c93304b317322e917c79bb82449d014ffe47b706b5f0b74b99accafd7",
-            "bytes": 154778
+            "sha256": "b18a07315309a15f7e0c2655a5aec2beba3a6afdf1d2611d367e3a59b9308a2f",
+            "bytes": 78078
           },
           {
             "path": "images/photos/bat-2.webp",
-            "sha256": "a8fc6bc4938163f38bcc96be81aeb186714d9ba108c7fb55ca0e40671cca8ec2",
-            "bytes": 57524
+            "sha256": "2ee2b84cca5affca464cc30c8b057b61d970edb4afa224dbe89febf7f7ea2375",
+            "bytes": 44256
           },
           {
             "path": "images/photos/bat-3.webp",
-            "sha256": "c99d8ae727b9bf233597255bddb0c88dd7657adef768d7de3dadf7ab0d2ffc9b",
-            "bytes": 66542
+            "sha256": "3758e87538668ee2fc98f8e3d9b63ee8d51bfbe07b8800741530696ce25805d6",
+            "bytes": 129952
           }
         ],
         "sound": {
           "path": "audio/sounds/bat.ogg",
-          "sha256": "83003b4bb112fe224f3ab92c04656365df8a1c566117e87cdfc5edb8d34f876c",
+          "sha256": "356dcda694375ac78a1f75fffe8695b43e1c9110252b26838bb4b738be520a33",
           "bytes": 29975
         },
         "nameHe": {
           "path": "audio/names/he/bat.ogg",
-          "sha256": "175bb36da5bc5c03617e9445867cd35e46cbb8d8e91704399bca04cab9bf2862",
+          "sha256": "03c7b0b3bc43d07a4ff12b842ca09545bdcaad8bfac6aab57bfe356df8169e98",
           "bytes": 5250
         },
         "nameEn": {
           "path": "audio/names/en/bat.ogg",
-          "sha256": "67f0f2a689904407166259be1ace0271fd8149ef4072abe9653940117c2515a4",
-          "bytes": 5948
+          "sha256": "6007502f99d1f93ddec9fe3b0649c43e818f14177a2fe89eda38953b6a5d1a52",
+          "bytes": 5919
         }
       }
     },
@@ -10539,8 +10925,12 @@
         "en": "scorpling"
       },
       "size": {
-        "he": "בערך באורך של אצבע",
-        "en": "About as long as a finger"
+        "he": "5–10 ס״מ אורך וכמה גרמים",
+        "en": "5–10 cm long and a few grams"
+      },
+      "speed": {
+        "he": "כ-3 קמ״ש, בעיקר בלילה",
+        "en": "About 3 km/h, and mostly at night"
       },
       "eatsIds": [
         "cricket",
@@ -10569,29 +10959,29 @@
         "photos": [
           {
             "path": "images/photos/scorpion-1.webp",
-            "sha256": "79e9d1ea7d74f9935dfed087ccbcf5b176da23e1a9b8ae6e445c064e180e5161",
-            "bytes": 203834
+            "sha256": "d9281fab094e21ee16ed4eab505523ab508098046d92a1ae9a6523c91dda0e97",
+            "bytes": 207590
           },
           {
             "path": "images/photos/scorpion-2.webp",
-            "sha256": "048bdb76220ad3ba3523e93c64779cfcb6220cd8f51b63c97c9adc1f7f448f1b",
-            "bytes": 44364
+            "sha256": "28577158c3fe2dc99ccce584abf63ee847654a05e22c4c502cff929485038dc1",
+            "bytes": 50228
           },
           {
             "path": "images/photos/scorpion-3.webp",
-            "sha256": "8d3d2292b008bee59cb916d7dc6305fd7c02d8ed6048441f1a3dbb377074ab05",
-            "bytes": 19704
+            "sha256": "850ec3651767ed4a22dba0fed0cc58b584d912a2829b3a42a4cbfa462b719dba",
+            "bytes": 103836
           }
         ],
         "nameHe": {
           "path": "audio/names/he/scorpion.ogg",
-          "sha256": "c3813cbb96d455845a724ec8df5472ebaa5226d54e247ed071b814be5ce9ddd8",
+          "sha256": "12f3bfd085bfc786adb402a25783e0f703d9cf0a11e48190646149e35c5a61a1",
           "bytes": 4943
         },
         "nameEn": {
           "path": "audio/names/en/scorpion.ogg",
-          "sha256": "90857fb805a9078785e264c11c96fea04424ada651c4784118d20368a376aabe",
-          "bytes": 8092
+          "sha256": "98c8fdef5371af4956a3470561d3695c108ec2df8ceaa70df0c46fdfa8220012",
+          "bytes": 8231
         }
       }
     },
@@ -10629,8 +11019,12 @@
         "en": "On green leaves in gardens and fields"
       },
       "size": {
-        "he": "בערך באורך של אצבע קטנה",
-        "en": "About as long as a little finger"
+        "he": "2–5 ס״מ, ובכמה שבועות הוא גדל פי אלף",
+        "en": "2–5 cm, and in a few weeks it grows a thousandfold"
+      },
+      "speed": {
+        "he": "כ-40 מטר בשעה — אין לו לאן למהר",
+        "en": "About forty metres an hour — it has nowhere to hurry to"
       },
       "facts": {
         "he": [
@@ -10654,29 +11048,29 @@
         "photos": [
           {
             "path": "images/photos/caterpillar-1.webp",
-            "sha256": "bb6937fc356512c9872b24fd0735c58b63ee277c75839bd08d3c6cd04c0645cc",
-            "bytes": 81126
-          },
-          {
-            "path": "images/photos/caterpillar-2.webp",
             "sha256": "57f2cd00528d642ba5e1afd383c7c9668d4e69e85bead85deda9d705c9c21582",
             "bytes": 126402
           },
           {
-            "path": "images/photos/caterpillar-3.webp",
+            "path": "images/photos/caterpillar-2.webp",
             "sha256": "3cccab64e3fbc34e1eae3d98b516e675b480e5aaecbdc717818f1d6202d7e7b3",
             "bytes": 62722
+          },
+          {
+            "path": "images/photos/caterpillar-3.webp",
+            "sha256": "1d88371a6bacab3b43596b66837091124f54dcc78c604d84ed3a2c0ab71a85b1",
+            "bytes": 34800
           }
         ],
         "nameHe": {
           "path": "audio/names/he/caterpillar.ogg",
-          "sha256": "babac80df28e1fd04bf4dab65f519861822dd003bf9c07fba857b7ded61cb243",
+          "sha256": "27766470fa78924e83cce19abd3f26c4c52f1a18dc010b26403b4b9420b90fe1",
           "bytes": 5578
         },
         "nameEn": {
           "path": "audio/names/en/caterpillar.ogg",
-          "sha256": "8dc77524579407d708c61455a8c64bc98a29b118990c35247c4e7ee9a6cba1fb",
-          "bytes": 8477
+          "sha256": "e8e133ef619f957bf611508fc00ad244215ef94a9d899ce8c4544cf50944de38",
+          "bytes": 8624
         }
       }
     }
