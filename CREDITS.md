@@ -102,7 +102,7 @@ Zoopli collects no personal data, contains no advertising and offers no purchase
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
-- **images/icons/crow.webp** — Noto Emoji U+1F426
+- **images/icons/crow.webp** — Noto Emoji U+1F426_200D_2B1B
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
@@ -118,7 +118,7 @@ Zoopli collects no personal data, contains no advertising and offers no purchase
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
-- **images/icons/donkey.webp** — Noto Emoji U+1F434
+- **images/icons/donkey.webp** — Noto Emoji U+1FACF
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
@@ -166,7 +166,7 @@ Zoopli collects no personal data, contains no advertising and offers no purchase
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
-- **images/icons/goose.webp** — Noto Emoji U+1F9A2
+- **images/icons/goose.webp** — Noto Emoji U+1FABF
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
@@ -246,7 +246,7 @@ Zoopli collects no personal data, contains no advertising and offers no purchase
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
-- **images/icons/moose.webp** — Noto Emoji U+1F98C
+- **images/icons/moose.webp** — Noto Emoji U+1FACE
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
@@ -298,7 +298,7 @@ Zoopli collects no personal data, contains no advertising and offers no purchase
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
-- **images/icons/polar_bear.webp** — Noto Emoji U+1F43B
+- **images/icons/polar_bear.webp** — Noto Emoji U+1F43B_200D_2744
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
