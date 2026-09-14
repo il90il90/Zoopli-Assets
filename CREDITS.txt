@@ -194,10 +194,6 @@ Apache License 2.0
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
-- images/icons/hyena.webp — Noto Emoji U+1F43A
-  - Author: Google Inc.
-  - Source: https://github.com/googlefonts/noto-emoji
-  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
 - images/icons/jaguar.webp — Noto Emoji U+1F406
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
@@ -235,10 +231,6 @@ Apache License 2.0
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
 - images/icons/lobster.webp — Noto Emoji U+1F99E
-  - Author: Google Inc.
-  - Source: https://github.com/googlefonts/noto-emoji
-  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
-- images/icons/meerkat.webp — Noto Emoji U+1F9A1
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
@@ -331,10 +323,6 @@ Apache License 2.0
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
 - images/icons/seagull.webp — Noto Emoji U+1F426
-  - Author: Google Inc.
-  - Source: https://github.com/googlefonts/noto-emoji
-  - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
-- images/icons/seahorse.webp — Noto Emoji U+1F40E
   - Author: Google Inc.
   - Source: https://github.com/googlefonts/noto-emoji
   - Licence: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
@@ -1885,6 +1873,18 @@ CC0 1.0
 - audio/sounds/zebra.ogg — Zebras - Grant's Zebra Braying
   - Author: TheKingOfGeeks360
   - Source: https://freesound.org/people/TheKingOfGeeks360/sounds/850661/
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- images/icons/hyena.webp — Zoopli drawing of the hyena
+  - Author: Zoopli
+  - Source: https://github.com/il90il90/Zoopli/tree/main/art/icons
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- images/icons/meerkat.webp — Zoopli drawing of the meerkat
+  - Author: Zoopli
+  - Source: https://github.com/il90il90/Zoopli/tree/main/art/icons
+  - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- images/icons/seahorse.webp — Zoopli drawing of the seahorse
+  - Author: Zoopli
+  - Source: https://github.com/il90il90/Zoopli/tree/main/art/icons
   - Licence: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
 
 Public domain
