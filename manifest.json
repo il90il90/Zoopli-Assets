@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 14,
-  "generatedAt": "2026-09-14T20:40:46+00:00",
+  "contentVersion": 15,
+  "generatedAt": "2026-09-16T20:35:27+00:00",
   "baseUrl": "https://cdn.jsdelivr.net/gh/il90il90/Zoopli-Assets@main/",
   "categories": [
     {
@@ -5120,8 +5120,8 @@
         "en": "barks"
       },
       "description": {
-        "he": "הכלב נובח: הב הב! הוא החבר הכי טוב של האדם, והוא אוהב לשחק ולרוץ. כשהכלב שמח הוא מכשכש בזנב!",
-        "en": "The dog barks: woof woof! A dog is a person's best friend, and it loves to play and run. When a dog is happy it wags its tail!"
+        "he": "האף של הכלב הוא מכונת בילוש: הוא מריח מי היה פה, מתי, ולאן הלך. אבל תזרקו לו כדור — והוא ישכח הכול, ירוץ אחריו כמו משוגע, ויחזור עם הלשון בחוץ ועם זנב שמכשכש כאילו זה הרגע הכי מרגש בחיים שלו. הב הב!",
+        "en": "A dog's nose is a detective kit: it smells who was here, when, and which way they went. But throw a ball and all of that is forgotten — it tears after it and comes back with its tongue out and its tail going, as if this were the most exciting moment of its whole life. Woof woof!"
       },
       "diet": {
         "he": "בשר, עצמות ומזון יבש לכלבים",
@@ -5265,8 +5265,8 @@
         "en": "meows"
       },
       "description": {
-        "he": "החתול מיילל: מיאו! הוא שותה מים, מתנקה עם הלשון שלו, וכשהוא מרוצה הוא מגרגר.",
-        "en": "The cat meows: meow! It drinks water, cleans itself with its tongue, and when it is happy it purrs."
+        "he": "החתול הולך בלי שום רעש, כמו טיגריס קטן שגר בסלון. הוא אורב לגרב ישנה כאילו היא חיה מסוכנת, קופץ עליה מהמארב — ואז מסתדר לו בשמש ומתרחץ בלשון כאילו כלום לא קרה. ואם תשאלו אותו למה, הוא יענה רק: מיאו.",
+        "en": "A cat moves without a sound, like a small tiger living in your lounge. It stalks an old sock as if it were dangerous prey, pounces on it from ambush — then settles in a sunny spot and washes with its tongue as if nothing had happened. Ask it why and all you get is: meow."
       },
       "diet": {
         "he": "דגים, מזון לחתולים והרבה מים",
@@ -5414,8 +5414,8 @@
         "en": "moos"
       },
       "description": {
-        "he": "הפרה גועה: מוו! היא גדולה ורגועה, אוכלת עשב כל היום, וממנה מקבלים את החלב שלנו.",
-        "en": "The cow moos: moo! She is big and calm, eats grass all day, and gives us the milk we drink."
+        "he": "הפרה תולשת עשב עם הלשון! הלשון שלה ארוכה ומתפתלת סביב העשב כמו יד ירוקה, והיא לועסת לאט־לאט, בלי למהר לשום מקום. היא מסתובבת בשדה כל היום ואומרת לחברות שלה: מוו! וזה אומר גם שלום, גם אני כאן, וגם אני רעבה.",
+        "en": "A cow pulls up grass with her tongue! It is long and curls around the grass like a green hand, and then she chews slowly, in no hurry at all. She wanders the field all day and tells her friends: moo! — which means hello, and I'm here, and I'm hungry, all at once."
       },
       "diet": {
         "he": "עשב, שחת ותבואה",
@@ -5553,8 +5553,8 @@
         "en": "bleats"
       },
       "description": {
-        "he": "הכבשה פועה: מעעע! יש לה צמר לבן ורך שמחמם, והיא הולכת תמיד בעדר.",
-        "en": "The sheep bleats: baa! It has soft white wool that keeps it warm, and it always walks in a flock."
+        "he": "לכבשה יש סוודר שגדל עליה לבד. בקיץ מגלחים אותה והיא יוצאת מהתספורת רזה ומצחיקה כל כך שקשה לזהות אותה, ובחורף הצמר פשוט גדל שוב. היא הולכת תמיד ליד החברות שלה, וכשאחת אומרת מעעע — כולן עונות ביחד.",
+        "en": "A sheep grows her own jumper. In summer she is sheared and comes out so skinny and funny that she is hard to recognise, and by winter the wool has simply grown back. She stays close to her friends, and when one says baa, the whole flock answers at once."
       },
       "diet": {
         "he": "עשב וצמחים",
@@ -5692,8 +5692,8 @@
         "en": "neighs"
       },
       "description": {
-        "he": "הסוס צוהל: יהההה! הוא רץ מהר מאוד על ארבע רגליים חזקות, ואפשר לרכוב עליו.",
-        "en": "The horse neighs! It runs very fast on four strong legs, and you can ride on its back."
+        "he": "כשהסוס דוהר נשמעים תופים: טופ־טופ־טופ־טופ. הפרסות שלו הן נעליים קשות שמגינות על הרגליים, והרעמה מתנפנפת באוויר כמו שיער ארוך ברוח. תפוח או גזר הם המתנה הכי טובה בעולם בשבילו — ואם הוא שמח לראות אתכם, הוא יצהל: יהההה!",
+        "en": "A galloping horse sounds like drums: clop-clop-clop-clop. Its hooves are hard shoes that protect its feet, and its mane streams in the air like long hair in the wind. An apple or a carrot is the best present in the world — and if it is pleased to see you, it will neigh: neigh!"
       },
       "diet": {
         "he": "עשב, שיבולת שועל וגזר",
@@ -5831,8 +5831,8 @@
         "en": "quacks"
       },
       "description": {
-        "he": "הברווז מגעגע: גע גע! הוא שוחה באגם עם רגליים כתומות ורחבות.",
-        "en": "The duck quacks: quack quack! It swims in the pond with wide orange feet."
+        "he": "הברווז הולך מתנדנד מצד לצד כאילו הוא רוקד, ובמים הוא פתאום הופך למהיר וחלק. כשהוא רעב הוא תוקע את הראש מתחת למים ומשאיר את הטוסיק באוויר, ואחר כך יוצא, מנער את הטיפות וקורא: גע גע!",
+        "en": "A duck waddles from side to side as if it were dancing, and then in the water it turns quick and smooth. When it is hungry it sticks its head under and leaves its bottom sticking up in the air, then pops out, shakes off the drops and calls: quack quack!"
       },
       "diet": {
         "he": "צמחי מים, זרעים וחרקים קטנים",
@@ -5973,8 +5973,8 @@
         "en": "crows"
       },
       "description": {
-        "he": "התרנגול קורא: קוקוריקו! הוא מעיר את כולם בבוקר, ויש לו כרבולת אדומה על הראש.",
-        "en": "The rooster crows: cock-a-doodle-doo! He wakes everyone in the morning, and he has a red comb on his head."
+        "he": "התרנגול הוא השעון המעורר של החווה. הוא קופץ על הגדר, מנפח את החזה, ומכריז בקול הכי גדול שיש לו: קוקוריקו! כל החווה מתעוררת, והוא נשאר שם למעלה גאה ומרוצה — כאילו הוא זה שהעיר את השמש.",
+        "en": "The rooster is the farm's alarm clock. He hops onto the fence, puffs out his chest and announces it in the loudest voice he has: cock-a-doodle-doo! The whole farm wakes up, and he stays up there looking proud — as if he were the one who woke the sun."
       },
       "diet": {
         "he": "גרעינים, תולעים וחרקים",
@@ -6120,8 +6120,8 @@
         "en": "oinks"
       },
       "description": {
-        "he": "החזיר נוחר: אוינק אוינק! הוא אוהב להתגלגל בבוץ, וזה לא כי הוא מלוכלך — הבוץ מגן על העור שלו מהשמש.",
-        "en": "The pig snorts: oink oink! It loves to roll in the mud, and not because it is dirty — the mud protects its skin from the sun."
+        "he": "לחזיר יש חרטום עגול שעובד כמו את חפירה קטנה: הוא חופר בו באדמה ומחטט עד שהוא מוצא משהו טעים. הוא חכם מאוד — חכם יותר מכלב! — והזנב שלו מסולסל כמו קפיץ. וכשהוא מוצא אוכל הוא נוחר מרוב אושר: אוינק אוינק!",
+        "en": "A pig's round snout works like a little spade: it digs into the ground and roots around until it finds something tasty. Pigs are clever — cleverer than dogs! — and the tail is curled like a spring. And when it finds food it oinks with pure joy: oink oink!"
       },
       "diet": {
         "he": "ירקות, פירות, גרעינים ושאריות אוכל",
@@ -6264,8 +6264,8 @@
         "en": "bleats"
       },
       "description": {
-        "he": "העז פועה: מע מע! היא מטפסת על סלעים תלולים כאילו זה כלום, ואוהבת ללעוס כמעט כל עלה שהיא מוצאת.",
-        "en": "The goat bleats: maa maa! It climbs steep rocks as if they were nothing, and loves to chew almost every leaf it finds."
+        "he": "העז מטפסת על כל דבר: סלע, גדר, גג — ואפילו על הגב של עז אחרת, אם בא לה. היא סקרנית נורא ומנסה לטעום כל דבר חדש שהיא פוגשת, כולל החולצה שלכם. ואם משהו לא מוצא חן בעיניה, היא אומרת את זה מיד: מע־מע!",
+        "en": "A goat climbs anything: a rock, a fence, a roof — and the back of another goat, if she feels like it. She is terribly curious and tries to taste everything new she meets, including your shirt. And if she doesn't like something, she says so straight away: maa maa!"
       },
       "diet": {
         "he": "עשב, עלים, ענפים ושיחים",
@@ -6401,8 +6401,8 @@
         "en": "squeaks"
       },
       "description": {
-        "he": "הארנב שקט כמעט תמיד, ורק לפעמים מצייץ: צי צי! כשהוא נבהל הוא דופק ברגל האחורית באדמה, וכך מזהיר את כל הארנבים שסביבו.",
-        "en": "The rabbit is quiet almost all the time, and only sometimes squeaks: squeak squeak! When it is startled it thumps a back foot on the ground to warn every rabbit nearby."
+        "he": "האף של הארנב זז בלי הפסקה, פיק־פיק־פיק, כאילו הוא מריח את כל העולם בבת אחת. וכשהוא ממש שמח הוא קופץ באוויר ומסתובב באמצע הקפיצה, סתם ככה, מרוב כיף. שקט הוא כמעט תמיד, ורק לפעמים נשמע ממנו: צי צי.",
+        "en": "A rabbit's nose never stops twitching, as if it were smelling the whole world at once. And when it is really happy it jumps up and twists in mid-air, just for the fun of it. It is quiet almost all the time, and only now and then you hear a little squeak."
       },
       "diet": {
         "he": "עשב, חציר, גזר ועלים ירוקים",
@@ -6538,8 +6538,8 @@
         "en": "brays"
       },
       "description": {
-        "he": "החמור נוער: אי הא! הוא סבלני וחזק, ונושא משאות כבדים בשבילים צרים שאף רכב לא יכול לעבור בהם.",
-        "en": "The donkey brays: hee-haw! It is patient and strong, and carries heavy loads along narrow paths where no car could go."
+        "he": "לחמור יש אוזניים ענקיות שמסתובבות לכל כיוון, וכך הוא שומע אפילו לחישה מרחוק. הוא עולה בשבילים צרים בהר בלי לפחד, נושא דברים כבדים בלי להתלונן — ופתאום, באמצע היום השקט, הוא פותח פה ומכריז: אי־הא!",
+        "en": "A donkey's huge ears swivel in every direction, so it can hear even a whisper from far away. It climbs narrow mountain paths without any fear and carries heavy loads without complaining — and then, in the middle of a quiet day, it opens its mouth and announces: hee-haw!"
       },
       "diet": {
         "he": "קש, עשב, שעורה וגזר",
@@ -6675,8 +6675,8 @@
         "en": "gobbles"
       },
       "description": {
-        "he": "תרנגול ההודו מגרגר: גו גו גו! כשהוא מתרגש הוא פורש את הזנב כמו מניפה ענקית, והעור על הצוואר שלו משנה צבע.",
-        "en": "The turkey gobbles: gobble gobble! When it gets excited it spreads its tail like a huge fan, and the skin on its neck changes colour."
+        "he": "לתרנגול ההודו יש חתיכת עור אדומה שמתנדנדת לו על האף כמו שרוך, וכשהוא מתרגש הוא מתנפח פי שתיים ופורש את הזנב כמו מניפה ענקית. אז הוא צועד סביב־סביב, גא מאוד, ומודיע לכולם: גו־גו־גו!",
+        "en": "A turkey has a red flap of skin that wobbles over his beak like a shoelace, and when he gets excited he puffs up to twice his size and fans out his tail like an enormous fan. Then he struts round and round, very pleased with himself, announcing: gobble gobble!"
       },
       "diet": {
         "he": "גרעינים, זרעים, חרקים ועשב",
@@ -6819,8 +6819,8 @@
         "en": "honks"
       },
       "description": {
-        "he": "האווז מגעגע: גה גה! הוא שומר מצוין, וכשזר מתקרב הוא מרים קול שכל החווה שומעת.",
-        "en": "The goose honks: honk honk! It makes a wonderful guard, and when a stranger comes near it raises a call the whole farm can hear."
+        "he": "האווז הוא השומר של החצר. אם מישהו זר מתקרב הוא מותח את הצוואר, פותח כנפיים ורץ לקראתו בצעקות — גה־גה־גה! — עד שהאורח בורח. אבל עם המשפחה שלו הוא רך לגמרי, ושוחה איתה באגם בשורה ישרה ויפה.",
+        "en": "A goose is the yard's guard. If a stranger comes near, it stretches out its neck, opens its wings and runs at them honking — honk honk honk! — until the visitor gives up. But with its own family it is completely gentle, swimming along the lake in a neat line."
       },
       "diet": {
         "he": "עשב, גרעינים וצמחי מים",
@@ -6958,8 +6958,8 @@
         "en": "squeaks"
       },
       "description": {
-        "he": "העכבר מצייץ: צי צי! הוא קטן וזריז, נכנס דרך חור קטנטן ויוצא לחפש אוכל בעיקר בלילה.",
-        "en": "The mouse squeaks: squeak squeak! It is small and quick, slips through a tiny hole, and goes looking for food mostly at night."
+        "he": "העכבר קטנטן וזריז, ורוב הזמן הוא מחפש דבר אחד: פירורים. הוא מחזיק חתיכת גבינה בשתי הידיים הזעירות שלו, מכרסם מהר־מהר־מהר, ונעלם לתוך חור ברגע שמשהו זז. ואם תקשיבו ממש בשקט תשמעו: צי־צי!",
+        "en": "A mouse is tiny and quick, and most of the time it is looking for one thing: crumbs. It holds a piece of cheese in both little hands, nibbles fast-fast-fast, and vanishes into a hole the second anything moves. Listen very quietly and you'll hear: squeak squeak!"
       },
       "diet": {
         "he": "גרעינים, זרעים, פירות ופירורים",
@@ -7100,8 +7100,8 @@
         "en": "squeaks"
       },
       "description": {
-        "he": "האוגר מצייץ צ'יפ צ'יפ, ומכניס אוכל לתוך הלחיים עד שהוא נראה כפול בגודלו. אחר כך הוא רץ למחילה ומרוקן הכול.",
-        "en": "The hamster chirps, and stuffs food into its cheeks until it looks twice its size. Then it runs to its burrow and empties them out."
+        "he": "האוגר ישן כל היום מקופל ככדור פרווה קטן, ובדיוק כשאתם הולכים לישון הוא מתעורר ומתחיל את היום שלו. הוא מחביא גרעינים בכל פינה בכלוב — קצת פה, קצת שם — ואחר כך מחפש אותם בלילה. צ'יפ צ'יפ!",
+        "en": "A hamster sleeps all day curled into a little ball of fur, and just as you are going to bed it wakes up and starts its day. It hides seeds in every corner of its cage — a few here, a few there — and then goes looking for them at night. Chirp chirp!"
       },
       "diet": {
         "he": "גרעינים, ירקות ופירות",
@@ -7237,8 +7237,8 @@
         "en": "roars"
       },
       "description": {
-        "he": "האריה שואג: רררר! קוראים לו מלך החיות, ויש לו רעמה גדולה סביב הפנים.",
-        "en": "The lion roars! He is called the king of the animals, and he has a big mane around his face."
+        "he": "לאריה יש רעמה ענקית סביב הראש, כמו כרית שלא מורידים אף פעם, והיא גורמת לו להיראות גדול עוד יותר. רוב היום הוא פשוט שוכב בצל ומתמתח, והגורים מטפסים עליו ומושכים לו את הזנב — והוא נותן להם. ואז הוא פותח פה ענק ושואג: רררר!",
+        "en": "A lion wears an enormous mane around his head, like a cushion he never takes off, and it makes him look bigger still. Most of the day he simply lies in the shade and stretches while the cubs climb all over him and pull his tail — and he lets them. Then he opens his huge mouth and roars: roar!"
       },
       "diet": {
         "he": "בשר — האריה הוא טורף",
@@ -7383,8 +7383,8 @@
         "en": "trumpets"
       },
       "description": {
-        "he": "הפיל מחצצר: פרררר! הוא החיה הגדולה ביותר על היבשה, והחדק הארוך שלו עובד כמו יד.",
-        "en": "The elephant trumpets! It is the biggest animal on land, and its long trunk works just like a hand."
+        "he": "החדק של הפיל הוא אף, יד ומקלחת ביחד: הוא קוטף איתו עלים מלמעלה, מרים בו בוטן קטן מהרצפה, ושואב מים ומתיז על הגב כדי להתקרר. פילון קטן הולך אחרי אמא ומחזיק לה בזנב, וכשהוא מתרגש הוא מחצצר: פרררר!",
+        "en": "An elephant's trunk is a nose, a hand and a shower all in one: it picks leaves from up high, lifts a single peanut off the ground, and sucks up water to spray over its own back to cool down. A calf follows its mother holding her tail, and when it gets excited it trumpets: trumpet!"
       },
       "diet": {
         "he": "עלים, ענפים ופירות",
@@ -7522,8 +7522,8 @@
         "en": "hums"
       },
       "description": {
-        "he": "הג'ירפה כמעט לא משמיעה קול, ובלילה היא מהמהמת המהום נמוך שכמעט לא שומעים. היא הכי גבוהה בעולם, והצוואר שלה מגיע לעלים שאף אחד אחר לא מגיע אליהם.",
-        "en": "The giraffe is almost silent, and at night it hums a low hum you can barely hear. It is the tallest animal in the world, and its neck reaches leaves nobody else can."
+        "he": "הג'ירפה היא הכי גבוהה בעולם — היא יכולה להציץ לחלון של קומה שנייה בלי להתרומם. אבל כשהיא רוצה לשתות היא צריכה לפשק רגליים ולהתכופף כמו בהתעמלות, כי הראש שלה רחוק מאוד מהמים. והקול שלה? שקט מאוד, רק המהום עדין.",
+        "en": "A giraffe is the tallest animal there is — she can peek into a second-floor window without standing on anything. But to drink she has to splay her legs and bend down like a gymnast, because her head is so far from the water. And her voice? Very quiet — just a soft hum."
       },
       "diet": {
         "he": "עלים של עצי שיטה, ניצנים ופירות",
@@ -7654,8 +7654,8 @@
         "en": "brays"
       },
       "description": {
-        "he": "הזברה נוערת: הא הא! היא לבושה פסים שחורים ולבנים, ולכל זברה יש דגם פסים משלה — אין שתיים זהות בעולם.",
-        "en": "The zebra brays: ha-ha! It wears black and white stripes, and every zebra has its own pattern — no two in the world are the same."
+        "he": "הזברה נראית כמו סוס שלבש פיג'מה מפוספסת ושכח להוריד אותה. הסייח הקטן לומד את הפסים של אמא כמעט בעל פה, וכך הוא מוצא אותה גם בתוך עדר ענק של זברות דומות. וכשהיא קוראת לו, יוצא ממנה קול מצחיק: הא־הא!",
+        "en": "A zebra looks like a horse who put on striped pyjamas and forgot to take them off. Her foal learns his mother's stripes almost by heart, and that is how he finds her inside a huge herd of look-alikes. And when she calls him, out comes a funny sound: ha-ha!"
       },
       "diet": {
         "he": "עשב קשה, עלים וקליפות עצים",
@@ -7791,8 +7791,8 @@
         "en": "snorts"
       },
       "description": {
-        "he": "הקרנף נוחר: חרררר! הוא כבד כמו שתי מכוניות, ולמרות זאת הוא רץ מהר, והעור העבה שלו נראה כמו שריון.",
-        "en": "The rhino snorts: hrrrr! It is as heavy as two cars, yet it runs fast, and its thick skin looks like armour."
+        "he": "הקרנף נראה כאילו הוא לובש שריון — העור שלו עבה וקשה כמו מגן. הוא אוהב להתגלגל בבוץ ולצאת ממנו חום, רטוב ומרוצה מאוד מעצמו, והוא רץ מהר להפתיע בשביל מישהו כל כך כבד. אז כשהוא נוחר חרררר, עדיף לזוז מהדרך.",
+        "en": "A rhino looks like it is wearing armour — its skin is thick and hard, like a shield. It loves rolling in mud and coming out brown, wet and very pleased with itself, and for something so heavy it runs surprisingly fast. So when it snorts, it is best to step aside."
       },
       "diet": {
         "he": "עשב, ענפים ועלים",
@@ -7928,8 +7928,8 @@
         "en": "grunts"
       },
       "description": {
-        "he": "ההיפופוטם נוהם: הו הו הו! הוא מבלה כמעט את כל היום בתוך המים, ורק העיניים והאוזניים שלו מציצות החוצה.",
-        "en": "The hippo grunts: ho-ho-ho! It spends almost the whole day in the water, with only its eyes and ears peeking out."
+        "he": "ההיפופוטם מבלה כמעט את כל היום בתוך המים, וכל מה שרואים ממנו זה שלוש נקודות קטנות: אוזניים, עיניים ואף. הוא לא בדיוק שוחה — הוא הולך על קרקעית הנהר כמו על הרצפה, וכשהוא עולה לנשום הוא נוהם: הו־הו־הו!",
+        "en": "A hippo spends almost the whole day in the water, and all you can see of him is three little dots: ears, eyes and nose. He doesn't really swim — he walks along the bottom of the river as if it were a floor, and when he comes up for air he grunts: ho-ho-ho!"
       },
       "diet": {
         "he": "עשב — בלילה הוא יוצא לרעות",
@@ -8065,8 +8065,8 @@
         "en": "chirps"
       },
       "description": {
-        "he": "הברדלס לא שואג — הוא מצייץ: צי צי, כמו ציפור! הוא החיה המהירה ביבשה, ומגיע למהירות של מכונית בכביש.",
-        "en": "The cheetah does not roar — it chirps: chirp chirp, like a bird! It is the fastest animal on land, as fast as a car on the road."
+        "he": "הברדלס הוא החיה הכי מהירה ביבשה, אבל הוא יכול לרוץ ככה רק חצי דקה — ואז הוא מתנשף ונח הרבה זמן בצל. והדבר הכי מפתיע בו הוא דווקא הקול: חיה גדולה כזאת, ובמקום לשאוג היא מצייצת כמו ציפור קטנה: צי צי!",
+        "en": "The cheetah is the fastest animal on land, but it can only run like that for half a minute — then it lies panting in the shade for ages. And the most surprising thing about it is the voice: such a big cat, and instead of roaring it chirps like a little bird: chirp chirp!"
       },
       "diet": {
         "he": "צבאים ובעלי חיים מהירים אחרים",
@@ -8203,8 +8203,8 @@
         "en": "growls"
       },
       "description": {
-        "he": "הנמר נוהם: גרררר! הוא מנוקד כולו בכתמים, מטפס על עצים בקלות, ואוהב לנוח על ענף גבוה ולהשקיף למטה.",
-        "en": "The leopard growls: grrrr! It is covered in spots, climbs trees easily, and loves to rest on a high branch and look down."
+        "he": "הנמר הוא אלוף המחבואים. הוא שוכב על ענף גבוה עם הרגליים משתלשלות למטה, והכתמים שלו מתערבבים עם הצל והשמש עד שאי אפשר לראות אותו בכלל. אפשר לעבור בדיוק מתחתיו ולא לדעת — ואז נשמע מלמעלה: גרררר.",
+        "en": "The leopard is the champion of hiding. It lies along a high branch with its legs dangling down, and its spots mix into the light and shade until it simply disappears. You could walk right underneath and never know — and then, from above: grrrr."
       },
       "diet": {
         "he": "צבאים, קופים וציפורים",
@@ -8350,8 +8350,8 @@
         "en": "grunts"
       },
       "description": {
-        "he": "הגורילה נוהמת: הו הו! היא החזקה מבין הקופים, אבל היא שקטה ועדינה, ואוכלת רק צמחים.",
-        "en": "The gorilla grunts: hoo hoo! It is the strongest of all the apes, yet it is quiet and gentle, and eats only plants."
+        "he": "הגורילה חזקה מאוד, אבל היא בכלל לא קשוחה: רוב היום היא יושבת בשקט ולועסת עלים וגבעולים, והגור הקטן שלה מטפס עליה כמו על מגלשה ורוכב לו על הגב. וכשהיא רוצה להגיד משהו חשוב, היא מתופפת לעצמה על החזה: בום־בום־בום!",
+        "en": "A gorilla is very strong, but she isn't fierce at all: most of the day she sits quietly chewing leaves and stems while her baby clambers over her like a climbing frame and rides on her back. And when she has something important to say, she drums on her own chest: boom-boom-boom!"
       },
       "diet": {
         "he": "עלים, גבעולים, במבוק ופירות",
@@ -8487,8 +8487,8 @@
         "en": "laughs"
       },
       "description": {
-        "he": "הצבוע משמיע קול שנשמע כמו צחוק: היהיהי! הוא לא באמת צוחק — ככה הוא מספר לשאר הצבועים איפה הוא ומה הוא מרגיש.",
-        "en": "The hyena makes a sound like laughter: hee-hee-hee! It is not really laughing — that is how it tells the other hyenas where it is and how it feels."
+        "he": "לצבוע יש לסתות כל כך חזקות שהוא שובר עצם כמו שאנחנו שוברים קרקר. הוא הולך קילומטרים שלמים בלילה בעקבות ריח אחד, ואף פעם לא מוותר. ובדרך הוא מדבר עם החברים שלו בקולות שנשמעים בדיוק כמו צחוק: היהיהי!",
+        "en": "A hyena's jaws are so strong it cracks a bone the way we snap a cracker. It will follow one smell for kilometres through the night and never give up. And along the way it talks to its friends in sounds exactly like laughing: hee-hee-hee!"
       },
       "diet": {
         "he": "בשר, ולפעמים שאריות של חיות אחרות",
@@ -8633,8 +8633,8 @@
         "en": "chirps"
       },
       "description": {
-        "he": "הסוריקטה מצייצת: צווי צווי! היא עומדת זקופה על שתי רגליים ושומרת, ואם היא רואה סכנה היא צועקת וכולן בורחות למחילה.",
-        "en": "The meerkat chirps: tweet tweet! It stands up straight on two legs to keep watch, and if it spots danger it calls out and everyone dives into the burrow."
+        "he": "הסוריקטה עומדת על שתי רגליים, זקופה כמו אדם קטנטן, ומפנה את הבטן לשמש בבוקר כדי להתחמם. כל המשפחה חופרת מנהרות ארוכות מתחת לחול וישנה בהן ערמה אחת גדולה — ואם משהו מוזר מתקרב, היא מצייצת מיד: צווי צווי!",
+        "en": "A meerkat stands up on two legs, straight as a tiny person, and turns her tummy to the morning sun to warm up. The whole family digs long tunnels under the sand and sleeps down there in one big pile — and if anything odd comes near, she chirps at once: tweet tweet!"
       },
       "diet": {
         "he": "חרקים, עקרבים, ביצים וזוחלים",
@@ -8773,8 +8773,8 @@
         "en": "hisses"
       },
       "description": {
-        "he": "התנין נושף: חשששש! הוא צף במים בשקט מוחלט, ורק העיניים והנחיריים שלו בחוץ — הוא נראה כמו בול עץ.",
-        "en": "The crocodile hisses: hisss! It floats in the water in complete silence with only its eyes and nostrils showing — it looks just like a log."
+        "he": "התנין צף במים כמו בול עץ ישן: רק העיניים והאף בחוץ, והוא לא זז שעות שלמות. אבל מספיק רגע אחד והוא מתפרץ מהמים במהירות מפתיעה. ורוב הזמן? הוא פשוט שוכב בשמש עם הפה פתוח לרווחה — ככה הוא מתקרר. חשששש!",
+        "en": "A crocodile floats like an old log: only its eyes and nose above the water, not moving for hours. But it takes one moment and it bursts out of the water astonishingly fast. And the rest of the time? It just lies in the sun with its mouth wide open — that is how it cools down. Hisss!"
       },
       "diet": {
         "he": "דגים, ציפורים וחיות שמגיעות לשתות",
@@ -8914,8 +8914,8 @@
         "en": "honks"
       },
       "description": {
-        "he": "הפלמינגו מגעגע: גק גק! הוא עומד שעות על רגל אחת, והצבע הוורוד שלו מגיע בכלל מהאוכל שהוא אוכל.",
-        "en": "The flamingo honks: honk honk! It stands on one leg for hours, and its pink colour actually comes from the food it eats."
+        "he": "הפלמינגו עומד שעות על רגל אחת ומקפל את השנייה מתחת לגוף — ולא נופל, אפילו כשהוא ישן. והוורוד שלו מגיע מהאוכל: חסילונים קטנטנים שצובעים אותו לאט־לאט מבפנים. אילו היה אוכל משהו אחר, הוא היה ציפור לבנה לגמרי!",
+        "en": "A flamingo stands for hours on one leg with the other folded up underneath — and doesn't fall over, not even asleep. And his pink comes from his dinner: tiny shrimp that slowly colour him from the inside. If he ate something else, he would be a completely white bird!"
       },
       "diet": {
         "he": "אצות ושרימפסים קטנים מתוך המים",
@@ -9056,8 +9056,8 @@
         "en": "booms"
       },
       "description": {
-        "he": "היען נוהם נהמה עמוקה: בום בום! הוא הציפור הגדולה בעולם, הוא לא יכול לעוף, אבל הוא רץ מהר יותר מסוס.",
-        "en": "The ostrich booms a deep call: boom boom! It is the biggest bird in the world; it cannot fly, but it runs faster than a horse."
+        "he": "היען הוא הציפור הכי גדולה בעולם, והיחידה שלא יכולה לעוף — אבל הוא רץ מהר יותר מסוס! תוך כדי ריצה הוא פותח את הכנפיים ומשתמש בהן כמו בהגה כדי לפנות, וצעד אחד שלו ארוך כמו מיטה. ומהצוואר שלו יוצא קול עמוק: בום בום!",
+        "en": "The ostrich is the biggest bird in the world and the only one that cannot fly — but it runs faster than a horse! As it runs it opens its wings and uses them like a steering wheel to turn, and a single stride is as long as a bed. And out of that neck comes a deep sound: boom boom!"
       },
       "diet": {
         "he": "זרעים, עלים, חרקים ואבנים קטנות",
@@ -9193,8 +9193,8 @@
         "en": "grumbles"
       },
       "description": {
-        "he": "הגמל נוהם נהמה ארוכה: מרררר! הוא הולך במדבר ימים שלמים בלי לשתות, ובדבשת שלו הוא שומר שומן לימים קשים.",
-        "en": "The camel grumbles a long call: grrumble! It walks the desert for days without drinking, and stores fat in its hump for hard times."
+        "he": "הגמל יכול לשתות דלי ענק של מים בכמה דקות, ולסגור את הנחיריים לגמרי כשמגיעה סופת חול. הוא צועד במדבר ימים שלמים בלי להתלונן אף פעם — ורק כשמבקשים ממנו לקום, הוא נוהם בקול הכי דרמטי בעולם: מרררר!",
+        "en": "A camel can drink a whole bucket of water in minutes, and can shut its nostrils completely when a sandstorm blows in. It walks the desert for days without ever complaining — and then, the moment you ask it to stand up, it groans in the most dramatic voice in the world: grumble!"
       },
       "diet": {
         "he": "קוצים, עשב יבש ועלי שיחים",
@@ -9330,8 +9330,8 @@
         "en": "roars"
       },
       "description": {
-        "he": "הטיגריס שואג: גרררר! הוא החתול הגדול בעולם, והפסים הכתומים והשחורים שלו מסתירים אותו בין העשבים הגבוהים.",
-        "en": "The tiger roars: grrroar! It is the biggest cat in the world, and its orange and black stripes hide it among the tall grass."
+        "he": "הטיגריס הוא החתול הכי גדול בעולם — ארוך כמו ספה! הפסים שלו נראים בולטים מאוד, אבל בתוך עשב גבוה הם נעלמים לגמרי, ואפשר לעבור לידו בלי לדעת. הוא זז בשקט מוחלט על כפות רגליים רכות, ואז פתאום: גרררר!",
+        "en": "The tiger is the biggest cat in the world — as long as a sofa! Its stripes look bold, but in tall grass they vanish completely and you could walk right past without knowing. It moves in total silence on soft padded paws, and then suddenly: grrroar!"
       },
       "diet": {
         "he": "בשר — צבאים, חזירי בר ודגים",
@@ -9474,8 +9474,8 @@
         "en": "bleats"
       },
       "description": {
-        "he": "הפנדה לא שואגת — היא פועה בע בע, בדיוק כמו כבשה! היא יושבת כל היום ולועסת במבוק בשתי הידיים.",
-        "en": "The panda does not roar — it bleats, exactly like a sheep! It sits all day chewing bamboo with both hands."
+        "he": "הפנדה יושבת על הרצפה כמו ילד, מחזיקה גבעול במבוק בשתי הידיים ואוכלת אותו כמו מקל גלידה ארוך. זריזה היא ממש לא: היא מתגלגלת במורד הגבעה, מועדת על כלום, ואז מתיישבת שוב לאכול כאילו זה היה חלק מהתוכנית. בע בע!",
+        "en": "A panda sits on the ground like a child, holds a bamboo stem in both hands and eats it like a very long ice lolly. Graceful she is not: she tumbles down the hill, trips over nothing, then sits back up and carries on eating as if that had been the plan. Bleat!"
       },
       "diet": {
         "he": "במבוק, כמעט ורק במבוק",
@@ -9611,8 +9611,8 @@
         "en": "chatters"
       },
       "description": {
-        "he": "הקוף עושה: אואו אהאה! הוא מטפס על עצים, מתנדנד על הזנב ואוהב לעשות שטויות.",
-        "en": "The monkey goes ooh ooh aah aah! It climbs trees, swings by its tail and loves to be silly."
+        "he": "הקוף מתנדנד מענף לענף ועף באוויר כאילו זה כלום, ויש קופים שנתלים על הזנב כמו על יד שלישית — ואז שתי הידיים פנויות לאכול. הוא סקרן נורא ובודק כל דבר, ואם נשאר אוכל בלי שמירה הוא ייקח אותו ויברח מצווח: אואו אהאה!",
+        "en": "A monkey swings from branch to branch and flies through the air as if it were nothing, and some monkeys hang by the tail like a third hand — which leaves both hands free for eating. It is wildly curious, checks everything, and if food is left unguarded it will grab it and run off shouting: ooh ooh aah aah!"
       },
       "diet": {
         "he": "פירות, בעיקר בננות, וגם עלים וזרעים",
@@ -9756,8 +9756,8 @@
         "en": "calls"
       },
       "description": {
-        "he": "האורנגאוטן קורא קריאה ארוכה: הוווו! הוא חי על העצים כמעט כל חייו, ובכל ערב הוא בונה לעצמו מיטה חדשה מענפים.",
-        "en": "The orangutan gives a long call: hoooo! It lives almost its whole life in the trees, and every evening it builds itself a new bed out of branches."
+        "he": "האורנגאוטן חי כמעט כל חייו למעלה בין העצים, והוא מטפס לאט ובזהירות, כאילו הוא בודק כל ענף לפני שהוא סומך עליו. הוא מחפש פירות מתוקים כל היום, ובערב הוא קורא בקול עמוק שנשמע בכל היער: הוווו!",
+        "en": "An orangutan lives almost his whole life up in the trees, and he climbs slowly and carefully, as if testing every branch before trusting it. He spends the day looking for sweet fruit, and in the evening he calls out in a deep voice that carries right across the forest: hoooo!"
       },
       "diet": {
         "he": "פירות, עלים, קליפות עצים וחרקים",
@@ -9888,8 +9888,8 @@
         "en": "screeches"
       },
       "description": {
-        "he": "הטווס צווח: איו איו! כשהוא רוצה להרשים הוא פורש את הזנב לכתר ענק של נוצות עם עיניים כחולות־ירוקות.",
-        "en": "The peacock calls: ay-oh ay-oh! When it wants to impress, it opens its tail into a huge crown of feathers with blue-green eyes on them."
+        "he": "כשהטווס פותח את הזנב נפתחת מולכם מניפה ענקית מלאה עיגולים כחולים־ירוקים שנראים כמו עיניים — ואז הוא מרעיד אותה והיא מרשרשת כמו גשם. הוא צועד לאט וסובב את עצמו כדי שכולם יראו, ואם לא מסתכלים עליו הוא צורח: איו־איו!",
+        "en": "When a peacock opens his tail, an enormous fan spreads out in front of you, covered in blue-green circles that look like eyes — and then he shivers it and it rustles like rain. He paces slowly and turns so everyone can see, and if nobody is watching he shrieks: ay-oh ay-oh!"
       },
       "diet": {
         "he": "זרעים, חרקים, פרחים ופירות",
@@ -10033,8 +10033,8 @@
         "en": "hisses"
       },
       "description": {
-        "he": "הנחש לוחש: שששש! אין לו רגליים והוא מחליק על הבטן, והלשון המפוצלת שלו מריחה את האוויר.",
-        "en": "The snake hisses: sssss! It has no legs and glides on its belly, and its forked tongue smells the air."
+        "he": "לנחש אין רגליים בכלל, והוא מחליק קדימה בעזרת קשקשים חזקים שעל הבטן — כאילו כל הגוף שלו הוא רגל אחת ארוכה. הוא מתפתל בין אבנים בלי להשמיע קול, מתחמם בשמש, ואם הוא רוצה שתעזבו אותו הוא נושף: שששש.",
+        "en": "A snake has no legs at all, and slides forward on strong scales along its belly — as if its whole body were one long foot. It winds between the rocks without a sound, warms itself in the sun, and if it wants to be left alone it hisses: sssss."
       },
       "diet": {
         "he": "עכברים, ציפורים, ביצים וחרקים",
@@ -10183,8 +10183,8 @@
         "en": "lows"
       },
       "description": {
-        "he": "התאו גועה: מוו! הוא חזק מאוד ואוהב להיכנס למים ולבוץ, וכך הוא מתקרר ביום חם.",
-        "en": "The water buffalo lows: moo! It is very strong and loves to wade into water and mud, which is how it cools off on a hot day."
+        "he": "לתאו יש קרניים ענקיות שמתעקלות אחורה כמו שתי ידיות, ולמרות הגודל הוא רגוע להפליא. הוא הכי אוהב לשקוע בבוץ קריר עד שרק הראש נשאר בחוץ, ולפעמים ציפור קטנה מתיישבת לו על הגב וגרה שם כמו בבית. מוו!",
+        "en": "A water buffalo has enormous horns that curve back like two handles, and for all his size he is wonderfully calm. What he likes best is sinking into cool mud until only his head is showing, and sometimes a little bird settles on his back and lives there as if it were home. Moo!"
       },
       "diet": {
         "he": "עשב, קש וצמחי מים",
@@ -10320,8 +10320,8 @@
         "en": "grunts"
       },
       "description": {
-        "he": "היאק נוהם נהמה שקטה: הממ! הוא חי גבוה בהרים הקרים, ופרווה ארוכה מכסה אותו עד הקרקע ושומרת עליו חם.",
-        "en": "The yak grunts quietly: hmmm! It lives high in the cold mountains, and long fur hangs down to the ground and keeps it warm."
+        "he": "ליאק יש פרווה ארוכה שמגיעה כמעט עד הרצפה, כמו חצאית ענקית, והיא שומרת עליו חם גם כששלג יורד עליו מלמעלה. הוא חי גבוה־גבוה בהרים, במקום שבו לאנשים קשה אפילו לנשום, ומטפס בשבילים תלולים בלי להחליק. הממ!",
+        "en": "A yak has long fur that hangs almost to the ground like an enormous skirt, and it keeps him warm even with snow settling on his back. He lives high up in the mountains, where people struggle just to breathe, and climbs steep paths without ever slipping. Hmmm!"
       },
       "diet": {
         "he": "עשב וטחבים שצומחים בהרים",
@@ -10457,8 +10457,8 @@
         "en": "growls"
       },
       "description": {
-        "he": "הדוב נוהם: גרררר! הוא גדול וחזק, אוהב דבש ופירות יער, ובחורף הוא נכנס למערה וישן שינה ארוכה.",
-        "en": "The bear growls: grrr! It is big and strong, loves honey and berries, and in winter it goes into a cave for a long sleep."
+        "he": "הדוב עומד על שתי רגליים כדי לראות רחוק, ואז מתחכך בגב בעץ בדיוק כמו מישהו שמנסה לגרד את הגב במקום שאי אפשר להגיע אליו. הוא מת על דבש ומוכן לספוג עקיצות בשבילו, והגורים שלו מטפסים על עצים כמו חתולים. גרררר!",
+        "en": "A bear stands up on two legs to see further, then rubs his back against a tree exactly like someone trying to scratch the one spot they can't reach. He adores honey and will put up with bee stings to get it, and his cubs scramble up trees like cats. Grrr!"
       },
       "diet": {
         "he": "פירות יער, דגים, דבש, שורשים וחרקים",
@@ -10608,8 +10608,8 @@
         "en": "growls"
       },
       "description": {
-        "he": "דוב הקוטב נוהם: רררר! הוא חי על הקרח בקוטב הצפוני, שוחה במים קפואים, והפרווה הלבנה שלו מסתירה אותו בשלג.",
-        "en": "The polar bear growls: rrrr! It lives on the ice of the Arctic, swims in freezing water, and its white fur hides it in the snow."
+        "he": "כפות הרגליים של דוב הקוטב גדולות כמו צלחות, ויש עליהן פרווה גם מלמטה — ככה הוא לא מחליק על הקרח ולא קופא. אמא דובה חופרת מאורה בתוך השלג, ושם נולדים הגורים הקטנטנים ומתחממים אצלה עד שמגיע האביב. רררר!",
+        "en": "A polar bear's paws are as big as dinner plates, with fur on the soles too — so he doesn't slip on the ice and his feet don't freeze. The mother digs a den inside the snow, and that is where the tiny cubs are born and stay warm until spring arrives. Rrrr!"
       },
       "diet": {
         "he": "כלבי ים ודגים",
@@ -10744,8 +10744,8 @@
         "en": "howls"
       },
       "description": {
-        "he": "הזאב מייבב: אוווו! הוא חי בלהקה כמו משפחה, והיללה הארוכה שלו אומרת לכולם: אני כאן, בואו אליי.",
-        "en": "The wolf howls: awoooo! It lives in a pack like a family, and its long howl tells everyone: I am here, come to me."
+        "he": "הזאב הולך בשלג בשורה אחת — כל אחד דורך בדיוק בעקבות מי שלפניו, וככה כולם חוסכים כוח. הגורים משתוללים ונאבקים כל היום כאילו זה רק משחק, וזה באמת משחק שמלמד אותם הכול. ובלילה כולם מרימים ראש ומייבבים יחד: אוווו!",
+        "en": "Wolves walk through snow in a single line — each one stepping exactly in the tracks of the one ahead, so nobody wastes any strength. The pups tumble and wrestle all day as if it were only a game, and it really is a game that teaches them everything. And at night they all lift their heads and howl together: awoooo!"
       },
       "diet": {
         "he": "בשר — צבאים, ארנבות ומכרסמים",
@@ -10892,8 +10892,8 @@
         "en": "yips"
       },
       "description": {
-        "he": "השועל מייבב: יפ יפ! הוא פיקח וזריז, יוצא בעיקר בלילה, ומשתמש בזנב העבה כשמיכה כשקר.",
-        "en": "The fox yips: yip yip! It is clever and quick, comes out mostly at night, and uses its bushy tail as a blanket when it is cold."
+        "he": "השועל חכם וסבלן: הוא יושב בלי לזוז ומחכה, ובלילה הוא הולך בצעדים כל כך קלים שהעקבות שלו נשארות בשורה ישרה אחת, כאילו הלך על חבל. ומה שהוא לא מספיק לאכול הוא טומן באדמה, לימים רזים יותר. יפ יפ!",
+        "en": "A fox is clever and patient: it sits perfectly still and waits, and at night it walks so lightly that its prints come out in one straight line, as if it were walking a tightrope. And whatever it can't finish it buries in the ground, for a hungrier day. Yip yip!"
       },
       "diet": {
         "he": "מכרסמים, ציפורים, חרקים ופירות",
@@ -11043,8 +11043,8 @@
         "en": "bellows"
       },
       "description": {
-        "he": "האייל גועה: אוהו! על הראש שלו צומחות קרניים מסועפות כמו ענפים, והן נושרות וצומחות מחדש כל שנה.",
-        "en": "The deer bellows: belloow! Branching antlers grow on its head like tree branches, and they fall off and grow back every year."
+        "he": "האייל שומע משהו — ופתאום הוא קופא לגמרי, בלי לזוז מילימטר, כאילו מישהו לחץ על כפתור עצור. ואז, בקפיצה אחת ענקית, הוא מעופף מעל שיח שלם ונעלם בין העצים לפני שהספקתם למצמץ. ומדי פעם נשמע ממנו קול עמוק: אוהו!",
+        "en": "A deer hears something — and freezes completely, not a millimetre of movement, as if someone pressed pause. Then, in one enormous bound, it sails over a whole bush and is gone among the trees before you can blink. And now and then a deep call comes out of it: belloow!"
       },
       "diet": {
         "he": "עשב, עלים, ניצנים ופירות",
@@ -11180,8 +11180,8 @@
         "en": "bellows"
       },
       "description": {
-        "he": "המוס גועה: אואה! הוא האייל הגדול בעולם, גבוה ממכונית, והקרניים הרחבות שלו נראות כמו שתי כפות ענקיות.",
-        "en": "The moose bellows: ohwaah! It is the largest deer in the world, taller than a car, and its broad antlers look like two giant palms."
+        "he": "המוס הוא הגדול במשפחת האיילים — גבוה יותר מאבא שלכם, וזה עוד לפני הקרניים! יש לו אף ענק ותלוי שנראה קצת מצחיק, אבל הוא מריח בו נפלא. והוא שוחה מצוין: אגם שלם הוא חוצה בלי לעצור אפילו פעם אחת. אואה!",
+        "en": "A moose is the biggest of all the deer — taller than your dad, and that's before the antlers! It has a huge droopy nose that looks a bit silly, but it smells wonderfully well with it. And it swims beautifully: it will cross an entire lake without stopping once. Ohwaah!"
       },
       "diet": {
         "he": "ענפים, עלים וצמחי מים",
@@ -11317,8 +11317,8 @@
         "en": "snuffles"
       },
       "description": {
-        "he": "הקיפוד נוחר בשקט: נוח נוח! כשהוא נבהל הוא מתכדרר לכדור קוצני, וכל הקוצים שלו פונים החוצה.",
-        "en": "The hedgehog snuffles quietly: snuffle snuffle! When it is startled it curls into a prickly ball, with every spine pointing outwards."
+        "he": "הקיפוד מטייל בלילה ונוחר תוך כדי הליכה, נוח־נוח־נוח, כאילו הוא מדבר עם עצמו כל הדרך. ואם מישהו מפחיד אותו הוא מתקפל לכדור קוצני ומושלם, מחביא בפנים את הפנים ואת הרגליים, ומחכה בסבלנות עד שהסכנה הולכת.",
+        "en": "A hedgehog trots about at night snuffling as it goes — snuffle, snuffle, snuffle — as if muttering to itself the whole way. And if something frightens it, it curls into a perfect prickly ball with its face and feet tucked safely inside, and waits patiently until the danger wanders off."
       },
       "diet": {
         "he": "חרקים, תולעים, חלזונות ופירות",
@@ -11462,8 +11462,8 @@
         "en": "chatters"
       },
       "description": {
-        "he": "הסנאי מצקצק: צ'ק צ'ק! הוא קופץ בין ענפים במהירות, ומטמין אגוזים באדמה לקראת החורף.",
-        "en": "The squirrel chatters: chuk chuk! It leaps from branch to branch at speed, and buries nuts in the ground ready for winter."
+        "he": "הסנאי קופץ בין עצים רחוקים באוויר כאילו הוא עף, ואם מישהו רודף אחריו הוא מסתובב סביב הגזע במעגלים עד שהרודף מתבלבל לגמרי. הוא מחזיק אגוז בשתי הידיים, מסובב אותו כמו הגה, ומכרסם מהר־מהר: צ'ק צ'ק!",
+        "en": "A squirrel leaps between far-apart trees as if it could fly, and if something chases it, it spirals round and round the trunk until the chaser is completely dizzy. It holds a nut in both hands, turns it like a steering wheel, and gnaws away: chuk chuk!"
       },
       "diet": {
         "he": "אגוזים, זרעים, ניצנים ופטריות",
@@ -11599,8 +11599,8 @@
         "en": "growls"
       },
       "description": {
-        "he": "הגירית נוהמת: גרר! היא חופרת מחילות ענקיות עם חדרים ומסדרונות, ומשפחות שלמות גרות בהן דורות רבים.",
-        "en": "The badger growls: grrr! It digs huge burrows with rooms and corridors, where whole families live for generations."
+        "he": "לגירית יש ציפורניים חזקות כמו מעדר, והיא חופרת בהן מנהרה בכמה דקות. הבית שלה מסודר להפליא: היא מרפדת אותו בעשב יבש, ומדי פעם מוציאה את המצעים החוצה להתאוורר בשמש. ביום היא ישנה למטה, ובלילה יוצאת. גרר!",
+        "en": "A badger's claws are as strong as a garden fork, and she can dig a tunnel with them in minutes. Her home is remarkably tidy: she lines it with dry grass and every so often drags the bedding out to air in the sun. By day she sleeps down there; at night she comes out. Grrr!"
       },
       "diet": {
         "he": "תולעים, חרקים, שורשים ופירות",
@@ -11730,8 +11730,8 @@
         "en": "squeaks"
       },
       "description": {
-        "he": "הבונה מצייץ: צי צי, וכשהוא נבהל הוא חובט בזנב השטוח במים — פלאח! הוא בונה סכר מענפים ובונה לעצמו בית בתוך האגם.",
-        "en": "The beaver squeaks: squeak squeak, and when it is startled it slaps its flat tail on the water — splat! It builds a dam of branches and a home inside the lake."
+        "he": "הבונה מפיל עץ שלם בשיניים! הוא מכרסם סביב הגזע עד שהעץ נופל, ומהענפים הוא בונה סכר שעוצר את הנהר ויוצר לו אגם פרטי. ואם משהו מפחיד אותו הוא חובט בזנב על המים — פלאח! — וכולם יודעים שהגיע הזמן לצלול.",
+        "en": "A beaver can fell a whole tree with its teeth! It gnaws around the trunk until the tree comes down, and builds the branches into a dam that stops the river and makes it a private lake. And if something startles it, it slaps its tail on the water — smack! — and everyone knows it's time to dive."
       },
       "diet": {
         "he": "קליפות עצים, ענפים וצמחי מים",
@@ -11852,8 +11852,8 @@
         "en": "squeaks"
       },
       "description": {
-        "he": "הלוטרה מצייצת: צווי צווי! היא שוחה כמו טורפדו, מתהפכת על הגב, ואפילו שוברת צדפות באבן שהיא מחזיקה על הבטן.",
-        "en": "The otter squeaks: squeak squeak! It swims like a torpedo, rolls onto its back, and even cracks shellfish with a stone it keeps on its belly."
+        "he": "הלוטרה היא אלופת המשחקים: היא מחליקה במורד בוץ רטוב שוב ושוב רק בשביל הכיף, מסתובבת במים כמו גלגל, וצפה על הגב כשהבטן שלה משמשת לה שולחן אוכל. וכשהיא מתרגשת היא מצייצת בקול דק: צווי צווי!",
+        "en": "An otter is the champion of playing: she slides down a muddy bank again and again purely for fun, rolls through the water like a wheel, and floats on her back using her tummy as a dinner table. And when she gets excited she squeaks in a thin little voice: squeak squeak!"
       },
       "diet": {
         "he": "דגים, סרטנים וצפרדעים",
@@ -11997,8 +11997,8 @@
         "en": "hoots"
       },
       "description": {
-        "he": "הינשוף מייבב: הו הו! הוא ער בלילה, עף בלי שום רעש, ויכול לסובב את הראש כמעט לגמרי אחורה.",
-        "en": "The owl hoots: hoo hoo! It is awake at night, flies without making a sound, and can turn its head almost all the way round."
+        "he": "הינשוף יושב על ענף כל היום וכמעט אי אפשר להבחין בו — הוא נראה בדיוק כמו חתיכה מהעץ. הפנים העגולות שלו עובדות כמו צלחת שאוספת קולות, והוא שומע עכבר שזז מתחת לעלים. ובלילה, כשכולם ישנים, הוא קורא: הו־הו!",
+        "en": "An owl sits on its branch all day and you can hardly spot it — it looks exactly like a piece of the tree. Its round face works like a dish that gathers sound, so it hears a mouse moving under the leaves. And at night, when everyone is asleep, it calls: hoo hoo!"
       },
       "diet": {
         "he": "עכברים, חרקים וציפורים קטנות",
@@ -12148,8 +12148,8 @@
         "en": "screeches"
       },
       "description": {
-        "he": "העיט צווח: קי קי! הוא דואה גבוה בשמיים כמעט בלי להניע כנפיים, ורואה משם דברים קטנים על הקרקע.",
-        "en": "The eagle screeches: kee kee! It soars high in the sky with barely a wingbeat, and from up there it can see tiny things on the ground."
+        "he": "לעיט יש טפרים מכופפים כמו ווים, והוא צולל למטה מהר יותר ממכונית בכביש מהיר. הכנפיים שלו פרושות רחב יותר משני מבוגרים שפורשים ידיים זה לצד זה, וכשהוא מגלה משהו מעניין נשמעת מלמעלה צווחה: קי־קי!",
+        "en": "An eagle's talons are curved like hooks, and it dives faster than a car on a motorway. Its open wings are wider than two grown-ups standing arm to arm, and when it spots something interesting a cry comes down from above: kee kee!"
       },
       "diet": {
         "he": "דגים, ארנבות ומכרסמים",
@@ -12296,8 +12296,8 @@
         "en": "chitters"
       },
       "description": {
-        "he": "הדביבון מצקצק: צ'ר צ'ר! יש לו מסכה שחורה סביב העיניים, והוא מגלגל את האוכל שלו במים — לא כדי לנקות אותו, אלא כדי להרגיש אותו טוב יותר.",
-        "en": "The raccoon chitters: chrr chrr! It wears a black mask around its eyes, and it turns its food over in water — not to clean it, but to feel it better."
+        "he": "הדביבון טובל את האוכל שלו במים לפני שהוא אוכל, כאילו הוא שוטף ידיים לפני ארוחה. בלילה הוא מטייל בשכונה, פותח פחים, בודק כל פינה — ואז מטפס בחזרה על העץ ונעלם כאילו לא היה כאן אף פעם. צ'ר צ'ר!",
+        "en": "A raccoon dips its food in water before eating, as if washing up before dinner. At night it strolls round the neighbourhood, opens bins, checks every corner — then climbs back up its tree and vanishes as if it had never been there at all. Chrr chrr!"
       },
       "diet": {
         "he": "פירות, ביצים, דגים, חרקים ושאריות",
@@ -12442,8 +12442,8 @@
         "en": "grunts"
       },
       "description": {
-        "he": "הביזון נוהם: הממ! הוא ענק וכבד, עם ראש עצום ופרווה חומה, ובחורף הוא מזיז שלג עם הראש כדי להגיע לעשב.",
-        "en": "The bison grunts: hmmm! It is huge and heavy, with an enormous head and brown fur, and in winter it sweeps snow aside with its head to reach the grass."
+        "he": "הביזון חופר בשלג עם הראש! הוא מניף את הראש הענק שלו ימינה־שמאלה כמו מגרפה, מזיז את השלג ומגלה מתחתיו עשב ירוק. הגבנון הגדול על הגב שלו הוא שריר חזק שעוזר לו לעשות את זה שוב ושוב כל החורף. הממ!",
+        "en": "A bison digs through snow with its head! It swings that enormous head left and right like a rake, pushes the snow aside and finds green grass underneath. The big hump on its back is a powerful muscle that lets it do this over and over, all winter long. Hmmm!"
       },
       "diet": {
         "he": "עשב וצמחים",
@@ -12579,8 +12579,8 @@
         "en": "stamps its feet"
       },
       "description": {
-        "he": "הבואש כמעט לא משמיע קול — הוא רוקע ברגליים הקדמיות: טפ טפ! זו אזהרה, ואם לא מתרחקים הוא מתיז ריח נורא שנשאר ימים.",
-        "en": "The skunk makes almost no sound — it stamps its front feet: stamp stamp! That is a warning, and if you do not back away it sprays a terrible smell that lingers for days."
+        "he": "הבואש עושה עמידת ידיים! כשהוא ממש לא מרוצה הוא מרים את הרגליים האחוריות באוויר, עומד על הידיים הקדמיות ומכוון אחורה — וזאת האזהרה האחרונה לפני הריח הנורא. אז כשהוא מתחיל לרקוע ברגליים, טפ־טפ, פשוט זזים משם.",
+        "en": "A skunk does a handstand! When it is truly unimpressed it lifts its back legs into the air, balances on its front paws and aims backwards — and that is the last warning before the terrible smell. So when it starts stamping its feet, stamp stamp, you simply move away."
       },
       "diet": {
         "he": "חרקים, תולעים, ביצים ופירות",
@@ -12720,8 +12720,8 @@
         "en": "clucks"
       },
       "description": {
-        "he": "הקנגורו מצקצק: צ'ק צ'ק! הוא קופץ במקום ללכת, ולאמא יש כיס על הבטן שבו הגור נוסע ומתחמם.",
-        "en": "The kangaroo clucks: chuk chuk! It hops instead of walking, and the mother has a pouch on her belly where the joey rides and keeps warm."
+        "he": "הקנגורו קופץ במקום ללכת, ובכל קפיצה הוא עובר מרחק של מכונית שלמה — וזה כמעט לא מעייף אותו, כי הרגליים שלו עובדות כמו קפיצים. יש לו כפות רגליים ענקיות, ולפעמים שני קנגורו מתאגרפים בעמידה כמו בזירה אמיתית. צ'ק צ'ק!",
+        "en": "A kangaroo hops instead of walking, and each hop covers as much ground as a whole car — and it barely tires, because its legs work like springs. Its feet are enormous, and sometimes two kangaroos stand up and box each other like fighters in a ring. Chuk chuk!"
       },
       "diet": {
         "he": "עשב, עלים ושורשים",
@@ -12852,8 +12852,8 @@
         "en": "bellows"
       },
       "description": {
-        "he": "הקואלה נוהמת נהמה עמוקה ומפתיעה: הרררר! היא ישנה עשרים שעות ביום על עץ האקליפטוס, ואוכלת רק את העלים שלו.",
-        "en": "The koala gives a surprisingly deep bellow: grrrunt! It sleeps twenty hours a day up a eucalyptus tree, and eats nothing but its leaves."
+        "he": "הקואלה מחבקת את הגזע כל היום — לא רק כדי לא ליפול, אלא גם כדי להתקרר, כי העץ קריר יותר מהאוויר. וכשהיא בכל זאת מתעוררת היא אוכלת עלי אקליפטוס, ומהם נדבק אליה ריח חזק שנשאר עליה כמו בושם. הרררר!",
+        "en": "A koala hugs her tree trunk all day — not only so she won't fall, but to cool down, because the wood is cooler than the air. And when she does wake up she eats eucalyptus leaves, which leave a strong smell clinging to her like perfume. Grrrunt!"
       },
       "diet": {
         "he": "עלי אקליפטוס, וכמעט שום דבר אחר",
@@ -12984,8 +12984,8 @@
         "en": "squeaks"
       },
       "description": {
-        "he": "העצלן מצייץ: אי אי! הוא הכי איטי בעולם, תלוי הפוך על הענף, וזז כל כך לאט שאצות ירוקות צומחות על הפרווה שלו.",
-        "en": "The sloth squeaks: ee-ee! It is the slowest animal in the world, hanging upside down from a branch, and moves so slowly that green algae grow in its fur."
+        "he": "העצלן עושה הכול לאט־לאט־לאט, עד שכמעט לא רואים שהוא זז בכלל. הוא תלוי הפוך על הענף בציפורניים ארוכות שעובדות כמו ווים, וגם כשהוא ישן הוא לא נופל. ומדי פעם, בשקט גדול, יוצא ממנו קול קטנטן: אי־אי.",
+        "en": "A sloth does everything slowly, slowly, slowly — so slowly you can barely see it move at all. It hangs upside down from a branch on long claws that work like hooks, and even fast asleep it never falls. And now and then, very quietly, out comes a tiny sound: ee-ee."
       },
       "diet": {
         "he": "עלים, ניצנים ופירות",
@@ -13116,8 +13116,8 @@
         "en": "hums"
       },
       "description": {
-        "he": "הלמה מהמהמת: המממ! היא נושאת משאות בהרים הגבוהים, ואם מישהו מרגיז אותה היא יורקת עליו.",
-        "en": "The llama hums: hmmm! It carries loads high in the mountains, and if somebody annoys it, it spits."
+        "he": "ללמה יש אוזניים מכופפות כמו שתי בננות קטנות, והיא נושאת שקים כבדים בשבילים תלולים בהרים. אבל יש לה גבול משלה: אם השק כבד מדי היא פשוט מתיישבת על הרצפה ולא זזה סנטימטר עד שמורידים לה קצת. המממ!",
+        "en": "A llama has curved ears like two little bananas, and she carries heavy sacks up steep mountain paths. But she has her limit: if the load is too heavy she simply sits down on the ground and will not move a centimetre until someone takes a bit off. Hmmm!"
       },
       "diet": {
         "he": "עשב, חציר ועלים",
@@ -13253,8 +13253,8 @@
         "en": "hums"
       },
       "description": {
-        "he": "האלפקה מהמהמת: המממ! היא קטנה מהלמה, והצמר שלה רך וחם במיוחד — ממנו סורגים סוודרים.",
-        "en": "The alpaca hums: hmmm! It is smaller than a llama, and its wool is especially soft and warm — jumpers are knitted from it."
+        "he": "האלפקה נראית כמו בובת פרווה שיצאה לטייל: יש לה פוני שנופל על העיניים וצמר רך שמתנפח סביבה כמו ענן קטן. היא עדינה וסקרנית, מתקרבת לאט כדי להריח אתכם, ואז מהמהמת לעצמה בשקט: המממ.",
+        "en": "An alpaca looks like a cuddly toy that went out for a walk: a fringe flopping over her eyes and soft wool puffing around her like a little cloud. She is gentle and curious, comes over slowly to sniff you, and then hums quietly to herself: hmmm."
       },
       "diet": {
         "he": "עשב וחציר",
@@ -13390,8 +13390,8 @@
         "en": "croaks"
       },
       "description": {
-        "he": "הטוקן קורא: קרא קרא, קצת כמו צפרדע! יש לו מקור ענק וצבעוני, ואף שהוא נראה כבד — הוא קל כמו ספוג.",
-        "en": "The toucan croaks: croak croak, a little like a frog! It has a huge, colourful beak, and although it looks heavy it is as light as a sponge."
+        "he": "המקור הענק של הטוקן הוא מכשיר קטיף: הענף דק מכדי שהוא יעמוד עליו, אז הוא נשאר במקום, מושיט את המקור הארוך ומגיע לפרי הרחוק. ואז הוא זורק את הפרי באוויר, תופס אותו בפה ובולע. קרא קרא!",
+        "en": "A toucan's giant beak is a fruit-picking tool: the branch is too thin to stand on, so it stays where it is, reaches out with that long beak and takes the far-away fruit. Then it flips the fruit into the air, catches it in its mouth and swallows. Croak croak!"
       },
       "diet": {
         "he": "פירות, חרקים וביצים",
@@ -13527,8 +13527,8 @@
         "en": "mimics"
       },
       "description": {
-        "he": "התוכי מחקה: שלום שלום! הוא לומד לחזור על מילים שהוא שומע, והוא צבעוני, פטפטן וחכם מאוד.",
-        "en": "The parrot mimics: hello hello! It learns to repeat the words it hears, and it is colourful, chatty and very clever."
+        "he": "התוכי מחקה כל דבר שהוא שומע: את הצחוק שלכם, את הצפצוף של המיקרוגל, ואפילו את הכלב של השכנים. הוא צבעוני כמו קופסת צבעים, מטפס ומתהפך על המוט — ואם תגידו לו שלום מספיק פעמים, יום אחד הוא יענה: שלום שלום!",
+        "en": "A parrot copies anything it hears: your laugh, the beep of the microwave, even next door's dog. It is as colourful as a paint box and clambers upside down along its perch — and if you say hello to it enough times, one day it will answer: hello hello!"
       },
       "diet": {
         "he": "זרעים, אגוזים, פירות ופרחים",
@@ -13664,8 +13664,8 @@
         "en": "roars"
       },
       "description": {
-        "he": "היגואר שואג: רררר! הוא אוהב מים, שוחה בנהרות ביער הגשם, ולפעמים אורב לטרף מתוך המים.",
-        "en": "The jaguar roars: rrroar! It loves water, swims in the rainforest rivers, and sometimes waits for prey from the water."
+        "he": "היגואר הוא החתול החזק ביותר ביבשת שלו: הנשיכה שלו חזקה כל כך שהוא שובר אפילו שריון של צב. הוא מטפס על עצים, שוחה בנהר בלי שום בעיה, וזז בג'ונגל בשקט מוחלט בין השורשים — ואז נשמעת שאגה עמוקה: רררר!",
+        "en": "The jaguar is the strongest cat on its continent: its bite is powerful enough to crack even a turtle's shell. It climbs trees, swims across rivers without a second thought, and moves through the jungle in total silence between the roots — and then comes a deep roar: rrroar!"
       },
       "diet": {
         "he": "דגים, צבים, קפיברות וחיות נהר",
@@ -13809,8 +13809,8 @@
         "en": "brays"
       },
       "description": {
-        "he": "הפינגווין קורא: אה אה! הוא ציפור שלא יכולה לעוף באוויר — אבל במים הוא עף ממש, מהר וזריז.",
-        "en": "The penguin brays: ah ah! It is a bird that cannot fly in the air — but in the water it really does fly, fast and nimble."
+        "he": "הפינגווין הולך מתנדנד ומצחיק על הקרח, ואם הוא רוצה למהר הוא פשוט נשכב על הבטן ומחליק כמו מזחלת. אבל במים הוא הופך למשהו אחר לגמרי: מהיר, מדויק ומסתובב בסיבובים חדים, כאילו הוא עף מתחת למים. אה אה!",
+        "en": "A penguin waddles along the ice looking rather comical, and when it wants to hurry it flops onto its belly and toboggans. But in the water it becomes something else entirely: fast, sharp and full of quick turns, as if it were flying underwater. Ah ah!"
       },
       "diet": {
         "he": "דגים, קריל ודיונונים",
@@ -13952,8 +13952,8 @@
         "en": "chips"
       },
       "description": {
-        "he": "הצ'יפמאנק מצייץ: צ'יפ צ'יפ! הוא סנאי קטן ומפוספס, ממלא את הלחיים בזרעים ורץ להחביא אותם במחילה.",
-        "en": "The chipmunk chips: chip chip! It is a small striped squirrel that fills its cheeks with seeds and runs to hide them in its burrow."
+        "he": "לצ'יפמאנק יש פסים על הגב וגם על הפנים, כאילו מישהו העביר עליו טוש. הוא קטנטן וזריז, רץ עם הזנב זקוף כמו דגל, עוצר לרגע לבדוק שהכול בסדר, וממשיך לאסוף גרעינים בלי הפסקה. צ'יפ צ'יפ!",
+        "en": "A chipmunk has stripes down its back and across its face, as if someone had drawn on it with a marker. It is tiny and quick, runs with its tail up like a flag, stops for a second to check all is well, and carries straight on collecting seeds. Chip chip!"
       },
       "diet": {
         "he": "זרעים, אגוזים, פטריות ופירות יער",
@@ -14089,8 +14089,8 @@
         "en": "clicks"
       },
       "description": {
-        "he": "הדולפין נוקש: קליק קליק! הוא שולח נקישות במים ומקשיב להד שחוזר, וכך הוא רואה בעזרת האוזניים.",
-        "en": "The dolphin clicks: click click! It sends clicks through the water and listens to the echo coming back, and so it sees with its ears."
+        "he": "הדולפין רואה עם הקול: הוא שולח נקישות קטנות למים, מקשיב להד שחוזר אליו, וכך הוא יודע בדיוק מה נמצא לפניו גם בחושך מוחלט. ובין לבין הוא קופץ מעל הגלים סתם ככה, בשביל הכיף. קליק קליק!",
+        "en": "A dolphin sees with sound: it sends little clicks into the water, listens to the echo coming back, and knows exactly what is ahead of it even in complete darkness. And in between it leaps over the waves for no reason at all, just for fun. Click click!"
       },
       "diet": {
         "he": "דגים ודיונונים",
@@ -14232,8 +14232,8 @@
         "en": "sings"
       },
       "description": {
-        "he": "הלווייתן שר: אוווווו! הוא החיה הגדולה בעולם — גדול משלושה אוטובוסים — והשיר שלו נשמע במעמקים מאות קילומטרים.",
-        "en": "The whale sings: ooooooh! It is the biggest animal in the world — bigger than three buses — and its song travels hundreds of kilometres through the deep."
+        "he": "הלווייתן הוא הגדול בכל בעלי החיים שחיו אי פעם — גדול אפילו מהדינוזאורים! הגור שלו נולד כבר בגודל של אוטובוס, ובכל יום הוא גדל עוד ועוד. וכשהוא עולה לנשום, יוצא מהראש שלו סילון מים כמו מזרקה. אווווו!",
+        "en": "The whale is the largest animal that has ever lived — bigger even than the dinosaurs! Its calf is born already the size of a bus and grows bigger every single day. And when it comes up to breathe, a jet of water shoots from its head like a fountain. Ooooooh!"
       },
       "diet": {
         "he": "קריל ודגים קטנים, בכמויות ענקיות",
@@ -14374,8 +14374,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "הכריש שותק — אין לו קול בכלל. הוא שוחה בלי הפסקה, ומריח טיפה אחת של דם ממרחק גדול מאוד.",
-        "en": "The shark is silent — it has no voice at all. It swims without stopping, and can smell a single drop of blood from very far away."
+        "he": "העור של הכריש מחוספס כמו נייר זכוכית — אם מלטפים אותו לאחור זה מגרד! הוא מריח טיפה קטנה אחת של דם ממרחק גדול מאוד, והוא כמעט אף פעם לא עוצר: הוא ממשיך לשחות כל הזמן, גם כשהוא נח.",
+        "en": "A shark's skin is rough like sandpaper — stroke it the wrong way and it scratches! It can smell a single drop of blood from a very long way off, and it almost never stops: it keeps swimming all the time, even while it rests."
       },
       "diet": {
         "he": "דגים, כלבי ים ובעלי חיים בים",
@@ -14514,8 +14514,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "הדג שותק, ומדבר עם דגים אחרים בתנועות ובצבעים. הוא נושם מתחת למים בעזרת הזימים, ושוחה בעזרת הסנפירים.",
-        "en": "The fish is silent, and talks to other fish with movements and colours. It breathes under water through its gills, and swims with its fins."
+        "he": "הדג נושם מתחת למים דרך הזימים: הוא בולע מים, מוציא מהם את האוויר, ופולט אותם החוצה בצדדים. הסנפירים שלו הם ההגה והבלמים שלו, והוא יכול לעצור במקום, להסתובב לאחור ולהמשיך — בלי לחשוב על זה רגע.",
+        "en": "A fish breathes underwater through its gills: it takes in water, pulls the air out of it and lets it out at the sides. Its fins are its steering and its brakes, and it can stop dead, spin around and carry on the other way — without stopping to think about it."
       },
       "diet": {
         "he": "אצות, חרקים קטנים ופירורי מזון",
@@ -14655,8 +14655,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "התמנון שותק, אבל הוא מדבר בצבעים: הוא משנה את צבע הגוף תוך שנייה. יש לו שמונה זרועות, ואין לו אף עצם אחת.",
-        "en": "The octopus is silent, but it talks in colour: it changes the colour of its body in a second. It has eight arms, and not a single bone."
+        "he": "לתמנון יש שמונה זרועות מלאות כוסות יניקה, והוא טועם איתן! מספיק שהוא נוגע באבן והוא כבר יודע מה יש עליה. הוא גם חכם נורא: הוא פותח צנצנת סגורה כדי להגיע לאוכל שבפנים, ומשנה צבע תוך שנייה כדי להיעלם.",
+        "en": "An octopus has eight arms covered in suckers — and it tastes with them! One touch of a rock and it already knows what is on it. It is also remarkably clever: it can open a closed jar to get at the food inside, and changes colour in a second to disappear."
       },
       "diet": {
         "he": "סרטנים, צדפות ודגים קטנים",
@@ -14794,8 +14794,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "הסרטן כמעט לא משמיע קול, ולפעמים רק מקיש בצבת. הוא הולך הצידה, ושריון קשה מגן עליו כמו מגן.",
-        "en": "The crab makes almost no sound, and only sometimes taps with a claw. It walks sideways, and a hard shell protects it like armour."
+        "he": "העיניים של הסרטן יושבות על שני מקלות קטנים, והוא מרים אותן כמו פריסקופ כדי לראות מסביב. הוא חופר לעצמו חור בחול עם הרגליים, מתחבא בפנים, ומרים צבת אחת באוויר כאילו הוא מנופף לשלום.",
+        "en": "A crab's eyes sit on top of two little stalks, and it raises them like a periscope to look around. It digs itself a hole in the sand with its legs, hides inside, and holds up one claw in the air as if it were waving hello."
       },
       "diet": {
         "he": "אצות, שאריות ובעלי חיים קטנים",
@@ -14928,8 +14928,8 @@
         "en": "barks"
       },
       "description": {
-        "he": "כלב הים נובח: האו האו! על היבשה הוא מתגלגל בכבדות, אבל ברגע שהוא נכנס למים הוא הופך לרקדן מהיר וזריז.",
-        "en": "The seal barks: arf arf! On land it shuffles heavily, but the moment it enters the water it turns into a fast, graceful dancer."
+        "he": "על החוף כלב הים מתגלגל ומתנדנד כאילו הוא שק תפוחי אדמה, אבל ברגע שהוא נכנס למים הוא הופך לטורפדו חלק ומהיר. הוא צולל עמוק ונשאר שם הרבה זמן בלי לנשום, ואז עולה, מסתכל עליכם ונובח: האו האו!",
+        "en": "On the beach a seal rolls and wobbles about like a sack of potatoes, but the moment it slips into the water it becomes a smooth, fast torpedo. It dives deep and stays down a long time without breathing, then surfaces, looks at you and barks: arf arf!"
       },
       "diet": {
         "he": "דגים, דיונונים וסרטנים",
@@ -15073,8 +15073,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "הצב שותק כמעט תמיד. הוא נושא את הבית שלו על הגב, ואם משהו מפחיד אותו הוא פשוט נכנס פנימה ומחכה.",
-        "en": "The turtle is almost always silent. It carries its house on its back, and if something frightens it, it simply pulls inside and waits."
+        "he": "הצב סוחב את הבית שלו על הגב לכל מקום, ואם משהו מפחיד אותו הוא פשוט מכניס פנימה את הראש והרגליים ומחכה בשקט עד שזה עובר. הוא לא ממהר לשום מקום אף פעם, אף פעם — אבל הוא תמיד מגיע.",
+        "en": "A turtle carries its house on its back wherever it goes, and if something frightens it, it simply tucks its head and legs inside and waits quietly until the trouble passes. It is never, ever in a hurry — and yet it always gets there."
       },
       "diet": {
         "he": "עלים, פירות, אצות וחרקים",
@@ -15203,8 +15203,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "המדוזה שותקת ושקופה, ונסחפת עם הזרם. אין לה מוח, אין לה לב ואין לה עצמות — היא כמעט כולה מים.",
-        "en": "The jellyfish is silent and see-through, and drifts along with the current. It has no brain, no heart and no bones — it is almost entirely water."
+        "he": "למדוזה אין מוח, אין לב ואין עצם אחת בגוף — ובכל זאת היא שוחה יפה: היא פותחת וסוגרת את הגוף שלה כמו מטרייה, ובכל סגירה היא נדחפת קצת קדימה. הזרועות הארוכות שלה מתנדנדות מתחתיה כמו סרטים במים.",
+        "en": "A jellyfish has no brain, no heart and not a single bone — and still she swims beautifully: she opens and closes her body like an umbrella, and every closing pushes her a little further along. Her long arms trail beneath her like ribbons in the water."
       },
       "diet": {
         "he": "יצורים קטנטנים שנתפסים בזרועות",
@@ -15304,8 +15304,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "סוסון הים שותק, ונע לאט־לאט בין עשבי הים. הוא נאחז בזנב בענף כדי שהזרם לא ייקח אותו.",
-        "en": "The seahorse is silent, and drifts slowly among the sea grass. It grips a branch with its tail so the current cannot carry it away."
+        "he": "סוסון הים מלפף את הזנב שלו סביב עשב ים כדי לא להיסחף עם הזרם, בדיוק כמו מישהו שמחזיק במעקה. הוא שוחה בעמידה, זקוף לגמרי, ומנפנף בסנפיר קטנטן על הגב מהר־מהר — ובכל זאת מתקדם לאט־לאט.",
+        "en": "A seahorse curls his tail around a blade of seagrass so the current can't carry him off, exactly like someone holding a handrail. He swims upright, perfectly straight, fluttering a tiny fin on his back very fast — and still moves along very, very slowly."
       },
       "diet": {
         "he": "יצורים קטנטנים, שהוא שואב דרך החוטם",
@@ -15405,8 +15405,8 @@
         "en": "calls"
       },
       "description": {
-        "he": "הברבור קורא: קוו קוו! הוא שט על המים בשקט ובאצילות, והצוואר הארוך שלו מתעקל כמו אות.",
-        "en": "The swan calls: koo koo! It glides across the water quietly and gracefully, and its long neck curves like a letter."
+        "he": "גוזלי הברבור עולים לרכוב על הגב של ההורים ומסתדרים שם בין הכנפיים כמו בסירה קטנה. הברבור נראה עדין ושקט, אבל אם מישהו מתקרב יותר מדי למשפחה שלו הוא מותח את הצוואר ונושף בקול מפחיד. קוו קוו!",
+        "en": "Swan chicks climb onto their parents' backs and settle in between the wings as if in a little boat. A swan looks gentle and quiet, but if anyone comes too close to his family he stretches out that long neck and hisses alarmingly. Koo koo!"
       },
       "diet": {
         "he": "צמחי מים, עשב וזרעים",
@@ -15512,8 +15512,8 @@
         "en": "coos"
       },
       "description": {
-        "he": "היונה הומה: הו הו! היא מוצאת את הדרך הביתה גם ממרחק מאות קילומטרים, ובעולם היא סמל לשלום.",
-        "en": "The dove coos: coo coo! It finds its way home even from hundreds of kilometres away, and all over the world it is a symbol of peace."
+        "he": "היונה מנענעת את הראש קדימה ואחורה בכל צעד, וזה בכלל לא סתם: כך העיניים שלה נשארות רגע אחד במקום והיא רואה את העולם ברור. היא בונה קן פשוט משני מקלות וקצת קש, ומהמהמת לעצמה בשקט: הו־הו.",
+        "en": "A dove nods her head back and forth with every step, and it isn't for nothing: it keeps her eyes still for a moment at a time so the world stays sharp. She builds a simple nest out of two twigs and a little straw, and coos quietly to herself: coo coo."
       },
       "diet": {
         "he": "זרעים, גרעינים ופירורים",
@@ -15614,8 +15614,8 @@
         "en": "caws"
       },
       "description": {
-        "he": "העורב מקרקר: קא קא! הוא אחת הציפורים החכמות בעולם — הוא מכין לעצמו כלים מענפים כדי להגיע לאוכל.",
-        "en": "The crow caws: caw caw! It is one of the cleverest birds in the world — it makes tools out of twigs to reach its food."
+        "he": "העורב חכם כמו ילד: הוא מכופף ענף קטן, מכין ממנו וו, ודג איתו חרק מתוך חור בעץ. הוא אוסף דברים מבריקים ומחביא אותם, וזוכר בדיוק איפה הם. ואם מישהו מפריע לו הוא קורא לכל החברים: קא קא!",
+        "en": "A crow is as clever as a child: it bends a little twig into a hook and fishes a grub out of a hole in a tree. It collects shiny things and hides them, and remembers exactly where they are. And if anyone bothers it, it calls all its friends over: caw caw!"
       },
       "diet": {
         "he": "כמעט הכול: זרעים, חרקים, פירות ושאריות",
@@ -15724,8 +15724,8 @@
         "en": "cries"
       },
       "description": {
-        "he": "השחף צווח: קיא קיא! הוא דואה מעל הים, צולל אל המים לתפוס דג, ולא מפחד לגשת לאנשים על החוף.",
-        "en": "The seagull cries: kyah kyah! It soars above the sea, dives into the water for a fish, and is not shy about coming close to people on the beach."
+        "he": "השחף הוא גנב הצ'יפס הרשמי של חוף הים: הוא מרחף מעליכם בשקט, בוחר את הרגע המדויק, צולל — ונעלם עם החטיף לפני שהספקתם להגיד היי. ואז הוא צווח באוויר כאילו הוא צוחק עליכם: קיא קיא!",
+        "en": "The seagull is the official chip thief of the seaside: it hovers silently above you, picks its moment, dives — and is gone with the snack before you can say hey. Then it cries out overhead as if it were laughing at you: kyah kyah!"
       },
       "diet": {
         "he": "דגים, סרטנים ושאריות מזון",
@@ -15833,8 +15833,8 @@
         "en": "drums"
       },
       "description": {
-        "he": "הנקר מתופף על העץ: טק טק טק! הוא מקיש עשרים פעם בשנייה, מחפש חרקים בתוך הגזע וגם מספר לכולם שזה הבית שלו.",
-        "en": "The woodpecker drums on the tree: tap tap tap! It taps twenty times a second, looking for insects inside the trunk and telling everyone this tree is his."
+        "he": "הנקר מתופף על העץ גם כשהוא לא רעב — ככה הוא מודיע לכולם שזה האזור שלו, וזה השיר שלו. הזנב הקשיח שלו נשען על הגזע כמו כיסא קטן, וכשהוא עוזב את החור שחפר, ציפורים אחרות עוברות לגור בו. טק־טק־טק!",
+        "en": "A woodpecker drums on a tree even when it isn't hungry — that is how it tells everyone this is its patch, and that drumming is its song. Its stiff tail props against the trunk like a little chair, and when it leaves the hole it carved, other birds move in. Tap tap tap!"
       },
       "diet": {
         "he": "חרקים, זחלים, אגוזים וזרעים",
@@ -15942,8 +15942,8 @@
         "en": "calls"
       },
       "description": {
-        "he": "הדוכיפת קוראת: הופ הופ הופ — ומהקריאה הזאת בא השם שלה בשפות רבות. על הראש שלה כתר נוצות שנפתח כמו מניפה.",
-        "en": "The hoopoe calls: hoop hoop hoop — and that call is where its name comes from in many languages. On its head is a crown of feathers that opens like a fan."
+        "he": "כשהדוכיפת עפה היא נראית כמו פרפר ענק בשחור־לבן, וכשהיא נוחתת היא מקפלת הכול ונראית שוב רגילה לגמרי. היא מסתובבת בגינה עם מקור ארוך ודק, תוקעת אותו באדמה ומוציאה משם ארוחה. הופ־הופ־הופ!",
+        "en": "In flight a hoopoe looks like an enormous black-and-white butterfly, and the moment she lands she folds it all away and looks perfectly ordinary again. She struts about the garden with a long thin beak, pushes it into the soil and pulls out her dinner. Hoop hoop hoop!"
       },
       "diet": {
         "he": "חרקים, זחלים ועכבישים מהאדמה",
@@ -16052,8 +16052,8 @@
         "en": "chirps"
       },
       "description": {
-        "he": "הדרור מצייץ: צ'יף צ'יף! הוא קטן וחום ונמצא כמעט בכל מקום — בחצר, ברחוב ועל שולחן בבית קפה.",
-        "en": "The sparrow chirps: cheep cheep! It is small and brown and almost everywhere — in the yard, in the street and on a café table."
+        "he": "הדרור לא הולך — הוא מקפץ על שתי רגליים ביחד, קפיץ־קפיץ־קפיץ, מתחת לשולחנות בבית קפה ומחפש פירורים. הוא קטן וחצוף, בונה קן בכל חור בקיר, ומצייץ בלי הפסקה כדי שכולם ידעו איפה הוא: צ'יף צ'יף!",
+        "en": "A sparrow doesn't walk — it hops with both feet together, boing, boing, boing, under the café tables looking for crumbs. It is small and cheeky, builds a nest in any hole in a wall, and chirps non-stop so everyone knows where it is: cheep cheep!"
       },
       "diet": {
         "he": "זרעים, פירורים וחרקים קטנים",
@@ -16161,8 +16161,8 @@
         "en": "croaks"
       },
       "description": {
-        "he": "הצפרדע מקרקרת: קוואק קוואק! היא קופצת רחוק מאוד, שוחה מצוין, ונושמת גם דרך העור הרטוב שלה.",
-        "en": "The frog croaks: ribbit ribbit! It jumps a very long way, swims beautifully, and even breathes through its damp skin."
+        "he": "הצפרדע תופסת זבוב בלשון דביקה שיוצאת וחוזרת מהר יותר ממצמוץ. וכשהיא בולעת היא עוצמת עיניים חזק — כי העיניים שלה נלחצות פנימה ועוזרות לדחוף את האוכל למטה! ואז היא קופצת רחוק ומקרקרת: קוואק קוואק!",
+        "en": "A frog catches a fly with a sticky tongue that shoots out and back faster than a blink. And when she swallows she squeezes her eyes shut — because her eyes press down inside and help push the food along! Then she leaps away and croaks: ribbit ribbit!"
       },
       "diet": {
         "he": "חרקים, יתושים ותולעים",
@@ -16272,8 +16272,8 @@
         "en": "buzzes"
       },
       "description": {
-        "he": "הדבורה מזמזמת: זזזזז! היא עפה מפרח לפרח, אוספת צוף ומכינה ממנו דבש — וגם עוזרת לפרחים לגדול.",
-        "en": "The bee buzzes: bzzzz! It flies from flower to flower, gathers nectar and turns it into honey — and helps the flowers grow too."
+        "he": "לדבורה יש שתי סלסלות קטנות על הרגליים האחוריות, והיא ממלאת אותן באבקה צהובה מהפרחים עד שנראה כאילו היא לובשת מכנסיים. בכוורת מחכות לה אלפי אחיות, וכולן עובדות יחד בלי לריב. זזזזז!",
+        "en": "A bee has two little baskets on her back legs, and she packs them with yellow pollen from the flowers until it looks as if she is wearing trousers. Back at the hive thousands of sisters are waiting, and they all work together without a single argument. Bzzzz!"
       },
       "diet": {
         "he": "צוף ואבקה של פרחים",
@@ -16374,8 +16374,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "הפרפר שותק, ורק הכנפיים הצבעוניות שלו מרפרפות. הוא התחיל את חייו כזחל, ואחר כך השתנה לגמרי בתוך גולם.",
-        "en": "The butterfly is silent, and only its colourful wings flutter. It began life as a caterpillar, and then changed completely inside a chrysalis."
+        "he": "הפרפר שותה דרך קשית! הלשון שלו מגולגלת כמו קפיץ קטן מתחת לראש, וכשהוא מגיע לפרח הוא פורש אותה ושותה את המיץ המתוק. ולפני שהוא היה פרפר הוא היה זחל שמן שזחל על עלה — אותה חיה בדיוק.",
+        "en": "A butterfly drinks through a straw! Its tongue is coiled like a little spring under its head, and when it reaches a flower it unrolls it and sips the sweet juice. And before it was a butterfly it was a fat caterpillar crawling on a leaf — the very same creature."
       },
       "diet": {
         "he": "צוף מפרחים, שהוא שואב דרך חדק ארוך",
@@ -16471,8 +16471,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "הנמלה שותקת, ומדברת עם החברות שלה בריחות ובמגע במחושים. היא קטנטנה, אבל נושאת משקל גדול ממנה פי עשרות.",
-        "en": "The ant is silent, and talks to the others with smells and a touch of the antennae. It is tiny, yet it carries many times its own weight."
+        "he": "הנמלה קטנטנה, אבל היא אף פעם לא לבד: כשהיא מוצאת פירור גדול מדי, מיד מגיעות עוד ועוד נמלים ומרימות אותו יחד כמו צוות אחד. הן נוגעות זו בזו במחושים כדי להגיד שלום ולספר מה מצאו.",
+        "en": "An ant is tiny, but she is never on her own: when she finds a crumb that is too big, more and more ants arrive and lift it together like one team. They touch each other with their feelers to say hello and to tell each other what they've found."
       },
       "diet": {
         "he": "זרעים, פירורים, סוכר וחרקים קטנים",
@@ -16574,8 +16574,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "החילזון שותק לגמרי, וזוחל לאט־לאט על שביל רירי שהוא משאיר אחריו. הבית שלו על הגב, והוא נכנס אליו כשהוא רוצה לנוח.",
-        "en": "The snail is completely silent, and creeps slowly along on a slimy trail it leaves behind. Its house is on its back, and it goes inside when it wants to rest."
+        "he": "העיניים של החילזון יושבות בקצה שני מחושים ארוכים, ואם נוגעים בהן הן נשלפות פנימה כמו כפפה שמתהפכת. הוא זוחל לאט־לאט ומשאיר אחריו שביל מבריק, וכשחם מדי הוא נכנס לקונכייה וסוגר מאחוריו את הדלת.",
+        "en": "A snail's eyes sit on the tips of two long feelers, and if you touch them they pull inside like a glove turning itself inside out. He crawls slowly, leaving a shiny trail behind him, and when it gets too hot he slips into his shell and shuts the door."
       },
       "diet": {
         "he": "עלים, ירקות ופטריות",
@@ -16671,8 +16671,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "פרת משה רבנו שותקת, ורק פורשת כנפיים אדומות עם נקודות שחורות. היא קטנטנה ומועילה מאוד לגינה.",
-        "en": "The ladybug is silent, and simply opens red wings with black spots. It is tiny, and a great help in the garden."
+        "he": "פרת משה רבנו נוחתת לכם על האצבע, מטיילת עד הקצה — ומשם ממריאה. ואם משהו מפחיד אותה היא עושה הצגה: היא נופלת על הגב, מעמידה פנים שהיא לא זזה בכלל, ומחכה שהסכנה תלך לדרכה.",
+        "en": "A ladybug lands on your finger, walks all the way to the tip — and takes off from there. And if something frightens her she puts on a performance: she drops onto her back, pretends she isn't moving at all, and waits for the danger to go on its way."
       },
       "diet": {
         "he": "כנימות וחרקים זעירים שמזיקים לצמחים",
@@ -16768,8 +16768,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "העכביש שותק, וטווה רשת דקה מחוט שהוא מייצר בעצמו. יש לו שמונה רגליים, ולעיתים קרובות גם שמונה עיניים.",
-        "en": "The spider is silent, and weaves a fine web from thread it makes itself. It has eight legs, and often eight eyes as well."
+        "he": "יש עכבישים שטסים! עכביש צעיר משחרר חוט משי דק לאוויר, הרוח תופסת אותו, והוא עף על החוט למקום חדש כמו על בלון. ובדרך כלל יש לו שמונה רגליים — וגם שמונה עיניים, שזה הרבה עיניים לחיה כל כך קטנה.",
+        "en": "Some spiders fly! A young spider lets out a fine thread of silk, the wind catches it, and away it goes to a new place as if on a balloon. And usually it has eight legs — and eight eyes as well, which is a lot of eyes for something so small."
       },
       "diet": {
         "he": "זבובים, יתושים וחרקים",
@@ -16869,8 +16869,8 @@
         "en": "chirps"
       },
       "description": {
-        "he": "הצרצר מצרצר: צרי צרי! הוא לא שר בפה — הוא משפשף את הכנפיים זו בזו, וכך נולד הקול ששומעים בלילות הקיץ.",
-        "en": "The cricket chirps: chirp chirp! It does not sing with its mouth — it rubs its wings together, and that is the sound you hear on summer nights."
+        "he": "הצרצר לא שר בפה — הוא משפשף כנף אחת בשנייה, כמו מעביר ציפורן על מסרק, ומזה יוצא הצליל. בלילה הוא מסתתר בין העלים ומצרצר בלי הפסקה, וכשמתקרבים אליו הוא נעצר בבת אחת ושותק. צרי־צרי!",
+        "en": "A cricket doesn't sing with his mouth — he rubs one wing against the other, like running a fingernail along a comb, and out comes the sound. At night he hides among the leaves and chirps without stopping, and the moment you come close he stops dead and goes silent. Chirp chirp!"
       },
       "diet": {
         "he": "עלים, זרעים ושאריות צמחים",
@@ -16971,8 +16971,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "הלטאה כמעט לא משמיעה קול. היא מתחממת בשמש על אבן, ואם מישהו תופס אותה בזנב — הזנב נשאר בידו והיא בורחת.",
-        "en": "The lizard makes almost no sound. It warms itself on a stone in the sun, and if somebody grabs its tail, the tail comes off and it runs away."
+        "he": "הלטאה מתחילה את הבוקר על אבן חמה: היא שוכבת בשמש, מחכה, ואז — פוף! — נעלמת בין הסלעים לפני שהספקתם בכלל להצביע עליה. ולפעמים, סתם ככה, היא עושה שכיבות סמיכה קטנות על האבן, כאילו היא מתאמנת.",
+        "en": "A lizard starts her morning on a warm stone: she lies in the sun, waits, and then — poof! — she is gone between the rocks before you can even point at her. And sometimes, for no obvious reason, she does little press-ups on the stone, as if she were working out."
       },
       "diet": {
         "he": "חרקים, עכבישים ותולעים",
@@ -17077,8 +17077,8 @@
         "en": "squeaks"
       },
       "description": {
-        "he": "העטלף מצייץ: צי צי! הוא היונק היחיד שבאמת עף, והוא מוצא דרך בחושך מוחלט לפי הד של הצפצופים שלו.",
-        "en": "The bat squeaks: squeak squeak! It is the only mammal that truly flies, and it finds its way in total darkness by the echo of its own squeaks."
+        "he": "העטלף הוא היונק היחיד בעולם שבאמת עף. הכנף שלו היא בעצם כף יד עם אצבעות ארוכות מאוד, ובין האצבעות מתוחה עור דקיק — כמו מטרייה קטנה. בחושך הוא מסתובב במהירות בלי להתנגש בכלום. צי צי!",
+        "en": "The bat is the only mammal in the world that truly flies. Its wing is really a hand with very long fingers, with thin skin stretched between them — like a little umbrella. In the dark it races about without bumping into anything at all. Squeak squeak!"
       },
       "diet": {
         "he": "חרקים, יתושים ופירות",
@@ -17186,8 +17186,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "העקרב שותק ונע בשקט בלילה. יש לו שתי צבתות וזנב מורם עם עוקץ, והוא מסתתר ביום מתחת לאבנים.",
-        "en": "The scorpion is silent and moves quietly at night. It has two pincers and a raised tail with a sting, and by day it hides under stones."
+        "he": "העקרבים הקטנים רוכבים על הגב של אמא שלהם! היא נושאת את כולם יחד, שכבה על שכבה, עד שהם גדולים מספיק לרדת וללכת לבד. ביום העקרב מתחבא מתחת לאבן, ובלילה הוא יוצא לטייל בשקט מוחלט.",
+        "en": "Baby scorpions ride on their mother's back! She carries the whole lot of them at once, piled on top of each other, until they are big enough to climb down and walk on their own. By day a scorpion hides under a stone; at night it comes out and wanders in complete silence."
       },
       "diet": {
         "he": "חרקים ועכבישים",
@@ -17290,8 +17290,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "הזחל שותק, וכל היום הוא אוכל עלים וגדל. יום אחד הוא ייכנס לגולם, וייצא ממנו פרפר.",
-        "en": "The caterpillar is silent, and eats leaves and grows all day long. One day it will go into a chrysalis, and come out a butterfly."
+        "he": "הזחל זז כמו גל: קודם החלק הקדמי, אחר כך האמצע ואחר כך הסוף — וככה הוא מטפס על העלה. הוא אוכל בלי הפסקה, ומדי פעם הוא פשוט יוצא מהעור שלו, כי הוא נהיה קטן עליו, ולובש עור חדש וגדול יותר.",
+        "en": "A caterpillar moves like a wave: first the front, then the middle, then the end — and that is how it climbs along a leaf. It eats without stopping, and every so often it simply crawls out of its own skin, because it has outgrown it, and puts on a bigger one."
       },
       "diet": {
         "he": "עלים, ועוד עלים",
@@ -17383,8 +17383,8 @@
         "en": "grunts"
       },
       "description": {
-        "he": "חזיר הבר נוחר: חרר חרר! הוא חופר באדמה עם החוטם שלו כדי למצוא שורשים ופקעות, ולזכר יש שתי ניבים שיוצאים מהפה.",
-        "en": "The wild boar grunts: grunt grunt! It digs in the ground with its snout for roots and bulbs, and the male has two tusks sticking out of his mouth."
+        "he": "לחזיר הבר יש חטים קטנים שמציצים מהפה, והוא חופר עם החרטום באדמה עד שהוא מוצא שורשים ופקעות. הוא יוצא בעיקר בלילה, וכל המשפחה הולכת יחד בשורה — אמא בראש והחזרזירים המפוספסים בסוף. חרר חרר!",
+        "en": "A wild boar has little tusks poking out of its mouth, and it ploughs the ground with its snout until it finds roots and bulbs. It comes out mostly at night, and the whole family walks in a line — mother in front and the stripy piglets at the back. Grunt grunt!"
       },
       "diet": {
         "he": "שורשים, פקעות, בלוטים, פטריות ותולעים",
@@ -17494,8 +17494,8 @@
         "en": "squeaks"
       },
       "description": {
-        "he": "החולדה מצייצת: צי צי! היא חכמה מאוד, זוכרת דרכים במבוך, וחיה כמעט בכל מקום שבו חיים אנשים.",
-        "en": "The rat squeaks: squeak squeak! It is very clever, remembers its way through a maze, and lives almost anywhere people do."
+        "he": "החולדה מתנקה כמו חתול: היא מלקקת את הכפות ומעבירה אותן על הפרווה שוב ושוב, עד שהיא מבריקה. היא מטפסת על צינורות, זוכרת כל דרך שעברה, וכשמשהו חדש מופיע היא מתקרבת אליו לאט ובודקת בזהירות. צי צי!",
+        "en": "A rat washes like a cat: she licks her paws and runs them over her fur again and again until it shines. She climbs up pipes, remembers every route she has ever taken, and when something new turns up she approaches it slowly and checks it carefully. Squeak squeak!"
       },
       "diet": {
         "he": "כמעט הכול: גרעינים, פירות, ירקות ושאריות",
@@ -17604,8 +17604,8 @@
         "en": "whines"
       },
       "description": {
-        "he": "היתוש מזמזם באוזן: זזזזז! הזמזום הוא הכנפיים שלו, שמכות מאות פעמים בשנייה. רק הנקבה עוקצת, והזכר שותה רק צוף.",
-        "en": "The mosquito whines in your ear: bzzzz! The whine is its wings, beating hundreds of times a second. Only the female bites; the male drinks nectar."
+        "he": "הזמזום המעצבן של היתוש הוא בכלל קול הכנפיים שלו — הן מכות באוויר מהר כל כך שיוצא מהן זזזזז. הוא אוהב במיוחד אנשים מיוזעים, אז אחרי משחק בחוץ שווה להתקלח — ואז הוא ילך לחפש מישהו אחר.",
+        "en": "That annoying whine of a mosquito is actually the sound of its wings — they beat the air so fast that out comes a bzzzz. It particularly likes sweaty people, so after playing outside a shower is a good idea — and off it goes to find somebody else."
       },
       "diet": {
         "he": "צוף מפרחים, והנקבה גם דם",
@@ -17706,8 +17706,8 @@
         "en": "buzzes"
       },
       "description": {
-        "he": "הזבוב מזמזם: זזזז! יש לו עיניים ענקיות שמורכבות מאלפי עדשות קטנות, והוא רואה אותנו מתקרבים לפני שהספקנו להניף את היד.",
-        "en": "The fly buzzes: bzzz! It has enormous eyes made of thousands of tiny lenses, and it sees us coming before our hand has moved."
+        "he": "הזבוב רואה את העולם באיטיות: בשבילו יד שמתקרבת נעה לאט־לאט־לאט, ולכן הוא תמיד מספיק לברוח. וכשהוא נוחת הוא משפשף את הידיים זו בזו שוב ושוב, כאילו הוא מתכנן משהו — אבל הוא בסך הכול מנקה אותן. זזזז!",
+        "en": "A fly sees the world in slow motion: to it, an approaching hand moves slowly, slowly, slowly, which is why it always gets away in time. And when it lands it rubs its hands together over and over, as if plotting something — but it is only cleaning them. Bzzz!"
       },
       "diet": {
         "he": "שאריות אוכל, פירות רקובים וסוכר",
@@ -17808,8 +17808,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "החיפושית שותקת, ועל הגב שלה מכסה קשה שמגן כמו שריון. כשהיא רוצה לעוף היא פותחת אותו, ומתחתיו מתגלות כנפיים שקופות.",
-        "en": "The beetle is silent, and on its back is a hard cover that guards it like armour. When it wants to fly it opens the cover, and see-through wings unfold underneath."
+        "he": "החיפושית לובשת שריון מבריק, ולפעמים הוא נוצץ בשמש כמו תכשיט קטן. ויש חיפושיות מיוחדות שנדלקות בלילה — הגחליליות! הן מדליקות וכבות אור קטנטן בבטן, וככה הן מדברות זו עם זו בחושך.",
+        "en": "A beetle wears shining armour, and sometimes it glints in the sun like a little jewel. And there are special beetles that light up at night — fireflies! They switch a tiny light in their tummy on and off, and that is how they talk to each other in the dark."
       },
       "diet": {
         "he": "עלים, פירות, פטריות וחרקים קטנים",
@@ -17900,8 +17900,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "התולעת שותקת, ואין לה עיניים ואין לה רגליים. היא חופרת מנהרות באדמה, והמנהרות האלה מכניסות אוויר ומים לשורשים של הצמחים.",
-        "en": "The earthworm is silent, with no eyes and no legs. It digs tunnels in the soil, and those tunnels let air and water down to the roots of plants."
+        "he": "לתולעת אין רגליים בכלל: היא מתארכת ומתקצרת, מתארכת ומתקצרת, וככה היא מתקדמת באדמה. בדרך היא חופרת מנהרות קטנות שמכניסות אוויר ומים אל השורשים — ולכן כל גנן שמח מאוד לראות אותה בגינה.",
+        "en": "An earthworm has no legs at all: she stretches and shortens, stretches and shortens, and that is how she travels through the soil. On the way she digs little tunnels that let air and water down to the roots — which is why every gardener is delighted to find her."
       },
       "diet": {
         "he": "עלים רקובים ואדמה",
@@ -17997,8 +17997,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "דג הליצן שותק, והוא כתום עם פסים לבנים. הוא חי בתוך שושנת ים עוקצת שאף דג אחר לא מעז להתקרב אליה — ודווקא הוא לא נעקץ.",
-        "en": "The clownfish is silent, and it is orange with white stripes. It lives inside a stinging sea anemone no other fish dares approach — and it alone is not stung."
+        "he": "דג הליצן גר בתוך שושנת ים שעוקצת כל דג אחר — אבל אותו היא לא עוקצת, והוא מתנדנד לו בין הזרועות שלה כאילו זה חדר הילדים שלו. כשמישהו מתקרב הוא מציץ החוצה לרגע, בודק מה קורה, וחוזר פנימה.",
+        "en": "A clownfish lives inside a sea anemone that stings every other fish — but never him, and he bobs about between its arms as if it were his own bedroom. When something comes near he peeps out for a second, sees what's going on, and pops straight back in."
       },
       "diet": {
         "he": "אצות, שאריות מהשושנה ויצורים קטנטנים",
@@ -18098,8 +18098,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "הדג הנפוח שותק, וכשמשהו מפחיד אותו הוא שואב מים ומתנפח לכדור קוצני — פתאום הוא גדול פי שלושה, ואי אפשר לבלוע אותו.",
-        "en": "The pufferfish is silent, and when something frightens it, it gulps water and swells into a prickly ball — suddenly three times bigger, and impossible to swallow."
+        "he": "כשדג הנפוח נבהל הוא מתנפח ונעשה עגול כמו כדור עם קוצים, וכל מי שרצה לטרוף אותו פשוט מוותר. ויש דג נפוח קטן שמצייר על החול בקרקעית הים עיגול ענק ומדויק עם הסנפירים — רק כדי להרשים.",
+        "en": "When a pufferfish gets a fright it puffs up into a round, spiky ball, and whoever was planning to eat it simply gives up. And there is a small pufferfish that draws an enormous, perfectly neat circle in the sand of the seabed with its fins — purely to impress."
       },
       "diet": {
         "he": "אצות, צדפות וסרטנים קטנים",
@@ -18202,8 +18202,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "האלמוג נראה כמו אבן צבעונית, אבל הוא חיה — אלפי יצורים זעירים שחיים יחד ובונים שלד קשה. השונית שהם בונים היא בית לרבע מכל חיות הים.",
-        "en": "Coral looks like a colourful stone, but it is an animal — thousands of tiny creatures living together and building a hard skeleton. The reef they build is home to a quarter of all sea life."
+        "he": "האלמוג נראה כמו אבן צבעונית, אבל הוא בכלל חיה! הוא עשוי מאלפי יצורים זעירים שיושבים יחד, וכל אחד מהם פותח בלילה זרועות קטנטנות כדי לתפוס אוכל מהמים. ביום כולם נסגרים, והשונית נראית שוב שקטה.",
+        "en": "Coral looks like a colourful rock, but it is an animal! It is made of thousands of tiny creatures living side by side, and at night each one opens miniature arms to catch food drifting past. By day they all close up, and the reef looks quiet again."
       },
       "diet": {
         "he": "יצורים קטנטנים שנתפסים בזרועות, ואצות שחיות בתוכו",
@@ -18299,8 +18299,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "החסילון שותק, והוא כמעט שקוף. יש לו עשר רגליים, שפם ארוך, ועיניים על גבעולים קטנים שזזות לכל כיוון.",
-        "en": "The shrimp is silent, and it is almost see-through. It has ten legs, long feelers, and eyes on little stalks that swivel every way."
+        "he": "החסילון כמעט שקוף — אפשר ממש לראות דרכו! הוא מטייל על קרקעית הים על המון רגליים קטנות שמתנועעות יחד כמו גל, ומנקה בדרך כל פינה שהוא מוצא. וכשמשהו מבהיל אותו הוא נעלם אחורה בבת אחת.",
+        "en": "A shrimp is almost see-through — you really can look straight through it! It wanders along the seabed on a great many little legs that ripple together like a wave, tidying every corner it passes. And when something startles it, it shoots backwards and is gone."
       },
       "diet": {
         "he": "אצות, שאריות ויצורים קטנטנים מקרקעית הים",
@@ -18396,8 +18396,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "הדיונון שותק, ויש לו עשר זרועות ועיניים ענקיות. הוא נע קדימה ואחורה בסילון מים, וכשהוא נבהל הוא פולט ענן דיו ונעלם.",
-        "en": "The squid is silent, with ten arms and enormous eyes. It moves by shooting a jet of water, and when startled it releases a cloud of ink and vanishes."
+        "he": "הדיונון נוסע כמו טיל: הוא שואב מים לתוך הגוף ואז יורה אותם החוצה בבת אחת, והדחיפה שולחת אותו אחורה במהירות. יש לו עשר זרועות — שמונה קצרות ושתיים ארוכות במיוחד, שהוא שולח קדימה כדי לתפוס.",
+        "en": "A squid travels like a rocket: it draws water into its body and then shoots it out all at once, and the push sends it speeding backwards. It has ten arms — eight short ones and two extra-long ones that it shoots out in front to catch things."
       },
       "diet": {
         "he": "דגים קטנים, חסילונים ויצורי ים",
@@ -18498,8 +18498,8 @@
         "en": "is silent"
       },
       "description": {
-        "he": "הלובסטר שותק, והוא הולך על קרקעית הים בשריון קשה. יש לו שתי צבתות שונות: אחת חזקה ששוברת, ואחת חדה שחותכת.",
-        "en": "The lobster is silent, and it walks the sea floor in hard armour. It has two different claws: a strong one for crushing and a sharp one for cutting."
+        "he": "הלובסטר מטייל על קרקעית הים עם שתי אנטנות ארוכות שמגששות לפניו ומרגישות כל דבר בדרך, וכך הוא מוצא את הדרך גם בחושך גמור. ביום הוא מסתתר בין הסלעים, ואם מישהו מפתיע אותו הוא מכופף את הזנב ובורח אחורה.",
+        "en": "A lobster wanders the seabed with two long antennae feeling the way ahead of him, so he finds his route even in complete darkness. By day he hides among the rocks, and if anything surprises him he flicks his tail and shoots off backwards."
       },
       "diet": {
         "he": "צדפות, דגים קטנים ושאריות מקרקעית הים",
