@@ -7,7 +7,7 @@ The app downloads everything here on first launch, which is why the app itself i
 two megabytes. Publishing to this repository updates every installed copy: no Play release needed
 to add an animal.
 
-- **Content version:** 15
+- **Content version:** 16
 - **Animals:** 105
 - **Manifest:** [`manifest.json`](manifest.json)
 - **Attribution and licences:** [`CREDITS.md`](CREDITS.md)
